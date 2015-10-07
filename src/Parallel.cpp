@@ -1,5 +1,5 @@
 /*
- * MultiCSV.cpp
+ * Parallel.cpp
  *
  *  Created on: Oct 7, 2015
  *      Author: sandyarathidas
@@ -11,6 +11,8 @@
 #include <sstream>
 #include <cstdlib>
 using namespace std;
+
+//#include "mpi.h"
 
 
 int NUM_OF_SECTORS = 16;
@@ -47,15 +49,10 @@ struct MesoData
 vector<MesoData> readData() {
 	vector<MesoData> inData;
 
-	//ifstream  inputfile1("../InputData/Wind-Rose.csv");
-	//ifstream  inputfile2("../InputData/Data_2014.csv");
-	ifstream  inputfile1("../Data/ACME_2011.csv");
-	ifstream  inputfile2("../Data/ACME_2012.csv");
-	ifstream  inputfile3("../Data/ACME_2013.csv");
-	ifstream  inputfile4("../Data/ACME_2014.csv");
-	ifstream  inputfile5("../Data/ACME_2015.csv");
+	ifstream  inputfile1("../InputData/Wind-Rose.csv");
+	ifstream  inputfile2("../InputData/Data_2014.csv");
     string line;
-    while(getline(inputfile1,line) || getline(inputfile2,line)||getline(inputfile3,line)||getline(inputfile4,line)||getline(inputfile5,line))
+    while(getline(inputfile1,line) || getline(inputfile2,line))
     {
     	string rowData[6];
         istringstream lineStream(line);
@@ -78,8 +75,8 @@ void aggData(vector<MesoData> data){
 		if (s< NUM_OF_SECTORS and d <SPEED_BUCKETS and d>0)
 			wr[d][s]++;
 	}
-	cout<<"         Final 2DArray for plotting"<<endl;
-	cout<<"=============================================="<<endl;
+	cout<<"Final 2DArray for plotting"<<endl;
+	cout<<"==========================="<<endl;
 	cout<<endl;
 	//printing the 2D Array
 	for (int i = 0; i < NUM_OF_SECTORS; i++){
@@ -96,6 +93,10 @@ int main(){
 	aggData(inputData);
 
 }
+
+
+
+
 
 
 
