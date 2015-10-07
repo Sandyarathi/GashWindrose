@@ -1,3 +1,9 @@
+/*
+ * MultiCSV.cpp
+ *
+ *  Created on: Oct 7, 2015
+ *      Author: sandyarathidas
+ */
 //============================================================================
 // Name        : GashWindrose.cpp
 // Author      : Sandyarathi
@@ -48,9 +54,10 @@ struct MesoData
 vector<MesoData> readData() {
 	vector<MesoData> inData;
 
-	ifstream  inputfile("../InputData/Wind-Rose.csv");
+	ifstream  inputfile1("../InputData/Wind-Rose.csv");
+	ifstream  inputfile2("../InputData/Data_2014.csv");
     string line;
-    while(getline(inputfile,line))
+    while(getline(inputfile1,line) || getline(inputfile2,line))
     {
     	string rowData[6];
         istringstream lineStream(line);
@@ -91,6 +98,10 @@ int main(){
 	aggData(inputData);
 
 }
+
+
+
+
 
 
 
