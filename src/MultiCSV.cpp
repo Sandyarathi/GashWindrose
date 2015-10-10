@@ -50,10 +50,15 @@ vector<MesoData> readData() {
 	//ifstream  inputfile1("../InputData/Wind-Rose.csv");
 	//ifstream  inputfile2("../InputData/Data_2014.csv");
 	ifstream  inputfile1("../Data/ACME_2011.csv");
+	inputfile1.ignore(100, '\n');//To ignore column header line
 	ifstream  inputfile2("../Data/ACME_2012.csv");
+	inputfile2.ignore(100, '\n');
 	ifstream  inputfile3("../Data/ACME_2013.csv");
+	inputfile3.ignore(100, '\n');
 	ifstream  inputfile4("../Data/ACME_2014.csv");
+	inputfile4.ignore(100, '\n');
 	ifstream  inputfile5("../Data/ACME_2015.csv");
+	inputfile5.ignore(100, '\n');
     string line;
     while(getline(inputfile1,line) || getline(inputfile2,line)||getline(inputfile3,line)||getline(inputfile4,line)||getline(inputfile5,line))
     {
