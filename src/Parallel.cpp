@@ -10,9 +10,21 @@
 #include <string>
 using namespace std;
 
+struct MesoData
+{
+  int year;
+  int month;
+  int day;
+  string stid;
+  int windDir;
+  double windSpd;
+};
+
 int main (int argc, char* argv[]);
 vector<MesoData> readData(String file_name);
 void aggData(vector<MesoData> data);
+
+
 
 int main( int argc, char *argv[]){
   String file_name = "../Data/ACME_2011.csv";
