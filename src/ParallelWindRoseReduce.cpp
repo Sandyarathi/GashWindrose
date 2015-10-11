@@ -7,8 +7,8 @@
 #include <cstdlib>
 using namespace std;
 
-int NUM_OF_SECTORS = 16;
-int SPEED_BUCKETS=5;
+const int NUM_OF_SECTORS = 16;
+const int SPEED_BUCKETS=5;
 
 int calcSpeedBin(float windSpd) {
 	if ( windSpd == 0)
@@ -61,16 +61,17 @@ vector<MesoData> readData(string file_name) {
     return inData;
 }
 
-int** aggData(vector<MesoData> data){
-  int** wr=0;
-  wr=new int*[NUM_OF_SECTORS];
+auto aggData(vector<MesoData> data){
+  auto wr = new int[NUM_OF_SECTORS][SPEED_BUCKETS]();
+  //int** wr= 0;
+  //wr=new int*[NUM_OF_SECTORS];
   for (MesoData m : data) {
     int s = calcSpeedBin(m.windSpd);
     int d = m.windDir;
     if (s< NUM_OF_SECTORS and d <SPEED_BUCKETS and d>0)
       wr[d][s]++;
   }
-  cout<<"          2DArray for plotting"<<endl;
+  cout<<"          2DArray for plotting                "<<endl;
   cout<<"=============================================="<<endl;
   cout<<endl;
   //printing the 2D Array
@@ -82,8 +83,6 @@ int** aggData(vector<MesoData> data){
   }
   return wr;
 }
-
-
 
 int main (int argc, char* argv[]){
 
@@ -110,17 +109,21 @@ int main (int argc, char* argv[]){
   }
   cout << "My rank=" << rank_of_current_process << "\t FileName"<<fileName<<endl;
   vector<MesoData> inputData= readData(fileName);
-  int** resultArray = aggData(inputData);
-  int** finalArray=0;
-  finalArray= new int*[NUM_OF_SECTORS];
-  //vector<int**> resultArrayCollection;
+  auto resultArray = aggData(inputData);
+  auto finalArray= new int[NUM_OF_SECTORS][SPEED_BUCKETS]();
   MPI::COMM_WORLD.Reduce(resultArray, finalArray,NUM_OF_SECTORS* SPEED_BUCKETS, MPI::INT,MPI::SUM, 0);
-  //printing the 2D Array
-  for (int i = 0; i < NUM_OF_SECTORS; i++){
-    for (int j = 0; j < SPEED_BUCKETS; j++){
-        cout << finalArray[i][j] <<"\t";
+  if(rank_of_current_process == 0){
+    cout<<endl;
+    cout<<"...................................................."<<endl;
+    cout<<"                  Final 2D Array                    "<<endl;
+    cout<<"...................................................."<<endl;
+
+    for (int i = 0; i < NUM_OF_SECTORS; i++){
+      for (int j = 0; j < SPEED_BUCKETS; j++){
+          cout << finalArray[i][j] <<"\t";
+      }
+      cout <<endl;
     }
-    cout <<endl;
   }
   MPI::Finalize();
   return 0;
