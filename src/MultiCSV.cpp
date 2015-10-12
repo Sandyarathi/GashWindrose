@@ -59,8 +59,28 @@ vector<MesoData> readData() {
 	inputfile4.ignore(100, '\n');
 	ifstream  inputfile5("../Data/ACME_2015.csv");
 	inputfile5.ignore(100, '\n');
+	ifstream  inputfile6("../Data/WASH_2011.csv");
+	inputfile1.ignore(100, '\n');//To ignore column header line
+	ifstream  inputfile7("../Data/WASH_2012.csv");
+	inputfile2.ignore(100, '\n');
+	ifstream  inputfile8("../Data/WASH_2013.csv");
+	inputfile3.ignore(100, '\n');
+	ifstream  inputfile9("../Data/WASH_2014.csv");
+	inputfile4.ignore(100, '\n');
+	ifstream  inputfile10("../Data/WASH_2015.csv");
+	inputfile5.ignore(100, '\n');
     string line;
-    while(getline(inputfile1,line) || getline(inputfile2,line)||getline(inputfile3,line)||getline(inputfile4,line)||getline(inputfile5,line))
+    while(getline(inputfile1,line)
+    	|| getline(inputfile2,line)
+    	||getline(inputfile3,line)
+    	||getline(inputfile4,line)
+    	||getline(inputfile5,line)
+    	||getline(inputfile6,line)
+    	||getline(inputfile7,line)
+    	||getline(inputfile8,line)
+    	||getline(inputfile9,line)
+    	||getline(inputfile10,line))
+    //while(getline(inputfile1,line) || getline(inputfile2,line)||getline(inputfile3,line))
     {
     	string rowData[6];
         istringstream lineStream(line);
@@ -69,7 +89,13 @@ vector<MesoData> readData() {
         while(getline(lineStream,token,',')){
         	rowData[i++]=token;
         }
-       MesoData mesoData ={atoi(rowData[0].c_str()),atoi(rowData[1].c_str()),atoi(rowData[2].c_str()),rowData[3],atoi(rowData[4].c_str()),atof(rowData[5].c_str())};
+       MesoData mesoData ={atoi(rowData[0].c_str()),
+       	atoi(rowData[1].c_str()),
+       	atoi(rowData[2].c_str()),
+       	rowData[3],
+       	atoi(rowData[4].c_str()),
+       	atof(rowData[5].c_str())
+       };
        inData.push_back(mesoData);
     }
     return inData;
