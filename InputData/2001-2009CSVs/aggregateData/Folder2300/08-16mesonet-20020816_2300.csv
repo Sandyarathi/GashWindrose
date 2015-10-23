@@ -1,0 +1,2415 @@
+H0003,Black River Electric   Fredericktown MO,Fri Aug 16 16:02:00 PDT 2002,3.58,220.00
+H0344,BlueStar Systems       Milford      OH,Fri Aug 16 16:00:00 PDT 2002,3.58,340.00
+H0004,BoblandUSA             San Diego     CA,Fri Aug 16 16:02:00 PDT 2002,2.24,180.00
+H0005,Acton         ON,Fri Aug 16 16:01:00 PDT 2002,2.68,300.00
+H0010,Mac Weather            Charlottetown PE,Fri Aug 16 16:04:00 PDT 2002,1.34,250.00
+H0012,Crowley TX WX Page     Crowley       TX,Fri Aug 16 16:01:00 PDT 2002,2.24,190.00
+H0449,West Houston	        Houston	     TX,Fri Aug 16 16:00:00 PDT 2002,1.34,140.00
+H0021,St Catharines ON,Fri Aug 16 16:01:00 PDT 2002,0.89,190.00
+H0024,Cornelius     OR,Fri Aug 16 16:01:00 PDT 2002,0.00,30.00
+H0445,Arlington Street	South Patrick Shores FL,Fri Aug 16 16:00:00 PDT 2002,2.24,210.00
+H0029,Affton        MO,Fri Aug 16 16:01:00 PDT 2002,1.34,150.00
+H0245,Mobile        AL,Fri Aug 16 16:02:00 PDT 2002,0.89,180.00
+H0421,Spanish Fort           Daphne	     AL,Fri Aug 16 16:00:00 PDT 2002,0.45,180.00
+H0182,Apache Juncti AZ,Fri Aug 16 16:00:00 PDT 2002,2.24,280.00
+H0030,Harrisburg             Lowville      NY,Fri Aug 16 16:02:00 PDT 2002,1.34,270.00
+H0031,Rainbow City  AL,Fri Aug 16 16:00:00 PDT 2002,0.00,80.00
+H0032,Hendersonvill TN,Fri Aug 16 16:02:00 PDT 2002,0.00,40.00
+H0339,Williams Worship       Bellflower    CA,Fri Aug 16 16:02:00 PDT 2002,1.34,150.00
+H0252,Chula Vista   CA,Fri Aug 16 16:01:00 PDT 2002,1.79,320.00
+H0237,Healdsburg    CA,Fri Aug 16 16:03:00 PDT 2002,3.58,170.00
+H0158,Lancaster     CA,Fri Aug 16 16:01:00 PDT 2002,6.26,270.00
+H0268,Sacramento    CA,Fri Aug 16 16:01:00 PDT 2002,1.34,230.00
+H0269,South Valley Internet  San Martin    CA,Fri Aug 16 16:00:00 PDT 2002,2.68,120.00
+H0259,Pickles Central        San Rafael    CA,Fri Aug 16 16:00:00 PDT 2002,0.00,280.00
+H0442,Whittier     CA,Fri Aug 16 16:00:00 PDT 2002,1.34,180.00
+H0349,Boulder       CO,Fri Aug 16 16:01:00 PDT 2002,1.34,260.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Fri Aug 16 16:01:00 PDT 2002,1.34,90.00
+H0209,Pioneer Creek Ranch    Silverthorne  CO,Fri Aug 16 16:01:00 PDT 2002,0.89,80.00
+H0325,Summit County CO,Fri Aug 16 16:02:00 PDT 2002,2.68,350.00
+H0448,Farm Hill              Middletown   CT,Fri Aug 16 16:02:00 PDT 2002,1.34,200.00
+H0350,Barn Hill              Monroe        CT,Fri Aug 16 16:00:00 PDT 2002,0.00,360.00
+H0206,Stonybrook             Norwalk       CT,Fri Aug 16 16:00:00 PDT 2002,0.00,320.00
+H0036,Dunstable     MA,Fri Aug 16 16:00:00 PDT 2002,1.34,290.00
+H0038,Kennesaw      GA,Fri Aug 16 16:01:00 PDT 2002,0.00,360.00
+H0412,Santa Teresa           San Jose     CA,Fri Aug 16 16:03:00 PDT 2002,2.24,270.00
+H0224,Boynton Beach FL,Fri Aug 16 16:01:00 PDT 2002,3.58,130.00
+H0351,Port St. John Weather  Cocoa         FL,Fri Aug 16 16:01:00 PDT 2002,0.00,110.00
+H0240,Santa Rosa Sound       Navarre       FL,Fri Aug 16 16:02:00 PDT 2002,3.58,150.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Fri Aug 16 16:03:00 PDT 2002,1.79,110.00
+H0409,Auburn       GA,Fri Aug 16 16:01:00 PDT 2002,0.45,60.00
+H0225,FarPointe              Ball Ground   GA,Fri Aug 16 16:01:00 PDT 2002,0.00,40.00
+H0296,KD4K                   Cumming       GA,Fri Aug 16 16:01:00 PDT 2002,0.00,190.00
+H0041,Piedmont Triad Weather Greensboro    NC,Fri Aug 16 16:02:00 PDT 2002,3.13,210.00
+H0195,Van Meter     IA,Fri Aug 16 16:02:00 PDT 2002,1.34,120.00
+H0169,Castle Mountain        Garden Valley ID,Fri Aug 16 16:04:00 PDT 2002,0.00,350.00
+H0427,Bloomington  IL,Fri Aug 16 16:01:00 PDT 2002,0.00,310.00
+H0261,Crystal Lake  IL,Fri Aug 16 16:00:00 PDT 2002,1.34,290.00
+H0286,KIMT Studios           Mason City    IA,Fri Aug 16 16:00:00 PDT 2002,3.13,140.00
+H0320,N0PGH                  DeSoto        KS,Fri Aug 16 16:05:00 PDT 2002,3.58,210.00
+H0205,Olathe        KS,Fri Aug 16 16:02:00 PDT 2002,2.68,220.00
+H0287,Arlington Center       Arlington     MA,Fri Aug 16 16:01:00 PDT 2002,0.00,240.00
+H0272,WoodvilleGr1           Hopkinton     MA,Fri Aug 16 16:01:00 PDT 2002,2.68,230.00
+H0307,Bloomington   MN,Fri Aug 16 16:01:00 PDT 2002,2.24,150.00
+H0327,Duluth        MN,Fri Aug 16 16:00:00 PDT 2002,4.47,220.00
+H0273,Minnesotaweathernet    Franklin      MN,Fri Aug 16 16:00:00 PDT 2002,4.02,160.00
+H0354,Monticello    MN,Fri Aug 16 16:01:00 PDT 2002,2.68,180.00
+H0216,Vadnais Heigh MN,Fri Aug 16 16:01:00 PDT 2002,3.13,180.00
+H0342,Gideon School District Gideon        MO,Fri Aug 16 16:00:00 PDT 2002,0.89,180.00
+H0263,WeatherSource          Shelby        NC,Fri Aug 16 16:01:00 PDT 2002,2.24,10.00
+H0335,MSFTRNCS Weather Web   Hooper        NE,Fri Aug 16 16:01:00 PDT 2002,2.68,170.00
+H0387,North Holmes           Lake Lincoln NE,Fri Aug 16 16:00:00 PDT 2002,5.81,130.00
+H0241,Omaha         NE,Fri Aug 16 16:01:00 PDT 2002,2.68,200.00
+H0177,Highland Lakes         Vernon Twsp   NJ,Fri Aug 16 16:02:00 PDT 2002,2.24,230.00
+H0217,White Mountain Meadows Ruidoso       NM,Fri Aug 16 16:00:00 PDT 2002,1.34,200.00
+H0042,Knoxville     TN,Fri Aug 16 16:00:00 PDT 2002,0.00,0.00
+H0302,Cuba          NY,Fri Aug 16 16:02:00 PDT 2002,0.00,220.00
+H0453,Neversink Reservoir	Neversink    NY,Fri Aug 16 16:01:00 PDT 2002,0.00,330.00
+H0308,New City      NY,Fri Aug 16 16:01:00 PDT 2002,0.00,220.00
+H0141,Sloatsburg    NY,Fri Aug 16 16:01:00 PDT 2002,0.00,260.00
+H0304,Edmunds Weather        Smithtown     NY,Fri Aug 16 16:02:00 PDT 2002,0.00,10.00
+H0251,Vestal        NY,Fri Aug 16 16:01:00 PDT 2002,0.00,330.00
+H0173,Chardon       OH,Fri Aug 16 16:01:00 PDT 2002,0.00,310.00
+H0309,Columbus      OH,Fri Aug 16 16:01:00 PDT 2002,1.34,260.00
+H0220,Hillsboro     OR,Fri Aug 16 16:00:00 PDT 2002,1.79,330.00
+H0227,Turner        OR,Fri Aug 16 16:01:00 PDT 2002,3.58,10.00
+H0440,Broomall     PA,Fri Aug 16 16:00:00 PDT 2002,0.45,260.00
+H0179,Masons Mill Bus. Park  Bryn Athyn    PA,Fri Aug 16 16:01:00 PDT 2002,0.89,270.00
+H0336,Malvern       PA,Fri Aug 16 16:00:00 PDT 2002,0.00,180.00
+H0229,Audubon Society of W PA Fox Chapel   PA,Fri Aug 16 16:01:00 PDT 2002,0.89,330.00
+H0110,San Juan      PR,Fri Aug 16 16:00:00 PDT 2002,2.68,30.00
+H0043,WX for West PA/East OH Sharon        PA,Fri Aug 16 16:02:00 PDT 2002,0.00,280.00
+H0396,Williamson             County Franklin TN,Fri Aug 16 16:01:00 PDT 2002,0.45,360.00
+H0367,Allandale    TX,Fri Aug 16 16:00:00 PDT 2002,0.00,130.00
+H0318,Austin        TX,Fri Aug 16 16:01:00 PDT 2002,3.58,140.00
+H0360,Corinth       TX,Fri Aug 16 16:05:00 PDT 2002,3.13,160.00
+H0330,Gift World             Dallas        TX,Fri Aug 16 16:00:00 PDT 2002,0.45,160.00
+H0152,Frisco        TX,Fri Aug 16 16:01:00 PDT 2002,3.13,200.00
+H0311,Clear Lake City WX     Houston       TX,Fri Aug 16 16:01:00 PDT 2002,0.00,210.00
+H0162,Howe          TX,Fri Aug 16 16:01:00 PDT 2002,2.68,180.00
+H0418,Brushy Creek           Round Rock   TX,Fri Aug 16 16:00:00 PDT 2002,4.47,220.00
+H0280,Taylor        TX,Fri Aug 16 16:00:00 PDT 2002,2.68,160.00
+H0148,Rosehill Ranches       Tomball       TX,Fri Aug 16 16:01:00 PDT 2002,2.68,210.00
+H0293,Harrisonburg  VA,Fri Aug 16 16:01:00 PDT 2002,0.00,270.00
+H0174,Walnut Hill Weather    Petersburg    VA,Fri Aug 16 16:01:00 PDT 2002,0.89,150.00
+H0443,Fishers Glen           Vancouver    WA,Fri Aug 16 16:01:00 PDT 2002,0.45,330.00
+H0423,Middleboro   MA,Fri Aug 16 16:01:00 PDT 2002,2.24,310.00
+H0400,Jacksonville MO,Fri Aug 16 16:01:00 PDT 2002,0.00,220.00
+H0424,Carson City	        Carson City  NV,Fri Aug 16 16:00:00 PDT 2002,3.13,250.00
+H0062,Northeast Raleigh      Raleigh       NC,Fri Aug 16 16:01:00 PDT 2002,0.00,190.00
+H0068,St. Cloud     MN,Fri Aug 16 16:00:00 PDT 2002,0.45,50.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Fri Aug 16 16:01:00 PDT 2002,1.34,190.00
+H0072,Thunder Ranch          Juniper Hills CA,Fri Aug 16 16:00:00 PDT 2002,3.58,250.00
+H0080,Coles Pond Weathercam  Walden        VT,Fri Aug 16 16:00:00 PDT 2002,0.00,210.00
+H0083,WBTW Studios           Florence      SC,Fri Aug 16 16:00:00 PDT 2002,0.00,280.00
+H0084,WDEF Studios           Chattanooga   TN,Fri Aug 16 16:00:00 PDT 2002,0.45,280.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Fri Aug 16 16:01:00 PDT 2002,0.00,320.00
+H0087,WJBF Studios           Augusta       GA,Fri Aug 16 16:00:00 PDT 2002,0.00,130.00
+H0088,WJHL Studios           Johnson City  TN,Fri Aug 16 16:04:00 PDT 2002,2.24,40.00
+H0089,WJTV Studios           Jackson       MS,Fri Aug 16 16:02:00 PDT 2002,0.00,110.00
+H0091,WMBB Studios           Panama City   FL,Fri Aug 16 16:00:00 PDT 2002,0.45,130.00
+H0094,Gorilla Weather        Winnipeg      MB,Fri Aug 16 16:01:00 PDT 2002,0.00,270.00
+NP018,Newport, RI,Fri Aug 16 16:00:00 PDT 2002,4.20,222.00
+NP019,Providence, RI,Fri Aug 16 16:00:00 PDT 2002,3.60,218.00
+NP020,Conimicut Pt, RI,Fri Aug 16 16:00:00 PDT 2002,7.70,190.00
+NP022,Borden Flats, MA,Fri Aug 16 16:00:00 PDT 2002,5.70,212.00
+NP023,Prud Island, RI,Fri Aug 16 16:00:00 PDT 2002,1.70,209.00
+NP024,Quonset Pt, RI,Fri Aug 16 16:00:00 PDT 2002,5.10,256.00
+NP003,Tolchester, MD,Fri Aug 16 16:00:00 PDT 2002,6.10,267.00
+NP004,Solomons Island, MD,Fri Aug 16 16:00:00 PDT 2002,4.20,224.00
+NP002,Lewisetta, MD,Fri Aug 16 16:00:00 PDT 2002,3.90,234.00
+NP010,Sewells Pt, VA,Fri Aug 16 16:00:00 PDT 2002,2.80,305.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:00:00 PDT 2002,3.60,266.00
+NP025,Old Port Tampa, FL,Fri Aug 16 16:00:00 PDT 2002,3.00,82.00
+NP026,St Petersburg, FL,Fri Aug 16 16:00:00 PDT 2002,2.80,106.00
+NP028,Port Manatee, FL,Fri Aug 16 16:00:00 PDT 2002,3.50,95.00
+NP029,Port Tampa, FL,Fri Aug 16 16:00:00 PDT 2002,0.00,0.00
+NP030,Galveston Pleasure Pier, TX,Fri Aug 16 16:00:00 PDT 2002,6.80,128.00
+NP033,Eagle Point,Fri Aug 16 16:00:00 PDT 2002,6.10,134.00
+NP034,Morgans Point,Fri Aug 16 16:00:00 PDT 2002,5.50,142.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:00:00 PDT 2002,1.20,156.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:00:00 PDT 2002,3.40,170.00
+NP017,Kings Point, NY,Fri Aug 16 16:00:00 PDT 2002,0.60,148.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:00:00 PDT 2002,7.30,174.00
+BMTC2,Blue_Mountain,Fri Aug 16 16:02:00 PDT 2002,2.68,11.00
+QURC2,Quincy_Res,Fri Aug 16 16:02:00 PDT 2002,1.65,321.00
+DHPC2,Diamond_Hill,Fri Aug 16 16:02:00 PDT 2002,0.67,248.00
+EBBC2,Elbert,Fri Aug 16 16:02:00 PDT 2002,4.83,336.00
+SQWC2,Squaw_Mountain,Fri Aug 16 16:02:00 PDT 2002,2.91,262.00
+HGCC2,Hiwan_G.C.,Fri Aug 16 16:02:00 PDT 2002,1.79,328.00
+HIGC2,Highlands_Ranch_WTP,Fri Aug 16 16:02:00 PDT 2002,0.72,28.00
+SAPC2,Salisbury_Park,Fri Aug 16 16:02:00 PDT 2002,2.10,34.00
+COKC2,Castle_Rock,Fri Aug 16 16:02:00 PDT 2002,2.68,39.00
+SFSC2,Sugarloaf,Fri Aug 16 16:02:00 PDT 2002,4.25,292.00
+LEWC2,Louisville_Lake,Fri Aug 16 16:02:00 PDT 2002,5.36,270.00
+BTRC2,Button_Rock,Fri Aug 16 16:02:00 PDT 2002,1.88,214.00
+URBC2,Urban Farm at Stapleton,Fri Aug 16 16:02:00 PDT 2002,2.24,340.00
+MN008,I-90 Mile Post 67,Fri Aug 16 16:00:01 PDT 2002,10.00,185.00
+MN009,Blue Earth I-90 Mile Post 119,Fri Aug 16 16:00:02 PDT 2002,2.50,275.00
+MN015,Alexandria I-94 Mile Post 104,Fri Aug 16 16:00:02 PDT 2002,4.44,130.00
+MN020,Emily MN-6 Mile Post 29,Fri Aug 16 16:00:03 PDT 2002,1.11,115.00
+MN021,Clara City MN-7 Mile Post 89,Fri Aug 16 16:00:01 PDT 2002,6.39,160.00
+MN024,MN-7 Mile Post 11,Fri Aug 16 16:00:10 PDT 2002,0.83,115.00
+MN025,MN-11 Mile Post 62,Fri Aug 16 16:00:11 PDT 2002,2.50,210.00
+MN060,East Grand Forks US-2 Mile Post 8,Fri Aug 16 16:00:12 PDT 2002,2.78,55.00
+MN069,Kellogg US-61 Mile Post 53,Fri Aug 16 16:00:00 PDT 2002,2.50,165.00
+NP003,Tolchester, MD,Fri Aug 16 16:06:00 PDT 2002,5.50,262.00
+NP004,Solomons Island, MD,Fri Aug 16 16:06:00 PDT 2002,4.80,227.00
+NP011,Kiptopeke, VA,Fri Aug 16 16:06:00 PDT 2002,3.90,265.00
+NP002,Lewisetta, MD,Fri Aug 16 16:06:00 PDT 2002,4.20,239.00
+NP010,Sewells Pt, VA,Fri Aug 16 16:06:00 PDT 2002,2.60,295.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:06:00 PDT 2002,3.70,257.00
+NP025,Old Port Tampa, FL,Fri Aug 16 16:06:00 PDT 2002,4.20,79.00
+NP026,St Petersburg, FL,Fri Aug 16 16:06:00 PDT 2002,3.60,101.00
+NP028,Port Manatee, FL,Fri Aug 16 16:06:00 PDT 2002,4.00,96.00
+NP029,Port Tampa, FL,Fri Aug 16 16:06:00 PDT 2002,0.00,0.00
+NP033,Eagle Point,Fri Aug 16 16:06:00 PDT 2002,6.00,137.00
+NP034,Morgans Point,Fri Aug 16 16:06:00 PDT 2002,6.90,143.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:06:00 PDT 2002,1.10,160.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:06:00 PDT 2002,3.50,175.00
+NP017,Kings Point, NY,Fri Aug 16 16:06:00 PDT 2002,1.20,166.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:06:00 PDT 2002,6.80,171.00
+QRAA3,COTTONWOOD RIDGE,Fri Aug 16 16:00:00 PDT 2002,0.45,120.00
+NS007,SAGUARO,Fri Aug 16 16:00:00 PDT 2002,2.24,300.00
+TMPA1,BIG HILL,Fri Aug 16 16:00:00 PDT 2002,1.34,280.00
+DBLC1,DIABLO GRANDE,Fri Aug 16 16:00:00 PDT 2002,2.24,40.00
+EPKC1,EAGLE PEAK,Fri Aug 16 16:00:00 PDT 2002,1.34,120.00
+FHCC1,FISH CREEK MOUNTAIN,Fri Aug 16 16:01:00 PDT 2002,3.13,30.00
+LAHC1,LA HONDA,Fri Aug 16 16:01:00 PDT 2002,1.34,100.00
+LMOC1,LIVERMORE,Fri Aug 16 16:00:00 PDT 2002,6.71,280.00
+MDDC1,MAD RIVER,Fri Aug 16 16:00:00 PDT 2002,1.79,230.00
+TMPE2,TEMESCAL,Fri Aug 16 16:00:00 PDT 2002,1.79,330.00
+LGCC2,LOGCHUTE,Fri Aug 16 16:01:00 PDT 2002,2.24,80.00
+F1814,KOOMER,Fri Aug 16 16:01:00 PDT 2002,1.34,230.00
+F1860,VERNON,Fri Aug 16 16:01:00 PDT 2002,0.89,140.00
+F1869,BIENVILLE,Fri Aug 16 16:01:00 PDT 2002,0.89,200.00
+F1845,BLACK CREEK,Fri Aug 16 16:00:00 PDT 2002,2.24,190.00
+TR269,DERBY MOUNTAIN,Fri Aug 16 16:01:00 PDT 2002,3.58,230.00
+TR275,HEBGEN LAKE,Fri Aug 16 16:00:00 PDT 2002,4.47,310.00
+PRDM8,PARDEE,Fri Aug 16 16:00:00 PDT 2002,3.13,330.00
+NS045,TIMBERCREST,Fri Aug 16 16:01:00 PDT 2002,4.92,270.00
+TR304,YELLOW MULE,Fri Aug 16 16:00:00 PDT 2002,9.83,220.00
+TR525,RUBY LAKE NWR,Fri Aug 16 16:00:00 PDT 2002,2.24,20.00
+CLFO3,CALIMUS,Fri Aug 16 16:00:00 PDT 2002,0.45,260.00
+CQFO3,CHILOQUIN,Fri Aug 16 16:00:00 PDT 2002,2.68,270.00
+FAFO3,FLAGSTAFF HILL,Fri Aug 16 16:01:00 PDT 2002,7.60,330.00
+OYFO3,HOYT CREEK,Fri Aug 16 16:01:00 PDT 2002,2.68,210.00
+SHFO3,SAGE HEN,Fri Aug 16 16:00:00 PDT 2002,3.58,300.00
+SDFO3,SELDOM CREEK,Fri Aug 16 16:01:00 PDT 2002,1.79,270.00
+BRAU1,BEAR RIVER,Fri Aug 16 16:00:00 PDT 2002,3.13,260.00
+HURW1,HURRICANE,Fri Aug 16 16:00:00 PDT 2002,0.00,10.00
+VPFW1,VIEWPOINT,Fri Aug 16 16:01:00 PDT 2002,0.89,190.00
+NP018,Newport, RI,Fri Aug 16 16:06:00 PDT 2002,4.00,221.00
+NP019,Providence, RI,Fri Aug 16 16:06:00 PDT 2002,2.30,218.00
+NP020,Conimicut Pt, RI,Fri Aug 16 16:06:00 PDT 2002,7.50,191.00
+NP022,Borden Flats, MA,Fri Aug 16 16:06:00 PDT 2002,6.00,209.00
+NP023,Prud Island, RI,Fri Aug 16 16:06:00 PDT 2002,1.60,210.00
+NP024,Quonset Pt, RI,Fri Aug 16 16:06:00 PDT 2002,5.30,257.00
+NP033,Eagle Point,Fri Aug 16 16:12:00 PDT 2002,6.50,137.00
+NP034,Morgans Point,Fri Aug 16 16:12:00 PDT 2002,4.70,141.00
+H0002,KNCTODD1               Jefferson     NC,Fri Aug 16 16:01:00 PDT 2002,0.45,70.00
+H0344,BlueStar Systems       Milford      OH,Fri Aug 16 16:15:00 PDT 2002,2.68,10.00
+H0004,BoblandUSA             San Diego     CA,Fri Aug 16 16:16:00 PDT 2002,1.34,240.00
+H0364,BoltAssociates         Beltsville    MD,Fri Aug 16 16:01:00 PDT 2002,0.89,290.00
+H0012,Crowley TX WX Page     Crowley       TX,Fri Aug 16 16:10:00 PDT 2002,2.24,150.00
+H0024,Cornelius     OR,Fri Aug 16 16:16:00 PDT 2002,0.00,20.00
+H0445,Arlington Street	South Patrick Shores FL,Fri Aug 16 16:15:00 PDT 2002,1.79,170.00
+H0025,Dickinson     TX,Fri Aug 16 16:13:00 PDT 2002,1.34,140.00
+H0299,KALB Studios           Alexandria    LA,Fri Aug 16 16:00:00 PDT 2002,1.34,10.00
+H0245,Mobile        AL,Fri Aug 16 16:15:00 PDT 2002,0.00,200.00
+H0421,Spanish Fort           Daphne	     AL,Fri Aug 16 16:10:00 PDT 2002,2.24,200.00
+H0322,Phoenix       AZ,Fri Aug 16 16:10:00 PDT 2002,1.34,240.00
+H0030,Harrisburg             Lowville      NY,Fri Aug 16 16:16:00 PDT 2002,0.89,310.00
+H0031,Rainbow City  AL,Fri Aug 16 16:15:00 PDT 2002,0.00,80.00
+H0032,Hendersonvill TN,Fri Aug 16 16:10:00 PDT 2002,0.00,40.00
+H0244,Acton         CA,Fri Aug 16 16:06:00 PDT 2002,6.71,260.00
+H0339,Williams Worship       Bellflower    CA,Fri Aug 16 16:17:00 PDT 2002,3.58,200.00
+H0300,Cloverdale    CA,Fri Aug 16 16:15:00 PDT 2002,0.45,160.00
+H0222,Covelo        CA,Fri Aug 16 16:02:00 PDT 2002,0.00,350.00
+H0223,Petroglyph Computing   Crestline     CA,Fri Aug 16 16:03:00 PDT 2002,0.00,40.00
+H0294,Rancho San Diego       El Cajon      CA,Fri Aug 16 16:16:00 PDT 2002,1.34,320.00
+H0232,Emerald Hills          Redwood City  CA,Fri Aug 16 16:04:00 PDT 2002,1.34,0.00
+H0346,California Hills       Folsom        CA,Fri Aug 16 16:16:00 PDT 2002,0.00,210.00
+H0266,Springville Networks   Fortuna       CA,Fri Aug 16 16:15:00 PDT 2002,3.13,260.00
+H0197,Guerneville   CA,Fri Aug 16 16:04:00 PDT 2002,2.24,310.00
+H0158,Lancaster     CA,Fri Aug 16 16:10:00 PDT 2002,9.39,240.00
+H0347,Terra Cotta Estates    Lincoln       CA,Fri Aug 16 16:15:00 PDT 2002,1.34,220.00
+H0284,Audette Associates     Nevada City   CA,Fri Aug 16 16:03:00 PDT 2002,0.00,300.00
+H0345,Palmdale      CA,Fri Aug 16 16:02:00 PDT 2002,4.02,200.00
+H0267,Redding       CA,Fri Aug 16 16:16:00 PDT 2002,0.00,120.00
+H0268,Sacramento    CA,Fri Aug 16 16:15:00 PDT 2002,1.34,290.00
+H0164,San Luis Obis CA,Fri Aug 16 16:11:00 PDT 2002,4.92,300.00
+H0269,South Valley Internet  San Martin    CA,Fri Aug 16 16:15:00 PDT 2002,3.13,130.00
+H0259,Pickles Central        San Rafael    CA,Fri Aug 16 16:15:00 PDT 2002,0.89,270.00
+H0324,2ROOS                  South Lake Ta CA,Fri Aug 16 16:15:00 PDT 2002,0.00,230.00
+H0348,Tehachapi     CA,Fri Aug 16 16:15:00 PDT 2002,1.34,140.00
+H0285,Kenos Weather          Manitou Sprin CO,Fri Aug 16 16:04:00 PDT 2002,0.89,270.00
+H0185,On the Mesa            Meeker        CO,Fri Aug 16 16:03:00 PDT 2002,4.02,300.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Fri Aug 16 16:10:00 PDT 2002,2.68,70.00
+H0325,Summit County CO,Fri Aug 16 16:16:00 PDT 2002,0.00,180.00
+H0189,Canterbury    CT,Fri Aug 16 16:02:00 PDT 2002,0.00,360.00
+H0206,Stonybrook             Norwalk       CT,Fri Aug 16 16:15:00 PDT 2002,0.00,300.00
+H0036,Dunstable     MA,Fri Aug 16 16:15:00 PDT 2002,4.02,300.00
+H0040,Sebastopol    CA,Fri Aug 16 16:12:00 PDT 2002,2.68,250.00
+H0351,Port St. John Weather  Cocoa         FL,Fri Aug 16 16:10:00 PDT 2002,0.00,60.00
+H0295,Lake Mary     FL,Fri Aug 16 16:02:00 PDT 2002,3.58,90.00
+H0270,Margate       FL,Fri Aug 16 16:02:00 PDT 2002,2.68,120.00
+H0312,Satellite Bea FL,Fri Aug 16 16:06:00 PDT 2002,2.68,110.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Fri Aug 16 16:18:00 PDT 2002,0.00,160.00
+H0409,Auburn       GA,Fri Aug 16 16:16:00 PDT 2002,0.00,0.00
+H0296,KD4K                   Cumming       GA,Fri Aug 16 16:15:00 PDT 2002,0.00,190.00
+H0377,Thornbrook             Marietta     GA,Fri Aug 16 16:02:00 PDT 2002,0.00,60.00
+H0234,Roswell       GA,Fri Aug 16 16:03:00 PDT 2002,0.00,350.00
+H0183,New Hampton   IA,Fri Aug 16 16:04:00 PDT 2002,7.60,200.00
+H0246,Sidney        IA,Fri Aug 16 16:08:00 PDT 2002,6.26,160.00
+H0261,Crystal Lake  IL,Fri Aug 16 16:15:00 PDT 2002,1.79,280.00
+H0286,KIMT Studios           Mason City    IA,Fri Aug 16 16:15:00 PDT 2002,2.24,190.00
+H0369,East side of I65       Crothersville IN,Fri Aug 16 16:10:00 PDT 2002,4.92,170.00
+H0271,Georgetown    IN,Fri Aug 16 16:15:00 PDT 2002,0.89,130.00
+H0191,Paducah       KY,Fri Aug 16 16:04:00 PDT 2002,0.00,150.00
+H0287,Arlington Center       Arlington     MA,Fri Aug 16 16:16:00 PDT 2002,2.68,210.00
+H0212,Brockton      MA,Fri Aug 16 16:02:00 PDT 2002,1.34,210.00
+H0272,WoodvilleGr1           Hopkinton     MA,Fri Aug 16 16:15:00 PDT 2002,3.58,250.00
+H0144,New Bedford   MA,Fri Aug 16 16:08:00 PDT 2002,4.02,220.00
+H0297,Uxbridge      MA,Fri Aug 16 16:02:00 PDT 2002,0.00,170.00
+H0188,Dundalk WX - N3VBJ     Baltimore     MD,Fri Aug 16 16:02:00 PDT 2002,2.24,260.00
+H0213,California    MD,Fri Aug 16 16:06:00 PDT 2002,0.00,260.00
+H0156,Raymond       ME,Fri Aug 16 16:11:00 PDT 2002,0.00,230.00
+H0150,Davisburg     MI,Fri Aug 16 16:03:00 PDT 2002,2.68,290.00
+H0253,Blaine        MN,Fri Aug 16 16:04:00 PDT 2002,3.13,210.00
+H0307,Bloomington   MN,Fri Aug 16 16:10:00 PDT 2002,1.34,220.00
+H0327,Duluth        MN,Fri Aug 16 16:15:00 PDT 2002,2.68,230.00
+H0354,Monticello    MN,Fri Aug 16 16:15:00 PDT 2002,1.34,140.00
+H0216,Vadnais Heigh MN,Fri Aug 16 16:15:00 PDT 2002,1.34,140.00
+H0165,Browning      MO,Fri Aug 16 16:11:00 PDT 2002,0.89,140.00
+H0342,Gideon School District Gideon        MO,Fri Aug 16 16:15:00 PDT 2002,0.89,100.00
+H0263,WeatherSource          Shelby        NC,Fri Aug 16 16:15:00 PDT 2002,1.79,0.00
+H0335,MSFTRNCS Weather Web   Hooper        NE,Fri Aug 16 16:15:00 PDT 2002,4.02,140.00
+H0387,North Holmes           Lake Lincoln NE,Fri Aug 16 16:15:00 PDT 2002,3.58,130.00
+H0289,Omaha         NE,Fri Aug 16 16:13:00 PDT 2002,1.34,230.00
+H0370,Meadowlands            Secaucus     NJ,Fri Aug 16 16:03:00 PDT 2002,1.79,320.00
+H0042,Knoxville     TN,Fri Aug 16 16:15:00 PDT 2002,0.00,0.00
+H0137,Babylon Village        Babylon       NY,Fri Aug 16 16:05:00 PDT 2002,0.00,190.00
+H0196,Buffalo       NY,Fri Aug 16 16:02:00 PDT 2002,0.89,330.00
+H0302,Cuba          NY,Fri Aug 16 16:16:00 PDT 2002,0.00,220.00
+H0357,Hempstead     NY,Fri Aug 16 16:12:00 PDT 2002,0.89,170.00
+H0453,Neversink Reservoir	Neversink    NY,Fri Aug 16 16:11:00 PDT 2002,0.00,330.00
+H0308,New City      NY,Fri Aug 16 16:15:00 PDT 2002,0.00,220.00
+H0257,Plattsburgh   NY,Fri Aug 16 16:02:00 PDT 2002,1.34,250.00
+H0290,Rochester     NY,Fri Aug 16 16:03:00 PDT 2002,3.13,170.00
+H0141,Sloatsburg    NY,Fri Aug 16 16:15:00 PDT 2002,0.00,260.00
+H0309,Columbus      OH,Fri Aug 16 16:11:00 PDT 2002,0.89,90.00
+H0420,West Slope             Astoria	     OR,Fri Aug 16 16:15:00 PDT 2002,1.79,300.00
+H0159,Old Town               Sherwood      OR,Fri Aug 16 16:02:00 PDT 2002,1.79,260.00
+H0440,Broomall     PA,Fri Aug 16 16:15:00 PDT 2002,0.45,250.00
+H0193,Waynesboro    PA,Fri Aug 16 16:02:00 PDT 2002,0.89,160.00
+H0110,San Juan      PR,Fri Aug 16 16:15:00 PDT 2002,3.13,30.00
+H0043,WX for West PA/East OH Sharon        PA,Fri Aug 16 16:11:00 PDT 2002,1.34,280.00
+H0337,Middletown    RI,Fri Aug 16 16:15:00 PDT 2002,0.00,200.00
+H0329,Williamston   SC,Fri Aug 16 16:17:00 PDT 2002,0.00,260.00
+H0447,Downtown               Santa Rosa   CA,Fri Aug 16 16:01:00 PDT 2002,4.02,180.00
+H0396,Williamson             County Franklin TN,Fri Aug 16 16:11:00 PDT 2002,0.45,360.00
+H0310,SSC                    Abilene       TX,Fri Aug 16 16:15:00 PDT 2002,4.92,130.00
+H0201,Arlington     TX,Fri Aug 16 16:15:00 PDT 2002,3.13,180.00
+H0318,Austin        TX,Fri Aug 16 16:14:00 PDT 2002,4.02,100.00
+H0236,Burk                   Burnett       TX,Fri Aug 16 16:03:00 PDT 2002,4.02,180.00
+H0202,KC4WTI                 Irving        TX,Fri Aug 16 16:05:00 PDT 2002,1.34,150.00
+H0360,Corinth       TX,Fri Aug 16 16:20:00 PDT 2002,4.02,190.00
+H0330,Gift World             Dallas        TX,Fri Aug 16 16:15:00 PDT 2002,0.45,140.00
+H0180,Georgetown    TX,Fri Aug 16 16:01:00 PDT 2002,4.92,150.00
+H0311,Clear Lake City WX     Houston       TX,Fri Aug 16 16:11:00 PDT 2002,0.00,150.00
+H0203,Oak Ridge Nor TX,Fri Aug 16 16:17:00 PDT 2002,0.45,290.00
+H0230,Riverbend WA5KXX       Plano         TX,Fri Aug 16 16:00:00 PDT 2002,3.13,150.00
+H0418,Brushy Creek           Round Rock   TX,Fri Aug 16 16:10:00 PDT 2002,4.02,190.00
+H0415,Northwest Crossing	San Antonio  TX,Fri Aug 16 16:17:00 PDT 2002,2.24,210.00
+H0280,Taylor        TX,Fri Aug 16 16:15:00 PDT 2002,1.34,150.00
+H0362,Salt Lake Cty UT,Fri Aug 16 16:10:00 PDT 2002,0.00,180.00
+H0293,Harrisonburg  VA,Fri Aug 16 16:16:00 PDT 2002,0.00,280.00
+H0281,WREL WeatherCenter     Lexington     VA,Fri Aug 16 16:15:00 PDT 2002,0.00,300.00
+H0231,New Canton    VA,Fri Aug 16 16:02:00 PDT 2002,0.00,240.00
+H0157,N4NW                   Stafford      VA,Fri Aug 16 16:02:00 PDT 2002,0.00,210.00
+H0363,Darrington    WA,Fri Aug 16 16:01:00 PDT 2002,0.89,10.00
+H0443,Fishers Glen           Vancouver    WA,Fri Aug 16 16:17:00 PDT 2002,1.79,280.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Fri Aug 16 16:10:00 PDT 2002,2.24,10.00
+H0423,Middleboro   MA,Fri Aug 16 16:15:00 PDT 2002,2.24,270.00
+H0099,Mountain High Resort   Wrightwood    CA,Fri Aug 16 16:01:00 PDT 2002,0.00,80.00
+H0052,New Milford Weather    New Milford   CT,Fri Aug 16 16:12:00 PDT 2002,0.00,50.00
+H0419,Lowes Motor Spdwy Area	Concord	     NC,Fri Aug 16 16:04:00 PDT 2002,0.00,130.00
+H0062,Northeast Raleigh      Raleigh       NC,Fri Aug 16 16:16:00 PDT 2002,0.89,180.00
+H0064,Sands Point, Shrewsbury R. Oceanport NJ,Fri Aug 16 16:00:00 PDT 2002,2.68,210.00
+H0065,Sedona        AZ,Fri Aug 16 16:09:00 PDT 2002,0.00,150.00
+H0068,St. Cloud     MN,Fri Aug 16 16:15:00 PDT 2002,1.79,120.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Fri Aug 16 16:16:00 PDT 2002,2.68,140.00
+H0071,South Weber WX Porch   South Weber   UT,Fri Aug 16 16:05:00 PDT 2002,1.34,280.00
+H0072,Thunder Ranch          Juniper Hills CA,Fri Aug 16 16:16:00 PDT 2002,3.13,240.00
+H0083,WBTW Studios           Florence      SC,Fri Aug 16 16:15:00 PDT 2002,0.00,270.00
+H0084,WDEF Studios           Chattanooga   TN,Fri Aug 16 16:15:00 PDT 2002,1.34,170.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Fri Aug 16 16:10:00 PDT 2002,0.00,360.00
+H0086,WIAT Studios           Birmingham    AL,Fri Aug 16 16:00:00 PDT 2002,2.68,120.00
+H0087,WJBF Studios           Augusta       GA,Fri Aug 16 16:15:00 PDT 2002,0.89,130.00
+H0088,WJHL Studios           Johnson City  TN,Fri Aug 16 16:20:00 PDT 2002,0.45,30.00
+H0089,WJTV Studios           Jackson       MS,Fri Aug 16 16:17:00 PDT 2002,1.34,300.00
+H0399,Lake Forest            Daphne       AL,Fri Aug 16 16:00:00 PDT 2002,0.00,90.00
+H0091,WMBB Studios           Panama City   FL,Fri Aug 16 16:15:00 PDT 2002,0.45,180.00
+H0095,WSAV Studios           Savannah      GA,Fri Aug 16 16:00:00 PDT 2002,0.00,140.00
+BLDF1,Belle Glade                            FAWN,Fri Aug 16 16:00:00 PDT 2002,1.21,35.44
+TRAF1,Citra                                  FAWN,Fri Aug 16 16:00:00 PDT 2002,1.23,34.05
+ALHF1,Alachua                                FAWN,Fri Aug 16 16:00:00 PDT 2002,1.04,103.50
+STNF1,Hastings                               FAWN,Fri Aug 16 16:00:00 PDT 2002,4.30,113.10
+CKHF1,Ocklawaha                              FAWN,Fri Aug 16 16:00:00 PDT 2002,2.57,102.70
+VRSF1,Tavares                                FAWN,Fri Aug 16 16:00:00 PDT 2002,3.32,91.00
+UMLF1,Umatilla                               FAWN,Fri Aug 16 16:00:00 PDT 2002,3.38,104.30
+KHPF1,Okahumpka                              FAWN,Fri Aug 16 16:00:00 PDT 2002,2.64,93.70
+VLNF1,Avalon                                 FAWN,Fri Aug 16 16:00:00 PDT 2002,2.00,102.00
+KSLF1,Brooksville                            FAWN,Fri Aug 16 16:00:00 PDT 2002,1.09,319.00
+POPF1,Apopka                                 FAWN,Fri Aug 16 16:00:00 PDT 2002,5.47,205.10
+KALF1,Lake Alfred                            FAWN,Fri Aug 16 16:00:00 PDT 2002,0.82,148.10
+DOVF1,Dover                                  FAWN,Fri Aug 16 16:00:00 PDT 2002,0.86,77.70
+DNTF1,Bradenton                              FAWN,Fri Aug 16 16:00:00 PDT 2002,3.32,120.50
+FDLF1,Fort Lauderdale                        FAWN,Fri Aug 16 16:00:00 PDT 2002,5.55,108.10
+PCEF1,Fort Pierce                            FAWN,Fri Aug 16 16:00:00 PDT 2002,4.04,115.90
+STDF1,Homestead                              FAWN,Fri Aug 16 16:00:00 PDT 2002,5.66,119.10
+IMKF1,Immokalee                              FAWN,Fri Aug 16 16:00:00 PDT 2002,2.66,58.59
+BMTC2,Blue_Mountain,Fri Aug 16 16:17:00 PDT 2002,2.68,325.00
+QURC2,Quincy_Res,Fri Aug 16 16:17:00 PDT 2002,1.34,11.00
+DHPC2,Diamond_Hill,Fri Aug 16 16:17:00 PDT 2002,0.67,248.00
+EBBC2,Elbert,Fri Aug 16 16:17:00 PDT 2002,4.83,13.00
+BHNC2,Brighton,Fri Aug 16 16:17:00 PDT 2002,0.58,264.00
+SQWC2,Squaw_Mountain,Fri Aug 16 16:17:00 PDT 2002,2.91,33.00
+HGCC2,Hiwan_G.C.,Fri Aug 16 16:17:00 PDT 2002,2.68,351.00
+HIGC2,Highlands_Ranch_WTP,Fri Aug 16 16:17:00 PDT 2002,0.58,253.00
+SAPC2,Salisbury_Park,Fri Aug 16 16:17:00 PDT 2002,3.00,34.00
+COKC2,Castle_Rock,Fri Aug 16 16:17:00 PDT 2002,0.80,354.00
+SFSC2,Sugarloaf,Fri Aug 16 16:17:00 PDT 2002,4.29,292.00
+LEWC2,Louisville_Lake,Fri Aug 16 16:17:00 PDT 2002,4.38,231.00
+BTRC2,Button_Rock,Fri Aug 16 16:17:00 PDT 2002,1.88,214.00
+URBC2,Urban Farm at Stapleton,Fri Aug 16 16:17:00 PDT 2002,2.19,5.00
+SADDL,Niwot Ridge Saddle                    NiwotRidge,Fri Aug 16 16:00:00 PDT 2002,5.78,262.00
+MN001,Twin Lakes I-35 Mile Post 1,Fri Aug 16 16:04:02 PDT 2002,9.44,180.00
+MN003,Little Chicago I-35 Mile Post 70,Fri Aug 16 16:04:01 PDT 2002,3.61,150.00
+MN004,Rush City I-35 Mile Post 157,Fri Aug 16 16:07:03 PDT 2002,2.22,85.00
+MN006,Beaver Creek I-90 Mile Post 4,Fri Aug 16 16:05:05 PDT 2002,9.44,150.00
+MN007,I-90 Mile Post 35,Fri Aug 16 16:01:00 PDT 2002,14.17,145.00
+MN008,I-90 Mile Post 67,Fri Aug 16 16:10:01 PDT 2002,9.17,185.00
+MN009,Blue Earth I-90 Mile Post 119,Fri Aug 16 16:10:01 PDT 2002,4.17,235.00
+MN010,Dexter I-90 Mile Post 195,Fri Aug 16 16:05:00 PDT 2002,5.83,155.00
+MN011,Jct CR 7 I-90 Mile Post 226,Fri Aug 16 16:09:01 PDT 2002,4.44,145.00
+MN012,Ridgeway I-90 Mile Post 261,Fri Aug 16 16:05:01 PDT 2002,5.00,180.00
+MN013,Dilworth I-94 Mile Post 5,Fri Aug 16 16:09:02 PDT 2002,7.50,130.00
+MN014,Rothsay I-94 Mile Post 38,Fri Aug 16 16:04:00 PDT 2002,7.78,105.00
+MN015,Alexandria I-94 Mile Post 104,Fri Aug 16 16:10:02 PDT 2002,5.56,125.00
+MN016,Sauk Center I-94 Mile Post 128,Fri Aug 16 16:02:02 PDT 2002,4.44,150.00
+MN017,Clearwater I-94 Mile Post 180,Fri Aug 16 16:06:01 PDT 2002,3.89,165.00
+MN018,Shooks MN-1 Mile Post 34,Fri Aug 16 16:09:00 PDT 2002,1.11,235.00
+MN020,Emily MN-6 Mile Post 29,Fri Aug 16 16:10:03 PDT 2002,3.06,135.00
+MN021,Clara City MN-7 Mile Post 89,Fri Aug 16 16:10:00 PDT 2002,7.78,160.00
+MN022,Lester Prairie MN-7 Mile Post 161,Fri Aug 16 16:01:01 PDT 2002,4.72,145.00
+MN024,MN-7 Mile Post 11,Fri Aug 16 16:10:10 PDT 2002,1.94,95.00
+MN025,MN-11 Mile Post 62,Fri Aug 16 16:10:10 PDT 2002,3.33,200.00
+MN026,Brichdale MN-11 Mile Post 157,Fri Aug 16 16:09:01 PDT 2002,0.83,145.00
+MN028,Lake Benton US-14 Mile Post 7,Fri Aug 16 16:01:01 PDT 2002,8.33,155.00
+MN029,Byron US-14 Mile Post 200,Fri Aug 16 16:08:00 PDT 2002,5.83,105.00
+MN030,Hendricks MN-19 Mile Post 2,Fri Aug 16 16:01:02 PDT 2002,7.50,145.00
+MN032,Winthrop MN-19 Mile Post 108,Fri Aug 16 16:01:04 PDT 2002,1.94,140.00
+MN033,Hanley Falls MN-23 Mile Post 94,Fri Aug 16 16:06:00 PDT 2002,7.22,125.00
+MN035,Lastrup MN-25 Mile Post 140,Fri Aug 16 16:03:00 PDT 2002,3.06,90.00
+MN036,Graceville MN-28 Mile Post 19,Fri Aug 16 16:03:02 PDT 2002,7.22,125.00
+MN037,Langhei Township MN-29 Mile Post 46,Fri Aug 16 16:03:02 PDT 2002,5.56,130.00
+MN038,Dovray MN-30 Mile Post 49,Fri Aug 16 16:02:00 PDT 2002,9.44,135.00
+MN040,Caledonia MN-44 Mile Post 60,Fri Aug 16 16:05:01 PDT 2002,0.28,215.00
+MN041,Squaw Lake MN-46 Mile Post 25,Fri Aug 16 16:02:02 PDT 2002,1.11,90.00
+MN042,Cannon Falls US-52 Mile Post 90,Fri Aug 16 16:03:01 PDT 2002,5.00,155.00
+MN043,Georgeville MN-55 Mile Post 98,Fri Aug 16 16:02:01 PDT 2002,5.28,180.00
+MN044,Mahnomen US-59 Mile Post 296,Fri Aug 16 16:07:01 PDT 2002,5.00,140.00
+MN045,Madelia US-60 Mile Post 86,Fri Aug 16 16:02:00 PDT 2002,3.61,110.00
+MN047,Red Wing US-61 Mile Post 101,Fri Aug 16 16:04:01 PDT 2002,4.44,145.00
+MN048,Grand Portage MN-61 Mile Post 146,Fri Aug 16 16:03:03 PDT 2002,0.83,45.00
+MN049,Chamberlain MN-64 Mile Post 42,Fri Aug 16 16:09:02 PDT 2002,3.33,140.00
+MN050,Pliny MN-65 Mile Post 98,Fri Aug 16 16:04:02 PDT 2002,0.83,40.00
+MN051,Ball Bluff MN-65 Mile Post 145,Fri Aug 16 16:05:03 PDT 2002,1.11,160.00
+MN052,Effie MN-1 Mile Post 194,Fri Aug 16 16:08:02 PDT 2002,0.28,255.00
+MN054,Tenney US-75 Mile Post 188,Fri Aug 16 16:06:03 PDT 2002,5.83,140.00
+MN055,Ottertail MN-78 Mile Post 34,Fri Aug 16 16:07:03 PDT 2002,3.06,70.00
+MN056,Gatzke MN-89 Mile Post 96,Fri Aug 16 16:06:02 PDT 2002,3.06,205.00
+MN057,St. Vincent MN-171 Mile Post 2,Fri Aug 16 16:08:03 PDT 2002,3.33,215.00
+MN058,Anthony MN-200 Mile Post 9,Fri Aug 16 16:07:00 PDT 2002,5.83,110.00
+MN059,Mehurin US-212 Mile Post 1,Fri Aug 16 16:09:03 PDT 2002,6.67,145.00
+MN060,East Grand Forks US-2 Mile Post 8,Fri Aug 16 16:10:13 PDT 2002,3.33,20.00
+MN062,Lake Park US-10 Mile Post 32,Fri Aug 16 16:07:01 PDT 2002,5.28,80.00
+MN063,Verndale US-10 Mile Post 94,Fri Aug 16 16:08:01 PDT 2002,3.06,110.00
+MN064,Rice US-10 Mile Post 162,Fri Aug 16 16:06:01 PDT 2002,2.50,120.00
+MN065,Canton US-52 Mile Post 2,Fri Aug 16 16:05:02 PDT 2002,3.06,140.00
+MN066,Cotton US-53 Mile Post 41,Fri Aug 16 16:01:08 PDT 2002,0.83,225.00
+MN067,Ash Lake US-53 Mile Post 129,Fri Aug 16 16:02:03 PDT 2002,1.39,190.00
+MN068,Brooks US-59 Mile Post 331,Fri Aug 16 16:07:02 PDT 2002,2.78,90.00
+MN069,Kellogg US-61 Mile Post 53,Fri Aug 16 16:10:00 PDT 2002,1.67,145.00
+MN071,MN-71 Mile Post 43,Fri Aug 16 16:02:01 PDT 2002,8.89,165.00
+MN073,Mankato US-169 Mile Post 52,Fri Aug 16 16:04:00 PDT 2002,3.33,45.00
+MN075,Belle Plaine US-169 Mile Post 86,Fri Aug 16 16:03:03 PDT 2002,4.17,150.00
+MN076,Milaca US-169 Mile Post 200,Fri Aug 16 16:06:02 PDT 2002,2.78,125.00
+MN079,New Prague MN-19 Mile Post 149,Fri Aug 16 16:08:00 PDT 2002,5.00,140.00
+CCDNH,CONCORD NH                             ETL,Fri Aug 16 16:00:00 PDT 2002,1.78,238.29
+GLACA,GOLETA CA                              ETL,Fri Aug 16 16:00:00 PDT 2002,3.83,249.20
+GVYCA,GRASS VALLEY CA                        ETL,Fri Aug 16 16:00:00 PDT 2002,2.57,278.68
+NPTOR,NEWPORT OR                             ETL,Fri Aug 16 16:00:00 PDT 2002,6.22,354.74
+OREMA,ORANGE MA                              ETL,Fri Aug 16 16:00:00 PDT 2002,1.06,63.66
+PSPNY,PINNACLE NY                            ETL,Fri Aug 16 16:00:00 PDT 2002,0.50,274.57
+PYMMA,PLYMOUTH MA                            ETL,Fri Aug 16 16:00:00 PDT 2002,2.04,221.46
+SCHNY,SCHENECTADY NY                         ETL,Fri Aug 16 16:00:00 PDT 2002,3.75,41.30
+MN080,Thompson Hill I-35 Mile Post 248,Fri Aug 16 16:00:30 PDT 2002,2.78,215.00
+MN082,I-35 and Garfield Avenue,Fri Aug 16 16:00:30 PDT 2002,3.89,270.00
+MN083,Lafayette Tunnel MN-61 Mile Post 32,Fri Aug 16 16:01:30 PDT 2002,0.83,290.00
+MN091,Twig MN-53 Mile Post 21,Fri Aug 16 16:02:30 PDT 2002,1.67,185.00
+MN086,Burnsville I-35W Mile Post 4,Fri Aug 16 16:04:01 PDT 2002,4.17,150.00
+MN087,Maple Grove I-94 Mile Post 217,Fri Aug 16 16:04:34 PDT 2002,4.44,190.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Fri Aug 16 16:04:03 PDT 2002,6.11,145.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Fri Aug 16 16:04:37 PDT 2002,3.89,175.00
+MN096,Albert Lea I-35 Mile Post 30,Fri Aug 16 16:05:15 PDT 2002,4.44,140.00
+MN093,Silver Cliff MN-61 Mile Post 30,Fri Aug 16 16:00:00 PDT 2002,1.39,191.00
+MN081,Pier 20,Fri Aug 16 16:00:00 PDT 2002,5.00,229.00
+MN095,Blatnick Bridge South Abutment,Fri Aug 16 16:01:00 PDT 2002,3.89,250.00
+NP018,Newport, RI,Fri Aug 16 16:12:00 PDT 2002,3.80,221.00
+NP019,Providence, RI,Fri Aug 16 16:12:00 PDT 2002,3.50,209.00
+NP020,Conimicut Pt, RI,Fri Aug 16 16:12:00 PDT 2002,7.10,193.00
+NP022,Borden Flats, MA,Fri Aug 16 16:12:00 PDT 2002,5.90,211.00
+NP023,Prud Island, RI,Fri Aug 16 16:12:00 PDT 2002,1.40,209.00
+NP024,Quonset Pt, RI,Fri Aug 16 16:12:00 PDT 2002,5.40,257.00
+NP003,Tolchester, MD,Fri Aug 16 16:12:00 PDT 2002,5.40,254.00
+NP011,Kiptopeke, VA,Fri Aug 16 16:12:00 PDT 2002,4.10,276.00
+NP002,Lewisetta, MD,Fri Aug 16 16:12:00 PDT 2002,4.30,231.00
+NP010,Sewells Pt, VA,Fri Aug 16 16:12:00 PDT 2002,2.10,273.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:12:00 PDT 2002,3.70,252.00
+NP025,Old Port Tampa, FL,Fri Aug 16 16:12:00 PDT 2002,3.30,81.00
+NP026,St Petersburg, FL,Fri Aug 16 16:12:00 PDT 2002,4.40,98.00
+NP028,Port Manatee, FL,Fri Aug 16 16:12:00 PDT 2002,2.50,95.00
+NP029,Port Tampa, FL,Fri Aug 16 16:12:00 PDT 2002,0.00,0.00
+NP030,Galveston Pleasure Pier, TX,Fri Aug 16 16:18:00 PDT 2002,6.20,133.00
+NP034,Morgans Point,Fri Aug 16 16:18:00 PDT 2002,6.50,142.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:12:00 PDT 2002,1.40,172.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:12:00 PDT 2002,3.30,188.00
+NP017,Kings Point, NY,Fri Aug 16 16:12:00 PDT 2002,1.80,172.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:12:00 PDT 2002,6.00,175.00
+A0102,Massachusetts Bay,Fri Aug 16 16:00:00 PDT 2002,6.10,211.50
+B0102,Western Maine Shelf,Fri Aug 16 16:00:00 PDT 2002,6.50,194.50
+C0201,Casco Bay,Fri Aug 16 16:00:00 PDT 2002,4.00,237.70
+F0103,W. Penobscot Bay,Fri Aug 16 16:00:00 PDT 2002,2.50,127.40
+K0102,Saint John,Fri Aug 16 16:00:00 PDT 2002,2.80,207.20
+NP018,Newport, RI,Fri Aug 16 16:18:00 PDT 2002,4.10,221.00
+NP019,Providence, RI,Fri Aug 16 16:18:00 PDT 2002,3.30,241.00
+NP020,Conimicut Pt, RI,Fri Aug 16 16:18:00 PDT 2002,6.20,192.00
+NP022,Borden Flats, MA,Fri Aug 16 16:18:00 PDT 2002,6.30,210.00
+NP023,Prud Island, RI,Fri Aug 16 16:18:00 PDT 2002,1.30,206.00
+NP024,Quonset Pt, RI,Fri Aug 16 16:18:00 PDT 2002,5.40,255.00
+NP003,Tolchester, MD,Fri Aug 16 16:18:00 PDT 2002,5.40,257.00
+NP004,Solomons Island, MD,Fri Aug 16 16:18:00 PDT 2002,6.20,229.00
+NP011,Kiptopeke, VA,Fri Aug 16 16:18:00 PDT 2002,5.10,280.00
+NP002,Lewisetta, MD,Fri Aug 16 16:18:00 PDT 2002,4.00,236.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:18:00 PDT 2002,4.10,251.00
+NP026,St Petersburg, FL,Fri Aug 16 16:18:00 PDT 2002,4.70,95.00
+NP028,Port Manatee, FL,Fri Aug 16 16:18:00 PDT 2002,1.20,87.00
+NP029,Port Tampa, FL,Fri Aug 16 16:18:00 PDT 2002,0.00,0.00
+NP030,Galveston Pleasure Pier, TX,Fri Aug 16 16:24:00 PDT 2002,6.70,133.00
+NP033,Eagle Point,Fri Aug 16 16:24:00 PDT 2002,6.00,141.00
+NP034,Morgans Point,Fri Aug 16 16:24:00 PDT 2002,4.40,144.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:18:00 PDT 2002,1.60,175.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:18:00 PDT 2002,3.50,204.00
+NP017,Kings Point, NY,Fri Aug 16 16:18:00 PDT 2002,1.80,159.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:18:00 PDT 2002,5.50,177.00
+NCARM,NCAR Table Mesa                       NCAR,Fri Aug 16 16:21:35 PDT 2002,8.58,340.00
+NCARF,NCAR Foothills Lab                    NCAR,Fri Aug 16 16:24:42 PDT 2002,3.40,300.00
+MN001,Twin Lakes I-35 Mile Post 1,Fri Aug 16 16:14:02 PDT 2002,10.00,160.00
+MN003,Little Chicago I-35 Mile Post 70,Fri Aug 16 16:14:01 PDT 2002,4.17,140.00
+MN004,Rush City I-35 Mile Post 157,Fri Aug 16 16:17:03 PDT 2002,1.39,100.00
+MN006,Beaver Creek I-90 Mile Post 4,Fri Aug 16 16:15:04 PDT 2002,8.33,165.00
+MN007,I-90 Mile Post 35,Fri Aug 16 16:11:00 PDT 2002,10.83,150.00
+MN008,I-90 Mile Post 67,Fri Aug 16 16:20:01 PDT 2002,10.00,185.00
+MN009,Blue Earth I-90 Mile Post 119,Fri Aug 16 16:20:01 PDT 2002,4.17,190.00
+MN010,Dexter I-90 Mile Post 195,Fri Aug 16 16:15:00 PDT 2002,5.56,140.00
+MN011,Jct CR 7 I-90 Mile Post 226,Fri Aug 16 16:19:00 PDT 2002,4.72,140.00
+MN012,Ridgeway I-90 Mile Post 261,Fri Aug 16 16:15:01 PDT 2002,4.17,175.00
+MN013,Dilworth I-94 Mile Post 5,Fri Aug 16 16:19:02 PDT 2002,7.78,125.00
+MN014,Rothsay I-94 Mile Post 38,Fri Aug 16 16:14:00 PDT 2002,7.22,95.00
+MN015,Alexandria I-94 Mile Post 104,Fri Aug 16 16:20:02 PDT 2002,5.00,135.00
+MN016,Sauk Center I-94 Mile Post 128,Fri Aug 16 16:12:02 PDT 2002,3.61,155.00
+MN017,Clearwater I-94 Mile Post 180,Fri Aug 16 16:16:01 PDT 2002,3.33,155.00
+MN018,Shooks MN-1 Mile Post 34,Fri Aug 16 16:19:00 PDT 2002,3.06,185.00
+MN020,Emily MN-6 Mile Post 29,Fri Aug 16 16:20:03 PDT 2002,3.33,140.00
+MN021,Clara City MN-7 Mile Post 89,Fri Aug 16 16:20:00 PDT 2002,4.72,125.00
+MN022,Lester Prairie MN-7 Mile Post 161,Fri Aug 16 16:11:00 PDT 2002,3.33,140.00
+MN024,MN-7 Mile Post 11,Fri Aug 16 16:20:07 PDT 2002,0.83,190.00
+MN025,MN-11 Mile Post 62,Fri Aug 16 16:20:10 PDT 2002,2.78,175.00
+MN026,Brichdale MN-11 Mile Post 157,Fri Aug 16 16:19:01 PDT 2002,1.39,125.00
+MN028,Lake Benton US-14 Mile Post 7,Fri Aug 16 16:11:01 PDT 2002,8.33,160.00
+MN029,Byron US-14 Mile Post 200,Fri Aug 16 16:18:00 PDT 2002,6.67,100.00
+MN030,Hendricks MN-19 Mile Post 2,Fri Aug 16 16:11:01 PDT 2002,7.50,145.00
+MN032,Winthrop MN-19 Mile Post 108,Fri Aug 16 16:11:02 PDT 2002,1.39,150.00
+MN033,Hanley Falls MN-23 Mile Post 94,Fri Aug 16 16:16:00 PDT 2002,7.22,130.00
+MN035,Lastrup MN-25 Mile Post 140,Fri Aug 16 16:13:00 PDT 2002,3.89,95.00
+MN036,Graceville MN-28 Mile Post 19,Fri Aug 16 16:13:02 PDT 2002,7.22,125.00
+MN037,Langhei Township MN-29 Mile Post 46,Fri Aug 16 16:13:02 PDT 2002,5.56,135.00
+MN038,Dovray MN-30 Mile Post 49,Fri Aug 16 16:12:00 PDT 2002,8.61,135.00
+MN040,Caledonia MN-44 Mile Post 60,Fri Aug 16 16:15:01 PDT 2002,0.00,225.00
+MN041,Squaw Lake MN-46 Mile Post 25,Fri Aug 16 16:12:02 PDT 2002,1.11,125.00
+MN042,Cannon Falls US-52 Mile Post 90,Fri Aug 16 16:13:01 PDT 2002,5.56,155.00
+MN043,Georgeville MN-55 Mile Post 98,Fri Aug 16 16:12:01 PDT 2002,5.00,170.00
+MN044,Mahnomen US-59 Mile Post 296,Fri Aug 16 16:17:02 PDT 2002,4.72,145.00
+MN045,Madelia US-60 Mile Post 86,Fri Aug 16 16:12:00 PDT 2002,4.44,145.00
+MN047,Red Wing US-61 Mile Post 101,Fri Aug 16 16:14:01 PDT 2002,4.17,140.00
+MN048,Grand Portage MN-61 Mile Post 146,Fri Aug 16 16:13:03 PDT 2002,0.83,105.00
+MN049,Chamberlain MN-64 Mile Post 42,Fri Aug 16 16:19:01 PDT 2002,3.61,130.00
+MN050,Pliny MN-65 Mile Post 98,Fri Aug 16 16:14:02 PDT 2002,1.39,40.00
+MN051,Ball Bluff MN-65 Mile Post 145,Fri Aug 16 16:15:03 PDT 2002,0.28,150.00
+MN052,Effie MN-1 Mile Post 194,Fri Aug 16 16:18:02 PDT 2002,0.28,155.00
+MN054,Tenney US-75 Mile Post 188,Fri Aug 16 16:16:03 PDT 2002,7.78,135.00
+MN055,Ottertail MN-78 Mile Post 34,Fri Aug 16 16:17:04 PDT 2002,3.06,75.00
+MN056,Gatzke MN-89 Mile Post 96,Fri Aug 16 16:16:02 PDT 2002,1.39,145.00
+MN057,St. Vincent MN-171 Mile Post 2,Fri Aug 16 16:18:03 PDT 2002,0.83,120.00
+MN058,Anthony MN-200 Mile Post 9,Fri Aug 16 16:17:00 PDT 2002,5.56,105.00
+MN059,Mehurin US-212 Mile Post 1,Fri Aug 16 16:19:03 PDT 2002,6.39,140.00
+MN060,East Grand Forks US-2 Mile Post 8,Fri Aug 16 16:20:11 PDT 2002,3.33,25.00
+MN062,Lake Park US-10 Mile Post 32,Fri Aug 16 16:17:01 PDT 2002,6.67,75.00
+MN063,Verndale US-10 Mile Post 94,Fri Aug 16 16:18:01 PDT 2002,3.89,120.00
+MN064,Rice US-10 Mile Post 162,Fri Aug 16 16:16:01 PDT 2002,2.22,115.00
+MN065,Canton US-52 Mile Post 2,Fri Aug 16 16:15:02 PDT 2002,3.33,120.00
+MN066,Cotton US-53 Mile Post 41,Fri Aug 16 16:11:07 PDT 2002,1.11,215.00
+MN067,Ash Lake US-53 Mile Post 129,Fri Aug 16 16:12:03 PDT 2002,2.50,175.00
+MN068,Brooks US-59 Mile Post 331,Fri Aug 16 16:17:02 PDT 2002,2.78,65.00
+MN069,Kellogg US-61 Mile Post 53,Fri Aug 16 16:20:00 PDT 2002,2.22,150.00
+MN071,MN-71 Mile Post 43,Fri Aug 16 16:12:01 PDT 2002,9.17,160.00
+MN073,Mankato US-169 Mile Post 52,Fri Aug 16 16:14:00 PDT 2002,1.94,115.00
+MN075,Belle Plaine US-169 Mile Post 86,Fri Aug 16 16:13:03 PDT 2002,3.33,135.00
+MN076,Milaca US-169 Mile Post 200,Fri Aug 16 16:16:02 PDT 2002,3.61,120.00
+MN079,New Prague MN-19 Mile Post 149,Fri Aug 16 16:18:00 PDT 2002,5.56,135.00
+MN080,Thompson Hill I-35 Mile Post 248,Fri Aug 16 16:15:30 PDT 2002,1.67,215.00
+MN082,I-35 and Garfield Avenue,Fri Aug 16 16:15:30 PDT 2002,4.44,275.00
+MN083,Lafayette Tunnel MN-61 Mile Post 32,Fri Aug 16 16:16:30 PDT 2002,0.56,270.00
+MN091,Twig MN-53 Mile Post 21,Fri Aug 16 16:17:30 PDT 2002,1.67,200.00
+MN086,Burnsville I-35W Mile Post 4,Fri Aug 16 16:15:25 PDT 2002,2.78,135.00
+MN087,Maple Grove I-94 Mile Post 217,Fri Aug 16 16:15:58 PDT 2002,3.06,195.00
+MN096,Albert Lea I-35 Mile Post 30,Fri Aug 16 16:16:37 PDT 2002,5.28,135.00
+MN093,Silver Cliff MN-61 Mile Post 30,Fri Aug 16 16:10:00 PDT 2002,1.39,184.00
+MN081,Pier 20,Fri Aug 16 16:10:00 PDT 2002,5.00,229.00
+MN095,Blatnick Bridge South Abutment,Fri Aug 16 16:11:00 PDT 2002,3.06,272.00
+H0002,KNCTODD1               Jefferson     NC,Fri Aug 16 16:30:00 PDT 2002,1.34,70.00
+H0344,BlueStar Systems       Milford      OH,Fri Aug 16 16:30:00 PDT 2002,0.00,20.00
+H0004,BoblandUSA             San Diego     CA,Fri Aug 16 16:32:00 PDT 2002,1.34,210.00
+H0010,Mac Weather            Charlottetown PE,Fri Aug 16 16:34:00 PDT 2002,1.34,290.00
+H0012,Crowley TX WX Page     Crowley       TX,Fri Aug 16 16:30:00 PDT 2002,5.36,160.00
+H0449,West Houston	        Houston	     TX,Fri Aug 16 16:29:00 PDT 2002,2.24,130.00
+H0021,St Catharines ON,Fri Aug 16 16:30:00 PDT 2002,0.00,170.00
+H0024,Cornelius     OR,Fri Aug 16 16:31:00 PDT 2002,1.34,350.00
+H0445,Arlington Street	South Patrick Shores FL,Fri Aug 16 16:30:00 PDT 2002,1.34,140.00
+H0025,Dickinson     TX,Fri Aug 16 16:24:00 PDT 2002,1.34,150.00
+H0299,KALB Studios           Alexandria    LA,Fri Aug 16 16:15:00 PDT 2002,1.34,20.00
+H0245,Mobile        AL,Fri Aug 16 16:32:00 PDT 2002,0.00,140.00
+H0421,Spanish Fort           Daphne	     AL,Fri Aug 16 16:30:00 PDT 2002,0.45,180.00
+H0322,Phoenix       AZ,Fri Aug 16 16:25:00 PDT 2002,2.24,290.00
+H0031,Rainbow City  AL,Fri Aug 16 16:30:00 PDT 2002,0.00,80.00
+H0032,Hendersonvill TN,Fri Aug 16 16:31:00 PDT 2002,0.00,40.00
+H0339,Williams Worship       Bellflower    CA,Fri Aug 16 16:31:00 PDT 2002,1.34,210.00
+H0252,Chula Vista   CA,Fri Aug 16 16:20:00 PDT 2002,1.34,270.00
+H0300,Cloverdale    CA,Fri Aug 16 16:32:00 PDT 2002,0.89,220.00
+H0346,California Hills       Folsom        CA,Fri Aug 16 16:31:00 PDT 2002,0.00,250.00
+H0266,Springville Networks   Fortuna       CA,Fri Aug 16 16:31:00 PDT 2002,3.13,260.00
+H0158,Lancaster     CA,Fri Aug 16 16:30:00 PDT 2002,3.13,260.00
+H0284,Audette Associates     Nevada City   CA,Fri Aug 16 16:16:00 PDT 2002,0.00,140.00
+H0268,Sacramento    CA,Fri Aug 16 16:31:00 PDT 2002,0.89,230.00
+H0164,San Luis Obis CA,Fri Aug 16 16:31:00 PDT 2002,4.47,310.00
+H0269,South Valley Internet  San Martin    CA,Fri Aug 16 16:30:00 PDT 2002,3.58,150.00
+H0259,Pickles Central        San Rafael    CA,Fri Aug 16 16:30:00 PDT 2002,1.79,260.00
+H0324,2ROOS                  South Lake Ta CA,Fri Aug 16 16:25:00 PDT 2002,1.79,280.00
+H0348,Tehachapi     CA,Fri Aug 16 16:30:00 PDT 2002,2.24,250.00
+H0442,Whittier     CA,Fri Aug 16 16:30:00 PDT 2002,1.79,230.00
+H0349,Boulder       CO,Fri Aug 16 16:31:00 PDT 2002,4.47,250.00
+H0285,Kenos Weather          Manitou Sprin CO,Fri Aug 16 16:24:00 PDT 2002,0.89,260.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Fri Aug 16 16:30:00 PDT 2002,4.92,100.00
+H0209,Pioneer Creek Ranch    Silverthorne  CO,Fri Aug 16 16:30:00 PDT 2002,4.02,310.00
+H0325,Summit County CO,Fri Aug 16 16:31:00 PDT 2002,0.89,0.00
+H0189,Canterbury    CT,Fri Aug 16 16:20:00 PDT 2002,0.00,360.00
+H0448,Farm Hill              Middletown   CT,Fri Aug 16 16:32:00 PDT 2002,0.00,280.00
+H0350,Barn Hill              Monroe        CT,Fri Aug 16 16:30:00 PDT 2002,0.00,360.00
+H0206,Stonybrook             Norwalk       CT,Fri Aug 16 16:30:00 PDT 2002,0.00,300.00
+H0036,Dunstable     MA,Fri Aug 16 16:30:00 PDT 2002,1.34,310.00
+H0040,Sebastopol    CA,Fri Aug 16 16:22:00 PDT 2002,1.34,170.00
+H0224,Boynton Beach FL,Fri Aug 16 16:31:00 PDT 2002,3.58,130.00
+H0351,Port St. John Weather  Cocoa         FL,Fri Aug 16 16:30:00 PDT 2002,0.00,60.00
+H0295,Lake Mary     FL,Fri Aug 16 16:17:00 PDT 2002,2.24,100.00
+H0270,Margate       FL,Fri Aug 16 16:32:00 PDT 2002,2.24,130.00
+H0240,Santa Rosa Sound       Navarre       FL,Fri Aug 16 16:32:00 PDT 2002,3.58,140.00
+H0312,Satellite Bea FL,Fri Aug 16 16:21:00 PDT 2002,1.79,40.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Fri Aug 16 16:33:00 PDT 2002,0.00,110.00
+H0409,Auburn       GA,Fri Aug 16 16:31:00 PDT 2002,0.89,10.00
+H0225,FarPointe              Ball Ground   GA,Fri Aug 16 16:31:00 PDT 2002,0.00,40.00
+H0296,KD4K                   Cumming       GA,Fri Aug 16 16:30:00 PDT 2002,0.45,120.00
+H0377,Thornbrook             Marietta     GA,Fri Aug 16 16:15:00 PDT 2002,0.00,310.00
+H0195,Van Meter     IA,Fri Aug 16 16:32:00 PDT 2002,0.00,120.00
+H0261,Crystal Lake  IL,Fri Aug 16 16:30:00 PDT 2002,1.34,300.00
+H0286,KIMT Studios           Mason City    IA,Fri Aug 16 16:30:00 PDT 2002,1.79,210.00
+H0369,East side of I65       Crothersville IN,Fri Aug 16 16:30:00 PDT 2002,1.34,300.00
+H0271,Georgetown    IN,Fri Aug 16 16:30:00 PDT 2002,1.34,170.00
+H0191,Paducah       KY,Fri Aug 16 16:22:00 PDT 2002,0.00,190.00
+H0287,Arlington Center       Arlington     MA,Fri Aug 16 16:31:00 PDT 2002,1.79,200.00
+H0212,Brockton      MA,Fri Aug 16 16:30:00 PDT 2002,1.34,190.00
+H0272,WoodvilleGr1           Hopkinton     MA,Fri Aug 16 16:31:00 PDT 2002,1.79,300.00
+H0297,Uxbridge      MA,Fri Aug 16 16:16:00 PDT 2002,0.00,170.00
+H0213,California    MD,Fri Aug 16 16:30:00 PDT 2002,1.34,260.00
+H0156,Raymond       ME,Fri Aug 16 16:31:00 PDT 2002,0.00,150.00
+H0307,Bloomington   MN,Fri Aug 16 16:30:00 PDT 2002,1.34,120.00
+H0327,Duluth        MN,Fri Aug 16 16:30:00 PDT 2002,1.79,190.00
+H0273,Minnesotaweathernet    Franklin      MN,Fri Aug 16 16:30:00 PDT 2002,0.00,40.00
+H0354,Monticello    MN,Fri Aug 16 16:31:00 PDT 2002,1.34,150.00
+H0216,Vadnais Heigh MN,Fri Aug 16 16:30:00 PDT 2002,3.13,160.00
+H0342,Gideon School District Gideon        MO,Fri Aug 16 16:30:00 PDT 2002,0.00,100.00
+H0263,WeatherSource          Shelby        NC,Fri Aug 16 16:30:00 PDT 2002,1.34,50.00
+H0335,MSFTRNCS Weather Web   Hooper        NE,Fri Aug 16 16:30:00 PDT 2002,5.36,140.00
+H0387,North Holmes           Lake Lincoln NE,Fri Aug 16 16:30:00 PDT 2002,2.68,160.00
+H0241,Omaha         NE,Fri Aug 16 16:30:00 PDT 2002,3.13,180.00
+H0289,Omaha         NE,Fri Aug 16 16:28:00 PDT 2002,0.89,330.00
+H0370,Meadowlands            Secaucus     NJ,Fri Aug 16 16:24:00 PDT 2002,0.89,320.00
+H0217,White Mountain Meadows Ruidoso       NM,Fri Aug 16 16:29:00 PDT 2002,1.34,220.00
+H0042,Knoxville     TN,Fri Aug 16 16:30:00 PDT 2002,0.00,0.00
+H0302,Cuba          NY,Fri Aug 16 16:32:00 PDT 2002,0.00,240.00
+H0357,Hempstead     NY,Fri Aug 16 16:31:00 PDT 2002,0.00,140.00
+H0453,Neversink Reservoir	Neversink    NY,Fri Aug 16 16:31:00 PDT 2002,0.89,330.00
+H0308,New City      NY,Fri Aug 16 16:30:00 PDT 2002,0.00,220.00
+H0290,Rochester     NY,Fri Aug 16 16:18:00 PDT 2002,3.58,230.00
+H0141,Sloatsburg    NY,Fri Aug 16 16:30:00 PDT 2002,0.00,260.00
+H0304,Edmunds Weather        Smithtown     NY,Fri Aug 16 16:30:00 PDT 2002,0.00,30.00
+H0251,Vestal        NY,Fri Aug 16 16:20:00 PDT 2002,0.00,350.00
+H0309,Columbus      OH,Fri Aug 16 16:31:00 PDT 2002,1.34,240.00
+H0220,Hillsboro     OR,Fri Aug 16 16:30:00 PDT 2002,0.00,150.00
+H0159,Old Town               Sherwood      OR,Fri Aug 16 16:30:00 PDT 2002,2.24,270.00
+H0227,Turner        OR,Fri Aug 16 16:31:00 PDT 2002,3.58,340.00
+H0440,Broomall     PA,Fri Aug 16 16:31:00 PDT 2002,0.45,260.00
+H0336,Malvern       PA,Fri Aug 16 16:30:00 PDT 2002,0.00,350.00
+H0229,Audubon Society of W PA Fox Chapel   PA,Fri Aug 16 16:32:00 PDT 2002,0.89,120.00
+H0110,San Juan      PR,Fri Aug 16 16:30:00 PDT 2002,3.13,50.00
+H0043,WX for West PA/East OH Sharon        PA,Fri Aug 16 16:31:00 PDT 2002,0.89,290.00
+H0337,Middletown    RI,Fri Aug 16 16:25:00 PDT 2002,0.00,190.00
+H0329,Williamston   SC,Fri Aug 16 16:32:00 PDT 2002,0.45,330.00
+H0447,Downtown               Santa Rosa   CA,Fri Aug 16 16:16:00 PDT 2002,2.68,220.00
+H0396,Williamson             County Franklin TN,Fri Aug 16 16:30:00 PDT 2002,0.45,10.00
+H0318,Austin        TX,Fri Aug 16 16:31:00 PDT 2002,2.24,150.00
+H0202,KC4WTI                 Irving        TX,Fri Aug 16 16:19:00 PDT 2002,1.34,40.00
+H0360,Corinth       TX,Fri Aug 16 16:35:00 PDT 2002,3.58,200.00
+H0330,Gift World             Dallas        TX,Fri Aug 16 16:31:00 PDT 2002,0.45,240.00
+H0152,Frisco        TX,Fri Aug 16 16:31:00 PDT 2002,3.58,220.00
+H0311,Clear Lake City WX     Houston       TX,Fri Aug 16 16:31:00 PDT 2002,2.24,170.00
+H0204,Key Allegro            Rockport      TX,Fri Aug 16 16:17:00 PDT 2002,3.58,150.00
+H0418,Brushy Creek           Round Rock   TX,Fri Aug 16 16:30:00 PDT 2002,4.47,190.00
+H0415,Northwest Crossing	San Antonio  TX,Fri Aug 16 16:32:00 PDT 2002,1.79,260.00
+H0280,Taylor        TX,Fri Aug 16 16:30:00 PDT 2002,4.47,160.00
+H0451,Centerville  UT,Fri Aug 16 16:20:00 PDT 2002,1.79,330.00
+H0362,Salt Lake Cty UT,Fri Aug 16 16:30:00 PDT 2002,2.24,60.00
+H0293,Harrisonburg  VA,Fri Aug 16 16:31:00 PDT 2002,0.45,260.00
+H0231,New Canton    VA,Fri Aug 16 16:31:00 PDT 2002,0.00,240.00
+H0157,N4NW                   Stafford      VA,Fri Aug 16 16:17:00 PDT 2002,0.00,220.00
+H0443,Fishers Glen           Vancouver    WA,Fri Aug 16 16:29:00 PDT 2002,2.24,330.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Fri Aug 16 16:20:00 PDT 2002,2.24,310.00
+H0423,Middleboro   MA,Fri Aug 16 16:30:00 PDT 2002,2.24,290.00
+H0400,Jacksonville MO,Fri Aug 16 16:31:00 PDT 2002,2.24,100.00
+H0052,New Milford Weather    New Milford   CT,Fri Aug 16 16:32:00 PDT 2002,0.00,270.00
+H0424,Carson City	        Carson City  NV,Fri Aug 16 16:30:00 PDT 2002,3.13,230.00
+H0062,Northeast Raleigh      Raleigh       NC,Fri Aug 16 16:31:00 PDT 2002,0.89,130.00
+H0068,St. Cloud     MN,Fri Aug 16 16:30:00 PDT 2002,1.34,120.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Fri Aug 16 16:31:00 PDT 2002,0.00,180.00
+H0072,Thunder Ranch          Juniper Hills CA,Fri Aug 16 16:31:00 PDT 2002,4.02,210.00
+H0080,Coles Pond Weathercam  Walden        VT,Fri Aug 16 16:31:00 PDT 2002,1.34,230.00
+H0083,WBTW Studios           Florence      SC,Fri Aug 16 16:30:00 PDT 2002,0.45,270.00
+H0084,WDEF Studios           Chattanooga   TN,Fri Aug 16 16:30:00 PDT 2002,1.34,130.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Fri Aug 16 16:30:00 PDT 2002,0.00,350.00
+H0086,WIAT Studios           Birmingham    AL,Fri Aug 16 16:15:00 PDT 2002,0.89,250.00
+H0087,WJBF Studios           Augusta       GA,Fri Aug 16 16:30:00 PDT 2002,0.89,130.00
+H0088,WJHL Studios           Johnson City  TN,Fri Aug 16 16:35:00 PDT 2002,0.00,30.00
+H0089,WJTV Studios           Jackson       MS,Fri Aug 16 16:32:00 PDT 2002,1.34,280.00
+H0399,Lake Forest            Daphne       AL,Fri Aug 16 16:30:00 PDT 2002,0.00,320.00
+H0091,WMBB Studios           Panama City   FL,Fri Aug 16 16:30:00 PDT 2002,0.00,120.00
+H0094,Gorilla Weather        Winnipeg      MB,Fri Aug 16 16:30:00 PDT 2002,0.89,220.00
+H0095,WSAV Studios           Savannah      GA,Fri Aug 16 16:15:00 PDT 2002,0.00,190.00
+BLDF1,Belle Glade                            FAWN,Fri Aug 16 16:15:00 PDT 2002,1.50,24.56
+TRAF1,Citra                                  FAWN,Fri Aug 16 16:15:00 PDT 2002,1.04,52.73
+ALHF1,Alachua                                FAWN,Fri Aug 16 16:15:00 PDT 2002,0.78,97.20
+STNF1,Hastings                               FAWN,Fri Aug 16 16:15:00 PDT 2002,4.56,112.70
+CKHF1,Ocklawaha                              FAWN,Fri Aug 16 16:15:00 PDT 2002,2.47,101.30
+VRSF1,Tavares                                FAWN,Fri Aug 16 16:15:00 PDT 2002,3.18,92.00
+UMLF1,Umatilla                               FAWN,Fri Aug 16 16:15:00 PDT 2002,3.69,102.40
+KHPF1,Okahumpka                              FAWN,Fri Aug 16 16:15:00 PDT 2002,2.89,105.20
+VLNF1,Avalon                                 FAWN,Fri Aug 16 16:15:00 PDT 2002,1.73,103.60
+KSLF1,Brooksville                            FAWN,Fri Aug 16 16:15:00 PDT 2002,0.65,269.90
+POPF1,Apopka                                 FAWN,Fri Aug 16 16:15:00 PDT 2002,4.14,201.00
+KALF1,Lake Alfred                            FAWN,Fri Aug 16 16:15:00 PDT 2002,1.82,90.00
+DOVF1,Dover                                  FAWN,Fri Aug 16 16:15:00 PDT 2002,0.83,64.63
+DNTF1,Bradenton                              FAWN,Fri Aug 16 16:15:00 PDT 2002,3.26,117.50
+FDLF1,Fort Lauderdale                        FAWN,Fri Aug 16 16:15:00 PDT 2002,4.90,119.10
+PCEF1,Fort Pierce                            FAWN,Fri Aug 16 16:15:00 PDT 2002,4.28,112.90
+STDF1,Homestead                              FAWN,Fri Aug 16 16:15:00 PDT 2002,4.10,123.10
+IMKF1,Immokalee                              FAWN,Fri Aug 16 16:15:00 PDT 2002,1.82,68.09
+NP018,Newport, RI,Fri Aug 16 16:24:00 PDT 2002,4.20,219.00
+NP019,Providence, RI,Fri Aug 16 16:24:00 PDT 2002,4.50,226.00
+NP020,Conimicut Pt, RI,Fri Aug 16 16:24:00 PDT 2002,5.70,199.00
+NP022,Borden Flats, MA,Fri Aug 16 16:24:00 PDT 2002,6.20,215.00
+NP023,Prud Island, RI,Fri Aug 16 16:24:00 PDT 2002,1.70,213.00
+NP024,Quonset Pt, RI,Fri Aug 16 16:24:00 PDT 2002,5.20,254.00
+NP003,Tolchester, MD,Fri Aug 16 16:24:00 PDT 2002,5.00,255.00
+NP004,Solomons Island, MD,Fri Aug 16 16:24:00 PDT 2002,4.40,235.00
+NP011,Kiptopeke, VA,Fri Aug 16 16:24:00 PDT 2002,4.30,281.00
+NP002,Lewisetta, MD,Fri Aug 16 16:24:00 PDT 2002,4.50,231.00
+NP010,Sewells Pt, VA,Fri Aug 16 16:24:00 PDT 2002,2.40,256.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:24:00 PDT 2002,4.80,250.00
+NP025,Old Port Tampa, FL,Fri Aug 16 16:24:00 PDT 2002,2.50,81.00
+NP026,St Petersburg, FL,Fri Aug 16 16:24:00 PDT 2002,4.90,96.00
+NP028,Port Manatee, FL,Fri Aug 16 16:24:00 PDT 2002,2.80,99.00
+NP029,Port Tampa, FL,Fri Aug 16 16:24:00 PDT 2002,0.00,0.00
+NP030,Galveston Pleasure Pier, TX,Fri Aug 16 16:30:00 PDT 2002,6.60,138.00
+NP033,Eagle Point,Fri Aug 16 16:30:00 PDT 2002,6.60,142.00
+NP034,Morgans Point,Fri Aug 16 16:30:00 PDT 2002,6.50,146.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:24:00 PDT 2002,2.30,194.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:24:00 PDT 2002,3.70,214.00
+NP017,Kings Point, NY,Fri Aug 16 16:24:00 PDT 2002,3.20,184.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:24:00 PDT 2002,5.40,173.00
+WFDCA,WATERFORD CA                           ETL,Fri Aug 16 16:00:00 PDT 2002,5.57,286.82
+BMTC2,Blue_Mountain,Fri Aug 16 16:32:00 PDT 2002,3.13,0.00
+QURC2,Quincy_Res,Fri Aug 16 16:32:00 PDT 2002,1.34,11.00
+DHPC2,Diamond_Hill,Fri Aug 16 16:32:00 PDT 2002,4.20,259.00
+EBBC2,Elbert,Fri Aug 16 16:32:00 PDT 2002,3.49,32.00
+BHNC2,Brighton,Fri Aug 16 16:32:00 PDT 2002,1.97,292.00
+HGCC2,Hiwan_G.C.,Fri Aug 16 16:32:00 PDT 2002,1.34,328.00
+HIGC2,Highlands_Ranch_WTP,Fri Aug 16 16:32:00 PDT 2002,5.05,326.00
+SAPC2,Salisbury_Park,Fri Aug 16 16:32:00 PDT 2002,2.55,17.00
+COKC2,Castle_Rock,Fri Aug 16 16:32:00 PDT 2002,0.80,354.00
+SFSC2,Sugarloaf,Fri Aug 16 16:32:00 PDT 2002,2.82,292.00
+LEWC2,Louisville_Lake,Fri Aug 16 16:32:00 PDT 2002,4.96,236.00
+BTRC2,Button_Rock,Fri Aug 16 16:32:00 PDT 2002,1.88,214.00
+URBC2,Urban Farm at Stapleton,Fri Aug 16 16:32:00 PDT 2002,2.86,310.00
+MN001,Twin Lakes I-35 Mile Post 1,Fri Aug 16 16:24:02 PDT 2002,6.11,160.00
+MN003,Little Chicago I-35 Mile Post 70,Fri Aug 16 16:24:01 PDT 2002,3.61,145.00
+MN004,Rush City I-35 Mile Post 157,Fri Aug 16 16:27:02 PDT 2002,1.67,115.00
+MN006,Beaver Creek I-90 Mile Post 4,Fri Aug 16 16:25:04 PDT 2002,11.11,160.00
+MN007,I-90 Mile Post 35,Fri Aug 16 16:21:01 PDT 2002,10.83,150.00
+MN008,I-90 Mile Post 67,Fri Aug 16 16:30:01 PDT 2002,8.33,185.00
+MN009,Blue Earth I-90 Mile Post 119,Fri Aug 16 16:30:01 PDT 2002,3.06,125.00
+MN010,Dexter I-90 Mile Post 195,Fri Aug 16 16:25:00 PDT 2002,5.83,130.00
+MN011,Jct CR 7 I-90 Mile Post 226,Fri Aug 16 16:29:01 PDT 2002,5.00,135.00
+MN012,Ridgeway I-90 Mile Post 261,Fri Aug 16 16:25:01 PDT 2002,3.61,175.00
+MN013,Dilworth I-94 Mile Post 5,Fri Aug 16 16:29:03 PDT 2002,7.78,120.00
+MN014,Rothsay I-94 Mile Post 38,Fri Aug 16 16:24:00 PDT 2002,7.78,100.00
+MN015,Alexandria I-94 Mile Post 104,Fri Aug 16 16:30:02 PDT 2002,5.00,135.00
+MN016,Sauk Center I-94 Mile Post 128,Fri Aug 16 16:22:02 PDT 2002,4.44,160.00
+MN017,Clearwater I-94 Mile Post 180,Fri Aug 16 16:26:02 PDT 2002,2.78,150.00
+MN018,Shooks MN-1 Mile Post 34,Fri Aug 16 16:29:01 PDT 2002,4.17,185.00
+MN020,Emily MN-6 Mile Post 29,Fri Aug 16 16:30:03 PDT 2002,2.50,130.00
+MN021,Clara City MN-7 Mile Post 89,Fri Aug 16 16:30:00 PDT 2002,4.72,115.00
+MN022,Lester Prairie MN-7 Mile Post 161,Fri Aug 16 16:21:01 PDT 2002,4.44,140.00
+MN024,MN-7 Mile Post 11,Fri Aug 16 16:30:10 PDT 2002,1.39,220.00
+MN025,MN-11 Mile Post 62,Fri Aug 16 16:30:10 PDT 2002,1.67,175.00
+MN026,Brichdale MN-11 Mile Post 157,Fri Aug 16 16:29:02 PDT 2002,2.78,170.00
+MN029,Byron US-14 Mile Post 200,Fri Aug 16 16:28:00 PDT 2002,7.22,95.00
+MN030,Hendricks MN-19 Mile Post 2,Fri Aug 16 16:21:02 PDT 2002,8.33,135.00
+MN032,Winthrop MN-19 Mile Post 108,Fri Aug 16 16:21:03 PDT 2002,4.17,140.00
+MN033,Hanley Falls MN-23 Mile Post 94,Fri Aug 16 16:26:01 PDT 2002,8.06,135.00
+MN035,Lastrup MN-25 Mile Post 140,Fri Aug 16 16:23:00 PDT 2002,3.61,95.00
+MN036,Graceville MN-28 Mile Post 19,Fri Aug 16 16:23:02 PDT 2002,7.78,135.00
+MN037,Langhei Township MN-29 Mile Post 46,Fri Aug 16 16:23:02 PDT 2002,5.56,150.00
+MN038,Dovray MN-30 Mile Post 49,Fri Aug 16 16:22:00 PDT 2002,6.67,130.00
+MN040,Caledonia MN-44 Mile Post 60,Fri Aug 16 16:25:01 PDT 2002,0.28,195.00
+MN041,Squaw Lake MN-46 Mile Post 25,Fri Aug 16 16:22:02 PDT 2002,0.83,125.00
+MN042,Cannon Falls US-52 Mile Post 90,Fri Aug 16 16:23:01 PDT 2002,5.28,175.00
+MN043,Georgeville MN-55 Mile Post 98,Fri Aug 16 16:22:01 PDT 2002,6.39,170.00
+MN044,Mahnomen US-59 Mile Post 296,Fri Aug 16 16:27:01 PDT 2002,5.00,145.00
+MN045,Madelia US-60 Mile Post 86,Fri Aug 16 16:22:00 PDT 2002,3.89,145.00
+MN047,Red Wing US-61 Mile Post 101,Fri Aug 16 16:24:01 PDT 2002,4.44,140.00
+MN048,Grand Portage MN-61 Mile Post 146,Fri Aug 16 16:23:03 PDT 2002,1.67,195.00
+MN049,Chamberlain MN-64 Mile Post 42,Fri Aug 16 16:29:02 PDT 2002,4.72,135.00
+MN050,Pliny MN-65 Mile Post 98,Fri Aug 16 16:24:02 PDT 2002,1.39,40.00
+MN051,Ball Bluff MN-65 Mile Post 145,Fri Aug 16 16:25:03 PDT 2002,0.28,70.00
+MN052,Effie MN-1 Mile Post 194,Fri Aug 16 16:28:02 PDT 2002,1.94,185.00
+MN054,Tenney US-75 Mile Post 188,Fri Aug 16 16:26:03 PDT 2002,5.83,140.00
+MN055,Ottertail MN-78 Mile Post 34,Fri Aug 16 16:27:03 PDT 2002,2.22,70.00
+MN056,Gatzke MN-89 Mile Post 96,Fri Aug 16 16:26:03 PDT 2002,1.39,55.00
+MN057,St. Vincent MN-171 Mile Post 2,Fri Aug 16 16:28:03 PDT 2002,4.44,105.00
+MN058,Anthony MN-200 Mile Post 9,Fri Aug 16 16:27:00 PDT 2002,6.94,105.00
+MN059,Mehurin US-212 Mile Post 1,Fri Aug 16 16:29:04 PDT 2002,5.56,145.00
+MN060,East Grand Forks US-2 Mile Post 8,Fri Aug 16 16:30:11 PDT 2002,5.83,55.00
+MN062,Lake Park US-10 Mile Post 32,Fri Aug 16 16:27:00 PDT 2002,6.11,80.00
+MN063,Verndale US-10 Mile Post 94,Fri Aug 16 16:28:01 PDT 2002,3.89,115.00
+MN064,Rice US-10 Mile Post 162,Fri Aug 16 16:26:01 PDT 2002,3.06,145.00
+MN065,Canton US-52 Mile Post 2,Fri Aug 16 16:25:02 PDT 2002,1.67,150.00
+MN066,Cotton US-53 Mile Post 41,Fri Aug 16 16:21:07 PDT 2002,1.39,205.00
+MN067,Ash Lake US-53 Mile Post 129,Fri Aug 16 16:22:03 PDT 2002,1.94,200.00
+MN068,Brooks US-59 Mile Post 331,Fri Aug 16 16:27:01 PDT 2002,3.89,65.00
+MN069,Kellogg US-61 Mile Post 53,Fri Aug 16 16:30:00 PDT 2002,2.78,175.00
+MN071,MN-71 Mile Post 43,Fri Aug 16 16:22:01 PDT 2002,10.56,165.00
+MN073,Mankato US-169 Mile Post 52,Fri Aug 16 16:24:00 PDT 2002,1.94,150.00
+MN076,Milaca US-169 Mile Post 200,Fri Aug 16 16:26:02 PDT 2002,3.89,130.00
+MN079,New Prague MN-19 Mile Post 149,Fri Aug 16 16:28:00 PDT 2002,6.11,130.00
+NP018,Newport, RI,Fri Aug 16 16:30:00 PDT 2002,4.20,209.00
+NP019,Providence, RI,Fri Aug 16 16:30:00 PDT 2002,3.30,195.00
+NP020,Conimicut Pt, RI,Fri Aug 16 16:30:00 PDT 2002,4.50,197.00
+NP022,Borden Flats, MA,Fri Aug 16 16:30:00 PDT 2002,6.70,214.00
+NP023,Prud Island, RI,Fri Aug 16 16:30:00 PDT 2002,2.20,215.00
+NP024,Quonset Pt, RI,Fri Aug 16 16:30:00 PDT 2002,5.00,253.00
+NP003,Tolchester, MD,Fri Aug 16 16:30:00 PDT 2002,5.00,262.00
+NP004,Solomons Island, MD,Fri Aug 16 16:30:00 PDT 2002,4.40,230.00
+NP011,Kiptopeke, VA,Fri Aug 16 16:30:00 PDT 2002,4.50,289.00
+NP002,Lewisetta, MD,Fri Aug 16 16:30:00 PDT 2002,4.90,233.00
+NP010,Sewells Pt, VA,Fri Aug 16 16:30:00 PDT 2002,3.00,260.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:30:00 PDT 2002,4.80,245.00
+NP013,Money Pt, VA,Fri Aug 16 16:30:00 PDT 2002,0.80,238.00
+NP025,Old Port Tampa, FL,Fri Aug 16 16:30:00 PDT 2002,1.70,80.00
+NP026,St Petersburg, FL,Fri Aug 16 16:30:00 PDT 2002,4.30,94.00
+NP028,Port Manatee, FL,Fri Aug 16 16:30:00 PDT 2002,2.70,97.00
+NP029,Port Tampa, FL,Fri Aug 16 16:30:00 PDT 2002,0.00,0.00
+NP030,Galveston Pleasure Pier, TX,Fri Aug 16 16:36:00 PDT 2002,6.60,134.00
+NP034,Morgans Point,Fri Aug 16 16:36:00 PDT 2002,5.90,143.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:30:00 PDT 2002,0.30,178.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:30:00 PDT 2002,4.30,215.00
+NP017,Kings Point, NY,Fri Aug 16 16:30:00 PDT 2002,2.40,194.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:30:00 PDT 2002,5.10,170.00
+MN086,Burnsville I-35W Mile Post 4,Fri Aug 16 16:24:01 PDT 2002,3.89,130.00
+MN087,Maple Grove I-94 Mile Post 217,Fri Aug 16 16:24:34 PDT 2002,3.61,190.00
+MN088,Little Canada I-694 Mile Post 46,Fri Aug 16 16:23:43 PDT 2002,3.89,195.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Fri Aug 16 16:24:17 PDT 2002,5.83,140.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Fri Aug 16 16:24:52 PDT 2002,3.89,155.00
+MN096,Albert Lea I-35 Mile Post 30,Fri Aug 16 16:25:14 PDT 2002,3.89,155.00
+MN093,Silver Cliff MN-61 Mile Post 30,Fri Aug 16 16:20:00 PDT 2002,0.00,193.00
+MN081,Pier 20,Fri Aug 16 16:20:00 PDT 2002,4.17,227.00
+MN095,Blatnick Bridge South Abutment,Fri Aug 16 16:21:00 PDT 2002,3.06,254.00
+F1264,ALCAN HWY MI-1244,Fri Aug 16 16:19:00 PDT 2002,2.24,310.00
+F1266,BEAR MTN.,Fri Aug 16 16:20:00 PDT 2002,3.13,260.00
+F1267,BEAVER (WBQ),Fri Aug 16 16:20:00 PDT 2002,5.36,240.00
+F1268,BEN CREEK,Fri Aug 16 16:25:00 PDT 2002,3.13,270.00
+F1269,BENTALIT,Fri Aug 16 16:21:00 PDT 2002,0.45,290.00
+F1272,BIRCH CREEK,Fri Aug 16 16:05:00 PDT 2002,2.24,250.00
+F1273,BOOTH LAKE,Fri Aug 16 16:24:00 PDT 2002,4.02,300.00
+F1682,CAPE KIAVAK,Fri Aug 16 16:26:00 PDT 2002,2.24,230.00
+F1276,CHALKYITSIK,Fri Aug 16 16:24:00 PDT 2002,3.13,240.00
+F1278,CHICKEN,Fri Aug 16 16:18:00 PDT 2002,3.13,40.00
+F1279,CHISANA,Fri Aug 16 16:24:00 PDT 2002,1.79,340.00
+F1281,COTTONWOOD,Fri Aug 16 16:25:00 PDT 2002,4.02,240.00
+F1282,EAGLE,Fri Aug 16 16:25:00 PDT 2002,0.89,250.00
+F1292,GRAPHITE LAKE,Fri Aug 16 16:27:00 PDT 2002,5.81,10.00
+F1299,HOODOO HILL,Fri Aug 16 16:19:00 PDT 2002,8.05,240.00
+F1774,KELLY 1,Fri Aug 16 16:23:00 PDT 2002,4.47,240.00
+F1317,LAKE MINCHUMINA,Fri Aug 16 16:20:00 PDT 2002,4.02,230.00
+F1318,LIVENGOOD,Fri Aug 16 16:06:00 PDT 2002,5.81,190.00
+F1319,MAY CREEK,Fri Aug 16 16:25:00 PDT 2002,1.79,290.00
+F1320,MCKINLEY RIVER,Fri Aug 16 16:20:00 PDT 2002,1.79,190.00
+F1324,NEW LAKE,Fri Aug 16 16:07:00 PDT 2002,4.47,280.00
+F1326,NOATAK,Fri Aug 16 16:23:00 PDT 2002,6.26,240.00
+F1327,NORUTAK LAKE,Fri Aug 16 16:21:00 PDT 2002,2.68,270.00
+F1331,PORT ALSWORTH,Fri Aug 16 16:22:00 PDT 2002,1.34,20.00
+F1332,PREACHER CREEK,Fri Aug 16 16:07:00 PDT 2002,4.92,280.00
+F1335,REINDEER RIVER,Fri Aug 16 16:08:00 PDT 2002,6.26,250.00
+F1337,ROUND LAKE,Fri Aug 16 16:10:00 PDT 2002,3.13,220.00
+F1345,SITE SUMMIT,Fri Aug 16 16:14:00 PDT 2002,1.34,240.00
+F1347,STONEY,Fri Aug 16 16:22:00 PDT 2002,1.34,190.00
+F1349,SWANSON RIVER,Fri Aug 16 16:15:00 PDT 2002,1.34,210.00
+F1354,VUNZIK LAKE,Fri Aug 16 16:18:00 PDT 2002,5.81,250.00
+F1667,OAKMULGEE,Fri Aug 16 16:24:00 PDT 2002,0.00,360.00
+F1874,OPNPND,Fri Aug 16 16:22:00 PDT 2002,1.34,140.00
+F1854,ODEN,Fri Aug 16 16:03:00 PDT 2002,2.24,170.00
+ALRA3,ALPINE,Fri Aug 16 16:06:00 PDT 2002,1.79,290.00
+QBHA3,BLACK HILLS,Fri Aug 16 16:31:00 PDT 2002,3.13,280.00
+QBRA3,BLACK ROCK,Fri Aug 16 16:01:00 PDT 2002,3.13,300.00
+QBAA3,BRIGHT ANGEL,Fri Aug 16 16:11:00 PDT 2002,0.45,230.00
+QBMA3,BUCKSKIN MTN,Fri Aug 16 16:10:00 PDT 2002,6.26,240.00
+CHEA3,CHERRY,Fri Aug 16 16:04:00 PDT 2002,2.68,330.00
+QEMA3,EMPIRE,Fri Aug 16 16:02:00 PDT 2002,4.92,60.00
+NS001,FLAGSTAFF,Fri Aug 16 16:06:00 PDT 2002,2.24,250.00
+TR400,FORT APACHE 1,Fri Aug 16 16:14:00 PDT 2002,2.24,110.00
+TR533,FORT APACHE RX#1,Fri Aug 16 16:14:00 PDT 2002,4.47,260.00
+FZWA3,FRAZIER WELLS,Fri Aug 16 16:15:00 PDT 2002,3.13,140.00
+NS003,GLOBE,Fri Aug 16 16:06:00 PDT 2002,2.68,280.00
+QGDA3,GOODWIN MESA,Fri Aug 16 16:03:00 PDT 2002,4.02,200.00
+QGRA3,GREER,Fri Aug 16 16:08:00 PDT 2002,4.02,200.00
+QGSA3,GUNSIGHT,Fri Aug 16 16:03:00 PDT 2002,3.58,280.00
+QGTA3,GUTHRIE,Fri Aug 16 16:04:00 PDT 2002,6.71,240.00
+QHEA3,HEBER,Fri Aug 16 16:06:00 PDT 2002,2.24,200.00
+TR068,HILLTOP,Fri Aug 16 16:05:00 PDT 2002,1.79,300.00
+TR578,HOPI,Fri Aug 16 16:13:00 PDT 2002,2.24,350.00
+QHPA3,HOPKINS,Fri Aug 16 16:27:00 PDT 2002,5.36,80.00
+QHRA3,HORSE CAMP CANYON,Fri Aug 16 16:05:00 PDT 2002,4.02,270.00
+QHOA3,HOUSEROCK,Fri Aug 16 16:05:00 PDT 2002,2.24,230.00
+QHBA3,HUMBUG CREEK,Fri Aug 16 16:06:00 PDT 2002,7.60,220.00
+QHUA3,HURRICANE,Fri Aug 16 16:06:00 PDT 2002,4.02,220.00
+NS004,IRON SPRINGS,Fri Aug 16 16:06:00 PDT 2002,4.47,230.00
+NS005,LAKESIDE,Fri Aug 16 16:16:00 PDT 2002,3.58,90.00
+QLBA3,LINDBERGH HILL,Fri Aug 16 16:12:00 PDT 2002,1.34,270.00
+QMBA3,MOSS BASIN,Fri Aug 16 16:08:00 PDT 2002,4.02,240.00
+QMLA3,MOUNT LOGAN,Fri Aug 16 16:08:00 PDT 2002,0.00,340.00
+QMRA3,MULESHOE RANCH,Fri Aug 16 16:09:00 PDT 2002,4.02,210.00
+QMMA3,MUSIC MOUNTAIN,Fri Aug 16 16:09:00 PDT 2002,4.47,220.00
+TR071,NIXON FLATS,Fri Aug 16 16:02:00 PDT 2002,0.00,160.00
+QOKA3,OLAF KNOLLS,Fri Aug 16 16:10:00 PDT 2002,1.34,180.00
+QRTA3,ROBINSON TANK,Fri Aug 16 16:11:00 PDT 2002,9.83,210.00
+QRSA3,ROOSEVELT,Fri Aug 16 16:11:00 PDT 2002,4.47,220.00
+TR410,SAN CARLOS #1,Fri Aug 16 16:14:00 PDT 2002,4.02,240.00
+QSEA3,SELLES,Fri Aug 16 16:14:00 PDT 2002,4.02,300.00
+QSTA3,STANTON,Fri Aug 16 16:12:00 PDT 2002,4.92,200.00
+QSPA3,SUNSET POINT,Fri Aug 16 16:12:00 PDT 2002,6.26,220.00
+QTCA3,TRAIL CABIN,Fri Aug 16 16:08:00 PDT 2002,2.68,60.00
+QTWA3,TWEEDS POINT,Fri Aug 16 16:13:00 PDT 2002,5.81,260.00
+TMP97,TWIN WEST,Fri Aug 16 16:20:00 PDT 2002,3.13,280.00
+QUPA3,UNION PASS,Fri Aug 16 16:13:00 PDT 2002,4.47,220.00
+QVDA3,VERDE,Fri Aug 16 16:05:00 PDT 2002,5.36,10.00
+QWSA3,WARM SPRINGS CANYON,Fri Aug 16 16:23:00 PDT 2002,2.68,270.00
+QYJA3,YELLOW JOHN MOUNTAI,Fri Aug 16 16:10:00 PDT 2002,2.68,300.00
+TR079,ADIN - PORTABLE,Fri Aug 16 16:28:00 PDT 2002,0.45,280.00
+NZAC1,ANZA,Fri Aug 16 16:12:00 PDT 2002,3.13,260.00
+ARGC1,ARROYO GRANDE,Fri Aug 16 16:10:00 PDT 2002,2.24,270.00
+ASRC1,ARROYO SECO (MT. DI,Fri Aug 16 16:09:00 PDT 2002,1.79,60.00
+AVLC1,ASH VALLEY,Fri Aug 16 16:09:00 PDT 2002,4.92,320.00
+BDMC1,BALD MTN LOC,Fri Aug 16 16:09:00 PDT 2002,0.89,30.00
+BSNC1,BATTERSON,Fri Aug 16 16:31:00 PDT 2002,1.34,250.00
+BPKC1,BEAR PEAK,Fri Aug 16 16:21:00 PDT 2002,6.26,240.00
+CAPC1,BELL CANYON,Fri Aug 16 16:31:00 PDT 2002,4.47,200.00
+BNDC1,BEN LOMOND,Fri Aug 16 16:01:00 PDT 2002,1.34,60.00
+BETC1,BENTON,Fri Aug 16 16:12:00 PDT 2002,0.00,150.00
+BPFC1,BIG PINE FLAT,Fri Aug 16 16:19:00 PDT 2002,1.34,270.00
+TR361,BIG SUR,Fri Aug 16 16:26:00 PDT 2002,1.79,140.00
+BOGC1,BOGARD R.S.,Fri Aug 16 16:30:00 PDT 2002,1.79,270.00
+TR541,BRIDGEPORT,Fri Aug 16 16:04:00 PDT 2002,5.81,230.00
+BMEC1,BUCK MEADOWS,Fri Aug 16 16:02:00 PDT 2002,2.68,260.00
+BUFC1,BULL FLAT,Fri Aug 16 16:25:00 PDT 2002,3.58,240.00
+BTTC1,BUTTERCUP,Fri Aug 16 16:16:00 PDT 2002,2.68,160.00
+QCAC1,CAHUILLA,Fri Aug 16 16:17:00 PDT 2002,3.13,190.00
+CMNC1,CAMERON FIRE STATIO,Fri Aug 16 16:03:00 PDT 2002,3.58,320.00
+CAZC1,CARRIZO,Fri Aug 16 16:08:00 PDT 2002,4.92,330.00
+TR376,CASHMAN,Fri Aug 16 16:09:00 PDT 2002,7.15,230.00
+CVBC1,CATHEYS VALLEY,Fri Aug 16 16:03:00 PDT 2002,6.26,320.00
+TR099,CDF PORTABLE #11,Fri Aug 16 16:24:00 PDT 2002,1.34,260.00
+TR102,CDF PORTABLE #14,Fri Aug 16 16:23:00 PDT 2002,0.89,50.00
+TR106,CDF PORTABLE #17,Fri Aug 16 16:21:00 PDT 2002,0.89,270.00
+TR107,CDF PORTABLE #2,Fri Aug 16 16:29:00 PDT 2002,0.89,80.00
+TR108,CDF PORTABLE #3,Fri Aug 16 16:28:00 PDT 2002,2.68,10.00
+TR114,CDF PORTABLE #9,Fri Aug 16 16:25:00 PDT 2002,1.34,280.00
+CNFC1,CFLO RAWS,Fri Aug 16 16:14:00 PDT 2002,4.02,220.00
+CESC1,CHESTER,Fri Aug 16 16:30:00 PDT 2002,4.02,260.00
+CUUC1,CHUCHUPATE,Fri Aug 16 16:15:00 PDT 2002,2.68,280.00
+CLHC1,CLARK,Fri Aug 16 16:12:00 PDT 2002,4.02,270.00
+TR118,CLEVELAND PORTABLE,Fri Aug 16 16:21:00 PDT 2002,1.79,270.00
+CVEC1,CONVERSE,Fri Aug 16 16:20:00 PDT 2002,2.68,220.00
+PTEC1,COOSKIE MOUNTAIN,Fri Aug 16 16:06:00 PDT 2002,8.49,320.00
+CTOC1,CORRALITOS,Fri Aug 16 16:02:00 PDT 2002,1.79,230.00
+CNSC1,CRANSTON,Fri Aug 16 16:20:00 PDT 2002,1.79,280.00
+DNTC1,DELNORTE,Fri Aug 16 16:04:00 PDT 2002,0.89,30.00
+DVOC1,DEVORE,Fri Aug 16 16:10:00 PDT 2002,3.13,200.00
+DKYC1,DINKEY,Fri Aug 16 16:05:00 PDT 2002,1.79,230.00
+DBHC1,DOUBLEHEAD - PORTAB,Fri Aug 16 16:28:00 PDT 2002,0.45,280.00
+TR399,DUNCAN,Fri Aug 16 16:10:00 PDT 2002,6.26,280.00
+ECSC1,EL CARISO,Fri Aug 16 16:04:00 PDT 2002,3.58,130.00
+EMRC1,EL MIRAGE,Fri Aug 16 16:17:00 PDT 2002,4.02,260.00
+ESPC1,ESPERANZA,Fri Aug 16 16:02:00 PDT 2002,1.79,260.00
+FCHC1,FANCHER CREEK,Fri Aug 16 16:05:00 PDT 2002,2.24,260.00
+FWSC1,FAWNSKIN,Fri Aug 16 16:20:00 PDT 2002,2.24,200.00
+FNWC1,FENCE MEADOW,Fri Aug 16 16:01:00 PDT 2002,3.58,280.00
+FMRC1,FIVE MILE,Fri Aug 16 16:14:00 PDT 2002,6.26,170.00
+FSHC1,FORESTHILL 2,Fri Aug 16 16:10:00 PDT 2002,2.68,240.00
+FHLC1,FORT HUNTER LIGGET,Fri Aug 16 16:22:00 PDT 2002,3.58,60.00
+FODC1,FORT ORD,Fri Aug 16 16:16:00 PDT 2002,4.92,290.00
+FTNC1,FOUNTAIN SPRINGS,Fri Aug 16 16:06:00 PDT 2002,1.79,290.00
+FRCC1,FREMONT CANYON,Fri Aug 16 16:30:00 PDT 2002,4.02,190.00
+GNSC1,GREEN SPRING,Fri Aug 16 16:03:00 PDT 2002,4.02,250.00
+CAHC1,HASTINGS,Fri Aug 16 16:07:00 PDT 2002,3.58,270.00
+HLLC1,HELL HOLE,Fri Aug 16 16:09:00 PDT 2002,3.58,250.00
+HDZC1,HERNANDEZ,Fri Aug 16 16:07:00 PDT 2002,5.36,250.00
+GJCN5,HOPLAND UC,Fri Aug 16 16:28:00 PDT 2002,3.58,220.00
+HTSC1,HORSE THIEF SPRINGS,Fri Aug 16 16:21:00 PDT 2002,1.79,310.00
+PRHC1,HURLEY,Fri Aug 16 16:05:00 PDT 2002,2.68,250.00
+IDWC1,INDIAN WELL,Fri Aug 16 16:16:00 PDT 2002,1.34,50.00
+IWLC1,INDIAN WELLS CANYON,Fri Aug 16 16:13:00 PDT 2002,11.62,170.00
+TR550,INF PORTABLE #2,Fri Aug 16 16:07:00 PDT 2002,1.34,260.00
+JULC1,JULIAN,Fri Aug 16 16:14:00 PDT 2002,2.68,270.00
+JPRC1,JUNIPER CREEK,Fri Aug 16 16:16:00 PDT 2002,1.79,10.00
+KNWC1,KEENWILD,Fri Aug 16 16:19:00 PDT 2002,2.24,280.00
+KTLC1,KETTLEMAN HILLS,Fri Aug 16 16:09:00 PDT 2002,4.92,350.00
+KNXC1,KNOXVILLE CREEK,Fri Aug 16 16:05:00 PDT 2002,4.02,200.00
+LDRC1,LADDER BUTTE,Fri Aug 16 16:31:00 PDT 2002,4.02,280.00
+TABC1,LAS TABLAS,Fri Aug 16 16:09:00 PDT 2002,1.34,220.00
+LAFC1,LAUFMAN,Fri Aug 16 16:10:00 PDT 2002,2.24,240.00
+LRLC1,LAURAL MOUNTAIN,Fri Aug 16 16:13:00 PDT 2002,5.81,180.00
+TR148,LN5 - PORTABLE,Fri Aug 16 16:24:00 PDT 2002,1.79,290.00
+SLRC1,LOS BANOS,Fri Aug 16 16:04:00 PDT 2002,4.02,270.00
+LPOC1,LOS PRIETOS,Fri Aug 16 16:10:00 PDT 2002,2.68,70.00
+LTHC1,LOST HORSE,Fri Aug 16 16:01:00 PDT 2002,3.58,230.00
+TMPC4,LOWDEN,Fri Aug 16 16:03:00 PDT 2002,2.24,230.00
+COWC1,LYONS VALLEY,Fri Aug 16 16:17:00 PDT 2002,7.60,260.00
+TR413,LYTLE CREEK,Fri Aug 16 16:20:00 PDT 2002,0.89,40.00
+LVMC1,MALLORY RIDGE,Fri Aug 16 16:19:00 PDT 2002,0.89,60.00
+VIOC1,MANZANITA LAKE,Fri Aug 16 16:31:00 PDT 2002,1.79,250.00
+MRIC1,MARIPOSA,Fri Aug 16 16:03:00 PDT 2002,2.68,250.00
+MKEC1,MARKLEEVILLE,Fri Aug 16 16:18:00 PDT 2002,2.24,210.00
+MCFC1,METCALF GAP,Fri Aug 16 16:04:00 PDT 2002,1.79,220.00
+MYRC1,MEYERS,Fri Aug 16 16:10:00 PDT 2002,1.34,140.00
+MRPC1,MGROVE,Fri Aug 16 16:23:00 PDT 2002,0.00,200.00
+MDHC1,MID HILLS,Fri Aug 16 16:13:00 PDT 2002,1.34,270.00
+MMKC1,MILL CREEK (BDF),Fri Aug 16 16:23:00 PDT 2002,2.68,280.00
+MOLC1,MILO,Fri Aug 16 16:06:00 PDT 2002,2.24,170.00
+MRSC1,MOJAVE RIVER SINK,Fri Aug 16 16:12:00 PDT 2002,1.79,310.00
+MTIC1,MONTECITO,Fri Aug 16 16:10:00 PDT 2002,2.24,210.00
+MNCC1,MORMON ROCK,Fri Aug 16 16:23:00 PDT 2002,2.68,190.00
+MOUC1,MOUNT ELIZABETH,Fri Aug 16 16:02:00 PDT 2002,2.24,290.00
+MMTC1,MOUNT TOM,Fri Aug 16 16:02:00 PDT 2002,5.36,240.00
+MTQC1,MOUNTAIN REST,Fri Aug 16 16:01:00 PDT 2002,2.24,230.00
+MDAC1,MT. DIABLO,Fri Aug 16 16:17:00 PDT 2002,0.89,210.00
+MLGC1,MT. LAGUNA,Fri Aug 16 16:03:00 PDT 2002,0.89,200.00
+OBRC1,OAK BOTTOM,Fri Aug 16 16:30:00 PDT 2002,3.58,70.00
+OGVC1,OAK GROVE,Fri Aug 16 16:04:00 PDT 2002,2.68,290.00
+OJAC1,OJAI,Fri Aug 16 16:18:00 PDT 2002,3.13,240.00
+OWNC1,OWENS CAMP,Fri Aug 16 16:11:00 PDT 2002,1.79,290.00
+OVRC1,OWENS VALLEY,Fri Aug 16 16:08:00 PDT 2002,3.13,70.00
+OZNC1,OZENA,Fri Aug 16 16:25:00 PDT 2002,2.68,60.00
+INTC1,PANAMINT,Fri Aug 16 16:01:00 PDT 2002,2.68,230.00
+PKFC1,PARKFIELD,Fri Aug 16 16:08:00 PDT 2002,1.79,190.00
+PKCC1,PIKE COUNTY LOOKOUT,Fri Aug 16 16:10:00 PDT 2002,1.34,220.00
+PIHC1,PINE HILLS,Fri Aug 16 16:14:00 PDT 2002,1.79,290.00
+PNGC1,PINE RIDGE PORTABLE,Fri Aug 16 16:16:00 PDT 2002,1.79,210.00
+PPRC1,PIRU,Fri Aug 16 16:17:00 PDT 2002,5.36,250.00
+POTC1,POTRERO,Fri Aug 16 16:14:00 PDT 2002,2.24,260.00
+MIPC1,POVERTY,Fri Aug 16 16:18:00 PDT 2002,3.13,230.00
+QYRC1,QUINCY RD,Fri Aug 16 16:18:00 PDT 2002,2.68,170.00
+RCHC1,RANCHITA,Fri Aug 16 16:13:00 PDT 2002,4.47,260.00
+RVDC1,RAVENDALE,Fri Aug 16 16:02:00 PDT 2002,2.24,300.00
+RVYC1,RICE VALLEY,Fri Aug 16 16:02:00 PDT 2002,3.58,20.00
+RCEC1,ROCK CREEK,Fri Aug 16 16:28:00 PDT 2002,3.58,330.00
+RSHC1,RUSH CREEK,Fri Aug 16 16:10:00 PDT 2002,3.13,180.00
+TR187,SADDLEBACK,Fri Aug 16 16:10:00 PDT 2002,4.92,260.00
+SCNC1,SAN CLEMENTE ISLAND,Fri Aug 16 16:07:00 PDT 2002,0.00,170.00
+SLWC1,SAN LUIS NWR,Fri Aug 16 16:31:00 PDT 2002,3.58,320.00
+SNCC1,SANTA CRUZ ISLAND,Fri Aug 16 16:25:00 PDT 2002,2.24,160.00
+STFC1,SANTA FE DAM,Fri Aug 16 16:31:00 PDT 2002,2.68,160.00
+SRIC1,SANTA ROSA ISLAND,Fri Aug 16 16:24:00 PDT 2002,4.02,290.00
+SRUC1,SANTA ROSA PLATEAU,Fri Aug 16 16:11:00 PDT 2002,5.36,330.00
+SHUC1,SCHOOL HOUSE,Fri Aug 16 16:10:00 PDT 2002,4.92,300.00
+SHQC1,SHADEQUARTER,Fri Aug 16 16:06:00 PDT 2002,2.24,250.00
+SHVC1,SHAVER,Fri Aug 16 16:05:00 PDT 2002,1.34,270.00
+SWLC1,SQUAW LAKE,Fri Aug 16 16:14:00 PDT 2002,4.02,220.00
+SMDC1,STAMPEDE,Fri Aug 16 16:02:00 PDT 2002,3.13,200.00
+TR197,TAHOE MICRO #1 STAR,Fri Aug 16 16:22:00 PDT 2002,0.00,10.00
+TCLC1,TEMESCAL #2,Fri Aug 16 16:25:00 PDT 2002,3.13,180.00
+TR542,THOUSAND OAKS,Fri Aug 16 16:16:00 PDT 2002,3.13,300.00
+TR579,TIMBER MOUNTAIN,Fri Aug 16 16:12:00 PDT 2002,1.79,340.00
+TRMC1,TRIMMER,Fri Aug 16 16:02:00 PDT 2002,2.24,230.00
+TMEC1,TUOLME,Fri Aug 16 16:21:00 PDT 2002,2.24,180.00
+VLCC1,VALLEY CENTER,Fri Aug 16 16:13:00 PDT 2002,1.34,10.00
+WKPC1,WHITAKER PEAK,Fri Aug 16 16:18:00 PDT 2002,1.34,130.00
+CISC1,WHITE CLOUD,Fri Aug 16 16:02:00 PDT 2002,0.89,300.00
+WWRC1,WWOLF,Fri Aug 16 16:12:00 PDT 2002,1.34,210.00
+UCCC1,YUCCA VALLEY,Fri Aug 16 16:11:00 PDT 2002,3.13,190.00
+TR560,9J ROAD,Fri Aug 16 16:18:00 PDT 2002,2.24,50.00
+LPRC2,BLACK CANYON,Fri Aug 16 16:20:00 PDT 2002,3.58,310.00
+CPTC2,CARPENTER RIDGE,Fri Aug 16 16:29:00 PDT 2002,0.89,230.00
+TR424,CCDBLMFTS1,Fri Aug 16 16:08:00 PDT 2002,4.47,340.00
+CHAC2,CHAPIN - FTS,Fri Aug 16 16:17:00 PDT 2002,3.13,340.00
+TR219,COAL SEAM,Fri Aug 16 16:12:00 PDT 2002,2.68,170.00
+CGRC2,COPPER GULCH,Fri Aug 16 16:15:00 PDT 2002,4.02,310.00
+CMEC2,COTTONWOOD BASIN,Fri Aug 16 16:15:00 PDT 2002,4.92,300.00
+DRAC2,DRAGON ROAD,Fri Aug 16 16:21:00 PDT 2002,3.58,290.00
+EGRC2,ERNIE GULCH,Fri Aug 16 16:16:00 PDT 2002,6.71,290.00
+GDRC2,GREAT DIVIDE,Fri Aug 16 16:16:00 PDT 2002,5.36,270.00
+GSPC2,GUNSIGHT,Fri Aug 16 16:17:00 PDT 2002,11.18,290.00
+GPRC2,GYPSUM,Fri Aug 16 16:17:00 PDT 2002,5.36,210.00
+TR559,HACKETT,Fri Aug 16 16:18:00 PDT 2002,2.68,280.00
+HCKC2,HUNTER CREEK,Fri Aug 16 16:18:00 PDT 2002,6.26,310.00
+HMEC2,HUNTSMAN MESA,Fri Aug 16 16:18:00 PDT 2002,4.47,300.00
+JCRC2,JACKS CANYON,Fri Aug 16 16:19:00 PDT 2002,4.47,270.00
+JAYC2,JAY,Fri Aug 16 16:19:00 PDT 2002,5.81,260.00
+LODC2,LADORE,Fri Aug 16 16:20:00 PDT 2002,8.05,310.00
+TR558,MATACAT,Fri Aug 16 16:17:00 PDT 2002,2.68,290.00
+MMRC2,MESA MTN,Fri Aug 16 16:12:00 PDT 2002,5.36,240.00
+MRFC2,MOREFIELD - FTS,Fri Aug 16 16:17:00 PDT 2002,4.47,310.00
+NUCC2,NUCLA,Fri Aug 16 16:26:00 PDT 2002,3.58,340.00
+PIRC2,PINTO,Fri Aug 16 16:21:00 PDT 2002,10.28,300.00
+TR209,PSF2 SALIDA 555,Fri Aug 16 16:28:00 PDT 2002,4.02,250.00
+RFEC2,RIFLE,Fri Aug 16 16:22:00 PDT 2002,4.02,260.00
+TR426,SJF2 PAGOSA PORTABL,Fri Aug 16 16:27:00 PDT 2002,1.79,220.00
+CRWC2,THE CROWN,Fri Aug 16 16:22:00 PDT 2002,5.81,240.00
+F1466,CACHE - FTS,Fri Aug 16 16:16:00 PDT 2002,1.79,120.00
+F1841,MERRITT ISLAND,Fri Aug 16 16:15:00 PDT 2002,4.02,110.00
+F1470,TENRAW,Fri Aug 16 16:23:00 PDT 2002,4.92,140.00
+F1725,ARMUCHEE #1,Fri Aug 16 16:05:00 PDT 2002,2.68,210.00
+F1711,BRASSTOWN #1,Fri Aug 16 16:06:00 PDT 2002,0.45,60.00
+F1855,CAMP MERRILL,Fri Aug 16 16:05:00 PDT 2002,0.89,70.00
+F1704,CHATTOOGA #1,Fri Aug 16 16:06:00 PDT 2002,1.34,200.00
+F1683,COHUTTA#1,Fri Aug 16 16:05:00 PDT 2002,2.24,60.00
+F1700,OCONEE #1,Fri Aug 16 16:06:00 PDT 2002,1.34,140.00
+F1705,TALLULAH #1,Fri Aug 16 16:06:00 PDT 2002,0.45,340.00
+F1726,TOCCOA #1,Fri Aug 16 16:05:00 PDT 2002,1.34,340.00
+F1474,KEAUMO,Fri Aug 16 16:07:00 PDT 2002,4.02,40.00
+F1812,MAKAHA RIDGE,Fri Aug 16 16:12:00 PDT 2002,0.00,260.00
+F1475,MAKAPULAPAI,Fri Aug 16 16:14:00 PDT 2002,7.60,80.00
+F1813,MOLOAA DAIRY,Fri Aug 16 16:12:00 PDT 2002,4.47,120.00
+TR212,3 MILE,Fri Aug 16 16:15:00 PDT 2002,2.68,150.00
+BCFI1,BEARSKIN CREEK,Fri Aug 16 16:13:00 PDT 2002,4.47,290.00
+YFFI1,BONANZA,Fri Aug 16 16:05:00 PDT 2002,2.68,210.00
+DPKI1,BULL CANYON,Fri Aug 16 16:29:00 PDT 2002,1.79,110.00
+CHRI1,CHALLIS,Fri Aug 16 16:03:00 PDT 2002,3.13,10.00
+NS017,CLARKIA,Fri Aug 16 16:08:00 PDT 2002,1.79,240.00
+CBFI1,COPPER BASIN,Fri Aug 16 16:05:00 PDT 2002,4.47,20.00
+TR263,COTTON PORTABLE,Fri Aug 16 16:04:00 PDT 2002,2.68,350.00
+CYFI1,CRYSTAL,Fri Aug 16 16:17:00 PDT 2002,8.94,260.00
+DEAI1,DEAD INDIAN RIDGE,Fri Aug 16 16:08:00 PDT 2002,6.71,310.00
+DEHI1,DEER HAVEN,Fri Aug 16 16:11:00 PDT 2002,6.71,290.00
+DNFI1,DENT,Fri Aug 16 16:13:00 PDT 2002,2.24,250.00
+DMNI1,DIAMOND FLAT,Fri Aug 16 16:15:00 PDT 2002,4.92,270.00
+TR225,EAGLE,Fri Aug 16 16:13:00 PDT 2002,0.45,170.00
+EZRI1,EZRA CREEK,Fri Aug 16 16:13:00 PDT 2002,5.81,10.00
+FERI1,FENN,Fri Aug 16 16:14:00 PDT 2002,2.24,250.00
+FHFI1,FISH HOOK,Fri Aug 16 16:04:00 PDT 2002,1.79,90.00
+FLEI1,FLECK SUMMIT,Fri Aug 16 16:08:00 PDT 2002,4.92,250.00
+FLFI1,FLINT CREEK,Fri Aug 16 16:10:00 PDT 2002,3.13,190.00
+GASI1,GAS CAVES,Fri Aug 16 16:25:00 PDT 2002,4.02,310.00
+GSKI1,GOOSE CREEK,Fri Aug 16 16:14:00 PDT 2002,3.58,350.00
+HAYI1,HAYDEN LAKE,Fri Aug 16 16:08:00 PDT 2002,2.68,270.00
+HBFI1,HORSE BUTTE,Fri Aug 16 16:16:00 PDT 2002,6.26,310.00
+HPFI1,HORTON PEAK,Fri Aug 16 16:08:00 PDT 2002,2.68,300.00
+INDI1,INDIANOLA,Fri Aug 16 16:07:00 PDT 2002,3.13,300.00
+KELI1,KELLY,Fri Aug 16 16:11:00 PDT 2002,0.89,50.00
+KRCI1,KRILEY CREEK,Fri Aug 16 16:28:00 PDT 2002,8.05,360.00
+LDOI1,LEADORE CREEK,Fri Aug 16 16:29:00 PDT 2002,6.26,300.00
+LCKI1,LINES CREEK,Fri Aug 16 16:08:00 PDT 2002,3.13,210.00
+LTAI1,LITTLE ANDERSON,Fri Aug 16 16:13:00 PDT 2002,0.89,280.00
+THFI1,LITTLE CREEK,Fri Aug 16 16:05:00 PDT 2002,1.34,60.00
+LPFI1,LODGEPOLE,Fri Aug 16 16:12:00 PDT 2002,3.13,290.00
+MOFI1,MOBURG CANYON,Fri Aug 16 16:05:00 PDT 2002,9.83,290.00
+MOOI1,MOOSE CREEK,Fri Aug 16 16:12:00 PDT 2002,1.34,160.00
+NFFI1,NORTH FORK,Fri Aug 16 16:16:00 PDT 2002,1.34,300.00
+NS024,NUCKOLS,Fri Aug 16 16:07:00 PDT 2002,1.79,320.00
+PIEI1,PIERCE,Fri Aug 16 16:13:00 PDT 2002,1.34,190.00
+PNFI1,PINE CREEK,Fri Aug 16 16:02:00 PDT 2002,1.34,300.00
+PLFI1,PITTSBURG LANDING,Fri Aug 16 16:26:00 PDT 2002,1.34,210.00
+POTI1,POTLATCH,Fri Aug 16 16:12:00 PDT 2002,1.34,260.00
+SVFI1,POWELL,Fri Aug 16 16:11:00 PDT 2002,2.68,220.00
+NS025,PRIEST LAKE,Fri Aug 16 16:09:00 PDT 2002,2.68,200.00
+RRFI1,RED RIVER,Fri Aug 16 16:11:00 PDT 2002,0.89,290.00
+RONI1,ROUNDTOP,Fri Aug 16 16:13:00 PDT 2002,3.13,320.00
+SADI1,SADDLE PASS,Fri Aug 16 16:09:00 PDT 2002,2.24,140.00
+TR555,SHO-PAI,Fri Aug 16 16:17:00 PDT 2002,5.36,360.00
+SHCI1,SHOCK,Fri Aug 16 16:12:00 PDT 2002,0.89,280.00
+SFFI1,SKI HILL,Fri Aug 16 16:08:00 PDT 2002,1.34,280.00
+SKFI1,SKULL GULCH,Fri Aug 16 16:09:00 PDT 2002,4.02,280.00
+SCFI1,SLATE CREEK,Fri Aug 16 16:12:00 PDT 2002,2.68,340.00
+SRFI1,SNAKE RIVER,Fri Aug 16 16:08:00 PDT 2002,1.34,10.00
+TR574,STANLEY,Fri Aug 16 16:13:00 PDT 2002,4.02,270.00
+MCLI1,TEA POT,Fri Aug 16 16:12:00 PDT 2002,1.79,250.00
+TCFI1,TOWN CREEK,Fri Aug 16 16:13:00 PDT 2002,2.68,290.00
+TGFI1,TRAIL GULCH,Fri Aug 16 16:06:00 PDT 2002,4.92,290.00
+WEFI1,WEISER RIVER,Fri Aug 16 16:12:00 PDT 2002,4.47,330.00
+F1833,BEAN RIDGE,Fri Aug 16 16:08:00 PDT 2002,1.34,140.00
+F1769,DIXON SPRINGS,Fri Aug 16 16:08:00 PDT 2002,2.68,170.00
+F1799,HARDIN RIDGE,Fri Aug 16 16:09:00 PDT 2002,1.79,170.00
+F1856,TIPSAW LAKE,Fri Aug 16 16:11:00 PDT 2002,2.24,180.00
+TR484,TALLGRASS PRAIRIE,Fri Aug 16 16:02:00 PDT 2002,5.81,180.00
+F1505,KYLBL,Fri Aug 16 16:14:00 PDT 2002,1.34,130.00
+F1766,SOMERSET,Fri Aug 16 16:01:00 PDT 2002,1.79,100.00
+F1767,TRIANGLE MTN,Fri Aug 16 16:02:00 PDT 2002,1.34,230.00
+F1857,CANEY,Fri Aug 16 16:04:00 PDT 2002,2.24,120.00
+F1858,CATAHOULA,Fri Aug 16 16:20:00 PDT 2002,1.79,50.00
+F1507,EVANGELINE/GARDNER,Fri Aug 16 16:04:00 PDT 2002,1.34,220.00
+F1509,NATCHITOCHES,Fri Aug 16 16:20:00 PDT 2002,0.89,100.00
+F1846,RACHEL CARSON - FTS,Fri Aug 16 16:07:00 PDT 2002,0.45,70.00
+F1821,BEAR,Fri Aug 16 16:08:00 PDT 2002,2.24,210.00
+F1829,BLUE LAKE,Fri Aug 16 16:04:00 PDT 2002,1.79,230.00
+F1862,ELKHORN,Fri Aug 16 16:05:00 PDT 2002,1.34,230.00
+F1864,RACO,Fri Aug 16 16:05:00 PDT 2002,2.24,20.00
+F1735,FERNBERG,Fri Aug 16 16:20:00 PDT 2002,0.00,190.00
+F1866,AVA,Fri Aug 16 16:15:00 PDT 2002,2.68,100.00
+F1515,CARR CREEK,Fri Aug 16 16:18:00 PDT 2002,1.79,160.00
+F1867,DONIPHAN,Fri Aug 16 16:15:00 PDT 2002,2.24,160.00
+F1868,SINKIN,Fri Aug 16 16:15:00 PDT 2002,2.68,170.00
+F1879,BUDE,Fri Aug 16 16:09:00 PDT 2002,2.68,190.00
+F1870,DELTA RD,Fri Aug 16 16:09:00 PDT 2002,0.89,70.00
+F1520,RIDGELAND,Fri Aug 16 16:28:00 PDT 2002,0.00,80.00
+F1805,WAUSAU,Fri Aug 16 16:05:00 PDT 2002,0.45,80.00
+F1871,WINBORN,Fri Aug 16 16:09:00 PDT 2002,1.34,190.00
+ARMM8,ARMELLS CREEK,Fri Aug 16 16:05:00 PDT 2002,7.15,330.00
+BAFM8,BADGER PEAK,Fri Aug 16 16:26:00 PDT 2002,13.41,330.00
+BIFM8,BC BALDY,Fri Aug 16 16:07:00 PDT 2002,3.13,250.00
+TR515,BOORMAN,Fri Aug 16 16:24:00 PDT 2002,2.68,260.00
+BSHM8,BRADSHAW CREEK,Fri Aug 16 16:31:00 PDT 2002,11.62,340.00
+BRRM8,BRENNER,Fri Aug 16 16:23:00 PDT 2002,8.49,270.00
+TR267,BVD/DEERLODGE - POR,Fri Aug 16 16:23:00 PDT 2002,8.49,210.00
+TR298,CABINET (TROUT CREE,Fri Aug 16 16:04:00 PDT 2002,0.89,130.00
+CBUM8,CHAIN BUTTES,Fri Aug 16 16:22:00 PDT 2002,7.60,340.00
+DEEM8,DEER MOUNTAIN,Fri Aug 16 16:04:00 PDT 2002,5.36,300.00
+NS030,ENNIS,Fri Aug 16 16:03:00 PDT 2002,7.60,180.00
+TR271,EUREKA,Fri Aug 16 16:04:00 PDT 2002,2.24,90.00
+FBLM8,FORT BELKNAP,Fri Aug 16 16:19:00 PDT 2002,9.39,310.00
+FHFM8,FORT HOWES,Fri Aug 16 16:24:00 PDT 2002,7.60,210.00
+GINM8,GINGER,Fri Aug 16 16:03:00 PDT 2002,8.49,10.00
+GPRM8,GIRD POINT,Fri Aug 16 16:06:00 PDT 2002,1.34,220.00
+HOTM8,HOT SPRINGS,Fri Aug 16 16:22:00 PDT 2002,3.58,120.00
+HNYM8,HUNGRY HORSE,Fri Aug 16 16:14:00 PDT 2002,2.68,20.00
+JETM8,JETTE,Fri Aug 16 16:18:00 PDT 2002,0.89,20.00
+KTFM8,KNOWLTON,Fri Aug 16 16:24:00 PDT 2002,12.96,300.00
+TR277,LIBBY,Fri Aug 16 16:04:00 PDT 2002,0.89,320.00
+LNCM8,LINCOLN,Fri Aug 16 16:05:00 PDT 2002,2.68,60.00
+TR279,LOLO PORTABLE #1,Fri Aug 16 16:18:00 PDT 2002,1.34,130.00
+TR280,NINE MILE,Fri Aug 16 16:01:00 PDT 2002,3.13,310.00
+TR281,PHILLIPSBURG,Fri Aug 16 16:03:00 PDT 2002,3.58,310.00
+PNTM8,POINT 6,Fri Aug 16 16:05:00 PDT 2002,2.24,280.00
+POPM8,POPLAR,Fri Aug 16 16:19:00 PDT 2002,14.31,340.00
+PHYM8,PORPHYRY,Fri Aug 16 16:03:00 PDT 2002,9.39,10.00
+PMRM8,PRYOR MOUNTAIN,Fri Aug 16 16:24:00 PDT 2002,4.92,20.00
+TR283,R1 - FLATHEAD PORTA,Fri Aug 16 16:19:00 PDT 2002,2.24,90.00
+TR284,R1 - PORTABLE,Fri Aug 16 16:17:00 PDT 2002,4.02,340.00
+RRDM8,RED ROCK,Fri Aug 16 16:02:00 PDT 2002,7.15,320.00
+RCBM8,ROCKY BOY,Fri Aug 16 16:26:00 PDT 2002,4.02,300.00
+NS040,SEELEY LAKE,Fri Aug 16 16:02:00 PDT 2002,3.58,300.00
+SMTM8,SMITH CREEK,Fri Aug 16 16:02:00 PDT 2002,2.24,280.00
+SKCM8,SOUTH KIRBY COULEE,Fri Aug 16 16:11:00 PDT 2002,4.02,330.00
+SSMM8,SOUTH SAWMILL CREEK,Fri Aug 16 16:25:00 PDT 2002,5.81,300.00
+SPBM8,SPOTTED BEAR RS,Fri Aug 16 16:01:00 PDT 2002,0.45,50.00
+SRYM8,ST. MARY,Fri Aug 16 16:26:00 PDT 2002,1.79,220.00
+NS042,ST. REGIS,Fri Aug 16 16:02:00 PDT 2002,1.79,270.00
+TEPM8,TEPEE PT,Fri Aug 16 16:09:00 PDT 2002,5.81,310.00
+TR296,THOMPSON FALLS A/P,Fri Aug 16 16:01:00 PDT 2002,2.24,330.00
+TR299,TROY,Fri Aug 16 16:07:00 PDT 2002,1.79,230.00
+TMPF6,WEST FORK,Fri Aug 16 16:03:00 PDT 2002,2.68,250.00
+TMPF7,WHITE SULPHUR SPRIN,Fri Aug 16 16:03:00 PDT 2002,6.26,320.00
+TR301,WHITEHALL,Fri Aug 16 16:03:00 PDT 2002,4.92,30.00
+TR565,WICKED CREEK,Fri Aug 16 16:01:00 PDT 2002,8.49,310.00
+NS049,WISE RIVER,Fri Aug 16 16:04:00 PDT 2002,6.71,270.00
+WWMM8,WOLF MOUNTAIN,Fri Aug 16 16:26:00 PDT 2002,8.05,330.00
+TR303,YAAK (UPPER FORD),Fri Aug 16 16:07:00 PDT 2002,1.79,340.00
+F1839,BACK ISLAND,Fri Aug 16 16:13:00 PDT 2002,1.34,210.00
+F1877,CASWELL GAME LANDS,Fri Aug 16 16:17:00 PDT 2002,1.34,340.00
+F1559,DUKE FOREST,Fri Aug 16 16:07:00 PDT 2002,2.24,250.00
+F1560,FORT BRAGG,Fri Aug 16 16:07:00 PDT 2002,2.24,340.00
+F1827,GREENS CROSS,Fri Aug 16 16:08:00 PDT 2002,2.24,270.00
+F1872,JACKSON COUNTY,Fri Aug 16 16:13:00 PDT 2002,0.89,80.00
+F1878,LEXINGTON,Fri Aug 16 16:27:00 PDT 2002,2.68,160.00
+F1875,RENDEZVOUS MTN.,Fri Aug 16 16:27:00 PDT 2002,1.79,120.00
+F1849,ROCKY MOUNT,Fri Aug 16 16:13:00 PDT 2002,3.13,260.00
+F1830,RUTHERFORD COUNTY,Fri Aug 16 16:08:00 PDT 2002,0.89,300.00
+F1840,TURNBULL CREEK,Fri Aug 16 16:13:00 PDT 2002,1.34,150.00
+TR468,CROSBY,Fri Aug 16 16:29:00 PDT 2002,10.28,20.00
+FRTN8,DEVILS LAKE,Fri Aug 16 16:16:00 PDT 2002,3.13,100.00
+NS094,LOSTWOOD,Fri Aug 16 16:07:00 PDT 2002,4.02,30.00
+AMDN8,SAND CREEK,Fri Aug 16 16:20:00 PDT 2002,10.28,290.00
+WCYN8,WATFORD CITY,Fri Aug 16 16:10:00 PDT 2002,0.89,10.00
+CWRN5,ALBINO CANYON,Fri Aug 16 16:22:00 PDT 2002,4.92,210.00
+GBWN5,BEAR WALLOW,Fri Aug 16 16:19:00 PDT 2002,0.45,340.00
+NS052,BEAVERHEAD,Fri Aug 16 16:21:00 PDT 2002,3.13,210.00
+BDAN5,BOSQUE,Fri Aug 16 16:03:00 PDT 2002,0.89,40.00
+CPPN5,CAPROCK,Fri Aug 16 16:26:00 PDT 2002,5.36,170.00
+BCHN5,CHUPADERA,Fri Aug 16 16:27:00 PDT 2002,4.47,190.00
+TR487,CIBOLA PORTABLE #1,Fri Aug 16 16:17:00 PDT 2002,1.34,260.00
+CBBN5,CUBA,Fri Aug 16 16:29:00 PDT 2002,1.79,230.00
+DPKN5,DEADMAN PEAK,Fri Aug 16 16:07:00 PDT 2002,1.79,240.00
+LOMN5,DRIPPING SPRINGS,Fri Aug 16 16:14:00 PDT 2002,1.79,210.00
+DUNN5,DUNKEN,Fri Aug 16 16:27:00 PDT 2002,4.47,260.00
+REMN5,EIGHT MILE DRAW,Fri Aug 16 16:18:00 PDT 2002,3.13,210.00
+F1584,GARCIA CANY ALERT #,Fri Aug 16 16:18:00 PDT 2002,2.24,270.00
+TR309,GILA - PORTABLE,Fri Aug 16 16:28:00 PDT 2002,0.00,80.00
+GNMN5,GILA CENTER RAWS,Fri Aug 16 16:19:00 PDT 2002,2.68,60.00
+NS053,GRANTS,Fri Aug 16 16:11:00 PDT 2002,2.24,240.00
+HHRN5,HACHITA VALLEY,Fri Aug 16 16:19:00 PDT 2002,2.24,130.00
+NS054,JEMEZ,Fri Aug 16 16:10:00 PDT 2002,2.68,240.00
+TR310,LAS CRUCES PORTABLE,Fri Aug 16 16:07:00 PDT 2002,0.00,270.00
+GMLN5,MALPIAS LAVA FLOW,Fri Aug 16 16:21:00 PDT 2002,2.68,200.00
+NS055,MAYHILL,Fri Aug 16 16:01:00 PDT 2002,3.13,280.00
+NS056,MOUNTAINAIR,Fri Aug 16 16:05:00 PDT 2002,3.13,280.00
+MPAN5,PADUCA,Fri Aug 16 16:28:00 PDT 2002,4.92,160.00
+DPRN5,PELONA MOUNTAIN,Fri Aug 16 16:23:00 PDT 2002,0.00,270.00
+F1588,PUEBLO CANY ALERT #,Fri Aug 16 16:18:00 PDT 2002,3.58,220.00
+TR499,RO PORTABLE #2,Fri Aug 16 16:18:00 PDT 2002,4.02,260.00
+TR486,RO PORTABLE #3,Fri Aug 16 16:18:00 PDT 2002,3.58,240.00
+SNDN5,SAN ANDRES,Fri Aug 16 16:04:00 PDT 2002,1.79,300.00
+SCLN5,SANTA CLARA CANY AL,Fri Aug 16 16:27:00 PDT 2002,2.24,320.00
+UVSN5,SIERRA DE LAS UVAS,Fri Aug 16 16:30:00 PDT 2002,1.79,80.00
+SLMN5,SLAUGHTER,Fri Aug 16 16:19:00 PDT 2002,0.89,210.00
+TMPG1,TOWER,Fri Aug 16 16:21:00 PDT 2002,7.15,220.00
+TR396,TRUCHAS,Fri Aug 16 16:10:00 PDT 2002,4.02,270.00
+ULAN5,UPPER LOS ALAMOS AL,Fri Aug 16 16:26:00 PDT 2002,1.79,260.00
+TR317,UPPER SANTA CLARA #,Fri Aug 16 16:25:00 PDT 2002,3.58,220.00
+ALLN2,ALLIGATOR RIDGE,Fri Aug 16 16:09:00 PDT 2002,3.58,350.00
+TR134,BAKER CREEK,Fri Aug 16 16:17:00 PDT 2002,1.34,50.00
+BATN2,BEACON LIGHT,Fri Aug 16 16:05:00 PDT 2002,7.15,290.00
+BLUN2,BLUEWING MOUNTAIN,Fri Aug 16 16:06:00 PDT 2002,0.00,290.00
+BPKN2,BRAWLEY PEAKS (AURO,Fri Aug 16 16:03:00 PDT 2002,2.24,320.00
+BUFN2,BUFFALO CREEK,Fri Aug 16 16:11:00 PDT 2002,4.47,270.00
+CEDN2,CEDAR PASS,Fri Aug 16 16:29:00 PDT 2002,3.58,340.00
+COMN2,COMBS CANYON,Fri Aug 16 16:26:00 PDT 2002,3.13,350.00
+COYN2,COYOTE WASH,Fri Aug 16 16:28:00 PDT 2002,3.58,60.00
+CRSN2,CRANE SPRINGS,Fri Aug 16 16:11:00 PDT 2002,5.81,280.00
+DEDN2,DEAD CAMEL MOUNTAIN,Fri Aug 16 16:03:00 PDT 2002,2.24,280.00
+GRVN2,DESATOYA MOUNTAIN,Fri Aug 16 16:13:00 PDT 2002,5.81,290.00
+TR500,DESERT NWR,Fri Aug 16 16:29:00 PDT 2002,8.94,250.00
+DESN2,DESERT SPRINGS,Fri Aug 16 16:22:00 PDT 2002,10.28,150.00
+DRYN2,DRY CANYON,Fri Aug 16 16:30:00 PDT 2002,2.24,280.00
+FISN2,FISH SPRINGS,Fri Aug 16 16:02:00 PDT 2002,5.36,300.00
+TR137,GALENA - PORTABLE,Fri Aug 16 16:18:00 PDT 2002,3.13,150.00
+IMWN2,IMMIGRATION WASH,Fri Aug 16 16:28:00 PDT 2002,4.47,270.00
+TR414,JACK WRIGHT,Fri Aug 16 16:19:00 PDT 2002,3.58,270.00
+KNSN2,KANE SPRINGS,Fri Aug 16 16:28:00 PDT 2002,7.60,180.00
+KYCN2,KYLE CANYON,Fri Aug 16 16:16:00 PDT 2002,1.34,70.00
+LONN2,LONG HOLLOW,Fri Aug 16 16:11:00 PDT 2002,7.15,360.00
+LDXU1,LOWER DIXIE,Fri Aug 16 16:20:00 PDT 2002,1.79,330.00
+MORN2,MOREY CREEK,Fri Aug 16 16:07:00 PDT 2002,0.00,50.00
+MTSN2,MOUNTAIN SPRINGS,Fri Aug 16 16:16:00 PDT 2002,3.58,230.00
+ORWN2,ORIENTAL WASH,Fri Aug 16 16:27:00 PDT 2002,4.47,190.00
+PANN2,PANCAKE,Fri Aug 16 16:26:00 PDT 2002,8.49,220.00
+RRKN2,RED ROCK,Fri Aug 16 16:19:00 PDT 2002,2.24,230.00
+RSCN2,ROCK SPRING CREEK,Fri Aug 16 16:30:00 PDT 2002,8.05,340.00
+SIAN2,SIARD,Fri Aug 16 16:30:00 PDT 2002,4.92,330.00
+SPMN2,SPRUCE MOUNTAIN,Fri Aug 16 16:18:00 PDT 2002,5.81,230.00
+STMN2,STAG MOUNTAIN,Fri Aug 16 16:10:00 PDT 2002,5.36,340.00
+UPDN2,UPPER DIXIE,Fri Aug 16 16:23:00 PDT 2002,2.24,150.00
+F1873,KIAMICHI,Fri Aug 16 16:03:00 PDT 2002,3.13,150.00
+F1592,WICHITA,Fri Aug 16 16:09:00 PDT 2002,7.60,160.00
+ALFO3,ALLISON,Fri Aug 16 16:18:00 PDT 2002,3.13,310.00
+ATFO3,ANTELOPE,Fri Aug 16 16:12:00 PDT 2002,4.47,290.00
+BQFO3,BASQUE HILLS,Fri Aug 16 16:07:00 PDT 2002,4.02,340.00
+TR322,BLACK MTN #2,Fri Aug 16 16:23:00 PDT 2002,3.13,290.00
+BEFO3,BLUE RIDGE,Fri Aug 16 16:27:00 PDT 2002,3.13,40.00
+BCFO3,BOARD CREEK,Fri Aug 16 16:25:00 PDT 2002,1.34,350.00
+BWFO3,BROWNS WELL,Fri Aug 16 16:02:00 PDT 2002,3.58,10.00
+PKFO3,BUCKEYE,Fri Aug 16 16:14:00 PDT 2002,0.45,270.00
+BUCO3,BUCKHORN SPRINGS,Fri Aug 16 16:04:00 PDT 2002,3.13,340.00
+BNFO3,BURNT MOUNTAIN,Fri Aug 16 16:30:00 PDT 2002,0.00,340.00
+CVFO3,CALVERT PEAK,Fri Aug 16 16:07:00 PDT 2002,4.02,360.00
+CTWO3,CAMP 2,Fri Aug 16 16:25:00 PDT 2002,2.24,120.00
+CPFO3,CRANE PRAIRIE,Fri Aug 16 16:11:00 PDT 2002,1.34,250.00
+CWFO3,CROW FLAT,Fri Aug 16 16:11:00 PDT 2002,1.79,330.00
+TR324,DESCHUTES PORTABLE,Fri Aug 16 16:02:00 PDT 2002,1.34,80.00
+ENFO3,EDEN,Fri Aug 16 16:09:00 PDT 2002,1.79,350.00
+EVFO3,EVANS CREEK,Fri Aug 16 16:06:00 PDT 2002,1.79,260.00
+FMFO3,FALL MOUNTAIN,Fri Aug 16 16:11:00 PDT 2002,4.02,310.00
+FFFO3,FISH FIN RIM,Fri Aug 16 16:30:00 PDT 2002,3.58,310.00
+TR230,FRWS-2 (GAME LAKE),Fri Aug 16 16:28:00 PDT 2002,0.45,280.00
+TR547,FRWS24 (DOME),Fri Aug 16 16:16:00 PDT 2002,4.02,300.00
+GRBO3,GERBER RESERVOIR,Fri Aug 16 16:12:00 PDT 2002,3.13,250.00
+GSFO3,GRASSY MOUNTAIN,Fri Aug 16 16:10:00 PDT 2002,0.00,310.00
+HHFO3,HEHE BUTTE,Fri Aug 16 16:10:00 PDT 2002,3.58,50.00
+SBFO3,ILLINOIS VALLEY AIR,Fri Aug 16 16:08:00 PDT 2002,1.34,70.00
+JRFO3,J RIDGE,Fri Aug 16 16:23:00 PDT 2002,1.34,170.00
+KEEO3,KEENEY TWO,Fri Aug 16 16:11:00 PDT 2002,3.13,310.00
+KBFO3,KELSAY BUTTE,Fri Aug 16 16:24:00 PDT 2002,4.47,310.00
+LBFO3,LAVA BUTTE,Fri Aug 16 16:14:00 PDT 2002,1.79,20.00
+LGFO3,LOG CREEK,Fri Aug 16 16:21:00 PDT 2002,2.68,80.00
+MLFO3,MERLIN SEED ORCHARD,Fri Aug 16 16:09:00 PDT 2002,1.34,180.00
+MEFO3,METOLIUS ARM,Fri Aug 16 16:27:00 PDT 2002,0.89,30.00
+WSFO3,MT. WILSON,Fri Aug 16 16:27:00 PDT 2002,0.89,170.00
+MMFO3,MUTTON MOUNTAIN,Fri Aug 16 16:27:00 PDT 2002,2.24,40.00
+FGFO3,P HILL  (FRENCHGLEN,Fri Aug 16 16:17:00 PDT 2002,2.68,40.00
+PANO3,PANHANDLE,Fri Aug 16 16:13:00 PDT 2002,0.00,170.00
+PPFO3,POINT PROM II,Fri Aug 16 16:23:00 PDT 2002,0.00,330.00
+PYFO3,POLLYWOG,Fri Aug 16 16:31:00 PDT 2002,1.79,70.00
+PRFO3,PROVOLT SEED ORCHAR,Fri Aug 16 16:08:00 PDT 2002,4.92,320.00
+RXFO3,RED BOX,Fri Aug 16 16:20:00 PDT 2002,1.34,70.00
+RMFO3,RED MOUND,Fri Aug 16 16:16:00 PDT 2002,1.79,340.00
+RVFO3,ROVER,Fri Aug 16 16:05:00 PDT 2002,2.68,20.00
+TRFO3,SIGNAL TREE,Fri Aug 16 16:29:00 PDT 2002,2.68,320.00
+STFO3,STRAWBERRY,Fri Aug 16 16:24:00 PDT 2002,3.58,240.00
+SMFO3,SUMMIT,Fri Aug 16 16:24:00 PDT 2002,4.02,250.00
+TR228,SWAN LAKE,Fri Aug 16 16:21:00 PDT 2002,1.79,260.00
+TR260,SYCAN,Fri Aug 16 16:07:00 PDT 2002,3.13,290.00
+TMFO3,TIMOTHY,Fri Aug 16 16:24:00 PDT 2002,1.79,270.00
+WMFO3,WAMIC MILL,Fri Aug 16 16:22:00 PDT 2002,1.79,60.00
+PRMS2,MAGPIE CREEK,Fri Aug 16 16:22:00 PDT 2002,8.05,270.00
+PRGS2,PINE RIDGE,Fri Aug 16 16:27:00 PDT 2002,8.94,320.00
+TR475,ARANSAS,Fri Aug 16 16:08:00 PDT 2002,4.47,140.00
+BZRT2,BRAZORIA NWR,Fri Aug 16 16:09:00 PDT 2002,3.58,170.00
+TR478,CHISOS BASIN - FTS,Fri Aug 16 16:22:00 PDT 2002,3.13,360.00
+TR480,LAGUNA ATASCOSA,Fri Aug 16 16:08:00 PDT 2002,5.81,130.00
+TR482,PINERY - FTS,Fri Aug 16 16:06:00 PDT 2002,3.58,330.00
+GDBT2,THE BOWL,Fri Aug 16 16:04:00 PDT 2002,2.24,290.00
+ACRU1,AGUA CANYON,Fri Aug 16 16:12:00 PDT 2002,2.24,340.00
+ARAU1,ARAGONITE,Fri Aug 16 16:03:00 PDT 2002,4.47,340.00
+ASYU1,ASSAY,Fri Aug 16 16:14:00 PDT 2002,3.13,350.00
+BADU1,BADGER SPRING,Fri Aug 16 16:04:00 PDT 2002,4.92,190.00
+BIVU1,BIG INDIAN VALLEY,Fri Aug 16 16:04:00 PDT 2002,2.68,340.00
+BKCU1,BLACK CEDAR,Fri Aug 16 16:07:00 PDT 2002,1.79,290.00
+TR516,BLACKTAIL,Fri Aug 16 16:13:00 PDT 2002,7.15,300.00
+BRPU1,BRUIN POINT,Fri Aug 16 16:07:00 PDT 2002,2.24,330.00
+BUKU1,BUCK FLAT,Fri Aug 16 16:14:00 PDT 2002,1.79,360.00
+BEUU1,BUES CANYON,Fri Aug 16 16:14:00 PDT 2002,0.89,270.00
+CCRU1,CART CREEK,Fri Aug 16 16:06:00 PDT 2002,4.47,40.00
+CDMU1,CEDAR MOUNTAIN,Fri Aug 16 16:15:00 PDT 2002,6.26,320.00
+CHPU1,CHEPETA,Fri Aug 16 16:05:00 PDT 2002,9.39,290.00
+DIAU1,DIAMOND RIM,Fri Aug 16 16:23:00 PDT 2002,6.26,300.00
+NS090,ENTERPRISE,Fri Aug 16 16:03:00 PDT 2002,5.81,220.00
+TR336,FISHLAKE PORTABLE #,Fri Aug 16 16:22:00 PDT 2002,1.34,280.00
+FIVU1,FIVE MILE,Fri Aug 16 16:15:00 PDT 2002,8.49,290.00
+FTMU1,FLATTOP MOUNTAIN,Fri Aug 16 16:05:00 PDT 2002,5.36,300.00
+HWAU1,HEWINTA,Fri Aug 16 16:08:00 PDT 2002,1.79,350.00
+HOHU1,HORSE HOLLOW,Fri Aug 16 16:01:00 PDT 2002,2.24,10.00
+HSRU1,HORSE RIDGE,Fri Aug 16 16:06:00 PDT 2002,4.92,300.00
+JVAU1,JOES VALLLEY,Fri Aug 16 16:28:00 PDT 2002,7.15,300.00
+KAGU1,KANE GULCH,Fri Aug 16 16:27:00 PDT 2002,4.92,270.00
+LSCU1,LOST CREEK,Fri Aug 16 16:16:00 PDT 2002,3.58,260.00
+TR428,MOAB PORTABLE,Fri Aug 16 16:08:00 PDT 2002,1.79,310.00
+MSRU1,MUD SPRING,Fri Aug 16 16:13:00 PDT 2002,4.02,320.00
+NWYU1,NORWAY,Fri Aug 16 16:08:00 PDT 2002,2.24,290.00
+PGRU1,PLEASANT GROVE,Fri Aug 16 16:07:00 PDT 2002,9.39,260.00
+SBWU1,SEVIER RESERVOIR,Fri Aug 16 16:14:00 PDT 2002,6.26,270.00
+SIGU1,SIGNAL PEAK,Fri Aug 16 16:07:00 PDT 2002,5.81,310.00
+TBSU1,TOM BEST SPRING,Fri Aug 16 16:16:00 PDT 2002,3.13,260.00
+TVWU1,TULE VALLEY,Fri Aug 16 16:15:00 PDT 2002,4.92,270.00
+VENU1,VERNON,Fri Aug 16 16:27:00 PDT 2002,5.36,310.00
+WRRU1,WHITE REEF,Fri Aug 16 16:04:00 PDT 2002,7.60,190.00
+YLSU1,YELLOWSTONE DRAINAG,Fri Aug 16 16:06:00 PDT 2002,4.92,320.00
+ABNW1,ABERNATHY MTN.,Fri Aug 16 16:12:00 PDT 2002,1.34,340.00
+CMFW1,CAMP 4,Fri Aug 16 16:10:00 PDT 2002,2.68,120.00
+DRYW1,DRY CREEK,Fri Aug 16 16:19:00 PDT 2002,1.79,190.00
+EKRW1,ELK ROCK,Fri Aug 16 16:19:00 PDT 2002,1.34,300.00
+HRFW1,ELLIS MT,Fri Aug 16 16:16:00 PDT 2002,5.36,100.00
+TMPG4,ENTIAT,Fri Aug 16 16:10:00 PDT 2002,3.13,160.00
+MIDW1,ESCURE,Fri Aug 16 16:23:00 PDT 2002,3.58,30.00
+GWFW1,GREENWATER,Fri Aug 16 16:24:00 PDT 2002,1.34,310.00
+GRFW1,GREY BACK,Fri Aug 16 16:11:00 PDT 2002,4.02,210.00
+WRFW1,HAMILTON MOUNTAIN,Fri Aug 16 16:15:00 PDT 2002,0.45,90.00
+HKFW1,HUCKLEBERRY RIDGE,Fri Aug 16 16:18:00 PDT 2002,1.34,210.00
+KOSW1,KOSMOS,Fri Aug 16 16:14:00 PDT 2002,2.68,40.00
+KMFW1,KRAMER,Fri Aug 16 16:08:00 PDT 2002,4.47,20.00
+MIPW1,MINOT PEAK,Fri Aug 16 16:13:00 PDT 2002,3.13,20.00
+OLFW1,OWL MT,Fri Aug 16 16:17:00 PDT 2002,2.68,250.00
+PEFW1,PEOH POINT,Fri Aug 16 16:22:00 PDT 2002,4.02,60.00
+QUFW1,QUILCENE,Fri Aug 16 16:30:00 PDT 2002,2.24,20.00
+MEFW1,SAWMILL FLATS,Fri Aug 16 16:15:00 PDT 2002,0.89,190.00
+PIFW1,SEDGE RIDGE,Fri Aug 16 16:21:00 PDT 2002,4.47,120.00
+STRW1,STEHEKIN,Fri Aug 16 16:31:00 PDT 2002,1.34,120.00
+SMFW1,SUMAS,Fri Aug 16 16:20:00 PDT 2002,2.68,310.00
+FWFW1,SWAUK,Fri Aug 16 16:15:00 PDT 2002,2.68,170.00
+TR532,WELLPINIT - FTS,Fri Aug 16 16:08:00 PDT 2002,2.24,350.00
+GTGW4,GRAND TETON,Fri Aug 16 16:23:00 PDT 2002,3.58,120.00
+QADW4,QUADRANT,Fri Aug 16 16:03:00 PDT 2002,2.68,70.00
+RATW4,RATTLESNAKE MTN.,Fri Aug 16 16:26:00 PDT 2002,5.36,350.00
+THRW4,THOROFARE,Fri Aug 16 16:11:00 PDT 2002,2.68,260.00
+WRVW4,WIND RIVER,Fri Aug 16 16:22:00 PDT 2002,4.92,250.00
+J0201,Cobscook Bay,Fri Aug 16 16:00:00 PDT 2002,2.40,39.90
+NP018,Newport, RI,Fri Aug 16 16:36:00 PDT 2002,3.50,208.00
+NP019,Providence, RI,Fri Aug 16 16:36:00 PDT 2002,3.10,205.00
+NP020,Conimicut Pt, RI,Fri Aug 16 16:36:00 PDT 2002,4.40,195.00
+NP022,Borden Flats, MA,Fri Aug 16 16:36:00 PDT 2002,5.60,213.00
+NP023,Prud Island, RI,Fri Aug 16 16:36:00 PDT 2002,1.40,207.00
+NP024,Quonset Pt, RI,Fri Aug 16 16:36:00 PDT 2002,4.90,252.00
+NP003,Tolchester, MD,Fri Aug 16 16:36:00 PDT 2002,4.40,273.00
+NP004,Solomons Island, MD,Fri Aug 16 16:36:00 PDT 2002,6.60,228.00
+NP011,Kiptopeke, VA,Fri Aug 16 16:36:00 PDT 2002,3.40,297.00
+NP002,Lewisetta, MD,Fri Aug 16 16:36:00 PDT 2002,5.00,237.00
+NP010,Sewells Pt, VA,Fri Aug 16 16:36:00 PDT 2002,3.00,256.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:36:00 PDT 2002,4.70,244.00
+NP013,Money Pt, VA,Fri Aug 16 16:36:00 PDT 2002,1.00,228.00
+NP025,Old Port Tampa, FL,Fri Aug 16 16:36:00 PDT 2002,1.90,84.00
+NP026,St Petersburg, FL,Fri Aug 16 16:36:00 PDT 2002,3.60,101.00
+NP028,Port Manatee, FL,Fri Aug 16 16:36:00 PDT 2002,0.90,90.00
+NP029,Port Tampa, FL,Fri Aug 16 16:36:00 PDT 2002,0.00,0.00
+NP030,Galveston Pleasure Pier, TX,Fri Aug 16 16:42:00 PDT 2002,6.30,132.00
+NP033,Eagle Point,Fri Aug 16 16:42:00 PDT 2002,5.80,144.00
+NP034,Morgans Point,Fri Aug 16 16:42:00 PDT 2002,6.30,142.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:36:00 PDT 2002,1.70,212.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:36:00 PDT 2002,4.40,222.00
+NP017,Kings Point, NY,Fri Aug 16 16:36:00 PDT 2002,2.90,187.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:36:00 PDT 2002,4.30,165.00
+H0344,BlueStar Systems       Milford      OH,Fri Aug 16 16:45:00 PDT 2002,0.00,350.00
+H0004,BoblandUSA             San Diego     CA,Fri Aug 16 16:46:00 PDT 2002,0.89,250.00
+H0364,BoltAssociates         Beltsville    MD,Fri Aug 16 16:31:00 PDT 2002,0.00,340.00
+H0012,Crowley TX WX Page     Crowley       TX,Fri Aug 16 16:40:00 PDT 2002,1.34,150.00
+H0024,Cornelius     OR,Fri Aug 16 16:46:00 PDT 2002,1.34,30.00
+H0445,Arlington Street	South Patrick Shores FL,Fri Aug 16 16:45:00 PDT 2002,0.89,90.00
+H0025,Dickinson     TX,Fri Aug 16 16:44:00 PDT 2002,1.79,170.00
+H0299,KALB Studios           Alexandria    LA,Fri Aug 16 16:30:00 PDT 2002,0.89,70.00
+H0245,Mobile        AL,Fri Aug 16 16:44:00 PDT 2002,1.34,190.00
+H0421,Spanish Fort           Daphne	     AL,Fri Aug 16 16:40:00 PDT 2002,0.00,200.00
+H0322,Phoenix       AZ,Fri Aug 16 16:40:00 PDT 2002,1.34,230.00
+H0030,Harrisburg             Lowville      NY,Fri Aug 16 16:46:00 PDT 2002,0.00,300.00
+H0031,Rainbow City  AL,Fri Aug 16 16:45:00 PDT 2002,0.00,100.00
+H0032,Hendersonvill TN,Fri Aug 16 16:40:00 PDT 2002,0.00,40.00
+H0244,Acton         CA,Fri Aug 16 16:35:00 PDT 2002,5.36,250.00
+H0339,Williams Worship       Bellflower    CA,Fri Aug 16 16:46:00 PDT 2002,3.13,190.00
+H0252,Chula Vista   CA,Fri Aug 16 16:41:00 PDT 2002,2.68,270.00
+H0300,Cloverdale    CA,Fri Aug 16 16:45:00 PDT 2002,1.34,230.00
+H0223,Petroglyph Computing   Crestline     CA,Fri Aug 16 16:33:00 PDT 2002,0.00,90.00
+H0232,Emerald Hills          Redwood City  CA,Fri Aug 16 16:32:00 PDT 2002,1.34,100.00
+H0346,California Hills       Folsom        CA,Fri Aug 16 16:46:00 PDT 2002,1.34,300.00
+H0266,Springville Networks   Fortuna       CA,Fri Aug 16 16:45:00 PDT 2002,3.58,270.00
+H0237,Healdsburg    CA,Fri Aug 16 16:45:00 PDT 2002,2.68,110.00
+H0158,Lancaster     CA,Fri Aug 16 16:40:00 PDT 2002,3.13,250.00
+H0347,Terra Cotta Estates    Lincoln       CA,Fri Aug 16 16:45:00 PDT 2002,1.34,260.00
+H0284,Audette Associates     Nevada City   CA,Fri Aug 16 16:31:00 PDT 2002,0.00,320.00
+H0267,Redding       CA,Fri Aug 16 16:46:00 PDT 2002,0.00,120.00
+H0268,Sacramento    CA,Fri Aug 16 16:45:00 PDT 2002,1.34,280.00
+H0164,San Luis Obis CA,Fri Aug 16 16:41:00 PDT 2002,5.36,290.00
+H0269,South Valley Internet  San Martin    CA,Fri Aug 16 16:45:00 PDT 2002,3.58,160.00
+H0259,Pickles Central        San Rafael    CA,Fri Aug 16 16:45:00 PDT 2002,1.34,250.00
+H0324,2ROOS                  South Lake Ta CA,Fri Aug 16 16:45:00 PDT 2002,2.68,280.00
+H0348,Tehachapi     CA,Fri Aug 16 16:45:00 PDT 2002,2.24,270.00
+H0285,Kenos Weather          Manitou Sprin CO,Fri Aug 16 16:44:00 PDT 2002,0.89,10.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Fri Aug 16 16:41:00 PDT 2002,5.36,90.00
+H0325,Summit County CO,Fri Aug 16 16:46:00 PDT 2002,0.45,350.00
+H0189,Canterbury    CT,Fri Aug 16 16:40:00 PDT 2002,0.00,360.00
+H0206,Stonybrook             Norwalk       CT,Fri Aug 16 16:45:00 PDT 2002,0.00,300.00
+H0036,Dunstable     MA,Fri Aug 16 16:45:00 PDT 2002,0.00,30.00
+H0040,Sebastopol    CA,Fri Aug 16 16:41:00 PDT 2002,1.34,240.00
+H0351,Port St. John Weather  Cocoa         FL,Fri Aug 16 16:40:00 PDT 2002,0.00,60.00
+H0295,Lake Mary     FL,Fri Aug 16 16:32:00 PDT 2002,2.24,50.00
+H0270,Margate       FL,Fri Aug 16 16:47:00 PDT 2002,3.13,90.00
+H0312,Satellite Bea FL,Fri Aug 16 16:36:00 PDT 2002,2.24,120.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Fri Aug 16 16:48:00 PDT 2002,1.34,120.00
+H0409,Auburn       GA,Fri Aug 16 16:46:00 PDT 2002,0.00,350.00
+H0296,KD4K                   Cumming       GA,Fri Aug 16 16:45:00 PDT 2002,0.45,50.00
+H0377,Thornbrook             Marietta     GA,Fri Aug 16 16:31:00 PDT 2002,0.00,310.00
+H0234,Roswell       GA,Fri Aug 16 16:32:00 PDT 2002,0.00,350.00
+H0183,New Hampton   IA,Fri Aug 16 16:42:00 PDT 2002,3.58,150.00
+H0246,Sidney        IA,Fri Aug 16 16:37:00 PDT 2002,4.92,160.00
+H0261,Crystal Lake  IL,Fri Aug 16 16:45:00 PDT 2002,0.89,290.00
+H0286,KIMT Studios           Mason City    IA,Fri Aug 16 16:45:00 PDT 2002,3.13,160.00
+H0271,Georgetown    IN,Fri Aug 16 16:45:00 PDT 2002,1.79,140.00
+H0191,Paducah       KY,Fri Aug 16 16:41:00 PDT 2002,0.00,130.00
+H0287,Arlington Center       Arlington     MA,Fri Aug 16 16:46:00 PDT 2002,3.58,310.00
+H0272,WoodvilleGr1           Hopkinton     MA,Fri Aug 16 16:45:00 PDT 2002,2.24,260.00
+H0297,Uxbridge      MA,Fri Aug 16 16:31:00 PDT 2002,0.00,160.00
+H0156,Raymond       ME,Fri Aug 16 16:41:00 PDT 2002,0.00,120.00
+H0150,Davisburg     MI,Fri Aug 16 16:30:00 PDT 2002,1.34,270.00
+H0253,Blaine        MN,Fri Aug 16 16:34:00 PDT 2002,0.89,110.00
+H0307,Bloomington   MN,Fri Aug 16 16:40:00 PDT 2002,1.79,100.00
+H0327,Duluth        MN,Fri Aug 16 16:45:00 PDT 2002,1.79,180.00
+H0354,Monticello    MN,Fri Aug 16 16:45:00 PDT 2002,0.89,110.00
+H0216,Vadnais Heigh MN,Fri Aug 16 16:45:00 PDT 2002,2.24,160.00
+H0342,Gideon School District Gideon        MO,Fri Aug 16 16:45:00 PDT 2002,3.58,140.00
+H0263,WeatherSource          Shelby        NC,Fri Aug 16 16:45:00 PDT 2002,1.34,10.00
+H0335,MSFTRNCS Weather Web   Hooper        NE,Fri Aug 16 16:45:00 PDT 2002,4.47,140.00
+H0387,North Holmes           Lake Lincoln NE,Fri Aug 16 16:45:00 PDT 2002,1.79,150.00
+H0370,Meadowlands            Secaucus     NJ,Fri Aug 16 16:43:00 PDT 2002,0.89,320.00
+H0042,Knoxville     TN,Fri Aug 16 16:45:00 PDT 2002,0.00,80.00
+H0137,Babylon Village        Babylon       NY,Fri Aug 16 16:35:00 PDT 2002,0.89,150.00
+H0302,Cuba          NY,Fri Aug 16 16:46:00 PDT 2002,0.00,210.00
+H0357,Hempstead     NY,Fri Aug 16 16:45:00 PDT 2002,0.00,130.00
+H0453,Neversink Reservoir	Neversink    NY,Fri Aug 16 16:41:00 PDT 2002,0.00,330.00
+H0308,New City      NY,Fri Aug 16 16:45:00 PDT 2002,0.00,220.00
+H0290,Rochester     NY,Fri Aug 16 16:33:00 PDT 2002,4.47,270.00
+H0141,Sloatsburg    NY,Fri Aug 16 16:45:00 PDT 2002,0.00,260.00
+H0251,Vestal        NY,Fri Aug 16 16:40:00 PDT 2002,0.00,350.00
+H0309,Columbus      OH,Fri Aug 16 16:40:00 PDT 2002,0.89,250.00
+H0420,West Slope             Astoria	     OR,Fri Aug 16 16:45:00 PDT 2002,1.34,280.00
+H0440,Broomall     PA,Fri Aug 16 16:45:00 PDT 2002,1.34,270.00
+H0110,San Juan      PR,Fri Aug 16 16:44:00 PDT 2002,1.79,40.00
+H0043,WX for West PA/East OH Sharon        PA,Fri Aug 16 16:40:00 PDT 2002,0.00,270.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Fri Aug 16 16:46:00 PDT 2002,0.45,170.00
+H0337,Middletown    RI,Fri Aug 16 16:45:00 PDT 2002,0.00,210.00
+H0329,Williamston   SC,Fri Aug 16 16:47:00 PDT 2002,0.00,340.00
+H0298,Terricita Hills        Rapid City    SD,Fri Aug 16 16:50:00 PDT 2002,1.34,360.00
+H0447,Downtown               Santa Rosa   CA,Fri Aug 16 16:31:00 PDT 2002,2.68,200.00
+H0396,Williamson             County Franklin TN,Fri Aug 16 16:40:00 PDT 2002,1.34,10.00
+H0310,SSC                    Abilene       TX,Fri Aug 16 16:45:00 PDT 2002,4.02,180.00
+H0318,Austin        TX,Fri Aug 16 16:44:00 PDT 2002,2.24,110.00
+H0236,Burk                   Burnett       TX,Fri Aug 16 16:33:00 PDT 2002,2.68,180.00
+H0202,KC4WTI                 Irving        TX,Fri Aug 16 16:34:00 PDT 2002,2.24,160.00
+H0360,Corinth       TX,Fri Aug 16 16:50:00 PDT 2002,4.02,200.00
+H0330,Gift World             Dallas        TX,Fri Aug 16 16:45:00 PDT 2002,1.34,180.00
+H0311,Clear Lake City WX     Houston       TX,Fri Aug 16 16:41:00 PDT 2002,0.45,100.00
+H0230,Riverbend WA5KXX       Plano         TX,Fri Aug 16 16:30:00 PDT 2002,3.13,160.00
+H0418,Brushy Creek           Round Rock   TX,Fri Aug 16 16:40:00 PDT 2002,1.79,130.00
+H0415,Northwest Crossing	San Antonio  TX,Fri Aug 16 16:47:00 PDT 2002,1.34,210.00
+H0280,Taylor        TX,Fri Aug 16 16:45:00 PDT 2002,2.24,160.00
+H0362,Salt Lake Cty UT,Fri Aug 16 16:40:00 PDT 2002,2.24,50.00
+H0293,Harrisonburg  VA,Fri Aug 16 16:46:00 PDT 2002,0.45,270.00
+H0157,N4NW                   Stafford      VA,Fri Aug 16 16:32:00 PDT 2002,0.00,220.00
+H0363,Darrington    WA,Fri Aug 16 16:32:00 PDT 2002,0.89,210.00
+H0443,Fishers Glen           Vancouver    WA,Fri Aug 16 16:45:00 PDT 2002,2.68,280.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Fri Aug 16 16:40:00 PDT 2002,2.24,350.00
+H0423,Middleboro   MA,Fri Aug 16 16:45:00 PDT 2002,0.00,250.00
+H0099,Mountain High Resort   Wrightwood    CA,Fri Aug 16 16:30:00 PDT 2002,0.00,80.00
+H0052,New Milford Weather    New Milford   CT,Fri Aug 16 16:42:00 PDT 2002,0.00,270.00
+H0419,Lowes Motor Spdwy Area	Concord	     NC,Fri Aug 16 16:34:00 PDT 2002,0.89,110.00
+H0062,Northeast Raleigh      Raleigh       NC,Fri Aug 16 16:46:00 PDT 2002,1.34,120.00
+H0068,St. Cloud     MN,Fri Aug 16 16:45:00 PDT 2002,0.00,110.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Fri Aug 16 16:46:00 PDT 2002,0.00,140.00
+H0072,Thunder Ranch          Juniper Hills CA,Fri Aug 16 16:46:00 PDT 2002,4.47,220.00
+H0083,WBTW Studios           Florence      SC,Fri Aug 16 16:45:00 PDT 2002,0.45,270.00
+H0084,WDEF Studios           Chattanooga   TN,Fri Aug 16 16:45:00 PDT 2002,1.34,130.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Fri Aug 16 16:40:00 PDT 2002,0.00,0.00
+H0086,WIAT Studios           Birmingham    AL,Fri Aug 16 16:30:00 PDT 2002,1.34,260.00
+H0087,WJBF Studios           Augusta       GA,Fri Aug 16 16:45:00 PDT 2002,0.45,200.00
+H0088,WJHL Studios           Johnson City  TN,Fri Aug 16 16:50:00 PDT 2002,0.89,100.00
+H0089,WJTV Studios           Jackson       MS,Fri Aug 16 16:47:00 PDT 2002,0.89,330.00
+H0399,Lake Forest            Daphne       AL,Fri Aug 16 16:45:00 PDT 2002,0.00,320.00
+H0091,WMBB Studios           Panama City   FL,Fri Aug 16 16:45:00 PDT 2002,0.00,90.00
+H0095,WSAV Studios           Savannah      GA,Fri Aug 16 16:30:00 PDT 2002,0.00,120.00
+BLDF1,Belle Glade                            FAWN,Fri Aug 16 16:30:00 PDT 2002,1.79,63.00
+TRAF1,Citra                                  FAWN,Fri Aug 16 16:30:00 PDT 2002,0.84,50.93
+ALHF1,Alachua                                FAWN,Fri Aug 16 16:30:00 PDT 2002,1.27,83.80
+STNF1,Hastings                               FAWN,Fri Aug 16 16:30:00 PDT 2002,4.04,111.40
+CKHF1,Ocklawaha                              FAWN,Fri Aug 16 16:30:00 PDT 2002,2.51,106.40
+VRSF1,Tavares                                FAWN,Fri Aug 16 16:30:00 PDT 2002,2.90,99.40
+UMLF1,Umatilla                               FAWN,Fri Aug 16 16:30:00 PDT 2002,2.81,104.20
+KHPF1,Okahumpka                              FAWN,Fri Aug 16 16:30:00 PDT 2002,3.91,108.00
+VLNF1,Avalon                                 FAWN,Fri Aug 16 16:30:00 PDT 2002,1.48,104.20
+KSLF1,Brooksville                            FAWN,Fri Aug 16 16:30:00 PDT 2002,0.57,222.60
+POPF1,Apopka                                 FAWN,Fri Aug 16 16:30:00 PDT 2002,3.71,201.10
+KALF1,Lake Alfred                            FAWN,Fri Aug 16 16:30:00 PDT 2002,1.62,69.31
+DOVF1,Dover                                  FAWN,Fri Aug 16 16:30:00 PDT 2002,0.84,35.49
+DNTF1,Bradenton                              FAWN,Fri Aug 16 16:30:00 PDT 2002,4.75,104.00
+NNAF1,Ona                                    FAWN,Fri Aug 16 16:30:00 PDT 2002,4.14,122.10
+FDLF1,Fort Lauderdale                        FAWN,Fri Aug 16 16:30:00 PDT 2002,3.63,141.50
+PCEF1,Fort Pierce                            FAWN,Fri Aug 16 16:30:00 PDT 2002,3.29,114.60
+STDF1,Homestead                              FAWN,Fri Aug 16 16:30:00 PDT 2002,2.71,123.00
+IMKF1,Immokalee                              FAWN,Fri Aug 16 16:30:00 PDT 2002,2.16,85.10
+BMTC2,Blue_Mountain,Fri Aug 16 16:47:00 PDT 2002,3.13,0.00
+QURC2,Quincy_Res,Fri Aug 16 16:47:00 PDT 2002,0.89,22.00
+DHPC2,Diamond_Hill,Fri Aug 16 16:47:00 PDT 2002,2.15,264.00
+EBBC2,Elbert,Fri Aug 16 16:47:00 PDT 2002,5.23,5.00
+BHNC2,Brighton,Fri Aug 16 16:47:00 PDT 2002,3.40,281.00
+HGCC2,Hiwan_G.C.,Fri Aug 16 16:47:00 PDT 2002,1.79,320.00
+HIGC2,Highlands_Ranch_WTP,Fri Aug 16 16:47:00 PDT 2002,3.04,287.00
+SAPC2,Salisbury_Park,Fri Aug 16 16:47:00 PDT 2002,2.68,354.00
+COKC2,Castle_Rock,Fri Aug 16 16:47:00 PDT 2002,0.80,354.00
+SFSC2,Sugarloaf,Fri Aug 16 16:47:00 PDT 2002,3.58,304.00
+LEWC2,Louisville_Lake,Fri Aug 16 16:47:00 PDT 2002,5.01,236.00
+BTRC2,Button_Rock,Fri Aug 16 16:47:00 PDT 2002,0.80,315.00
+URBC2,Urban Farm at Stapleton,Fri Aug 16 16:47:00 PDT 2002,5.10,355.00
+NCARM,NCAR Table Mesa                       NCAR,Fri Aug 16 16:36:35 PDT 2002,7.60,340.00
+NCARF,NCAR Foothills Lab                    NCAR,Fri Aug 16 16:39:42 PDT 2002,3.22,278.00
+MN001,Twin Lakes I-35 Mile Post 1,Fri Aug 16 16:34:02 PDT 2002,10.00,165.00
+MN003,Little Chicago I-35 Mile Post 70,Fri Aug 16 16:34:01 PDT 2002,2.78,120.00
+MN004,Rush City I-35 Mile Post 157,Fri Aug 16 16:37:03 PDT 2002,1.94,100.00
+MN006,Beaver Creek I-90 Mile Post 4,Fri Aug 16 16:35:04 PDT 2002,10.56,165.00
+MN007,I-90 Mile Post 35,Fri Aug 16 16:31:00 PDT 2002,10.83,145.00
+MN008,I-90 Mile Post 67,Fri Aug 16 16:40:01 PDT 2002,8.33,185.00
+MN009,Blue Earth I-90 Mile Post 119,Fri Aug 16 16:40:01 PDT 2002,2.78,200.00
+MN010,Dexter I-90 Mile Post 195,Fri Aug 16 16:35:00 PDT 2002,5.28,145.00
+MN011,Jct CR 7 I-90 Mile Post 226,Fri Aug 16 16:39:01 PDT 2002,5.28,140.00
+MN012,Ridgeway I-90 Mile Post 261,Fri Aug 16 16:35:00 PDT 2002,4.17,165.00
+MN013,Dilworth I-94 Mile Post 5,Fri Aug 16 16:39:02 PDT 2002,6.94,130.00
+MN014,Rothsay I-94 Mile Post 38,Fri Aug 16 16:34:00 PDT 2002,8.89,105.00
+MN015,Alexandria I-94 Mile Post 104,Fri Aug 16 16:40:02 PDT 2002,6.11,145.00
+MN016,Sauk Center I-94 Mile Post 128,Fri Aug 16 16:32:02 PDT 2002,4.17,155.00
+MN017,Clearwater I-94 Mile Post 180,Fri Aug 16 16:36:01 PDT 2002,3.06,135.00
+MN018,Shooks MN-1 Mile Post 34,Fri Aug 16 16:39:00 PDT 2002,3.06,175.00
+MN020,Emily MN-6 Mile Post 29,Fri Aug 16 16:40:03 PDT 2002,1.94,135.00
+MN021,Clara City MN-7 Mile Post 89,Fri Aug 16 16:40:00 PDT 2002,5.28,120.00
+MN022,Lester Prairie MN-7 Mile Post 161,Fri Aug 16 16:31:00 PDT 2002,3.61,145.00
+MN024,MN-7 Mile Post 11,Fri Aug 16 16:40:07 PDT 2002,0.00,130.00
+MN025,MN-11 Mile Post 62,Fri Aug 16 16:40:10 PDT 2002,0.83,235.00
+MN026,Brichdale MN-11 Mile Post 157,Fri Aug 16 16:39:01 PDT 2002,2.78,175.00
+MN028,Lake Benton US-14 Mile Post 7,Fri Aug 16 16:31:01 PDT 2002,8.89,150.00
+MN029,Byron US-14 Mile Post 200,Fri Aug 16 16:38:00 PDT 2002,6.94,95.00
+MN030,Hendricks MN-19 Mile Post 2,Fri Aug 16 16:31:01 PDT 2002,6.94,135.00
+MN032,Winthrop MN-19 Mile Post 108,Fri Aug 16 16:31:02 PDT 2002,4.17,135.00
+MN033,Hanley Falls MN-23 Mile Post 94,Fri Aug 16 16:36:00 PDT 2002,6.11,125.00
+MN035,Lastrup MN-25 Mile Post 140,Fri Aug 16 16:33:00 PDT 2002,3.33,100.00
+MN036,Graceville MN-28 Mile Post 19,Fri Aug 16 16:33:02 PDT 2002,7.22,130.00
+MN037,Langhei Township MN-29 Mile Post 46,Fri Aug 16 16:33:02 PDT 2002,5.56,150.00
+MN038,Dovray MN-30 Mile Post 49,Fri Aug 16 16:32:00 PDT 2002,6.11,135.00
+MN040,Caledonia MN-44 Mile Post 60,Fri Aug 16 16:35:01 PDT 2002,0.28,230.00
+MN041,Squaw Lake MN-46 Mile Post 25,Fri Aug 16 16:32:03 PDT 2002,0.83,120.00
+MN042,Cannon Falls US-52 Mile Post 90,Fri Aug 16 16:33:01 PDT 2002,6.67,155.00
+MN043,Georgeville MN-55 Mile Post 98,Fri Aug 16 16:32:02 PDT 2002,4.17,165.00
+MN044,Mahnomen US-59 Mile Post 296,Fri Aug 16 16:37:01 PDT 2002,5.28,150.00
+MN045,Madelia US-60 Mile Post 86,Fri Aug 16 16:32:01 PDT 2002,3.89,150.00
+MN047,Red Wing US-61 Mile Post 101,Fri Aug 16 16:34:01 PDT 2002,5.00,130.00
+MN048,Grand Portage MN-61 Mile Post 146,Fri Aug 16 16:33:03 PDT 2002,1.67,230.00
+MN049,Chamberlain MN-64 Mile Post 42,Fri Aug 16 16:39:02 PDT 2002,3.61,125.00
+MN050,Pliny MN-65 Mile Post 98,Fri Aug 16 16:34:02 PDT 2002,1.94,40.00
+MN051,Ball Bluff MN-65 Mile Post 145,Fri Aug 16 16:35:02 PDT 2002,0.56,345.00
+MN052,Effie MN-1 Mile Post 194,Fri Aug 16 16:38:02 PDT 2002,3.06,195.00
+MN054,Tenney US-75 Mile Post 188,Fri Aug 16 16:36:03 PDT 2002,6.94,145.00
+MN055,Ottertail MN-78 Mile Post 34,Fri Aug 16 16:37:03 PDT 2002,1.94,85.00
+MN056,Gatzke MN-89 Mile Post 96,Fri Aug 16 16:36:02 PDT 2002,0.83,110.00
+MN057,St. Vincent MN-171 Mile Post 2,Fri Aug 16 16:38:03 PDT 2002,4.17,110.00
+MN058,Anthony MN-200 Mile Post 9,Fri Aug 16 16:37:00 PDT 2002,6.94,100.00
+MN059,Mehurin US-212 Mile Post 1,Fri Aug 16 16:39:03 PDT 2002,5.28,135.00
+MN060,East Grand Forks US-2 Mile Post 8,Fri Aug 16 16:40:13 PDT 2002,4.44,20.00
+MN062,Lake Park US-10 Mile Post 32,Fri Aug 16 16:37:01 PDT 2002,6.39,70.00
+MN063,Verndale US-10 Mile Post 94,Fri Aug 16 16:38:01 PDT 2002,3.61,120.00
+MN064,Rice US-10 Mile Post 162,Fri Aug 16 16:36:01 PDT 2002,4.72,160.00
+MN065,Canton US-52 Mile Post 2,Fri Aug 16 16:35:01 PDT 2002,2.78,225.00
+MN066,Cotton US-53 Mile Post 41,Fri Aug 16 16:31:07 PDT 2002,1.11,170.00
+MN067,Ash Lake US-53 Mile Post 129,Fri Aug 16 16:32:03 PDT 2002,1.67,165.00
+MN068,Brooks US-59 Mile Post 331,Fri Aug 16 16:37:02 PDT 2002,4.44,55.00
+MN069,Kellogg US-61 Mile Post 53,Fri Aug 16 16:40:00 PDT 2002,1.67,150.00
+MN071,MN-71 Mile Post 43,Fri Aug 16 16:32:01 PDT 2002,10.28,160.00
+MN073,Mankato US-169 Mile Post 52,Fri Aug 16 16:34:00 PDT 2002,2.78,120.00
+MN075,Belle Plaine US-169 Mile Post 86,Fri Aug 16 16:33:03 PDT 2002,3.33,140.00
+MN076,Milaca US-169 Mile Post 200,Fri Aug 16 16:36:02 PDT 2002,4.17,140.00
+MN079,New Prague MN-19 Mile Post 149,Fri Aug 16 16:38:00 PDT 2002,1.94,170.00
+MN080,Thompson Hill I-35 Mile Post 248,Fri Aug 16 16:30:30 PDT 2002,2.22,220.00
+MN082,I-35 and Garfield Avenue,Fri Aug 16 16:31:30 PDT 2002,1.67,255.00
+MN083,Lafayette Tunnel MN-61 Mile Post 32,Fri Aug 16 16:31:30 PDT 2002,0.83,255.00
+MN091,Twig MN-53 Mile Post 21,Fri Aug 16 16:32:30 PDT 2002,2.22,200.00
+MN084,MN-53 and 135 - Midway,Fri Aug 16 16:06:20 PDT 2002,0.83,245.00
+MN086,Burnsville I-35W Mile Post 4,Fri Aug 16 16:34:02 PDT 2002,3.06,120.00
+MN087,Maple Grove I-94 Mile Post 217,Fri Aug 16 16:34:35 PDT 2002,3.89,195.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Fri Aug 16 16:34:04 PDT 2002,4.17,135.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Fri Aug 16 16:34:38 PDT 2002,3.06,150.00
+MN096,Albert Lea I-35 Mile Post 30,Fri Aug 16 16:35:17 PDT 2002,2.78,125.00
+MN093,Silver Cliff MN-61 Mile Post 30,Fri Aug 16 16:30:00 PDT 2002,0.28,263.00
+MN081,Pier 20,Fri Aug 16 16:30:00 PDT 2002,3.61,222.00
+MN095,Blatnick Bridge South Abutment,Fri Aug 16 16:31:00 PDT 2002,3.33,260.00
+NP018,Newport, RI,Fri Aug 16 16:48:00 PDT 2002,3.60,202.00
+NP019,Providence, RI,Fri Aug 16 16:48:00 PDT 2002,1.50,203.00
+NP020,Conimicut Pt, RI,Fri Aug 16 16:48:00 PDT 2002,5.10,189.00
+NP022,Borden Flats, MA,Fri Aug 16 16:48:00 PDT 2002,5.30,209.00
+NP023,Prud Island, RI,Fri Aug 16 16:48:00 PDT 2002,1.60,202.00
+NP024,Quonset Pt, RI,Fri Aug 16 16:48:00 PDT 2002,4.60,249.00
+NP003,Tolchester, MD,Fri Aug 16 16:42:00 PDT 2002,4.80,275.00
+NP004,Solomons Island, MD,Fri Aug 16 16:42:00 PDT 2002,5.80,230.00
+NP011,Kiptopeke, VA,Fri Aug 16 16:42:00 PDT 2002,4.10,298.00
+NP002,Lewisetta, MD,Fri Aug 16 16:42:00 PDT 2002,5.10,228.00
+NP010,Sewells Pt, VA,Fri Aug 16 16:42:00 PDT 2002,3.00,252.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:42:00 PDT 2002,4.30,244.00
+NP013,Money Pt, VA,Fri Aug 16 16:42:00 PDT 2002,0.30,230.00
+NP026,St Petersburg, FL,Fri Aug 16 16:42:00 PDT 2002,3.80,103.00
+NP028,Port Manatee, FL,Fri Aug 16 16:42:00 PDT 2002,1.70,99.00
+NP029,Port Tampa, FL,Fri Aug 16 16:42:00 PDT 2002,0.00,0.00
+NP030,Galveston Pleasure Pier, TX,Fri Aug 16 16:48:00 PDT 2002,6.30,129.00
+NP033,Eagle Point,Fri Aug 16 16:48:00 PDT 2002,5.90,143.00
+NP034,Morgans Point,Fri Aug 16 16:48:00 PDT 2002,3.90,150.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:42:00 PDT 2002,2.20,252.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:42:00 PDT 2002,4.30,217.00
+NP017,Kings Point, NY,Fri Aug 16 16:42:00 PDT 2002,2.90,194.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:42:00 PDT 2002,3.80,165.00
+NCARM,NCAR Table Mesa                       NCAR,Fri Aug 16 16:51:35 PDT 2002,6.30,346.00
+NCARF,NCAR Foothills Lab                    NCAR,Fri Aug 16 16:54:42 PDT 2002,5.01,298.00
+NP003,Tolchester, MD,Fri Aug 16 16:48:00 PDT 2002,4.40,275.00
+NP004,Solomons Island, MD,Fri Aug 16 16:48:00 PDT 2002,5.60,226.00
+NP011,Kiptopeke, VA,Fri Aug 16 16:48:00 PDT 2002,3.80,298.00
+NP002,Lewisetta, MD,Fri Aug 16 16:48:00 PDT 2002,4.10,236.00
+NP008,Chesapeake Bay Bridge, VA,Fri Aug 16 16:48:00 PDT 2002,3.90,245.00
+NP013,Money Pt, VA,Fri Aug 16 16:48:00 PDT 2002,1.40,238.00
+NP025,Old Port Tampa, FL,Fri Aug 16 16:48:00 PDT 2002,4.10,77.00
+NP026,St Petersburg, FL,Fri Aug 16 16:48:00 PDT 2002,5.30,98.00
+NP028,Port Manatee, FL,Fri Aug 16 16:48:00 PDT 2002,1.90,97.00
+NP029,Port Tampa, FL,Fri Aug 16 16:48:00 PDT 2002,0.00,0.00
+NP030,Galveston Pleasure Pier, TX,Fri Aug 16 16:54:00 PDT 2002,7.00,137.00
+NP034,Morgans Point,Fri Aug 16 16:54:00 PDT 2002,4.10,147.00
+NP015,Bayonne Bridge, NJ,Fri Aug 16 16:48:00 PDT 2002,2.20,243.00
+NP014,Sandy Hook, NJ,Fri Aug 16 16:48:00 PDT 2002,4.20,226.00
+NP017,Kings Point, NY,Fri Aug 16 16:48:00 PDT 2002,3.60,191.00
+NP016,Robins Reef, NJ,Fri Aug 16 16:48:00 PDT 2002,3.70,167.00
+EGK,Egmont Key                             USF,Fri Aug 16 16:50:00 PDT 2002,6.70,73.00
+NA2,Navy-2 Buoy                            USF,Fri Aug 16 16:10:00 PDT 2002,0.00,90.00
+MN080,Thompson Hill I-35 Mile Post 248,Fri Aug 16 16:45:30 PDT 2002,2.22,175.00
+MN082,I-35 and Garfield Avenue,Fri Aug 16 16:45:30 PDT 2002,3.06,245.00
+MN083,Lafayette Tunnel MN-61 Mile Post 32,Fri Aug 16 16:46:30 PDT 2002,1.39,270.00
+MN084,MN-53 and 135 - Midway,Fri Aug 16 16:16:20 PDT 2002,0.28,205.00
+MN086,Burnsville I-35W Mile Post 4,Fri Aug 16 16:44:01 PDT 2002,4.44,115.00
+MN087,Maple Grove I-94 Mile Post 217,Fri Aug 16 16:44:35 PDT 2002,1.94,165.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Fri Aug 16 16:44:04 PDT 2002,3.89,95.00
+MN096,Albert Lea I-35 Mile Post 30,Fri Aug 16 16:45:13 PDT 2002,4.44,150.00
+MN093,Silver Cliff MN-61 Mile Post 30,Fri Aug 16 16:40:00 PDT 2002,0.56,264.00
+MN081,Pier 20,Fri Aug 16 16:40:00 PDT 2002,3.06,219.00
+MN095,Blatnick Bridge South Abutment,Fri Aug 16 16:41:00 PDT 2002,2.50,269.00
+H0299,KALB Studios           Alexandria    LA,Fri Aug 16 16:45:00 PDT 2002,1.79,30.00
+H0322,Phoenix       AZ,Fri Aug 16 16:55:00 PDT 2002,2.24,200.00
+H0284,Audette Associates     Nevada City   CA,Fri Aug 16 16:46:00 PDT 2002,0.00,190.00
+H0324,2ROOS                  South Lake Ta CA,Fri Aug 16 16:55:00 PDT 2002,0.00,280.00
+H0040,Sebastopol    CA,Fri Aug 16 16:51:00 PDT 2002,2.24,260.00
+H0295,Lake Mary     FL,Fri Aug 16 16:47:00 PDT 2002,1.34,150.00
+H0312,Satellite Bea FL,Fri Aug 16 16:51:00 PDT 2002,2.24,20.00
+H0377,Thornbrook             Marietta     GA,Fri Aug 16 16:45:00 PDT 2002,1.34,280.00
+H0297,Uxbridge      MA,Fri Aug 16 16:45:00 PDT 2002,0.00,160.00
+H0156,Raymond       ME,Fri Aug 16 16:51:00 PDT 2002,0.00,190.00
+H0357,Hempstead     NY,Fri Aug 16 16:51:00 PDT 2002,0.00,160.00
+H0290,Rochester     NY,Fri Aug 16 16:48:00 PDT 2002,0.00,160.00
+H0304,Edmunds Weather        Smithtown     NY,Fri Aug 16 16:47:00 PDT 2002,0.00,60.00
+H0291,Colerain Township      Cincinnati    OH,Fri Aug 16 16:30:00 PDT 2002,2.68,40.00
+H0337,Middletown    RI,Fri Aug 16 16:55:00 PDT 2002,0.00,180.00
+H0338,Spartanburg   SC,Fri Aug 16 16:56:00 PDT 2002,0.00,360.00
+H0329,Williamston   SC,Fri Aug 16 16:55:00 PDT 2002,0.00,340.00
+H0447,Downtown               Santa Rosa   CA,Fri Aug 16 16:46:00 PDT 2002,2.68,180.00
+H0202,KC4WTI                 Irving        TX,Fri Aug 16 16:49:00 PDT 2002,2.24,160.00
+H0362,Salt Lake Cty UT,Fri Aug 16 16:55:00 PDT 2002,0.00,360.00
+H0157,N4NW                   Stafford      VA,Fri Aug 16 16:47:00 PDT 2002,0.00,170.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Fri Aug 16 16:50:00 PDT 2002,2.24,350.00
+H0052,New Milford Weather    New Milford   CT,Fri Aug 16 16:51:00 PDT 2002,0.00,270.00
+H0086,WIAT Studios           Birmingham    AL,Fri Aug 16 16:45:00 PDT 2002,1.79,240.00
+H0095,WSAV Studios           Savannah      GA,Fri Aug 16 16:45:00 PDT 2002,0.00,190.00
+BLDF1,Belle Glade                            FAWN,Fri Aug 16 16:45:00 PDT 2002,1.52,52.43
+TRAF1,Citra                                  FAWN,Fri Aug 16 16:45:00 PDT 2002,0.73,53.87
+ALHF1,Alachua                                FAWN,Fri Aug 16 16:45:00 PDT 2002,1.34,93.90
+STNF1,Hastings                               FAWN,Fri Aug 16 16:45:00 PDT 2002,4.06,114.00
+CKHF1,Ocklawaha                              FAWN,Fri Aug 16 16:45:00 PDT 2002,2.53,101.10
+VRSF1,Tavares                                FAWN,Fri Aug 16 16:45:00 PDT 2002,2.03,109.60
+UMLF1,Umatilla                               FAWN,Fri Aug 16 16:45:00 PDT 2002,2.86,102.80
+KHPF1,Okahumpka                              FAWN,Fri Aug 16 16:45:00 PDT 2002,2.58,107.90
+VLNF1,Avalon                                 FAWN,Fri Aug 16 16:45:00 PDT 2002,1.61,102.90
+KSLF1,Brooksville                            FAWN,Fri Aug 16 16:45:00 PDT 2002,0.95,108.30
+POPF1,Apopka                                 FAWN,Fri Aug 16 16:45:00 PDT 2002,3.21,208.80
+KALF1,Lake Alfred                            FAWN,Fri Aug 16 16:45:00 PDT 2002,1.72,92.60
+DOVF1,Dover                                  FAWN,Fri Aug 16 16:45:00 PDT 2002,1.46,75.80
+DNTF1,Bradenton                              FAWN,Fri Aug 16 16:45:00 PDT 2002,3.61,94.70
+FDLF1,Fort Lauderdale                        FAWN,Fri Aug 16 16:45:00 PDT 2002,3.26,149.70
+PCEF1,Fort Pierce                            FAWN,Fri Aug 16 16:45:00 PDT 2002,2.66,119.20
+STDF1,Homestead                              FAWN,Fri Aug 16 16:45:00 PDT 2002,2.45,132.40
+IMKF1,Immokalee                              FAWN,Fri Aug 16 16:45:00 PDT 2002,2.17,92.50
+MN001,Twin Lakes I-35 Mile Post 1,Fri Aug 16 16:54:02 PDT 2002,10.00,165.00
+MN003,Little Chicago I-35 Mile Post 70,Fri Aug 16 16:54:01 PDT 2002,2.78,155.00
+MN004,Rush City I-35 Mile Post 157,Fri Aug 16 16:57:03 PDT 2002,1.94,120.00
+MN006,Beaver Creek I-90 Mile Post 4,Fri Aug 16 16:55:04 PDT 2002,8.06,165.00
+MN007,I-90 Mile Post 35,Fri Aug 16 16:51:00 PDT 2002,11.39,140.00
+MN010,Dexter I-90 Mile Post 195,Fri Aug 16 16:55:00 PDT 2002,5.00,90.00
+MN011,Jct CR 7 I-90 Mile Post 226,Fri Aug 16 16:59:00 PDT 2002,5.83,130.00
+MN012,Ridgeway I-90 Mile Post 261,Fri Aug 16 16:55:00 PDT 2002,4.44,155.00
+MN013,Dilworth I-94 Mile Post 5,Fri Aug 16 16:59:02 PDT 2002,7.50,130.00
+MN014,Rothsay I-94 Mile Post 38,Fri Aug 16 16:54:00 PDT 2002,8.06,105.00
+MN016,Sauk Center I-94 Mile Post 128,Fri Aug 16 16:52:02 PDT 2002,3.61,170.00
+MN017,Clearwater I-94 Mile Post 180,Fri Aug 16 16:56:02 PDT 2002,2.78,150.00
+MN018,Shooks MN-1 Mile Post 34,Fri Aug 16 16:59:00 PDT 2002,1.67,155.00
+MN022,Lester Prairie MN-7 Mile Post 161,Fri Aug 16 16:51:00 PDT 2002,7.22,160.00
+MN026,Brichdale MN-11 Mile Post 157,Fri Aug 16 16:59:01 PDT 2002,2.22,185.00
+MN028,Lake Benton US-14 Mile Post 7,Fri Aug 16 16:51:01 PDT 2002,6.11,165.00
+MN029,Byron US-14 Mile Post 200,Fri Aug 16 16:58:00 PDT 2002,6.39,105.00
+MN030,Hendricks MN-19 Mile Post 2,Fri Aug 16 16:51:01 PDT 2002,8.61,125.00
+MN032,Winthrop MN-19 Mile Post 108,Fri Aug 16 16:51:02 PDT 2002,0.83,165.00
+MN033,Hanley Falls MN-23 Mile Post 94,Fri Aug 16 16:56:01 PDT 2002,6.94,130.00
+MN035,Lastrup MN-25 Mile Post 140,Fri Aug 16 16:53:01 PDT 2002,5.00,100.00
+MN036,Graceville MN-28 Mile Post 19,Fri Aug 16 16:53:03 PDT 2002,6.94,130.00
+MN037,Langhei Township MN-29 Mile Post 46,Fri Aug 16 16:53:02 PDT 2002,8.89,160.00
+MN038,Dovray MN-30 Mile Post 49,Fri Aug 16 16:52:00 PDT 2002,8.06,135.00
+MN040,Caledonia MN-44 Mile Post 60,Fri Aug 16 16:55:01 PDT 2002,0.56,230.00
+MN041,Squaw Lake MN-46 Mile Post 25,Fri Aug 16 16:52:03 PDT 2002,0.83,110.00
+MN042,Cannon Falls US-52 Mile Post 90,Fri Aug 16 16:53:01 PDT 2002,6.67,155.00
+MN043,Georgeville MN-55 Mile Post 98,Fri Aug 16 16:52:02 PDT 2002,4.72,165.00
+MN044,Mahnomen US-59 Mile Post 296,Fri Aug 16 16:57:01 PDT 2002,5.56,135.00
+MN045,Madelia US-60 Mile Post 86,Fri Aug 16 16:52:01 PDT 2002,4.17,130.00
+MN047,Red Wing US-61 Mile Post 101,Fri Aug 16 16:54:01 PDT 2002,5.00,140.00
+MN048,Grand Portage MN-61 Mile Post 146,Fri Aug 16 16:53:03 PDT 2002,1.94,225.00
+MN049,Chamberlain MN-64 Mile Post 42,Fri Aug 16 16:59:01 PDT 2002,2.78,125.00
+MN050,Pliny MN-65 Mile Post 98,Fri Aug 16 16:54:02 PDT 2002,1.67,40.00
+MN051,Ball Bluff MN-65 Mile Post 145,Fri Aug 16 16:55:02 PDT 2002,1.39,110.00
+MN052,Effie MN-1 Mile Post 194,Fri Aug 16 16:58:02 PDT 2002,2.78,185.00
+MN054,Tenney US-75 Mile Post 188,Fri Aug 16 16:56:03 PDT 2002,7.50,155.00
+MN055,Ottertail MN-78 Mile Post 34,Fri Aug 16 16:57:03 PDT 2002,1.11,100.00
+MN056,Gatzke MN-89 Mile Post 96,Fri Aug 16 16:56:03 PDT 2002,0.83,160.00
+MN057,St. Vincent MN-171 Mile Post 2,Fri Aug 16 16:58:03 PDT 2002,0.56,95.00
+MN058,Anthony MN-200 Mile Post 9,Fri Aug 16 16:57:00 PDT 2002,6.67,90.00
+MN059,Mehurin US-212 Mile Post 1,Fri Aug 16 16:59:03 PDT 2002,5.00,110.00
+MN062,Lake Park US-10 Mile Post 32,Fri Aug 16 16:57:01 PDT 2002,7.78,75.00
+MN063,Verndale US-10 Mile Post 94,Fri Aug 16 16:58:01 PDT 2002,5.00,130.00
+MN064,Rice US-10 Mile Post 162,Fri Aug 16 16:56:01 PDT 2002,3.33,145.00
+MN065,Canton US-52 Mile Post 2,Fri Aug 16 16:55:01 PDT 2002,3.06,155.00
+MN066,Cotton US-53 Mile Post 41,Fri Aug 16 16:51:04 PDT 2002,0.56,30.00
+MN067,Ash Lake US-53 Mile Post 129,Fri Aug 16 16:52:03 PDT 2002,1.11,240.00
+MN068,Brooks US-59 Mile Post 331,Fri Aug 16 16:57:02 PDT 2002,4.44,45.00
+MN071,MN-71 Mile Post 43,Fri Aug 16 16:52:01 PDT 2002,9.44,150.00
+MN073,Mankato US-169 Mile Post 52,Fri Aug 16 16:54:00 PDT 2002,0.56,160.00
+MN075,Belle Plaine US-169 Mile Post 86,Fri Aug 16 16:53:04 PDT 2002,5.83,135.00
+MN076,Milaca US-169 Mile Post 200,Fri Aug 16 16:56:02 PDT 2002,3.06,130.00
+MN079,New Prague MN-19 Mile Post 149,Fri Aug 16 16:58:00 PDT 2002,0.83,125.00
+MN084,MN-53 and 135 - Midway,Fri Aug 16 16:26:20 PDT 2002,0.56,225.00
+MN086,Burnsville I-35W Mile Post 4,Fri Aug 16 16:54:02 PDT 2002,2.78,170.00
+MN087,Maple Grove I-94 Mile Post 217,Fri Aug 16 16:54:35 PDT 2002,3.61,200.00
+MN088,Little Canada I-694 Mile Post 46,Fri Aug 16 16:54:05 PDT 2002,1.94,165.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Fri Aug 16 16:54:41 PDT 2002,3.33,120.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Fri Aug 16 16:55:15 PDT 2002,3.61,150.00
+MN096,Albert Lea I-35 Mile Post 30,Fri Aug 16 16:55:10 PDT 2002,3.61,145.00
+MN093,Silver Cliff MN-61 Mile Post 30,Fri Aug 16 16:50:00 PDT 2002,1.39,188.00
+MN081,Pier 20,Fri Aug 16 16:50:00 PDT 2002,2.78,223.00
+MN095,Blatnick Bridge South Abutment,Fri Aug 16 16:51:00 PDT 2002,2.78,261.00
+F1274,BROADVIEW,Fri Aug 16 16:44:00 PDT 2002,1.34,270.00
+F1291,GRANITE,Fri Aug 16 16:44:00 PDT 2002,2.24,270.00
+F1295,HELMUT MTN.,Fri Aug 16 16:41:00 PDT 2002,9.83,260.00
+F1296,HODZANA,Fri Aug 16 16:42:00 PDT 2002,6.26,250.00
+F1297,HOGATZA RIVER,Fri Aug 16 16:39:00 PDT 2002,0.00,150.00
+F1300,HOONAH,Fri Aug 16 16:56:00 PDT 2002,0.89,160.00
+F1305,KAKE,Fri Aug 16 16:56:00 PDT 2002,0.89,320.00
+F1306,KANUTI NWR,Fri Aug 16 16:46:00 PDT 2002,5.81,210.00
+F1310,KENAI LAKE,Fri Aug 16 16:44:00 PDT 2002,0.45,280.00
+F1311,KENAI NWR,Fri Aug 16 16:47:00 PDT 2002,1.79,270.00
+F1314,KILBUCK,Fri Aug 16 16:47:00 PDT 2002,4.47,280.00
+F1333,QUARTZ CREEK,Fri Aug 16 16:41:00 PDT 2002,7.15,250.00
+F1358,ZAREMBO,Fri Aug 16 16:56:00 PDT 2002,2.24,200.00
+QCAA3,CARR,Fri Aug 16 16:37:00 PDT 2002,1.79,350.00
+QCGA3,COLUMBINE,Fri Aug 16 16:37:00 PDT 2002,1.79,170.00
+QCKA3,CROWN KING,Fri Aug 16 16:54:00 PDT 2002,2.68,250.00
+QDLA3,DRY LAKE,Fri Aug 16 16:36:00 PDT 2002,3.58,40.00
+QDPA3,DRY PARK,Fri Aug 16 16:31:00 PDT 2002,0.45,330.00
+QFSA3,FOUR SPRINGS,Fri Aug 16 16:40:00 PDT 2002,5.36,290.00
+QLCA3,LIMESTONE CANYON,Fri Aug 16 16:36:00 PDT 2002,3.58,160.00
+QNOA3,NOON CREEK,Fri Aug 16 16:37:00 PDT 2002,3.58,220.00
+QPPA3,PARIA POINT,Fri Aug 16 16:40:00 PDT 2002,4.02,300.00
+TR072,PORTABLEKNF1,Fri Aug 16 16:37:00 PDT 2002,1.79,240.00
+QHVA3,RINCON,Fri Aug 16 16:57:00 PDT 2002,0.45,330.00
+QSBA3,SASABE,Fri Aug 16 16:33:00 PDT 2002,2.68,80.00
+QHQA3,SMITH PEAK,Fri Aug 16 16:31:00 PDT 2002,3.13,200.00
+QSLA3,SOLLERS,Fri Aug 16 16:37:00 PDT 2002,1.34,140.00
+TR075,TONTO PORTABLE #2,Fri Aug 16 16:45:00 PDT 2002,0.00,310.00
+F1373,83 MONUMENT,Fri Aug 16 16:56:00 PDT 2002,2.68,50.00
+ATNC1,ACTON,Fri Aug 16 16:32:00 PDT 2002,3.13,250.00
+ALDC1,ALDER POINT,Fri Aug 16 16:48:00 PDT 2002,0.89,80.00
+ECKC1,ALDER SPRINGS,Fri Aug 16 16:42:00 PDT 2002,1.79,140.00
+ANEC1,ALPINE,Fri Aug 16 16:53:00 PDT 2002,0.00,250.00
+PLIC1,ARBUCKLE BASIN,Fri Aug 16 16:49:00 PDT 2002,4.02,100.00
+MCCC1,ASH CREEK,Fri Aug 16 16:44:00 PDT 2002,2.68,220.00
+BABC1,BACKBONE,Fri Aug 16 16:47:00 PDT 2002,1.34,210.00
+BNGC1,BANGOR,Fri Aug 16 16:53:00 PDT 2002,2.24,190.00
+BEVC1,BEAR VALLEY,Fri Aug 16 16:44:00 PDT 2002,3.13,260.00
+BENC1,BEN BOLT,Fri Aug 16 16:59:00 PDT 2002,2.68,240.00
+BGBC1,BIG BAR,Fri Aug 16 16:47:00 PDT 2002,3.13,290.00
+BKRC1,BLACKROCK,Fri Aug 16 16:34:00 PDT 2002,2.68,250.00
+BDOC1,BLUE DOOR,Fri Aug 16 16:32:00 PDT 2002,2.68,350.00
+BUGC1,BLUE RIDGE (KNF),Fri Aug 16 16:47:00 PDT 2002,3.58,290.00
+BNVC1,BOONVILLE,Fri Aug 16 16:56:00 PDT 2002,4.92,340.00
+BZRC1,BRAZIE RANCH,Fri Aug 16 16:45:00 PDT 2002,1.79,30.00
+BKSC1,BROOKS,Fri Aug 16 16:58:00 PDT 2002,2.68,130.00
+BCNC1,BURNS CANYON,Fri Aug 16 16:56:00 PDT 2002,3.58,160.00
+PEAC1,CALAVERAS ROAD,Fri Aug 16 16:39:00 PDT 2002,7.15,290.00
+CLNC1,CALLAHAN,Fri Aug 16 16:46:00 PDT 2002,0.45,10.00
+CMAC1,CAMANCHE,Fri Aug 16 16:59:00 PDT 2002,4.02,290.00
+CNIC1,CAMP 9,Fri Aug 16 16:37:00 PDT 2002,2.68,160.00
+CNYC1,CANBY,Fri Aug 16 16:32:00 PDT 2002,1.34,220.00
+CDEC1,CARPENTER RIDGE,Fri Aug 16 16:52:00 PDT 2002,0.89,190.00
+CSPC1,CASE SPRINGS,Fri Aug 16 16:45:00 PDT 2002,1.79,260.00
+CGVC1,CEDAR GROVE,Fri Aug 16 16:57:00 PDT 2002,3.13,290.00
+TR117,CEDARVILLE PORTABLE,Fri Aug 16 16:34:00 PDT 2002,1.34,50.00
+CICC1,CHICO,Fri Aug 16 16:53:00 PDT 2002,2.24,160.00
+CHOC1,CHILAO,Fri Aug 16 16:35:00 PDT 2002,3.13,220.00
+CMOC1,CLAREMONT,Fri Aug 16 16:40:00 PDT 2002,3.58,210.00
+CTGC1,CMP TARGET RANGE,Fri Aug 16 16:41:00 PDT 2002,3.13,220.00
+CSTC1,COHASSET,Fri Aug 16 16:52:00 PDT 2002,3.13,180.00
+BLDC1,COLLINS BALDY,Fri Aug 16 16:44:00 PDT 2002,3.58,230.00
+CRGC1,CORNING,Fri Aug 16 16:51:00 PDT 2002,3.13,170.00
+CNAC1,CORONA,Fri Aug 16 16:53:00 PDT 2002,1.79,320.00
+WISC1,COUNTY LINE,Fri Aug 16 16:48:00 PDT 2002,1.34,40.00
+CVTC1,COVINGTON,Fri Aug 16 16:53:00 PDT 2002,5.81,180.00
+CRZC1,CRAZY PEAK,Fri Aug 16 16:49:00 PDT 2002,0.45,310.00
+CRVC1,CRESTVIEW,Fri Aug 16 16:43:00 PDT 2002,3.58,40.00
+DLVC1,DEL VALLE,Fri Aug 16 16:41:00 PDT 2002,4.47,270.00
+TR411,DEMOCRAT,Fri Aug 16 16:51:00 PDT 2002,2.68,260.00
+DENC1,DESCANSO,Fri Aug 16 16:33:00 PDT 2002,2.68,280.00
+ATSC1,DEVILS GARDEN,Fri Aug 16 16:46:00 PDT 2002,1.79,300.00
+DPPC1,DEVILS POST PILE,Fri Aug 16 16:46:00 PDT 2002,1.34,270.00
+DOGC1,DOG VALLEY,Fri Aug 16 16:47:00 PDT 2002,1.79,290.00
+DRSC1,DORRIS RANCH,Fri Aug 16 16:54:00 PDT 2002,0.45,250.00
+DYLC1,DOYLE,Fri Aug 16 16:42:00 PDT 2002,4.47,260.00
+EELC1,EEL RIVER (MNF),Fri Aug 16 16:42:00 PDT 2002,2.24,270.00
+ERCC1,EEL RIVER CAMP,Fri Aug 16 16:48:00 PDT 2002,2.24,240.00
+TR130,FORT HUNTER LIGGET-,Fri Aug 16 16:50:00 PDT 2002,4.47,280.00
+RTFC1,FORT ORD #1,Fri Aug 16 16:50:00 PDT 2002,4.92,290.00
+RTGC1,FORT ORD #2,Fri Aug 16 16:51:00 PDT 2002,5.36,290.00
+HYFC1,FRIEND MTN.,Fri Aug 16 16:47:00 PDT 2002,0.89,190.00
+TR232,FRWS-4 (MCNALLEY #3,Fri Aug 16 16:44:00 PDT 2002,2.24,280.00
+TR235,FRWS-7(MCNALLY #2),Fri Aug 16 16:31:00 PDT 2002,2.68,180.00
+TR236,FRWS-8 (MCNALLY),Fri Aug 16 16:34:00 PDT 2002,3.13,250.00
+GQEC1,GASQUET,Fri Aug 16 16:53:00 PDT 2002,0.45,300.00
+TR420,GOOSE NEST PORTABLE,Fri Aug 16 16:41:00 PDT 2002,0.00,160.00
+GOSC1,GOOSE VALLEY,Fri Aug 16 16:58:00 PDT 2002,2.24,270.00
+HWKC1,HAWKEYE,Fri Aug 16 16:57:00 PDT 2002,2.24,200.00
+TMPB6,HAYFORK,Fri Aug 16 16:33:00 PDT 2002,1.34,290.00
+HGLC1,HIGH GLADE LOOKOUT,Fri Aug 16 16:43:00 PDT 2002,4.92,200.00
+HSQC1,HIGH SIERRA,Fri Aug 16 16:50:00 PDT 2002,2.24,300.00
+HOAC1,HOOPAH,Fri Aug 16 16:59:00 PDT 2002,6.26,330.00
+HLKC1,HORSE LAKE,Fri Aug 16 16:54:00 PDT 2002,4.47,310.00
+JWBC1,JAWBONE,Fri Aug 16 16:53:00 PDT 2002,10.28,280.00
+TR534,JERSEYDALE,Fri Aug 16 16:47:00 PDT 2002,0.45,270.00
+JSNC1,JOHNSONDALE,Fri Aug 16 16:34:00 PDT 2002,1.79,240.00
+JTAC1,JUANITA LAKE,Fri Aug 16 16:45:00 PDT 2002,1.79,240.00
+KRNC1,KERNVILLE,Fri Aug 16 16:34:00 PDT 2002,4.47,170.00
+TR527,KLAMATH NWR,Fri Aug 16 16:58:00 PDT 2002,2.24,240.00
+KELC1,KONOCTI,Fri Aug 16 16:57:00 PDT 2002,4.92,280.00
+LTRC1,LAS TRAMPAS,Fri Aug 16 16:35:00 PDT 2002,5.81,210.00
+LSNC1,LASSEN LODGE,Fri Aug 16 16:50:00 PDT 2002,0.45,230.00
+LCBC1,LEO CARRILLO,Fri Aug 16 16:42:00 PDT 2002,3.58,250.00
+LICC1,LINCOLN,Fri Aug 16 16:55:00 PDT 2002,2.24,230.00
+LOAC1,LOS ALTOS,Fri Aug 16 16:40:00 PDT 2002,1.34,50.00
+TR522,LOWER KLAMATH - FTS,Fri Aug 16 16:58:00 PDT 2002,1.79,320.00
+TR152,LPF PORT. #1,Fri Aug 16 16:45:00 PDT 2002,1.79,130.00
+LSFC1,LSF LAS FLORES,Fri Aug 16 16:50:00 PDT 2002,3.13,230.00
+MBUC1,MALIBU HILLS,Fri Aug 16 16:36:00 PDT 2002,0.00,90.00
+MPCC1,MAPLE CREEK,Fri Aug 16 16:48:00 PDT 2002,0.45,190.00
+MCGC1,MCGUIRES,Fri Aug 16 16:55:00 PDT 2002,1.34,270.00
+MNLC1,MEANS LAKE,Fri Aug 16 16:48:00 PDT 2002,4.02,150.00
+MASC1,MENDOCINO PASS,Fri Aug 16 16:42:00 PDT 2002,4.47,270.00
+MLCC1,MILL CREEK (ANF),Fri Aug 16 16:35:00 PDT 2002,2.24,30.00
+MTZC1,MOUNT ZION,Fri Aug 16 16:59:00 PDT 2002,1.34,290.00
+MSAC1,MT. SHASTA,Fri Aug 16 16:38:00 PDT 2002,1.79,140.00
+NOFC1,NORTH FORK,Fri Aug 16 16:32:00 PDT 2002,2.24,250.00
+IDPC1,OAK CREEK,Fri Aug 16 16:47:00 PDT 2002,5.36,140.00
+OKNC1,OAK KNOLL,Fri Aug 16 16:45:00 PDT 2002,1.34,280.00
+OMTC1,OAK MOUNTAIN,Fri Aug 16 16:48:00 PDT 2002,2.24,300.00
+OORC1,OAK OPENING,Fri Aug 16 16:59:00 PDT 2002,1.34,220.00
+ONOC1,OAKLAND NORTH,Fri Aug 16 16:33:00 PDT 2002,3.58,220.00
+OKSC1,OAKLAND SOUTH,Fri Aug 16 16:33:00 PDT 2002,2.24,250.00
+OPLC1,OPAL MOUNTAIN,Fri Aug 16 16:58:00 PDT 2002,4.92,240.00
+PRGC1,PARK RIDGE,Fri Aug 16 16:55:00 PDT 2002,1.79,210.00
+PMCC1,PATTYMOCUS,Fri Aug 16 16:46:00 PDT 2002,2.24,120.00
+PLTC1,PILOT HILL,Fri Aug 16 16:58:00 PDT 2002,1.79,280.00
+PHRC1,PINEHURST,Fri Aug 16 16:45:00 PDT 2002,2.24,300.00
+PPPC1,POPPY PARK,Fri Aug 16 16:38:00 PDT 2002,7.15,260.00
+PUGC1,PULGAS,Fri Aug 16 16:38:00 PDT 2002,1.34,310.00
+QTZC1,QUARTZ HILL,Fri Aug 16 16:44:00 PDT 2002,3.13,270.00
+MKGC1,RATTLESNAKE,Fri Aug 16 16:55:00 PDT 2002,4.02,180.00
+RRAC1,REDDING,Fri Aug 16 16:49:00 PDT 2002,4.47,140.00
+RDVC1,RODEO VALLEY,Fri Aug 16 16:55:00 PDT 2002,3.13,200.00
+RSPC1,ROSE PEAK,Fri Aug 16 16:35:00 PDT 2002,1.79,200.00
+RNDC1,ROUND MOUNTAIN,Fri Aug 16 16:46:00 PDT 2002,2.68,190.00
+NWRC1,SAC NWR,Fri Aug 16 16:41:00 PDT 2002,2.68,170.00
+SDLC1,SADDLEBACK BUTTE,Fri Aug 16 16:41:00 PDT 2002,5.81,250.00
+MIGC1,SAN MIGUEL,Fri Aug 16 16:51:00 PDT 2002,3.13,240.00
+SRTC1,SANTA RITA,Fri Aug 16 16:43:00 PDT 2002,1.79,90.00
+SAUC1,SAUGUS,Fri Aug 16 16:36:00 PDT 2002,4.92,200.00
+SWBC1,SAWYERS BAR,Fri Aug 16 16:46:00 PDT 2002,3.58,230.00
+CFCC1,SCORPION,Fri Aug 16 16:48:00 PDT 2002,0.89,210.00
+SETC1,SECRET TOWN,Fri Aug 16 16:54:00 PDT 2002,1.34,90.00
+SMSC1,SIMS,Fri Aug 16 16:48:00 PDT 2002,2.24,200.00
+ATRC1,SLATER BUTTE,Fri Aug 16 16:44:00 PDT 2002,0.89,280.00
+SOAC1,SODA CREEK,Fri Aug 16 16:43:00 PDT 2002,1.34,340.00
+SDRC1,SOLDIER MTN,Fri Aug 16 16:49:00 PDT 2002,6.26,280.00
+SMBC1,SOMES BAR,Fri Aug 16 16:44:00 PDT 2002,2.68,360.00
+SQSC1,SQUAW SPRINGS,Fri Aug 16 16:37:00 PDT 2002,1.79,260.00
+TR151,SRF PORTABLE #3,Fri Aug 16 16:41:00 PDT 2002,0.00,250.00
+SYFC1,STONYFORD,Fri Aug 16 16:43:00 PDT 2002,1.34,70.00
+HUMC1,SUGARLOAF,Fri Aug 16 16:56:00 PDT 2002,3.13,250.00
+SLFC1,SUGARLOAF (SHF),Fri Aug 16 16:48:00 PDT 2002,3.13,150.00
+TANC1,TANBARK,Fri Aug 16 16:35:00 PDT 2002,2.68,160.00
+TCKC1,THOMES CREEK,Fri Aug 16 16:51:00 PDT 2002,2.68,110.00
+TCAC1,TRINITY CAMP,Fri Aug 16 16:50:00 PDT 2002,2.24,340.00
+TMPE3,UHL,Fri Aug 16 16:59:00 PDT 2002,1.34,220.00
+VABC1,VAN BREMMER,Fri Aug 16 16:45:00 PDT 2002,2.24,310.00
+WALC1,WALKER,Fri Aug 16 16:47:00 PDT 2002,4.92,280.00
+ONYC1,WALKER PASS,Fri Aug 16 16:56:00 PDT 2002,1.79,270.00
+WMSC1,WARM SPRINGS,Fri Aug 16 16:35:00 PDT 2002,1.34,310.00
+TMPE4,WEAVERVILLE,Fri Aug 16 16:47:00 PDT 2002,0.89,310.00
+WWDC1,WESTWOOD,Fri Aug 16 16:47:00 PDT 2002,4.02,230.00
+WITC1,WHITMORE,Fri Aug 16 16:49:00 PDT 2002,1.34,280.00
+WTHC1,WHITTIER HILLS,Fri Aug 16 16:42:00 PDT 2002,3.13,220.00
+WVTC1,WOLVERTON,Fri Aug 16 16:56:00 PDT 2002,1.79,240.00
+TOMC1,YOLLA BOLLA,Fri Aug 16 16:46:00 PDT 2002,1.34,160.00
+BAWC2,BAILEY,Fri Aug 16 16:52:00 PDT 2002,1.34,210.00
+BHRC2,BIG HORN,Fri Aug 16 16:54:00 PDT 2002,6.26,220.00
+BLPC2,BLUE PARK,Fri Aug 16 16:55:00 PDT 2002,3.13,290.00
+BTAC2,BOULDER,Fri Aug 16 16:55:00 PDT 2002,2.68,270.00
+CHRC2,CHEESEMAN,Fri Aug 16 16:53:00 PDT 2002,4.02,270.00
+CEKC2,CORRAL CREEK,Fri Aug 16 16:59:00 PDT 2002,3.58,270.00
+CUHC2,CUCHARA,Fri Aug 16 16:54:00 PDT 2002,1.79,330.00
+DHOC2,DEAD HORSE,Fri Aug 16 16:58:00 PDT 2002,5.81,200.00
+DMMC2,DEMAREE,Fri Aug 16 16:52:00 PDT 2002,6.71,290.00
+DYKC2,DEVIL MTN.,Fri Aug 16 16:56:00 PDT 2002,4.02,210.00
+DJTC2,DOWD JUNCTION,Fri Aug 16 16:58:00 PDT 2002,6.26,260.00
+DRYC2,DRY LAKE,Fri Aug 16 16:55:00 PDT 2002,5.36,250.00
+ESPC2,ESTES PARK,Fri Aug 16 16:55:00 PDT 2002,4.02,200.00
+FHTC2,FISH HATCHERY,Fri Aug 16 16:55:00 PDT 2002,2.68,230.00
+FCRC2,FT. CARSON,Fri Aug 16 16:54:00 PDT 2002,2.68,280.00
+LKGC2,LAKE GEORGE,Fri Aug 16 16:53:00 PDT 2002,3.58,290.00
+LDRC2,LITTLE DELORES,Fri Aug 16 16:52:00 PDT 2002,3.58,260.00
+LUJC2,LUJAN,Fri Aug 16 16:50:00 PDT 2002,2.68,340.00
+MPRC2,MCCLURE PASS,Fri Aug 16 16:58:00 PDT 2002,3.58,290.00
+TR553,MITCHELL CANYON,Fri Aug 16 16:54:00 PDT 2002,3.13,240.00
+TR248,NPS #8,Fri Aug 16 16:52:00 PDT 2002,2.68,250.00
+PKLC2,PICKLE GULCH,Fri Aug 16 16:59:00 PDT 2002,3.13,310.00
+PNRC2,PINE RIDGE,Fri Aug 16 16:36:00 PDT 2002,5.36,250.00
+CCEC2,PINION CANYON,Fri Aug 16 16:54:00 PDT 2002,11.18,150.00
+PCPC2,PORCUPINE CR.,Fri Aug 16 16:56:00 PDT 2002,2.68,240.00
+TR206,PSF1 SOUTH PLATTE 5,Fri Aug 16 16:46:00 PDT 2002,1.34,250.00
+TR208,PSF3 CANON CITY,Fri Aug 16 16:46:00 PDT 2002,2.68,280.00
+TR563,PSF4 555,Fri Aug 16 16:46:00 PDT 2002,0.45,200.00
+RDKC2,RED DEER,Fri Aug 16 16:53:00 PDT 2002,3.58,220.00
+RFRC2,REDFEATHER,Fri Aug 16 16:55:00 PDT 2002,6.26,270.00
+SAWC2,SALTER,Fri Aug 16 16:56:00 PDT 2002,4.02,290.00
+SDVC2,SAN DOVAL,Fri Aug 16 16:53:00 PDT 2002,1.34,220.00
+SPKC2,SANBORN PARK,Fri Aug 16 16:57:00 PDT 2002,1.79,320.00
+SODC2,SODA CREEK,Fri Aug 16 16:58:00 PDT 2002,4.47,310.00
+STHC2,SOUTH CANYON,Fri Aug 16 16:53:00 PDT 2002,7.15,30.00
+TAPC2,TAYLOR PARK,Fri Aug 16 16:50:00 PDT 2002,6.26,240.00
+TR562,WATERTON NORTH,Fri Aug 16 16:59:00 PDT 2002,3.13,290.00
+WLCC2,WILLIS CREEK,Fri Aug 16 16:52:00 PDT 2002,1.79,300.00
+WICC2,WILLOW CREEK,Fri Aug 16 16:55:00 PDT 2002,3.13,270.00
+F1467,MILES CITY RAWS,Fri Aug 16 16:35:00 PDT 2002,0.89,50.00
+F1798,OASIS,Fri Aug 16 16:34:00 PDT 2002,2.24,130.00
+F1468,OCHOPEE RAWS,Fri Aug 16 16:36:00 PDT 2002,3.58,290.00
+F1469,RACCOON POINT RAWS,Fri Aug 16 16:36:00 PDT 2002,3.58,130.00
+F1819,HAKALAU,Fri Aug 16 16:45:00 PDT 2002,3.13,120.00
+F1730,HAKIOAWA,Fri Aug 16 16:52:00 PDT 2002,9.39,110.00
+F1731,HONOKANAI'A,Fri Aug 16 16:53:00 PDT 2002,8.49,110.00
+F1472,KAHUKU TRAINING ARE,Fri Aug 16 16:59:00 PDT 2002,7.15,90.00
+F1732,KANELOA,Fri Aug 16 16:53:00 PDT 2002,11.62,90.00
+F1733,KEALIALALO,Fri Aug 16 16:53:00 PDT 2002,9.39,90.00
+F1734,LUA MAKIKA,Fri Aug 16 16:51:00 PDT 2002,11.62,100.00
+F1476,MAKUA PORTABLE,Fri Aug 16 16:58:00 PDT 2002,2.24,280.00
+F1477,MAKUA RANGE,Fri Aug 16 16:58:00 PDT 2002,4.02,260.00
+F1478,MAKUA RIDGE,Fri Aug 16 16:58:00 PDT 2002,1.79,220.00
+F1479,PALI2,Fri Aug 16 16:48:00 PDT 2002,8.49,30.00
+F1480,PTA EAST,Fri Aug 16 16:59:00 PDT 2002,4.92,80.00
+F1481,PTA KIPUKA ALALA,Fri Aug 16 16:55:00 PDT 2002,4.92,330.00
+F1482,PTA PORTABLE,Fri Aug 16 16:57:00 PDT 2002,3.13,290.00
+F1483,PTA WEST,Fri Aug 16 16:56:00 PDT 2002,4.92,300.00
+F1825,PUUANAHULU,Fri Aug 16 16:40:00 PDT 2002,8.05,10.00
+F1484,SCHOFIELD BARRACKS,Fri Aug 16 16:57:00 PDT 2002,3.13,90.00
+F1485,SCHOFIELD EAST,Fri Aug 16 16:58:00 PDT 2002,2.24,110.00
+F1486,SCHOFIELD PORTABLE,Fri Aug 16 16:59:00 PDT 2002,1.79,120.00
+ACRI1,ARCO,Fri Aug 16 16:34:00 PDT 2002,8.49,260.00
+BULI1,BULL SPRING,Fri Aug 16 16:59:00 PDT 2002,4.02,340.00
+GRAI1,GRACE,Fri Aug 16 16:35:00 PDT 2002,9.83,280.00
+TR524,GRAYS LAKE NWR,Fri Aug 16 16:45:00 PDT 2002,5.81,260.00
+IPFI1,ISLAND PARK,Fri Aug 16 16:33:00 PDT 2002,2.24,20.00
+TR243,MARIAH - PORTABLE,Fri Aug 16 16:31:00 PDT 2002,1.34,50.00
+MYFI1,MOODY,Fri Aug 16 16:43:00 PDT 2002,4.02,290.00
+TR514,MOUNTAIN HOME,Fri Aug 16 16:41:00 PDT 2002,8.94,340.00
+MKBI1,MULKEY BAR,Fri Aug 16 16:33:00 PDT 2002,8.05,340.00
+OHOI1,OHIO GULCH,Fri Aug 16 16:35:00 PDT 2002,3.13,340.00
+PCNI1,POLE CANYON,Fri Aug 16 16:49:00 PDT 2002,7.15,250.00
+PBUI1,POTTER BUTTE,Fri Aug 16 16:47:00 PDT 2002,10.28,40.00
+RFTI1,RAFT RIVER,Fri Aug 16 16:35:00 PDT 2002,6.71,240.00
+RDKI1,ROAD CREEK,Fri Aug 16 16:43:00 PDT 2002,2.24,270.00
+ROCI1,ROCK LAKE,Fri Aug 16 16:58:00 PDT 2002,10.73,270.00
+TR540,S-C PORTABLE #2,Fri Aug 16 16:52:00 PDT 2002,7.60,270.00
+SMYI1,SALMON,Fri Aug 16 16:52:00 PDT 2002,7.60,30.00
+TR259,TESS  - PORTABLE,Fri Aug 16 16:38:00 PDT 2002,0.00,90.00
+TRII1,TRIANGLE,Fri Aug 16 16:32:00 PDT 2002,1.79,60.00
+TWBI1,TWIN BUTTES,Fri Aug 16 16:40:00 PDT 2002,11.18,300.00
+TR569,CIMMARRON,Fri Aug 16 16:59:00 PDT 2002,10.73,190.00
+F1786,YELLOW CREEK,Fri Aug 16 16:48:00 PDT 2002,0.45,210.00
+F1672,MOOSEHORN - FTS,Fri Aug 16 16:32:00 PDT 2002,1.34,170.00
+F1661,OJIBWAY - FTS,Fri Aug 16 16:33:00 PDT 2002,4.02,230.00
+F1662,WINDIGO - FTS,Fri Aug 16 16:33:00 PDT 2002,1.79,220.00
+LMRM8,ANTELOPE,Fri Aug 16 16:59:00 PDT 2002,8.49,320.00
+LCFM8,BIG SHEEP MOUNTAIN,Fri Aug 16 16:44:00 PDT 2002,15.65,320.00
+BHMM8,BIGHORN MOUNTAIN,Fri Aug 16 16:36:00 PDT 2002,6.26,360.00
+BLUM8,BLUFF CREEK,Fri Aug 16 16:51:00 PDT 2002,10.73,330.00
+CACM8,CANNONBALL CREEK,Fri Aug 16 16:54:00 PDT 2002,15.65,300.00
+DBCM8,DRY BLOOD CREEK,Fri Aug 16 16:45:00 PDT 2002,8.05,340.00
+HRWM8,HELENA,Fri Aug 16 16:32:00 PDT 2002,4.47,260.00
+KIGM8,KING COULEE,Fri Aug 16 16:51:00 PDT 2002,12.52,340.00
+LBHM8,LITTLE BIGHORN,Fri Aug 16 16:55:00 PDT 2002,5.36,350.00
+LBCM8,LITTLE BULLWHACKER,Fri Aug 16 16:45:00 PDT 2002,3.13,300.00
+LSNM8,LITTLE SNOWY,Fri Aug 16 16:35:00 PDT 2002,8.94,320.00
+MCDM8,MANNING CORRAL DOGT,Fri Aug 16 16:45:00 PDT 2002,10.73,330.00
+NBRM8,NORTH BREAKS,Fri Aug 16 16:53:00 PDT 2002,5.36,310.00
+PNHM8,PINE HILL,Fri Aug 16 16:41:00 PDT 2002,6.26,300.00
+SBFM8,SOUTH BRIDGER,Fri Aug 16 16:36:00 PDT 2002,12.52,360.00
+STVM8,STEVI,Fri Aug 16 16:42:00 PDT 2002,2.24,350.00
+STKM8,STINKWATER CREEK,Fri Aug 16 16:56:00 PDT 2002,1.34,350.00
+TR300,WEST GLACIER,Fri Aug 16 16:47:00 PDT 2002,1.34,60.00
+ALDM8,ZORTMAN MINE,Fri Aug 16 16:44:00 PDT 2002,8.05,90.00
+F1764,SUNNY POINT,Fri Aug 16 16:58:00 PDT 2002,1.79,220.00
+HSYN1,BESSEY,Fri Aug 16 16:52:00 PDT 2002,4.92,210.00
+HRSN1,KINGS CANYON,Fri Aug 16 16:52:00 PDT 2002,5.36,300.00
+TR471,SCOTTS BLUFF - FTS,Fri Aug 16 16:49:00 PDT 2002,10.28,260.00
+BATN5,BATDRAW,Fri Aug 16 16:45:00 PDT 2002,0.45,160.00
+ACON5,BRUSHY MOUNTAIN,Fri Aug 16 16:49:00 PDT 2002,1.79,240.00
+TR307,COSMIC,Fri Aug 16 16:54:00 PDT 2002,2.24,330.00
+TR221,GOAT SPRINGS,Fri Aug 16 16:37:00 PDT 2002,1.79,330.00
+TR364,GUAJE ALERT #6,Fri Aug 16 16:35:00 PDT 2002,2.68,240.00
+TMPF9,MESCAL,Fri Aug 16 16:49:00 PDT 2002,4.47,250.00
+PJRN5,PAJARITO ALERT #3,Fri Aug 16 16:32:00 PDT 2002,1.34,260.00
+TR313,QUEMAZON CANY #1,Fri Aug 16 16:33:00 PDT 2002,4.02,270.00
+COPN5,SMOKEY BEAR,Fri Aug 16 16:54:00 PDT 2002,0.89,230.00
+WTRN5,WATER CANY ALERT #2,Fri Aug 16 16:32:00 PDT 2002,2.68,240.00
+ALRN2,ANTELOPE LAKE,Fri Aug 16 16:54:00 PDT 2002,5.81,320.00
+ARGN2,ARGENTA,Fri Aug 16 16:00:00 PDT 2002,7.60,320.00
+BRLN2,BARREL SPRINGS,Fri Aug 16 16:57:00 PDT 2002,4.02,270.00
+CATN2,CATNIP MOUNTAIN,Fri Aug 16 16:44:00 PDT 2002,4.47,310.00
+CTLN2,CATTLE CAMP,Fri Aug 16 16:59:00 PDT 2002,2.68,240.00
+COIN2,COILS CREEK,Fri Aug 16 16:36:00 PDT 2002,6.71,300.00
+CCRN2,CURRANT CREEK,Fri Aug 16 16:49:00 PDT 2002,2.24,270.00
+GDNN2,ELY,Fri Aug 16 16:39:00 PDT 2002,4.47,290.00
+FOXN2,FOX MOUNTAIN,Fri Aug 16 16:48:00 PDT 2002,4.02,310.00
+JSPN2,JUNIPER SPRINGS,Fri Aug 16 16:52:00 PDT 2002,2.24,330.00
+RBTN2,RED BUTTE,Fri Aug 16 16:45:00 PDT 2002,6.71,270.00
+SPGN2,SPRING GULCH,Fri Aug 16 16:42:00 PDT 2002,8.94,300.00
+TEXN2,TEXAS SPRINGS,Fri Aug 16 16:33:00 PDT 2002,4.02,310.00
+AGFO3,AGNESS,Fri Aug 16 16:46:00 PDT 2002,3.58,20.00
+BKFO3,BALD KNOB LOOKOUT,Fri Aug 16 16:47:00 PDT 2002,4.47,350.00
+BAFO3,BALD MTN,Fri Aug 16 16:37:00 PDT 2002,3.13,310.00
+TR321,BEND WATERSHED,Fri Aug 16 16:57:00 PDT 2002,2.68,90.00
+BYFO3,BLUE CANYON,Fri Aug 16 16:36:00 PDT 2002,5.36,40.00
+BRUO3,BRUSH CREEK (EUGENE,Fri Aug 16 16:40:00 PDT 2002,3.13,350.00
+CIFO3,CINNAMON,Fri Aug 16 16:51:00 PDT 2002,3.13,240.00
+PTFO3,COFFEE POT FLAT,Fri Aug 16 16:37:00 PDT 2002,0.00,210.00
+CGFO3,COLGATE,Fri Aug 16 16:00:00 PDT 2002,1.79,90.00
+EMFO3,EMIGRANT,Fri Aug 16 16:39:00 PDT 2002,3.58,320.00
+FEFO3,FIELDS,Fri Aug 16 16:36:00 PDT 2002,1.79,310.00
+FKFO3,FORT ROCK,Fri Aug 16 16:37:00 PDT 2002,1.79,320.00
+FLFO3,FOSTER FLAT,Fri Aug 16 16:46:00 PDT 2002,3.58,280.00
+TR229,FRWS-11,Fri Aug 16 16:50:00 PDT 2002,2.68,270.00
+TR366,FRWS-13 (DP-301),Fri Aug 16 16:50:00 PDT 2002,0.00,340.00
+TR363,FRWS-15 (TILLER),Fri Aug 16 16:51:00 PDT 2002,0.89,350.00
+TR319,FRWS-17 (TILLER),Fri Aug 16 16:39:00 PDT 2002,0.00,350.00
+GDFO3,GRANDAD,Fri Aug 16 16:50:00 PDT 2002,0.89,20.00
+TMP86,HARL BUTTE,Fri Aug 16 16:52:00 PDT 2002,5.36,300.00
+HBFO3,HAWLEY BUTTE,Fri Aug 16 16:39:00 PDT 2002,0.89,330.00
+LOFO3,HIGH POINT,Fri Aug 16 16:38:00 PDT 2002,0.45,40.00
+HSFO3,HORSE CREEK,Fri Aug 16 16:39:00 PDT 2002,1.79,280.00
+TR356,MIKEY,Fri Aug 16 16:35:00 PDT 2002,4.92,340.00
+TR328,MINAM LODGE-PORTABL,Fri Aug 16 16:36:00 PDT 2002,3.58,340.00
+OOFO3,MOON HILL,Fri Aug 16 16:46:00 PDT 2002,1.79,280.00
+MGFO3,MORGAN MOUNTAIN,Fri Aug 16 16:55:00 PDT 2002,4.92,250.00
+MSFO3,MOUNT STELLA,Fri Aug 16 16:51:00 PDT 2002,0.89,290.00
+YNFO3,MT. YONCALLA,Fri Aug 16 16:37:00 PDT 2002,1.34,260.00
+NPFO3,NORTH POLE RIDGE,Fri Aug 16 16:38:00 PDT 2002,5.81,40.00
+OMFO3,ONION MOUNTAIN LOOK,Fri Aug 16 16:49:00 PDT 2002,1.34,340.00
+OWFO3,OWYHEE RIDGE,Fri Aug 16 16:39:00 PDT 2002,4.92,50.00
+ARFO3,PARKER MOUNTAIN,Fri Aug 16 16:47:00 PDT 2002,3.58,190.00
+PAFO3,PATJENS,Fri Aug 16 16:50:00 PDT 2002,4.47,30.00
+PEFO3,PEBBLE,Fri Aug 16 16:38:00 PDT 2002,2.68,220.00
+PWFO3,POWERS R.S.,Fri Aug 16 16:47:00 PDT 2002,5.36,310.00
+QPFO3,QUAIL PRAIRIE LOOKO,Fri Aug 16 16:48:00 PDT 2002,1.79,300.00
+RTFO3,RED BUTTE,Fri Aug 16 16:33:00 PDT 2002,2.68,320.00
+RLFO3,RIDDLE MTN.,Fri Aug 16 16:57:00 PDT 2002,2.24,290.00
+BTFO3,ROBERTS BUTTE,Fri Aug 16 16:57:00 PDT 2002,0.45,20.00
+RCRO3,ROCK CREEK,Fri Aug 16 16:44:00 PDT 2002,1.79,300.00
+RNFO3,ROUND MOUNTAIN,Fri Aug 16 16:32:00 PDT 2002,0.89,200.00
+BDFO3,RYE MOUNTAIN,Fri Aug 16 16:38:00 PDT 2002,0.45,330.00
+SLTO3,SALT CREEK-PRINVILL,Fri Aug 16 16:44:00 PDT 2002,4.47,330.00
+SVFO3,SILVER BUTTE,Fri Aug 16 16:40:00 PDT 2002,1.34,260.00
+SAFO3,SPARTA BUTTE,Fri Aug 16 16:52:00 PDT 2002,4.47,260.00
+TOFO3,TOKETEE,Fri Aug 16 16:51:00 PDT 2002,0.00,230.00
+TCFO3,TROUT CREEK,Fri Aug 16 16:39:00 PDT 2002,3.58,270.00
+TUFO3,TUPPER,Fri Aug 16 16:00:00 PDT 2002,1.34,20.00
+NS077,UMATILLA NWR,Fri Aug 16 16:50:00 PDT 2002,2.68,80.00
+VCFO3,VILLAGE CREEK,Fri Aug 16 16:38:00 PDT 2002,0.89,310.00
+WTFO3,WAGONTIRE,Fri Aug 16 16:47:00 PDT 2002,4.92,350.00
+WKFO3,WILKINSON RIDGE,Fri Aug 16 16:39:00 PDT 2002,0.45,300.00
+YLPO3,YELLOWPINE,Fri Aug 16 16:57:00 PDT 2002,1.79,250.00
+YEFO3,YELLOWSTONE MTN.,Fri Aug 16 16:38:00 PDT 2002,1.79,330.00
+DOHS2,BAKER PARK,Fri Aug 16 16:46:00 PDT 2002,4.47,300.00
+CAMS2,CAMP CROOK,Fri Aug 16 16:55:00 PDT 2002,12.07,310.00
+CRRS2,CUSTER,Fri Aug 16 16:42:00 PDT 2002,2.24,300.00
+NMOS2,NEMO,Fri Aug 16 16:49:00 PDT 2002,7.60,330.00
+RDCS2,RED CANYON,Fri Aug 16 16:50:00 PDT 2002,3.58,300.00
+F1608,BIG SOUTH,Fri Aug 16 16:52:00 PDT 2002,0.45,320.00
+F1788,CHEROKEE - FTS,Fri Aug 16 16:57:00 PDT 2002,0.00,280.00
+F1720,COKER CREEK,Fri Aug 16 16:44:00 PDT 2002,0.89,130.00
+F1789,INDIAN GRAVE - FTS,Fri Aug 16 16:57:00 PDT 2002,0.45,110.00
+F1752,UNICOI,Fri Aug 16 16:45:00 PDT 2002,0.00,40.00
+TR551,ATHENS,Fri Aug 16 16:51:00 PDT 2002,2.68,90.00
+TR476,ATTWATERS NWR,Fri Aug 16 16:56:00 PDT 2002,5.36,150.00
+TR477,BELCONES,Fri Aug 16 16:49:00 PDT 2002,2.24,160.00
+TR521,CADDO LAKE,Fri Aug 16 16:49:00 PDT 2002,1.79,80.00
+TR501,GEORGE WEST,Fri Aug 16 16:51:00 PDT 2002,4.02,80.00
+GLMT2,GILMER,Fri Aug 16 16:51:00 PDT 2002,3.13,90.00
+TR479,GREENVILLE,Fri Aug 16 16:51:00 PDT 2002,4.02,160.00
+TR483,SOUTHERN ROUGH - FT,Fri Aug 16 16:43:00 PDT 2002,2.68,110.00
+BAEU1,BAER #10,Fri Aug 16 16:33:00 PDT 2002,2.68,260.00
+TR397,BAER #11,Fri Aug 16 16:34:00 PDT 2002,4.47,10.00
+BEZU1,BEAVER DAM,Fri Aug 16 16:52:00 PDT 2002,3.13,210.00
+BSTU1,BRIMSTONE RESERVOIR,Fri Aug 16 16:34:00 PDT 2002,1.34,170.00
+BCRU1,BRYSON CANYON,Fri Aug 16 16:42:00 PDT 2002,4.02,240.00
+TR336,FISHLAKE PORTABLE #,Fri Aug 16 16:37:00 PDT 2002,0.89,260.00
+JSPU1,JENSEN SPRING,Fri Aug 16 16:50:00 PDT 2002,2.68,310.00
+KPRU1,KINGS POINT,Fri Aug 16 16:38:00 PDT 2002,10.73,310.00
+LPRU1,LAVA POINT RAWS,Fri Aug 16 16:54:00 PDT 2002,2.24,240.00
+MCKU1,MCCOOK RIDGE,Fri Aug 16 16:38:00 PDT 2002,4.92,300.00
+NLPU1,NORTH LONG POINT,Fri Aug 16 16:39:00 PDT 2002,1.34,90.00
+RVZU1,RAY'S VALLEY,Fri Aug 16 16:38:00 PDT 2002,5.36,260.00
+TFRU1,TELEGRAPH FLAT,Fri Aug 16 16:35:00 PDT 2002,7.15,250.00
+TR517,UINTAH,Fri Aug 16 16:46:00 PDT 2002,8.05,300.00
+UPRU1,UPPER P.R. CANYON,Fri Aug 16 16:39:00 PDT 2002,2.24,320.00
+USWU1,UPPER SAND WASH,Fri Aug 16 16:39:00 PDT 2002,3.13,290.00
+WNTU1,WINTER RIDGE,Fri Aug 16 16:40:00 PDT 2002,4.92,310.00
+SFLU1,YAMPA PLATEAU,Fri Aug 16 16:40:00 PDT 2002,10.28,260.00
+BMFW1,BROWN MTN. ORCHARD,Fri Aug 16 16:55:00 PDT 2002,0.45,340.00
+CYFW1,CANYON CREEK,Fri Aug 16 16:39:00 PDT 2002,0.89,270.00
+CEFW1,CEDAR FLATS,Fri Aug 16 16:38:00 PDT 2002,1.34,240.00
+NS092,COLUMBIA NWR,Fri Aug 16 16:41:00 PDT 2002,2.24,10.00
+DMFW1,DEER MOUNTAIN,Fri Aug 16 16:56:00 PDT 2002,1.34,40.00
+DOUW1,DOUGLAS,Fri Aug 16 16:41:00 PDT 2002,2.68,150.00
+DIFW1,DOUGLAS INGRAM RIDG,Fri Aug 16 16:57:00 PDT 2002,2.24,110.00
+FIFW1,FINNEY CREEK,Fri Aug 16 16:43:00 PDT 2002,0.00,110.00
+TLFW1,FIRE TRNG. ACADEMY,Fri Aug 16 16:49:00 PDT 2002,1.79,270.00
+FBFW1,FIRST BUTTE,Fri Aug 16 16:57:00 PDT 2002,1.79,130.00
+GHFW1,GOLD HILL,Fri Aug 16 16:48:00 PDT 2002,0.45,340.00
+GMFW1,GOLD MOUNTAIN,Fri Aug 16 16:46:00 PDT 2002,0.45,190.00
+HGFW1,HAGER CREEK,Fri Aug 16 16:37:00 PDT 2002,1.79,330.00
+SKKW1,JOHNSON RIDGE,Fri Aug 16 16:49:00 PDT 2002,0.00,130.00
+JUFW1,JUNIPER DUNES,Fri Aug 16 16:41:00 PDT 2002,4.92,360.00
+KCFW1,KIDNEY CREEK,Fri Aug 16 16:49:00 PDT 2002,0.45,40.00
+LCFW1,LANE CREEK,Fri Aug 16 16:56:00 PDT 2002,0.89,210.00
+LEFW1,LEECHER,Fri Aug 16 16:54:00 PDT 2002,3.13,110.00
+LSFW1,LESTER,Fri Aug 16 16:49:00 PDT 2002,2.68,220.00
+TR530,LITTLE PEND NWR,Fri Aug 16 16:51:00 PDT 2002,3.13,290.00
+LLFW1,LOST LAKE,Fri Aug 16 16:57:00 PDT 2002,0.89,50.00
+TR374,MILL CREEK _ FTS,Fri Aug 16 16:36:00 PDT 2002,2.24,50.00
+NCSW1,NCSB,Fri Aug 16 16:57:00 PDT 2002,4.47,170.00
+OCFW1,ORR CREEK,Fri Aug 16 16:58:00 PDT 2002,3.58,50.00
+OMFW1,OWL MOUNTAIN,Fri Aug 16 16:56:00 PDT 2002,0.00,280.00
+PMFW1,PAL MOORE ORCHARD,Fri Aug 16 16:56:00 PDT 2002,0.89,330.00
+PEOW1,PEONY,Fri Aug 16 16:46:00 PDT 2002,2.24,10.00
+TR548,SADDLE MOUNTAIN,Fri Aug 16 16:32:00 PDT 2002,3.13,340.00
+TR375,SIGNAL PEAK - FTS,Fri Aug 16 16:36:00 PDT 2002,3.58,130.00
+TR531,TURNBULL NWR,Fri Aug 16 16:53:00 PDT 2002,2.24,300.00
+WPFW1,WASHINGTON PASS,Fri Aug 16 16:57:00 PDT 2002,2.24,240.00
+ANDW4,ANDERSON RIDGE,Fri Aug 16 16:45:00 PDT 2002,11.62,300.00
+BRLW4,BEAR LODGE,Fri Aug 16 16:50:00 PDT 2002,4.02,300.00
+NS081,BOYD RIDGE,Fri Aug 16 16:55:00 PDT 2002,8.94,320.00
+BUJW4,BURGESS,Fri Aug 16 16:49:00 PDT 2002,8.94,350.00
+ERAW4,BURRO HILL,Fri Aug 16 16:40:00 PDT 2002,3.13,270.00
+CAMW4,CAMP CREEK,Fri Aug 16 16:44:00 PDT 2002,13.41,270.00
+CMRW4,CASPER MOUNTAIN,Fri Aug 16 16:42:00 PDT 2002,5.36,300.00
+COWW4,COW CREEK,Fri Aug 16 16:43:00 PDT 2002,12.52,280.00
+CDAW4,CRANDALL,Fri Aug 16 16:57:00 PDT 2002,8.94,310.00
+DODW4,DODGE CREEK,Fri Aug 16 16:45:00 PDT 2002,12.52,300.00
+EGLW4,EAGLE,Fri Aug 16 16:56:00 PDT 2002,8.94,330.00
+ECEW4,ECHETA,Fri Aug 16 16:42:00 PDT 2002,16.09,340.00
+ELKW4,ELKHORN,Fri Aug 16 16:57:00 PDT 2002,5.81,260.00
+ESTW4,ESTERBROOK,Fri Aug 16 16:51:00 PDT 2002,9.39,270.00
+RSNW4,FALES ROCK,Fri Aug 16 16:45:00 PDT 2002,12.52,290.00
+GCRW4,GRASS CREEK DIVIDE,Fri Aug 16 16:42:00 PDT 2002,8.05,30.00
+HAFW4,HALF MOON,Fri Aug 16 16:39:00 PDT 2002,4.92,310.00
+HOBW4,HOBACK,Fri Aug 16 16:40:00 PDT 2002,5.36,250.00
+HHRW4,HYATT HIGH,Fri Aug 16 16:43:00 PDT 2002,4.47,340.00
+TR384,LEIGH CREEK,Fri Aug 16 16:55:00 PDT 2002,10.28,270.00
+MCRW4,MILL CREEK,Fri Aug 16 16:49:00 PDT 2002,5.81,10.00
+PCRW4,POKER CREEK,Fri Aug 16 16:43:00 PDT 2002,6.26,320.00
+RASW4,RASPBERRY,Fri Aug 16 16:40:00 PDT 2002,4.92,280.00
+RHKW4,ROCHELLE HILLS,Fri Aug 16 16:51:00 PDT 2002,21.01,350.00
+SAWW4,SAWMILL PARK,Fri Aug 16 16:51:00 PDT 2002,7.15,270.00
+SPKW4,SCHOOL HOUSE,Fri Aug 16 16:49:00 PDT 2002,10.28,350.00
+SHFW4,SHF2 - PORTABLE,Fri Aug 16 16:45:00 PDT 2002,3.58,170.00
+BPYW4,SNIDER BASIN,Fri Aug 16 16:40:00 PDT 2002,9.39,290.00
+SNOW4,SNOW SPRINGS CREEK,Fri Aug 16 16:44:00 PDT 2002,12.07,290.00
+SPLW4,SPLIT ROCK CREEK,Fri Aug 16 16:43:00 PDT 2002,11.18,310.00
+H0291,Colerain Township      Cincinnati    OH,Fri Aug 16 16:46:00 PDT 2002,4.47,60.00
+D1,Niwot Ridge D1                        NiwotRidge,Fri Aug 16 16:00:00 PDT 2002,7.50,285.00
+C1,Niwot Ridge C1                        NiwotRidge,Fri Aug 16 16:00:00 PDT 2002,1.80,278.00
+MN084,MN-53 and 135 - Midway,Fri Aug 16 16:36:20 PDT 2002,0.83,205.00
+MN084,MN-53 and 135 - Midway,Fri Aug 16 16:46:20 PDT 2002,0.56,160.00
+MN084,MN-53 and 135 - Midway,Fri Aug 16 16:56:20 PDT 2002,0.56,175.00
+F1271,BIG LAKE,Fri Aug 16 16:17:00 PDT 2002,0.45,120.00
+F1277,CHATANIKA,Fri Aug 16 16:25:00 PDT 2002,3.13,220.00
+F1280,CHITNA,Fri Aug 16 16:16:00 PDT 2002,0.45,150.00
+F1284,FAIRBANKS,Fri Aug 16 16:29:00 PDT 2002,1.79,240.00
+F1298,HOMER,Fri Aug 16 16:13:00 PDT 2002,1.79,150.00
+F1303,JUNEAU RD,Fri Aug 16 16:16:00 PDT 2002,3.13,100.00
+F1325,NINILCHIK,Fri Aug 16 16:15:00 PDT 2002,1.79,230.00
+F1334,RABBIT CREEK,Fri Aug 16 16:28:00 PDT 2002,1.34,150.00
+F1350,T LAKE,Fri Aug 16 16:28:00 PDT 2002,1.79,310.00
+F1351,TELIDA,Fri Aug 16 16:30:00 PDT 2002,3.13,220.00
+F1355,WEIN LAKE,Fri Aug 16 16:31:00 PDT 2002,3.13,210.00
+F1356,WONDER LAKE,Fri Aug 16 16:22:00 PDT 2002,11.18,250.00
+QPAA3,PAYSON,Fri Aug 16 16:15:00 PDT 2002,2.24,240.00
+AMOC1,AMMO DUMP,Fri Aug 16 16:22:00 PDT 2002,6.71,210.00
+TMPB2,FISH SLOUGH,Fri Aug 16 16:21:00 PDT 2002,2.68,150.00
+HTRC1,HUNTER MOUNTAIN,Fri Aug 16 16:31:00 PDT 2002,4.02,160.00
+TR146,LN3 - PORTABLE,Fri Aug 16 16:20:00 PDT 2002,1.79,260.00
+TR173,OAK KNOLL - PORTABL,Fri Aug 16 16:21:00 PDT 2002,0.89,260.00
+PIEC1,PIERCE,Fri Aug 16 16:07:00 PDT 2002,3.13,200.00
+TR189,SCOTT RVR - PORTABL,Fri Aug 16 16:20:00 PDT 2002,0.89,270.00
+TLGC1,TALEGA,Fri Aug 16 16:23:00 PDT 2002,1.34,170.00
+TMPE8,CANYON CREEK,Fri Aug 16 16:30:00 PDT 2002,6.71,310.00
+LUFI1,LUCKY PEAK,Fri Aug 16 16:31:00 PDT 2002,5.36,290.00
+F1519,OKISSA,Fri Aug 16 16:06:00 PDT 2002,2.68,150.00
+BRTM8,BRITTON SPRINGS,Fri Aug 16 16:14:00 PDT 2002,8.05,10.00
+TR268,CONDON WORK CENTER,Fri Aug 16 16:01:00 PDT 2002,3.13,320.00
+GPKM8,GATE PARK,Fri Aug 16 16:02:00 PDT 2002,2.68,340.00
+TR291,SPOTTED BEAR,Fri Aug 16 16:18:00 PDT 2002,4.47,220.00
+TNDM8,TENDERFOOT,Fri Aug 16 16:19:00 PDT 2002,1.34,340.00
+F1562,GUION FARM,Fri Aug 16 16:03:00 PDT 2002,0.00,320.00
+F1801,NORTH COVE,Fri Aug 16 16:09:00 PDT 2002,0.00,330.00
+F1564,ROCKINGHAM,Fri Aug 16 16:04:00 PDT 2002,0.00,310.00
+FLSN2,FLAT SPRING,Fri Aug 16 16:03:00 PDT 2002,7.60,320.00
+BGFO3,BADGER CREEK,Fri Aug 16 16:05:00 PDT 2002,5.36,340.00
+OKFO3,BLACK ROCK,Fri Aug 16 16:01:00 PDT 2002,0.45,340.00
+IRFO3,BRIAR RABBIT,Fri Aug 16 16:06:00 PDT 2002,2.68,290.00
+CNFO3,CANNIBAL MOUNTAIN,Fri Aug 16 16:12:00 PDT 2002,2.24,310.00
+CEFO3,CASE,Fri Aug 16 16:02:00 PDT 2002,1.79,340.00
+CDFO3,CEDAR,Fri Aug 16 16:13:00 PDT 2002,1.34,300.00
+CSFO3,COLD SPRINGS,Fri Aug 16 16:03:00 PDT 2002,3.58,360.00
+RBFO3,DEAD INDIAN,Fri Aug 16 16:13:00 PDT 2002,0.89,310.00
+DUNO3,DUNES,Fri Aug 16 16:14:00 PDT 2002,5.81,30.00
+GPFO3,GOODWIN PEAK,Fri Aug 16 16:14:00 PDT 2002,0.89,330.00
+HYFO3,HAYSTACK,Fri Aug 16 16:07:00 PDT 2002,3.58,350.00
+SLFO3,SLIDE MOUNTAIN,Fri Aug 16 16:04:00 PDT 2002,2.68,330.00
+SQFO3,SQUAW PEAK,Fri Aug 16 16:14:00 PDT 2002,1.79,30.00
+SRFO3,STAR,Fri Aug 16 16:13:00 PDT 2002,1.79,80.00
+BBFO3,ZIM,Fri Aug 16 16:03:00 PDT 2002,2.24,240.00
+CGFW1,COUGAR MOUNTAIN,Fri Aug 16 16:05:00 PDT 2002,2.68,310.00
+HUFW1,HUMPTULLIPS,Fri Aug 16 16:08:00 PDT 2002,2.24,250.00
+JEFW1,JEFFERSON CREEK,Fri Aug 16 16:06:00 PDT 2002,3.13,180.00
+KTLW1,KETTLE FALLS,Fri Aug 16 16:17:00 PDT 2002,2.24,70.00
+MDRW1,MIDNITE MINE,Fri Aug 16 16:23:00 PDT 2002,1.79,300.00
+SPCW1,SPRING CANYON,Fri Aug 16 16:16:00 PDT 2002,2.68,300.00
+TOFW1,TOMS CREEK,Fri Aug 16 16:10:00 PDT 2002,0.45,320.00

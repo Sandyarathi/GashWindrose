@@ -1,0 +1,1796 @@
+BMTC2,Blue_Mountain,Sat Jul 12 16:00:00 PDT 2003,1.79,297.00
+DHPC2,Diamond_Hill,Sat Jul 12 16:00:00 PDT 2003,0.72,270.00
+EBBC2,Elbert,Sat Jul 12 16:00:00 PDT 2003,4.07,107.00
+BHNC2,Brighton,Sat Jul 12 16:00:00 PDT 2003,2.50,338.00
+SQWC2,Squaw_Mountain,Sat Jul 12 16:00:00 PDT 2003,1.74,63.00
+HGCC2,Hiwan_G.C.,Sat Jul 12 16:00:00 PDT 2003,0.89,130.00
+HIGC2,Highlands_Ranch_WTP,Sat Jul 12 16:00:00 PDT 2003,0.49,264.00
+SAPC2,Salisbury_Park,Sat Jul 12 16:00:00 PDT 2003,3.40,0.00
+COKC2,Castle_Rock,Sat Jul 12 16:00:00 PDT 2003,1.97,343.00
+WRDC2,Ward_C-1,Sat Jul 12 16:00:00 PDT 2003,0.94,259.00
+SFSC2,Sugarloaf,Sat Jul 12 16:00:00 PDT 2003,1.16,56.00
+LEWC2,Louisville_Lake,Sat Jul 12 16:00:00 PDT 2003,0.72,90.00
+CALC2,Cal-Wood_Ranch,Sat Jul 12 16:00:00 PDT 2003,2.10,84.00
+BTRC2,Button_Rock,Sat Jul 12 16:00:00 PDT 2003,0.49,124.00
+QUIF1,Quincy                                 FAWN,Sat Jul 12 16:00:00 PDT 2003,1.28,321.70
+CARF1,Carrabelle                             FAWN,Sat Jul 12 16:00:00 PDT 2003,1.43,311.00
+LIOF1,Live Oak                               FAWN,Sat Jul 12 16:00:00 PDT 2003,3.67,139.30
+MACF1,Macclenny                              FAWN,Sat Jul 12 16:00:00 PDT 2003,2.50,61.62
+BRZF1,Bronson                                FAWN,Sat Jul 12 16:00:00 PDT 2003,2.93,139.00
+TRAF1,Citra                                  FAWN,Sat Jul 12 16:00:00 PDT 2003,1.82,139.60
+ALHF1,Alachua                                FAWN,Sat Jul 12 16:00:00 PDT 2003,2.61,133.40
+STNF1,Hastings                               FAWN,Sat Jul 12 16:00:00 PDT 2003,1.73,173.40
+EPRF1,Pierson                                FAWN,Sat Jul 12 16:00:00 PDT 2003,1.28,224.60
+VRSF1,Tavares                                FAWN,Sat Jul 12 16:00:00 PDT 2003,1.11,81.59
+UMLF1,Umatilla                               FAWN,Sat Jul 12 16:00:00 PDT 2003,0.49,155.90
+KHPF1,Okahumpka                              FAWN,Sat Jul 12 16:00:00 PDT 2003,1.99,70.00
+VLNF1,Avalon                                 FAWN,Sat Jul 12 16:00:00 PDT 2003,4.47,13.45
+KSLF1,Brooksville                            FAWN,Sat Jul 12 16:00:00 PDT 2003,1.47,111.40
+POPF1,Apopka                                 FAWN,Sat Jul 12 16:00:00 PDT 2003,2.67,352.70
+KALF1,Lake Alfred                            FAWN,Sat Jul 12 16:00:00 PDT 2003,2.19,334.80
+KENF1,Kenansville                            FAWN,Sat Jul 12 16:00:00 PDT 2003,1.88,13.28
+DOVF1,Dover                                  FAWN,Sat Jul 12 16:00:00 PDT 2003,2.79,22.20
+DNTF1,Bradenton                              FAWN,Sat Jul 12 16:00:00 PDT 2003,1.36,302.39
+FDLF1,Fort Lauderdale                        FAWN,Sat Jul 12 16:00:00 PDT 2003,3.65,132.50
+PCEF1,Fort Pierce                            FAWN,Sat Jul 12 16:00:00 PDT 2003,3.25,121.50
+STDF1,Homestead                              FAWN,Sat Jul 12 16:00:00 PDT 2003,4.19,105.60
+IMKF1,Immokalee                              FAWN,Sat Jul 12 16:00:00 PDT 2003,0.96,295.20
+PALF1,Palmdale                               FAWN,Sat Jul 12 16:00:00 PDT 2003,0.98,322.80
+SEBF1,Sebring                                FAWN,Sat Jul 12 16:00:00 PDT 2003,2.45,223.10
+H0003,Black River Electric   Fredericktown MO,Sat Jul 12 16:00:00 PDT 2003,2.24,50.00
+H0344,BlueStar Systems       Milford      OH,Sat Jul 12 16:00:00 PDT 2003,1.34,180.00
+H0364,BoltAssociates         Beltsville    MD,Sat Jul 12 16:01:00 PDT 2003,0.00,330.00
+H0544,Brookhaven			     MS,Sat Jul 12 16:02:00 PDT 2003,0.00,0.00
+H0457,Corte Madera CA,Sat Jul 12 16:01:00 PDT 2003,2.68,330.00
+H0010,Mac Weather            Charlottetown PE,Sat Jul 12 16:00:00 PDT 2003,2.68,300.00
+H0012,Crowley TX WX Page     Crowley       TX,Sat Jul 12 16:01:00 PDT 2003,4.02,170.00
+H0449,West Houston	        Houston	     TX,Sat Jul 12 16:00:00 PDT 2003,1.79,190.00
+H0017,Olathe        KS,Sat Jul 12 16:01:00 PDT 2003,1.79,350.00
+H0020,Gilbert       AZ,Sat Jul 12 16:01:00 PDT 2003,1.34,290.00
+H0500,Gilroy	     CA,Sat Jul 12 16:01:00 PDT 2003,1.34,300.00
+H0460,ValleyView Ranch       Reasnor      IA,Sat Jul 12 16:00:00 PDT 2003,1.79,250.00
+H0461,Westford     MA,Sat Jul 12 16:03:00 PDT 2003,0.89,240.00
+H0029,Affton        MO,Sat Jul 12 16:00:00 PDT 2003,0.00,360.00
+H0299,KALB Studios           Alexandria    LA,Sat Jul 12 16:00:00 PDT 2003,2.24,210.00
+H0182,Apache Juncti AZ,Sat Jul 12 16:01:00 PDT 2003,1.79,290.00
+H0462,Chandler     AZ,Sat Jul 12 16:00:00 PDT 2003,2.68,250.00
+H0322,Phoenix       AZ,Sat Jul 12 16:02:00 PDT 2003,3.13,240.00
+H0489,Pagosa Springs CO,Sat Jul 12 16:00:00 PDT 2003,0.00,320.00
+H0031,Rainbow City  AL,Sat Jul 12 16:00:00 PDT 2003,1.34,240.00
+H0032,Hendersonvill TN,Sat Jul 12 16:00:00 PDT 2003,0.00,310.00
+H0143,Alta          CA,Sat Jul 12 16:00:00 PDT 2003,1.34,350.00
+H0498,Balboa	     CA,Sat Jul 12 16:00:00 PDT 2003,2.24,290.00
+H0339,Williams Worship       Bellflower    CA,Sat Jul 12 16:00:00 PDT 2003,3.13,170.00
+H0464,Citrus Heights CA,Sat Jul 12 16:00:00 PDT 2003,1.79,190.00
+H0300,Cloverdale    CA,Sat Jul 12 16:03:00 PDT 2003,3.13,240.00
+H0450,Dublin       CA,Sat Jul 12 16:05:00 PDT 2003,1.34,150.00
+H0294,Rancho San Diego       El Cajon      CA,Sat Jul 12 16:00:00 PDT 2003,1.79,190.00
+H0560,El Dorado Hills	Dartboard Wx CA,Sat Jul 12 16:01:00 PDT 2003,1.79,310.00
+H0232,Emerald Hills          Redwood City  CA,Sat Jul 12 16:01:00 PDT 2003,4.47,290.00
+H0561,Grass Valley			     CA,Sat Jul 12 16:00:00 PDT 2003,0.00,90.00
+H0562,Grizzly Flats			     CA,Sat Jul 12 16:04:00 PDT 2003,0.00,270.00
+H0563,Half Moon Bay			     CA,Sat Jul 12 16:00:00 PDT 2003,2.24,90.00
+H0333,Cathouse Backyard WX   Lakeside      CA,Sat Jul 12 16:02:00 PDT 2003,2.24,270.00
+H0158,Lancaster     CA,Sat Jul 12 16:01:00 PDT 2003,4.47,270.00
+H0284,Audette Associates     Nevada City   CA,Sat Jul 12 16:02:00 PDT 2003,0.00,200.00
+H0465,Occidental   CA,Sat Jul 12 16:02:00 PDT 2003,4.47,320.00
+H0345,Palmdale      CA,Sat Jul 12 16:02:00 PDT 2003,2.68,230.00
+H0564,Rohnert Park			     CA,Sat Jul 12 16:00:00 PDT 2003,0.45,80.00
+H0164,San Luis Obis CA,Sat Jul 12 16:00:00 PDT 2003,5.36,310.00
+H0269,South Valley Internet  San Martin    CA,Sat Jul 12 16:00:00 PDT 2003,4.02,310.00
+H0259,Pickles Central        San Rafael    CA,Sat Jul 12 16:01:00 PDT 2003,1.34,70.00
+H0452,Santa Rosa   CA,Sat Jul 12 16:00:00 PDT 2003,1.34,150.00
+H0442,Whittier     CA,Sat Jul 12 16:00:00 PDT 2003,1.34,190.00
+H0566,Crestone			     CO,Sat Jul 12 16:02:00 PDT 2003,1.34,10.00
+H0185,On the Mesa            Meeker        CO,Sat Jul 12 16:01:00 PDT 2003,1.34,200.00
+H0325,Summit County CO,Sat Jul 12 16:00:00 PDT 2003,0.89,0.00
+H0189,Canterbury    CT,Sat Jul 12 16:02:00 PDT 2003,0.00,250.00
+H0350,Barn Hill              Monroe        CT,Sat Jul 12 16:00:00 PDT 2003,0.00,280.00
+H0035,Bristol, VA WX Station Bristol       VA,Sat Jul 12 16:02:00 PDT 2003,0.00,120.00
+H0036,Dunstable     MA,Sat Jul 12 16:00:00 PDT 2003,1.34,280.00
+H0224,Boynton Beach FL,Sat Jul 12 16:00:00 PDT 2003,1.34,130.00
+H0351,Port St. John Weather  Cocoa         FL,Sat Jul 12 16:01:00 PDT 2003,2.24,320.00
+H0468,Pensacola Beach        Gulf Breeze  FL,Sat Jul 12 16:04:00 PDT 2003,4.02,160.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Sat Jul 12 16:02:00 PDT 2003,0.45,150.00
+H0225,FarPointe              Ball Ground   GA,Sat Jul 12 16:01:00 PDT 2003,0.45,330.00
+H0296,KD4K                   Cumming       GA,Sat Jul 12 16:02:00 PDT 2003,0.00,310.00
+H0186,Dalton        GA,Sat Jul 12 16:02:00 PDT 2003,0.00,0.00
+H0569,Rabun Gap			     GA,Sat Jul 12 16:00:00 PDT 2003,1.34,200.00
+H0571,Hemet				     CA,Sat Jul 12 16:00:00 PDT 2003,2.24,220.00
+H0183,New Hampton   IA,Sat Jul 12 16:03:00 PDT 2003,1.79,280.00
+H0195,Van Meter     IA,Sat Jul 12 16:00:00 PDT 2003,0.45,10.00
+H0169,Castle Mountain        Garden Valley ID,Sat Jul 12 16:04:00 PDT 2003,2.24,60.00
+H0427,Bloomington  IL,Sat Jul 12 16:01:00 PDT 2003,0.00,40.00
+H0261,Crystal Lake  IL,Sat Jul 12 16:00:00 PDT 2003,1.34,290.00
+H0205,Olathe        KS,Sat Jul 12 16:02:00 PDT 2003,0.00,310.00
+H0287,Arlington Center       Arlington     MA,Sat Jul 12 16:02:00 PDT 2003,4.02,190.00
+H0272,WoodvilleGr1           Hopkinton     MA,Sat Jul 12 16:01:00 PDT 2003,1.34,210.00
+H0518,Lynn	     MA,Sat Jul 12 16:00:00 PDT 2003,0.89,260.00
+H0188,Dundalk WX - N3VBJ     Baltimore     MD,Sat Jul 12 16:02:00 PDT 2003,0.89,210.00
+H0150,Davisburg     MI,Sat Jul 12 16:03:00 PDT 2003,2.68,330.00
+H0373,Parchment/Spring Valley Kalamazoo   MI,Sat Jul 12 16:00:00 PDT 2003,1.79,260.00
+H0253,Blaine        MN,Sat Jul 12 16:00:00 PDT 2003,0.00,0.00
+H0307,Bloomington   MN,Sat Jul 12 16:00:00 PDT 2003,0.00,210.00
+H0273,Minnesotaweathernet    Franklin      MN,Sat Jul 12 16:00:00 PDT 2003,0.00,10.00
+H0354,Monticello    MN,Sat Jul 12 16:01:00 PDT 2003,0.00,310.00
+H0342,Gideon School District Gideon        MO,Sat Jul 12 16:00:00 PDT 2003,0.45,260.00
+H0523,Lewisville   NC,Sat Jul 12 16:01:00 PDT 2003,0.89,230.00
+H0263,WeatherSource          Shelby        NC,Sat Jul 12 16:00:00 PDT 2003,0.00,340.00
+H0387,North Holmes           Lake Lincoln NE,Sat Jul 12 16:00:00 PDT 2003,0.45,60.00
+H0241,Omaha         NE,Sat Jul 12 16:00:00 PDT 2003,1.79,250.00
+H0289,Omaha         NE,Sat Jul 12 16:01:00 PDT 2003,0.00,140.00
+H0582,East Millstone			     NJ,Sat Jul 12 16:00:00 PDT 2003,0.00,230.00
+H0583,Highlands			     NJ,Sat Jul 12 16:00:00 PDT 2003,0.45,200.00
+H0476,Hopewell     NJ,Sat Jul 12 16:00:00 PDT 2003,0.00,280.00
+H0477,Piscataway   NJ,Sat Jul 12 16:00:00 PDT 2003,0.45,180.00
+H0177,Highland Lakes         Vernon Twsp   NJ,Sat Jul 12 16:02:00 PDT 2003,1.79,250.00
+H0172,Morgan Lake at 4 Crnrs Upper Fruitla NM,Sat Jul 12 16:00:00 PDT 2003,3.58,340.00
+H0140,Ballston Spa  NY,Sat Jul 12 16:01:00 PDT 2003,2.68,310.00
+H0302,Cuba          NY,Sat Jul 12 16:00:00 PDT 2003,4.47,280.00
+H0290,Rochester     NY,Sat Jul 12 16:02:00 PDT 2003,2.24,240.00
+H0478,Saratoga Springs NY,Sat Jul 12 16:01:00 PDT 2003,0.00,30.00
+H0304,Edmunds Weather        Smithtown     NY,Sat Jul 12 16:03:00 PDT 2003,2.24,290.00
+H0251,Vestal        NY,Sat Jul 12 16:00:00 PDT 2003,2.68,50.00
+H0395,Mecox Bay              Water Mill   NY,Sat Jul 12 16:01:00 PDT 2003,1.79,230.00
+H0492,Rock Creek, Hillsboro  Portland     OR,Sat Jul 12 16:01:00 PDT 2003,3.58,270.00
+H0159,Old Town               Sherwood      OR,Sat Jul 12 16:00:00 PDT 2003,4.47,290.00
+H0227,Turner        OR,Sat Jul 12 16:00:00 PDT 2003,1.79,250.00
+H0440,Broomall     PA,Sat Jul 12 16:00:00 PDT 2003,0.45,250.00
+H0179,Masons Mill Bus. Park  Bryn Athyn    PA,Sat Jul 12 16:01:00 PDT 2003,0.00,250.00
+H0336,Malvern       PA,Sat Jul 12 16:00:00 PDT 2003,1.34,150.00
+H0229,Audubon Society of W PA Fox Chapel   PA,Sat Jul 12 16:00:00 PDT 2003,0.89,330.00
+H0043,WX for West PA/East OH Sharon        PA,Sat Jul 12 16:01:00 PDT 2003,1.79,300.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Sat Jul 12 16:02:00 PDT 2003,0.45,180.00
+H0313,BosWeather             Greer         SC,Sat Jul 12 16:02:00 PDT 2003,0.45,0.00
+H0116,Boones Creek Weather   Salem         SC,Sat Jul 12 16:00:00 PDT 2003,0.00,240.00
+H0479,West Columbia SC,Sat Jul 12 16:01:00 PDT 2003,0.00,260.00
+H0329,Williamston   SC,Sat Jul 12 16:00:00 PDT 2003,0.89,220.00
+H0588,Mitchell			     SD,Sat Jul 12 16:01:00 PDT 2003,0.00,50.00
+H0298,Terricita Hills        Rapid City    SD,Sat Jul 12 16:00:00 PDT 2003,2.24,140.00
+H0447,Downtown               Santa Rosa   CA,Sat Jul 12 16:02:00 PDT 2003,4.47,200.00
+H0396,Williamson             County Franklin TN,Sat Jul 12 16:00:00 PDT 2003,1.34,210.00
+H0590,Portland			     TN,Sat Jul 12 16:03:00 PDT 2003,0.45,220.00
+H0318,Austin        TX,Sat Jul 12 16:01:00 PDT 2003,2.24,180.00
+H0236,Burk                   Burnett       TX,Sat Jul 12 16:02:00 PDT 2003,4.47,200.00
+H0360,Corinth       TX,Sat Jul 12 16:05:00 PDT 2003,4.92,160.00
+H0591,Dallas	Oak Cliff		     TX,Sat Jul 12 16:00:00 PDT 2003,1.34,150.00
+H0194,Fort Davis    TX,Sat Jul 12 16:03:00 PDT 2003,3.58,100.00
+H0152,Frisco        TX,Sat Jul 12 16:01:00 PDT 2003,1.34,110.00
+H0311,Clear Lake City WX     Houston       TX,Sat Jul 12 16:02:00 PDT 2003,1.34,100.00
+H0430,San Patricio           Mathis	     TX,Sat Jul 12 16:01:00 PDT 2003,0.45,110.00
+H0230,Riverbend WA5KXX       Plano         TX,Sat Jul 12 16:00:00 PDT 2003,1.34,160.00
+H0415,Northwest Crossing	San Antonio  TX,Sat Jul 12 16:02:00 PDT 2003,0.00,150.00
+H0280,Taylor        TX,Sat Jul 12 16:00:00 PDT 2003,1.79,150.00
+H0148,Rosehill Ranches       Tomball       TX,Sat Jul 12 16:00:00 PDT 2003,1.79,70.00
+H0281,WREL WeatherCenter     Lexington     VA,Sat Jul 12 16:01:00 PDT 2003,0.00,160.00
+H0157,N4NW                   Stafford      VA,Sat Jul 12 16:03:00 PDT 2003,1.34,220.00
+H0594,Stafford			     VA,Sat Jul 12 16:00:00 PDT 2003,0.00,30.00
+H0363,Darrington    WA,Sat Jul 12 16:04:00 PDT 2003,1.79,220.00
+H0481,Kenmore      WA,Sat Jul 12 16:02:00 PDT 2003,1.79,230.00
+H0597,Vancouver			     WA,Sat Jul 12 16:02:00 PDT 2003,3.13,230.00
+H0331,Walnut Grove           Vancouver     WA,Sat Jul 12 16:00:00 PDT 2003,1.79,210.00
+H0598,Vancouver		Lutegrad Weather WA,Sat Jul 12 16:01:00 PDT 2003,2.68,260.00
+H0601,Denver			Lake Norman  NC,Sat Jul 12 16:02:00 PDT 2003,0.00,180.00
+H0490,Sylmar       CA,Sat Jul 12 16:00:00 PDT 2003,1.34,160.00
+H0423,Middleboro   MA,Sat Jul 12 16:00:00 PDT 2003,0.89,230.00
+H0603,Concord		Muncheeville CA,Sat Jul 12 16:01:00 PDT 2003,3.58,160.00
+H0052,New Milford Weather    New Milford   CT,Sat Jul 12 16:01:00 PDT 2003,2.68,210.00
+H0482,Savage       MN,Sat Jul 12 16:02:00 PDT 2003,0.00,50.00
+H0538,Newport News VA,Sat Jul 12 16:02:00 PDT 2003,1.34,310.00
+H0501,Peanut Hill Weather	Lodi	     CA,Sat Jul 12 16:03:00 PDT 2003,3.58,240.00
+H0062,Northeast Raleigh      Raleigh       NC,Sat Jul 12 16:01:00 PDT 2003,2.68,170.00
+H0505,Santa Rosa   CA,Sat Jul 12 16:01:00 PDT 2003,0.00,150.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Sat Jul 12 16:00:00 PDT 2003,1.34,280.00
+H0072,Thunder Ranch          Juniper Hills CA,Sat Jul 12 16:00:00 PDT 2003,4.92,290.00
+H0525,Omaha	     NE,Sat Jul 12 16:04:00 PDT 2003,0.00,30.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Sat Jul 12 16:00:00 PDT 2003,0.00,350.00
+H0610,Wimberley			     TX,Sat Jul 12 16:00:00 PDT 2003,0.00,140.00
+H0090,WKRG Studios           Mobile        AL,Sat Jul 12 16:01:00 PDT 2003,1.34,210.00
+H0091,WMBB Studios           Panama City   FL,Sat Jul 12 16:00:00 PDT 2003,3.58,250.00
+H0094,Gorilla Weather        Winnipeg      MB,Sat Jul 12 16:00:00 PDT 2003,0.45,170.00
+JAYF1,Jay                                    FAWN,Sat Jul 12 16:00:00 PDT 2003,5.61,179.80
+PHAF1,Putnam Hall                            FAWN,Sat Jul 12 16:00:00 PDT 2003,0.53,202.10
+CKHF1,Ocklawaha                              FAWN,Sat Jul 12 16:00:00 PDT 2003,3.07,123.50
+BMTC2,Blue_Mountain,Sat Jul 12 16:10:00 PDT 2003,2.24,0.00
+DHPC2,Diamond_Hill,Sat Jul 12 16:10:00 PDT 2003,0.72,270.00
+EBBC2,Elbert,Sat Jul 12 16:10:00 PDT 2003,4.07,124.00
+BHNC2,Brighton,Sat Jul 12 16:10:00 PDT 2003,2.50,338.00
+SQWC2,Squaw_Mountain,Sat Jul 12 16:10:00 PDT 2003,2.68,143.00
+HGCC2,Hiwan_G.C.,Sat Jul 12 16:10:00 PDT 2003,0.89,130.00
+HIGC2,Highlands_Ranch_WTP,Sat Jul 12 16:10:00 PDT 2003,0.49,264.00
+SAPC2,Salisbury_Park,Sat Jul 12 16:10:00 PDT 2003,1.70,84.00
+COKC2,Castle_Rock,Sat Jul 12 16:10:00 PDT 2003,1.97,343.00
+SFSC2,Sugarloaf,Sat Jul 12 16:10:00 PDT 2003,1.16,56.00
+LEWC2,Louisville_Lake,Sat Jul 12 16:10:00 PDT 2003,0.72,90.00
+CALC2,Cal-Wood_Ranch,Sat Jul 12 16:10:00 PDT 2003,2.10,84.00
+BTRC2,Button_Rock,Sat Jul 12 16:10:00 PDT 2003,0.49,124.00
+SJEI4,Jefferson Scranton HS                  KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,315.00
+SINI4,Emerson Elementary -Indianola          KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,290.00
+SGRI4,Dallas Center/Grimes                   KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,50.00
+SFOI4,Nodaway Valley - Fontanelle            KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.54,315.00
+SOSI4,Clarke Community - Osceola             KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,50.00
+SWII4,Winterset Community                    KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,360.00
+SADI4,Adair Casey                            KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,340.00
+SAFI4,East Union - Afton                     KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.57,360.00
+SKCI4,KCCI Studios - Des Moines              KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,270.00
+SAEI4,ADM MS - Adel                          KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,0.00,360.00
+SCHI4,Van Allen Elementary - Chariton        KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.54,70.00
+SMAI4,Fisher Elementary - Marshalltown       KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,270.00
+SNEI4,Berg MS - Newton                       KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.57,315.00
+SAKI4,Ankeny Christian                       KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,340.00
+SHUI4,Taft Elementary - Humboldt             KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,30.00
+SCAI4,Kuemper Catholic - Carroll             KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,0.00,360.00
+SGLI4,Glidden Ralston - Glidden              KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,360.00
+SCSI4,Creston HS                             KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,360.00
+SWBI4,Webster City Community                 KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,340.00
+SAUI4,Audubon Community                      KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,360.00
+SMNI4,Montezuma Community                    KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,0.51,290.00
+SIFI4,Rock Run Elementary - Iowa Falls       KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,360.00
+SCNI4,Corning Community - Corning            KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.54,290.00
+SSUI4,Sully Christian                        KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,0.00,340.00
+SKNI4,Knoxville Community                    KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,340.00
+SAMI4,Northwood Elementary - Ames            KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,315.00
+SJWI4,South Hamilton - Jewell                KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,290.00
+SPAI4,Panorama                               KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,360.00
+SLOI4,Lamoni Community - Lamoni              KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,315.00
+SALI4,Lincoln Center - Albia                 KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.54,340.00
+SWAI4,Wall Lake-View-Auburn                  KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.54,290.00
+SBRI4,BGM Elementary - Brooklyn              KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,290.00
+SDRI4,River Woods - Des Moines               KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.57,290.00
+SLMI4,CAL Community - Latimer                KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.54,270.00
+SFAI4,Prairie Valley - Farnhamville          KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.57,50.00
+SCBI4,Coon Rapids - Bayard                   KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,0.00,360.00
+SPEI4,Pella MS                               KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,3.09,30.00
+SBKI4,Belmond Klemme                         KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,2.06,340.00
+SLEI4,Leon                                   KCCI-TV,Sat Jul 12 16:15:00 PDT 2003,1.03,30.00
+SMAM5,Madison                                KELO-TV,Sat Jul 12 16:17:00 PDT 2003,0.00,70.00
+SABS2,Aberdeen                               KELO-TV,Sat Jul 12 16:17:00 PDT 2003,2.57,210.00
+SHUS2,Huron                                  KELO-TV,Sat Jul 12 16:17:00 PDT 2003,1.03,160.00
+SMIS2,Milbank                                KELO-TV,Sat Jul 12 16:17:00 PDT 2003,2.06,340.00
+SMSS2,Mission                                KELO-TV,Sat Jul 12 16:17:00 PDT 2003,5.14,340.00
+SPIS2,Pierre                                 KELO-TV,Sat Jul 12 16:17:00 PDT 2003,5.14,70.00
+SRAS2,Rapid City                             KELO-TV,Sat Jul 12 16:17:00 PDT 2003,0.51,210.00
+SSAS2,Sioux Falls PH                         KELO-TV,Sat Jul 12 16:17:00 PDT 2003,0.00,290.00
+SSBS2,Sioux Falls Pavilion                   KELO-TV,Sat Jul 12 16:17:00 PDT 2003,1.54,270.00
+SWAS2,Wall                                   KELO-TV,Sat Jul 12 16:17:00 PDT 2003,2.06,140.00
+SWTS2,Watertown                              KELO-TV,Sat Jul 12 16:17:00 PDT 2003,0.00,360.00
+SYAS2,Yankton                                KELO-TV,Sat Jul 12 16:17:00 PDT 2003,0.00,50.00
+SHII4,Hull                                   KELO-TV,Sat Jul 12 16:17:00 PDT 2003,1.03,340.00
+JAYF1,Jay                                    FAWN,Sat Jul 12 16:15:00 PDT 2003,5.17,182.00
+QUIF1,Quincy                                 FAWN,Sat Jul 12 16:15:00 PDT 2003,1.68,349.00
+CARF1,Carrabelle                             FAWN,Sat Jul 12 16:15:00 PDT 2003,1.30,282.89
+LIOF1,Live Oak                               FAWN,Sat Jul 12 16:15:00 PDT 2003,3.92,136.10
+MACF1,Macclenny                              FAWN,Sat Jul 12 16:15:00 PDT 2003,2.73,45.72
+BRZF1,Bronson                                FAWN,Sat Jul 12 16:15:00 PDT 2003,3.19,155.19
+PHAF1,Putnam Hall                            FAWN,Sat Jul 12 16:15:00 PDT 2003,0.35,259.50
+TRAF1,Citra                                  FAWN,Sat Jul 12 16:15:00 PDT 2003,2.39,152.00
+ALHF1,Alachua                                FAWN,Sat Jul 12 16:15:00 PDT 2003,1.86,138.19
+STNF1,Hastings                               FAWN,Sat Jul 12 16:15:00 PDT 2003,1.33,127.40
+EPRF1,Pierson                                FAWN,Sat Jul 12 16:15:00 PDT 2003,0.69,219.70
+UMLF1,Umatilla                               FAWN,Sat Jul 12 16:15:00 PDT 2003,1.19,155.30
+KHPF1,Okahumpka                              FAWN,Sat Jul 12 16:15:00 PDT 2003,2.73,109.40
+VLNF1,Avalon                                 FAWN,Sat Jul 12 16:15:00 PDT 2003,5.00,9.02
+KSLF1,Brooksville                            FAWN,Sat Jul 12 16:15:00 PDT 2003,2.89,110.50
+POPF1,Apopka                                 FAWN,Sat Jul 12 16:15:00 PDT 2003,3.81,320.60
+KALF1,Lake Alfred                            FAWN,Sat Jul 12 16:15:00 PDT 2003,2.03,327.60
+KENF1,Kenansville                            FAWN,Sat Jul 12 16:15:00 PDT 2003,1.71,33.64
+DOVF1,Dover                                  FAWN,Sat Jul 12 16:15:00 PDT 2003,2.24,61.13
+DNTF1,Bradenton                              FAWN,Sat Jul 12 16:15:00 PDT 2003,0.96,39.94
+FDLF1,Fort Lauderdale                        FAWN,Sat Jul 12 16:15:00 PDT 2003,2.58,132.19
+STDF1,Homestead                              FAWN,Sat Jul 12 16:15:00 PDT 2003,3.80,110.40
+IMKF1,Immokalee                              FAWN,Sat Jul 12 16:15:00 PDT 2003,0.93,330.10
+PALF1,Palmdale                               FAWN,Sat Jul 12 16:15:00 PDT 2003,1.67,289.80
+SEBF1,Sebring                                FAWN,Sat Jul 12 16:15:00 PDT 2003,2.21,237.20
+CO084,Silt (7),Sat Jul 12 16:00:00 PDT 2003,2.24,285.00
+CO087,East Tunnel Portal (8),Sat Jul 12 16:00:00 PDT 2003,0.00,0.00
+CO088,Hanging Lake Viaduct (8),Sat Jul 12 16:00:00 PDT 2003,1.79,295.00
+CO089,French Creek (8),Sat Jul 12 16:00:00 PDT 2003,8.05,235.00
+CO091,No Name Tunnel (8),Sat Jul 12 16:05:00 PDT 2003,2.24,135.00
+CO093,McClure Pass (12),Sat Jul 12 16:01:00 PDT 2003,0.00,160.00
+CO094,Independence Pass (10),Sat Jul 12 16:01:00 PDT 2003,2.68,275.00
+CO095,Wolcott (8),Sat Jul 12 16:02:00 PDT 2003,4.02,275.00
+CO097,Palisade (6),Sat Jul 12 16:05:00 PDT 2003,3.13,200.00
+CO098,Douglas Pass (3),Sat Jul 12 16:05:00 PDT 2003,3.13,310.00
+CO105,Grand Junction (6),Sat Jul 12 16:06:00 PDT 2003,3.58,290.00
+H0002,KNCTODD1               Jefferson     NC,Sat Jul 12 16:13:00 PDT 2003,1.79,210.00
+H0344,BlueStar Systems       Milford      OH,Sat Jul 12 16:15:00 PDT 2003,1.79,170.00
+H0004,BoblandUSA             San Diego     CA,Sat Jul 12 16:06:00 PDT 2003,1.34,260.00
+H0544,Brookhaven			     MS,Sat Jul 12 16:17:00 PDT 2003,0.00,0.00
+H0005,Acton         ON,Sat Jul 12 16:11:00 PDT 2003,3.13,330.00
+H0012,Crowley TX WX Page     Crowley       TX,Sat Jul 12 16:10:00 PDT 2003,2.68,150.00
+H0549,Danville		Alum Springs KY,Sat Jul 12 16:15:00 PDT 2003,0.00,270.00
+H0017,Olathe        KS,Sat Jul 12 16:11:00 PDT 2003,2.24,300.00
+H0460,ValleyView Ranch       Reasnor      IA,Sat Jul 12 16:14:00 PDT 2003,0.00,290.00
+H0022,KVTISLAN1              Island Pond   VT,Sat Jul 12 16:15:00 PDT 2003,0.00,220.00
+H0024,Cornelius     OR,Sat Jul 12 16:01:00 PDT 2003,2.68,230.00
+H0025,Dickinson     TX,Sat Jul 12 16:14:00 PDT 2003,1.34,130.00
+H0029,Affton        MO,Sat Jul 12 16:15:00 PDT 2003,0.45,340.00
+H0299,KALB Studios           Alexandria    LA,Sat Jul 12 16:15:00 PDT 2003,1.34,130.00
+H0245,Mobile        AL,Sat Jul 12 16:16:00 PDT 2003,1.34,200.00
+H0462,Chandler     AZ,Sat Jul 12 16:15:00 PDT 2003,1.79,240.00
+H0322,Phoenix       AZ,Sat Jul 12 16:17:00 PDT 2003,3.58,260.00
+H0030,Harrisburg             Lowville      NY,Sat Jul 12 16:16:00 PDT 2003,2.24,270.00
+H0031,Rainbow City  AL,Sat Jul 12 16:10:00 PDT 2003,0.00,120.00
+H0032,Hendersonvill TN,Sat Jul 12 16:10:00 PDT 2003,0.00,310.00
+H0244,Acton         CA,Sat Jul 12 16:03:00 PDT 2003,6.71,270.00
+H0498,Balboa	     CA,Sat Jul 12 16:15:00 PDT 2003,2.68,280.00
+H0339,Williams Worship       Bellflower    CA,Sat Jul 12 16:15:00 PDT 2003,1.79,190.00
+H0300,Cloverdale    CA,Sat Jul 12 16:15:00 PDT 2003,1.34,260.00
+H0222,Covelo        CA,Sat Jul 12 16:04:00 PDT 2003,1.34,290.00
+H0223,Petroglyph Computing   Crestline     CA,Sat Jul 12 16:05:00 PDT 2003,0.00,50.00
+H0450,Dublin       CA,Sat Jul 12 16:19:00 PDT 2003,1.34,180.00
+H0294,Rancho San Diego       El Cajon      CA,Sat Jul 12 16:15:00 PDT 2003,2.68,190.00
+H0346,California Hills       Folsom        CA,Sat Jul 12 16:15:00 PDT 2003,2.24,250.00
+H0561,Grass Valley			     CA,Sat Jul 12 16:15:00 PDT 2003,0.00,250.00
+H0197,Guerneville   CA,Sat Jul 12 16:05:00 PDT 2003,0.45,320.00
+H0563,Half Moon Bay			     CA,Sat Jul 12 16:15:00 PDT 2003,2.24,60.00
+H0237,Healdsburg    CA,Sat Jul 12 16:07:00 PDT 2003,4.92,280.00
+H0333,Cathouse Backyard WX   Lakeside      CA,Sat Jul 12 16:11:00 PDT 2003,0.89,260.00
+H0158,Lancaster     CA,Sat Jul 12 16:10:00 PDT 2003,2.68,240.00
+H0465,Occidental   CA,Sat Jul 12 16:15:00 PDT 2003,4.02,320.00
+H0564,Rohnert Park			     CA,Sat Jul 12 16:15:00 PDT 2003,1.79,270.00
+H0164,San Luis Obis CA,Sat Jul 12 16:15:00 PDT 2003,4.47,330.00
+H0269,South Valley Internet  San Martin    CA,Sat Jul 12 16:15:00 PDT 2003,4.92,320.00
+H0259,Pickles Central        San Rafael    CA,Sat Jul 12 16:15:00 PDT 2003,0.00,270.00
+H0452,Santa Rosa   CA,Sat Jul 12 16:15:00 PDT 2003,0.45,190.00
+H0348,Tehachapi     CA,Sat Jul 12 16:15:00 PDT 2003,1.34,120.00
+H0506,Visalia	     CA,Sat Jul 12 16:02:00 PDT 2003,1.34,330.00
+H0442,Whittier     CA,Sat Jul 12 16:15:00 PDT 2003,2.24,160.00
+H0566,Crestone			     CO,Sat Jul 12 16:15:00 PDT 2003,2.68,290.00
+H0325,Summit County CO,Sat Jul 12 16:10:00 PDT 2003,0.00,20.00
+H0189,Canterbury    CT,Sat Jul 12 16:20:00 PDT 2003,0.00,280.00
+H0036,Dunstable     MA,Sat Jul 12 16:15:00 PDT 2003,0.89,290.00
+H0038,Kennesaw      GA,Sat Jul 12 16:02:00 PDT 2003,0.00,0.00
+H0351,Port St. John Weather  Cocoa         FL,Sat Jul 12 16:16:00 PDT 2003,0.00,320.00
+H0295,Lake Mary     FL,Sat Jul 12 16:17:00 PDT 2003,1.34,350.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Sat Jul 12 16:12:00 PDT 2003,0.00,80.00
+H0296,KD4K                   Cumming       GA,Sat Jul 12 16:17:00 PDT 2003,0.00,250.00
+H0041,Piedmont Triad Weather Greensboro    NC,Sat Jul 12 16:05:00 PDT 2003,1.79,230.00
+H0571,Hemet				     CA,Sat Jul 12 16:15:00 PDT 2003,1.79,290.00
+H0573,Charles City			     IA,Sat Jul 12 16:17:00 PDT 2003,1.79,300.00
+H0353,Keokuk        IA,Sat Jul 12 16:04:00 PDT 2003,0.00,20.00
+H0183,New Hampton   IA,Sat Jul 12 16:18:00 PDT 2003,1.34,300.00
+H0417,Oxford Mills           Oxford Junction	IA,Sat Jul 12 16:18:00 PDT 2003,0.45,350.00
+H0246,Sidney        IA,Sat Jul 12 16:18:00 PDT 2003,1.79,60.00
+H0195,Van Meter     IA,Sat Jul 12 16:10:00 PDT 2003,0.89,20.00
+H0190,Boise         ID,Sat Jul 12 16:04:00 PDT 2003,0.00,270.00
+H0261,Crystal Lake  IL,Sat Jul 12 16:15:00 PDT 2003,2.68,290.00
+H0369,East side of I65       Crothersville IN,Sat Jul 12 16:10:00 PDT 2003,0.00,310.00
+H0191,Paducah       KY,Sat Jul 12 16:13:00 PDT 2003,0.00,330.00
+H0287,Arlington Center       Arlington     MA,Sat Jul 12 16:16:00 PDT 2003,3.13,230.00
+H0272,WoodvilleGr1           Hopkinton     MA,Sat Jul 12 16:15:00 PDT 2003,3.13,250.00
+H0518,Lynn	     MA,Sat Jul 12 16:15:00 PDT 2003,1.79,220.00
+H0373,Parchment/Spring Valley Kalamazoo   MI,Sat Jul 12 16:15:00 PDT 2003,0.89,320.00
+H0253,Blaine        MN,Sat Jul 12 16:15:00 PDT 2003,0.00,0.00
+H0307,Bloomington   MN,Sat Jul 12 16:10:00 PDT 2003,1.34,250.00
+H0165,Browning      MO,Sat Jul 12 16:11:00 PDT 2003,1.34,350.00
+H0342,Gideon School District Gideon        MO,Sat Jul 12 16:15:00 PDT 2003,1.34,240.00
+H0491,Greensboro   NC,Sat Jul 12 16:17:00 PDT 2003,0.00,170.00
+H0523,Lewisville   NC,Sat Jul 12 16:15:00 PDT 2003,0.45,230.00
+H0387,North Holmes           Lake Lincoln NE,Sat Jul 12 16:15:00 PDT 2003,0.45,350.00
+H0241,Omaha         NE,Sat Jul 12 16:15:00 PDT 2003,0.00,320.00
+H0289,Omaha         NE,Sat Jul 12 16:15:00 PDT 2003,0.00,300.00
+H0582,East Millstone			     NJ,Sat Jul 12 16:15:00 PDT 2003,0.00,250.00
+H0583,Highlands			     NJ,Sat Jul 12 16:10:00 PDT 2003,0.45,200.00
+H0302,Cuba          NY,Sat Jul 12 16:09:00 PDT 2003,3.13,270.00
+H0308,New City      NY,Sat Jul 12 16:15:00 PDT 2003,0.00,50.00
+H0290,Rochester     NY,Sat Jul 12 16:16:00 PDT 2003,4.02,230.00
+H0478,Saratoga Springs NY,Sat Jul 12 16:16:00 PDT 2003,1.34,270.00
+H0304,Edmunds Weather        Smithtown     NY,Sat Jul 12 16:17:00 PDT 2003,0.00,360.00
+H0395,Mecox Bay              Water Mill   NY,Sat Jul 12 16:16:00 PDT 2003,1.34,150.00
+H0309,Columbus      OH,Sat Jul 12 16:10:00 PDT 2003,0.89,20.00
+H0227,Turner        OR,Sat Jul 12 16:15:00 PDT 2003,3.13,240.00
+H0440,Broomall     PA,Sat Jul 12 16:16:00 PDT 2003,1.34,320.00
+H0043,WX for West PA/East OH Sharon        PA,Sat Jul 12 16:10:00 PDT 2003,1.34,300.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Sat Jul 12 16:15:00 PDT 2003,0.45,200.00
+H0313,BosWeather             Greer         SC,Sat Jul 12 16:12:00 PDT 2003,1.34,290.00
+H0479,West Columbia SC,Sat Jul 12 16:11:00 PDT 2003,0.00,300.00
+H0329,Williamston   SC,Sat Jul 12 16:15:00 PDT 2003,0.00,240.00
+H0588,Mitchell			     SD,Sat Jul 12 16:15:00 PDT 2003,0.00,90.00
+H0298,Terricita Hills        Rapid City    SD,Sat Jul 12 16:10:00 PDT 2003,2.68,140.00
+H0247,Sturgis       SD,Sat Jul 12 16:05:00 PDT 2003,2.24,140.00
+H0447,Downtown               Santa Rosa   CA,Sat Jul 12 16:16:00 PDT 2003,3.13,220.00
+H0396,Williamson             County Franklin TN,Sat Jul 12 16:20:00 PDT 2003,0.00,200.00
+H0310,SSC                    Abilene       TX,Sat Jul 12 16:03:00 PDT 2003,4.02,160.00
+H0201,Arlington     TX,Sat Jul 12 16:15:00 PDT 2003,0.89,280.00
+H0318,Austin        TX,Sat Jul 12 16:15:00 PDT 2003,1.34,150.00
+H0202,KC4WTI                 Irving        TX,Sat Jul 12 16:15:00 PDT 2003,0.00,130.00
+H0360,Corinth       TX,Sat Jul 12 16:19:00 PDT 2003,3.58,180.00
+H0591,Dallas	Oak Cliff		     TX,Sat Jul 12 16:15:00 PDT 2003,1.34,150.00
+H0194,Fort Davis    TX,Sat Jul 12 16:17:00 PDT 2003,1.34,0.00
+H0311,Clear Lake City WX     Houston       TX,Sat Jul 12 16:12:00 PDT 2003,1.34,70.00
+H0361,R and K Weather        Houston       TX,Sat Jul 12 16:12:00 PDT 2003,0.45,150.00
+H0204,Key Allegro            Rockport      TX,Sat Jul 12 16:17:00 PDT 2003,3.13,130.00
+H0278,TeleHobbies            Rockwall      TX,Sat Jul 12 16:04:00 PDT 2003,0.89,120.00
+H0415,Northwest Crossing	San Antonio  TX,Sat Jul 12 16:17:00 PDT 2003,1.34,170.00
+H0280,Taylor        TX,Sat Jul 12 16:15:00 PDT 2003,2.24,160.00
+H0293,Harrisonburg  VA,Sat Jul 12 16:07:00 PDT 2003,0.89,240.00
+H0157,N4NW                   Stafford      VA,Sat Jul 12 16:18:00 PDT 2003,0.89,210.00
+H0594,Stafford			     VA,Sat Jul 12 16:15:00 PDT 2003,0.00,30.00
+H0363,Darrington    WA,Sat Jul 12 16:17:00 PDT 2003,3.58,160.00
+H0481,Kenmore      WA,Sat Jul 12 16:11:00 PDT 2003,0.89,230.00
+H0596,Maple Valley			     WA,Sat Jul 12 16:15:00 PDT 2003,0.00,290.00
+H0597,Vancouver			     WA,Sat Jul 12 16:18:00 PDT 2003,3.13,250.00
+H0331,Walnut Grove           Vancouver     WA,Sat Jul 12 16:10:00 PDT 2003,2.68,230.00
+H0598,Vancouver		Lutegrad Weather WA,Sat Jul 12 16:11:00 PDT 2003,2.68,270.00
+H0601,Denver			Lake Norman  NC,Sat Jul 12 16:12:00 PDT 2003,0.00,180.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Sat Jul 12 16:15:00 PDT 2003,0.00,140.00
+H0490,Sylmar       CA,Sat Jul 12 16:10:00 PDT 2003,1.34,130.00
+H0423,Middleboro   MA,Sat Jul 12 16:15:00 PDT 2003,2.24,260.00
+H0052,New Milford Weather    New Milford   CT,Sat Jul 12 16:11:00 PDT 2003,0.00,280.00
+H0482,Savage       MN,Sat Jul 12 16:16:00 PDT 2003,0.45,20.00
+H0419,Lowes Motor Spdwy Area	Concord	     NC,Sat Jul 12 16:03:00 PDT 2003,0.00,180.00
+H0062,Northeast Raleigh      Raleigh       NC,Sat Jul 12 16:16:00 PDT 2003,1.79,180.00
+H0065,Sedona        AZ,Sat Jul 12 16:07:00 PDT 2003,2.68,20.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Sat Jul 12 16:15:00 PDT 2003,2.24,260.00
+H0071,South Weber WX Porch   South Weber   UT,Sat Jul 12 16:04:00 PDT 2003,3.13,160.00
+H0072,Thunder Ranch          Juniper Hills CA,Sat Jul 12 16:14:00 PDT 2003,4.02,270.00
+H0525,Omaha	     NE,Sat Jul 12 16:17:00 PDT 2003,0.00,330.00
+H0080,Coles Pond Weathercam  Walden        VT,Sat Jul 12 16:03:00 PDT 2003,2.24,190.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Sat Jul 12 16:10:00 PDT 2003,0.00,350.00
+H0610,Wimberley			     TX,Sat Jul 12 16:15:00 PDT 2003,0.45,160.00
+H0090,WKRG Studios           Mobile        AL,Sat Jul 12 16:20:00 PDT 2003,1.34,200.00
+H0091,WMBB Studios           Panama City   FL,Sat Jul 12 16:15:00 PDT 2003,3.13,240.00
+BMTC2,Blue_Mountain,Sat Jul 12 16:20:00 PDT 2003,2.24,0.00
+DHPC2,Diamond_Hill,Sat Jul 12 16:20:00 PDT 2003,0.72,270.00
+EBBC2,Elbert,Sat Jul 12 16:20:00 PDT 2003,4.07,124.00
+BHNC2,Brighton,Sat Jul 12 16:20:00 PDT 2003,2.50,338.00
+SQWC2,Squaw_Mountain,Sat Jul 12 16:20:00 PDT 2003,3.53,143.00
+HGCC2,Hiwan_G.C.,Sat Jul 12 16:20:00 PDT 2003,1.34,169.00
+HIGC2,Highlands_Ranch_WTP,Sat Jul 12 16:20:00 PDT 2003,0.49,264.00
+SAPC2,Salisbury_Park,Sat Jul 12 16:20:00 PDT 2003,1.70,84.00
+COKC2,Castle_Rock,Sat Jul 12 16:20:00 PDT 2003,1.97,343.00
+SFSC2,Sugarloaf,Sat Jul 12 16:20:00 PDT 2003,1.16,56.00
+LEWC2,Louisville_Lake,Sat Jul 12 16:20:00 PDT 2003,0.67,140.00
+CALC2,Cal-Wood_Ranch,Sat Jul 12 16:20:00 PDT 2003,2.10,84.00
+BTRC2,Button_Rock,Sat Jul 12 16:20:00 PDT 2003,0.49,124.00
+SADDL,Niwot Ridge Saddle                     NiwotRidge,Sat Jul 12 16:00:00 PDT 2003,3.32,141.00
+D1,Niwot Ridge D1                         NiwotRidge,Sat Jul 12 16:00:00 PDT 2003,4.64,271.00
+C1,Niwot Ridge C1                         NiwotRidge,Sat Jul 12 16:00:00 PDT 2003,1.55,134.00
+CKHF1,Ocklawaha                              FAWN,Sat Jul 12 16:15:00 PDT 2003,2.42,131.00
+VRSF1,Tavares                                FAWN,Sat Jul 12 16:15:00 PDT 2003,1.99,115.00
+PCEF1,Fort Pierce                            FAWN,Sat Jul 12 16:15:00 PDT 2003,3.28,127.10
+CO041,Natural Fort (38),Sat Jul 12 16:02:00 PDT 2003,7.60,190.00
+CO042,Wellington (38),Sat Jul 12 16:02:00 PDT 2003,2.68,180.00
+CO043,Briggsdale (42),Sat Jul 12 16:03:00 PDT 2003,5.36,50.00
+CO051,Greeley (43),Sat Jul 12 16:07:00 PDT 2003,0.45,110.00
+CO052,Del Camino (43),Sat Jul 12 16:08:00 PDT 2003,0.00,0.00
+CO067,I-70 @ Seibert (91),Sat Jul 12 16:01:00 PDT 2003,8.05,95.00
+CO070,Vail Pass (34),Sat Jul 12 16:02:00 PDT 2003,5.36,15.00
+CO084,Silt (7),Sat Jul 12 16:20:00 PDT 2003,1.79,260.00
+CO087,East Tunnel Portal (8),Sat Jul 12 16:15:00 PDT 2003,0.00,0.00
+CO088,Hanging Lake Viaduct (8),Sat Jul 12 16:15:00 PDT 2003,2.24,240.00
+CO089,French Creek (8),Sat Jul 12 16:21:00 PDT 2003,8.94,235.00
+CO090,Bair Ranch (8),Sat Jul 12 16:16:00 PDT 2003,0.89,150.00
+CO091,No Name Tunnel (8),Sat Jul 12 16:20:00 PDT 2003,0.89,295.00
+CO092,Dowd Junction (10),Sat Jul 12 16:09:00 PDT 2003,3.13,245.00
+CO093,McClure Pass (12),Sat Jul 12 16:21:00 PDT 2003,0.00,35.00
+CO099,Canyon Creek (8),Sat Jul 12 16:14:00 PDT 2003,2.68,260.00
+CO100,Aspen (10),Sat Jul 12 16:10:00 PDT 2003,4.92,220.00
+CO101,Basalt (8*),Sat Jul 12 16:11:00 PDT 2003,0.89,200.00
+CO102,Steamboat Springs (5),Sat Jul 12 16:13:00 PDT 2003,0.89,235.00
+CO103,Snowmass @HWY82 mp26.8 (10*),Sat Jul 12 16:15:00 PDT 2003,1.79,195.00
+CO104,Shale Bluffs (10),Sat Jul 12 16:07:00 PDT 2003,4.47,225.00
+CO105,Grand Junction (6),Sat Jul 12 16:16:00 PDT 2003,0.89,310.00
+J0204,Cobscook Bay,Sat Jul 12 16:00:00 PDT 2003,4.20,160.00
+E0106,Central Maine Shelf,Sat Jul 12 16:00:00 PDT 2003,4.30,162.00
+C0203,Casco Bay,Sat Jul 12 16:00:00 PDT 2003,2.10,219.00
+B0104,Western Maine Shelf,Sat Jul 12 16:00:00 PDT 2003,4.90,194.00
+A0106,Massachusetts Bay,Sat Jul 12 16:00:00 PDT 2003,7.30,202.00
+BMTC2,Blue_Mountain,Sat Jul 12 16:30:00 PDT 2003,1.79,0.00
+DHPC2,Diamond_Hill,Sat Jul 12 16:30:00 PDT 2003,0.72,270.00
+EBBC2,Elbert,Sat Jul 12 16:30:00 PDT 2003,4.07,124.00
+BHNC2,Brighton,Sat Jul 12 16:30:00 PDT 2003,2.50,338.00
+SQWC2,Squaw_Mountain,Sat Jul 12 16:30:00 PDT 2003,3.53,166.00
+HGCC2,Hiwan_G.C.,Sat Jul 12 16:30:00 PDT 2003,1.34,131.00
+HIGC2,Highlands_Ranch_WTP,Sat Jul 12 16:30:00 PDT 2003,0.49,264.00
+SAPC2,Salisbury_Park,Sat Jul 12 16:30:00 PDT 2003,1.70,84.00
+COKC2,Castle_Rock,Sat Jul 12 16:30:00 PDT 2003,1.03,22.00
+SFSC2,Sugarloaf,Sat Jul 12 16:30:00 PDT 2003,0.63,96.00
+LEWC2,Louisville_Lake,Sat Jul 12 16:30:00 PDT 2003,0.67,140.00
+CALC2,Cal-Wood_Ranch,Sat Jul 12 16:30:00 PDT 2003,2.10,84.00
+BTRC2,Button_Rock,Sat Jul 12 16:30:00 PDT 2003,0.49,124.00
+JAYF1,Jay                                    FAWN,Sat Jul 12 16:30:00 PDT 2003,4.86,186.20
+CARF1,Carrabelle                             FAWN,Sat Jul 12 16:30:00 PDT 2003,0.81,230.50
+LIOF1,Live Oak                               FAWN,Sat Jul 12 16:30:00 PDT 2003,2.54,137.90
+MACF1,Macclenny                              FAWN,Sat Jul 12 16:30:00 PDT 2003,1.21,224.90
+BRZF1,Bronson                                FAWN,Sat Jul 12 16:30:00 PDT 2003,3.74,152.00
+TRAF1,Citra                                  FAWN,Sat Jul 12 16:30:00 PDT 2003,1.89,150.19
+ALHF1,Alachua                                FAWN,Sat Jul 12 16:30:00 PDT 2003,1.97,130.50
+STNF1,Hastings                               FAWN,Sat Jul 12 16:30:00 PDT 2003,1.14,174.40
+CKHF1,Ocklawaha                              FAWN,Sat Jul 12 16:30:00 PDT 2003,1.98,128.30
+EPRF1,Pierson                                FAWN,Sat Jul 12 16:30:00 PDT 2003,0.77,219.00
+VRSF1,Tavares                                FAWN,Sat Jul 12 16:30:00 PDT 2003,1.45,125.20
+UMLF1,Umatilla                               FAWN,Sat Jul 12 16:30:00 PDT 2003,1.45,155.19
+KHPF1,Okahumpka                              FAWN,Sat Jul 12 16:30:00 PDT 2003,2.63,121.50
+VLNF1,Avalon                                 FAWN,Sat Jul 12 16:30:00 PDT 2003,3.44,350.10
+KSLF1,Brooksville                            FAWN,Sat Jul 12 16:30:00 PDT 2003,4.76,126.50
+POPF1,Apopka                                 FAWN,Sat Jul 12 16:30:00 PDT 2003,2.31,359.60
+KALF1,Lake Alfred                            FAWN,Sat Jul 12 16:30:00 PDT 2003,2.15,290.00
+KENF1,Kenansville                            FAWN,Sat Jul 12 16:30:00 PDT 2003,1.69,26.59
+DOVF1,Dover                                  FAWN,Sat Jul 12 16:30:00 PDT 2003,2.93,96.90
+DNTF1,Bradenton                              FAWN,Sat Jul 12 16:30:00 PDT 2003,0.96,41.59
+FDLF1,Fort Lauderdale                        FAWN,Sat Jul 12 16:30:00 PDT 2003,2.68,136.10
+PCEF1,Fort Pierce                            FAWN,Sat Jul 12 16:30:00 PDT 2003,3.05,136.60
+STDF1,Homestead                              FAWN,Sat Jul 12 16:30:00 PDT 2003,3.46,108.90
+IMKF1,Immokalee                              FAWN,Sat Jul 12 16:30:00 PDT 2003,0.95,345.10
+PALF1,Palmdale                               FAWN,Sat Jul 12 16:30:00 PDT 2003,1.20,346.10
+SEBF1,Sebring                                FAWN,Sat Jul 12 16:30:00 PDT 2003,0.56,318.10
+H0002,KNCTODD1               Jefferson     NC,Sat Jul 12 16:33:00 PDT 2003,4.47,190.00
+H0344,BlueStar Systems       Milford      OH,Sat Jul 12 16:30:00 PDT 2003,1.34,30.00
+H0004,BoblandUSA             San Diego     CA,Sat Jul 12 16:21:00 PDT 2003,0.00,250.00
+H0364,BoltAssociates         Beltsville    MD,Sat Jul 12 16:31:00 PDT 2003,0.00,330.00
+H0544,Brookhaven			     MS,Sat Jul 12 16:32:00 PDT 2003,0.00,0.00
+H0457,Corte Madera CA,Sat Jul 12 16:30:00 PDT 2003,2.24,320.00
+H0008,Fort Frances  ON,Sat Jul 12 16:20:00 PDT 2003,1.34,310.00
+H0010,Mac Weather            Charlottetown PE,Sat Jul 12 16:30:00 PDT 2003,1.79,290.00
+H0012,Crowley TX WX Page     Crowley       TX,Sat Jul 12 16:30:00 PDT 2003,1.34,160.00
+H0549,Danville		Alum Springs KY,Sat Jul 12 16:29:00 PDT 2003,0.45,250.00
+H0449,West Houston	        Houston	     TX,Sat Jul 12 16:30:00 PDT 2003,1.34,150.00
+H0017,Olathe        KS,Sat Jul 12 16:31:00 PDT 2003,1.34,290.00
+H0500,Gilroy	     CA,Sat Jul 12 16:31:00 PDT 2003,4.47,300.00
+H0460,ValleyView Ranch       Reasnor      IA,Sat Jul 12 16:30:00 PDT 2003,0.00,330.00
+H0024,Cornelius     OR,Sat Jul 12 16:16:00 PDT 2003,2.68,210.00
+H0025,Dickinson     TX,Sat Jul 12 16:24:00 PDT 2003,1.34,140.00
+H0461,Westford     MA,Sat Jul 12 16:33:00 PDT 2003,1.34,270.00
+H0029,Affton        MO,Sat Jul 12 16:30:00 PDT 2003,0.45,30.00
+H0299,KALB Studios           Alexandria    LA,Sat Jul 12 16:30:00 PDT 2003,2.24,170.00
+H0462,Chandler     AZ,Sat Jul 12 16:30:00 PDT 2003,0.89,300.00
+H0322,Phoenix       AZ,Sat Jul 12 16:33:00 PDT 2003,3.13,250.00
+H0489,Pagosa Springs CO,Sat Jul 12 16:30:00 PDT 2003,0.00,140.00
+H0030,Harrisburg             Lowville      NY,Sat Jul 12 16:32:00 PDT 2003,4.47,270.00
+H0031,Rainbow City  AL,Sat Jul 12 16:30:00 PDT 2003,0.00,250.00
+H0032,Hendersonvill TN,Sat Jul 12 16:30:00 PDT 2003,0.00,310.00
+H0143,Alta          CA,Sat Jul 12 16:30:00 PDT 2003,0.45,10.00
+H0498,Balboa	     CA,Sat Jul 12 16:30:00 PDT 2003,1.79,260.00
+H0339,Williams Worship       Bellflower    CA,Sat Jul 12 16:30:00 PDT 2003,1.34,230.00
+H0464,Citrus Heights CA,Sat Jul 12 16:30:00 PDT 2003,1.79,180.00
+H0300,Cloverdale    CA,Sat Jul 12 16:32:00 PDT 2003,2.68,230.00
+H0450,Dublin       CA,Sat Jul 12 16:35:00 PDT 2003,1.34,120.00
+H0560,El Dorado Hills	Dartboard Wx CA,Sat Jul 12 16:31:00 PDT 2003,1.34,220.00
+H0232,Emerald Hills          Redwood City  CA,Sat Jul 12 16:32:00 PDT 2003,4.02,300.00
+H0346,California Hills       Folsom        CA,Sat Jul 12 16:30:00 PDT 2003,3.13,340.00
+H0561,Grass Valley			     CA,Sat Jul 12 16:30:00 PDT 2003,0.00,250.00
+H0563,Half Moon Bay			     CA,Sat Jul 12 16:29:00 PDT 2003,3.58,60.00
+H0237,Healdsburg    CA,Sat Jul 12 16:26:00 PDT 2003,4.47,310.00
+H0333,Cathouse Backyard WX   Lakeside      CA,Sat Jul 12 16:31:00 PDT 2003,2.68,250.00
+H0158,Lancaster     CA,Sat Jul 12 16:30:00 PDT 2003,5.36,240.00
+H0347,Terra Cotta Estates    Lincoln       CA,Sat Jul 12 16:25:00 PDT 2003,0.89,280.00
+H0465,Occidental   CA,Sat Jul 12 16:32:00 PDT 2003,7.15,320.00
+H0564,Rohnert Park			     CA,Sat Jul 12 16:30:00 PDT 2003,1.34,190.00
+H0164,San Luis Obis CA,Sat Jul 12 16:30:00 PDT 2003,7.15,310.00
+H0269,South Valley Internet  San Martin    CA,Sat Jul 12 16:30:00 PDT 2003,2.68,340.00
+H0259,Pickles Central        San Rafael    CA,Sat Jul 12 16:30:00 PDT 2003,1.79,30.00
+H0452,Santa Rosa   CA,Sat Jul 12 16:30:00 PDT 2003,0.45,190.00
+H0348,Tehachapi     CA,Sat Jul 12 16:30:00 PDT 2003,0.89,120.00
+H0506,Visalia	     CA,Sat Jul 12 16:17:00 PDT 2003,0.00,320.00
+H0442,Whittier     CA,Sat Jul 12 16:30:00 PDT 2003,1.34,180.00
+H0566,Crestone			     CO,Sat Jul 12 16:31:00 PDT 2003,3.13,310.00
+H0185,On the Mesa            Meeker        CO,Sat Jul 12 16:30:00 PDT 2003,1.79,180.00
+H0325,Summit County CO,Sat Jul 12 16:30:00 PDT 2003,0.00,10.00
+H0350,Barn Hill              Monroe        CT,Sat Jul 12 16:30:00 PDT 2003,0.00,270.00
+H0035,Bristol, VA WX Station Bristol       VA,Sat Jul 12 16:31:00 PDT 2003,0.00,180.00
+H0036,Dunstable     MA,Sat Jul 12 16:30:00 PDT 2003,3.13,350.00
+H0224,Boynton Beach FL,Sat Jul 12 16:30:00 PDT 2003,1.79,110.00
+H0351,Port St. John Weather  Cocoa         FL,Sat Jul 12 16:31:00 PDT 2003,0.00,30.00
+H0468,Pensacola Beach        Gulf Breeze  FL,Sat Jul 12 16:35:00 PDT 2003,1.79,240.00
+H0312,Satellite Bea FL,Sat Jul 12 16:33:00 PDT 2003,0.00,220.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Sat Jul 12 16:30:00 PDT 2003,0.00,160.00
+H0225,FarPointe              Ball Ground   GA,Sat Jul 12 16:31:00 PDT 2003,0.00,270.00
+H0571,Hemet				     CA,Sat Jul 12 16:30:00 PDT 2003,1.79,280.00
+H0573,Charles City			     IA,Sat Jul 12 16:33:00 PDT 2003,0.89,360.00
+H0183,New Hampton   IA,Sat Jul 12 16:33:00 PDT 2003,1.79,300.00
+H0417,Oxford Mills           Oxford Junction	IA,Sat Jul 12 16:32:00 PDT 2003,0.00,300.00
+H0246,Sidney        IA,Sat Jul 12 16:33:00 PDT 2003,0.45,70.00
+H0195,Van Meter     IA,Sat Jul 12 16:30:00 PDT 2003,1.79,20.00
+H0261,Crystal Lake  IL,Sat Jul 12 16:30:00 PDT 2003,1.34,260.00
+H0369,East side of I65       Crothersville IN,Sat Jul 12 16:30:00 PDT 2003,0.00,10.00
+H0205,Olathe        KS,Sat Jul 12 16:22:00 PDT 2003,0.89,310.00
+H0191,Paducah       KY,Sat Jul 12 16:23:00 PDT 2003,0.00,40.00
+H0287,Arlington Center       Arlington     MA,Sat Jul 12 16:31:00 PDT 2003,3.58,180.00
+H0272,WoodvilleGr1           Hopkinton     MA,Sat Jul 12 16:30:00 PDT 2003,2.68,220.00
+H0518,Lynn	     MA,Sat Jul 12 16:30:00 PDT 2003,1.34,180.00
+H0373,Parchment/Spring Valley Kalamazoo   MI,Sat Jul 12 16:30:00 PDT 2003,1.34,260.00
+H0253,Blaine        MN,Sat Jul 12 16:30:00 PDT 2003,0.00,0.00
+H0307,Bloomington   MN,Sat Jul 12 16:30:00 PDT 2003,0.00,310.00
+H0273,Minnesotaweathernet    Franklin      MN,Sat Jul 12 16:30:00 PDT 2003,0.00,10.00
+H0354,Monticello    MN,Sat Jul 12 16:31:00 PDT 2003,0.89,340.00
+H0342,Gideon School District Gideon        MO,Sat Jul 12 16:30:00 PDT 2003,1.34,240.00
+H0491,Greensboro   NC,Sat Jul 12 16:33:00 PDT 2003,0.89,120.00
+H0523,Lewisville   NC,Sat Jul 12 16:30:00 PDT 2003,0.00,250.00
+H0387,North Holmes           Lake Lincoln NE,Sat Jul 12 16:30:00 PDT 2003,0.45,70.00
+H0241,Omaha         NE,Sat Jul 12 16:30:00 PDT 2003,1.79,290.00
+H0289,Omaha         NE,Sat Jul 12 16:30:00 PDT 2003,0.89,240.00
+H0582,East Millstone			     NJ,Sat Jul 12 16:30:00 PDT 2003,0.00,250.00
+H0583,Highlands			     NJ,Sat Jul 12 16:30:00 PDT 2003,0.00,210.00
+H0476,Hopewell     NJ,Sat Jul 12 16:30:00 PDT 2003,0.00,290.00
+H0172,Morgan Lake at 4 Crnrs Upper Fruitla NM,Sat Jul 12 16:30:00 PDT 2003,4.47,300.00
+H0302,Cuba          NY,Sat Jul 12 16:30:00 PDT 2003,0.00,160.00
+H0308,New City      NY,Sat Jul 12 16:29:00 PDT 2003,0.00,200.00
+H0290,Rochester     NY,Sat Jul 12 16:31:00 PDT 2003,2.24,260.00
+H0478,Saratoga Springs NY,Sat Jul 12 16:31:00 PDT 2003,0.89,360.00
+H0304,Edmunds Weather        Smithtown     NY,Sat Jul 12 16:32:00 PDT 2003,1.79,50.00
+H0251,Vestal        NY,Sat Jul 12 16:20:00 PDT 2003,1.79,60.00
+H0395,Mecox Bay              Water Mill   NY,Sat Jul 12 16:31:00 PDT 2003,2.24,150.00
+H0309,Columbus      OH,Sat Jul 12 16:20:00 PDT 2003,0.00,50.00
+H0492,Rock Creek, Hillsboro  Portland     OR,Sat Jul 12 16:19:00 PDT 2003,2.24,280.00
+H0159,Old Town               Sherwood      OR,Sat Jul 12 16:30:00 PDT 2003,2.24,230.00
+H0227,Turner        OR,Sat Jul 12 16:30:00 PDT 2003,1.79,210.00
+H0440,Broomall     PA,Sat Jul 12 16:31:00 PDT 2003,0.00,10.00
+H0336,Malvern       PA,Sat Jul 12 16:30:00 PDT 2003,0.00,190.00
+H0229,Audubon Society of W PA Fox Chapel   PA,Sat Jul 12 16:20:00 PDT 2003,0.00,350.00
+H0043,WX for West PA/East OH Sharon        PA,Sat Jul 12 16:30:00 PDT 2003,1.79,330.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Sat Jul 12 16:31:00 PDT 2003,0.00,200.00
+H0313,BosWeather             Greer         SC,Sat Jul 12 16:32:00 PDT 2003,0.00,290.00
+H0479,West Columbia SC,Sat Jul 12 16:31:00 PDT 2003,0.00,300.00
+H0329,Williamston   SC,Sat Jul 12 16:30:00 PDT 2003,0.00,210.00
+H0588,Mitchell			     SD,Sat Jul 12 16:30:00 PDT 2003,0.00,90.00
+H0298,Terricita Hills        Rapid City    SD,Sat Jul 12 16:30:00 PDT 2003,1.34,140.00
+H0447,Downtown               Santa Rosa   CA,Sat Jul 12 16:32:00 PDT 2003,3.13,220.00
+H0396,Williamson             County Franklin TN,Sat Jul 12 16:30:00 PDT 2003,0.89,290.00
+H0310,SSC                    Abilene       TX,Sat Jul 12 16:15:00 PDT 2003,2.68,100.00
+H0318,Austin        TX,Sat Jul 12 16:30:00 PDT 2003,0.89,160.00
+H0236,Burk                   Burnett       TX,Sat Jul 12 16:31:00 PDT 2003,4.92,200.00
+H0202,KC4WTI                 Irving        TX,Sat Jul 12 16:30:00 PDT 2003,0.89,110.00
+H0360,Corinth       TX,Sat Jul 12 16:34:00 PDT 2003,4.02,180.00
+H0591,Dallas	Oak Cliff		     TX,Sat Jul 12 16:30:00 PDT 2003,0.89,130.00
+H0194,Fort Davis    TX,Sat Jul 12 16:32:00 PDT 2003,1.34,110.00
+H0152,Frisco        TX,Sat Jul 12 16:31:00 PDT 2003,3.58,90.00
+H0311,Clear Lake City WX     Houston       TX,Sat Jul 12 16:33:00 PDT 2003,0.89,140.00
+H0361,R and K Weather        Houston       TX,Sat Jul 12 16:28:00 PDT 2003,0.89,140.00
+H0230,Riverbend WA5KXX       Plano         TX,Sat Jul 12 16:30:00 PDT 2003,1.34,190.00
+H0278,TeleHobbies            Rockwall      TX,Sat Jul 12 16:19:00 PDT 2003,0.45,170.00
+H0415,Northwest Crossing	San Antonio  TX,Sat Jul 12 16:32:00 PDT 2003,1.34,80.00
+H0280,Taylor        TX,Sat Jul 12 16:30:00 PDT 2003,1.79,150.00
+H0451,Centerville  UT,Sat Jul 12 16:20:00 PDT 2003,0.00,250.00
+H0362,Salt Lake Cty UT,Sat Jul 12 16:32:00 PDT 2003,0.00,140.00
+H0293,Harrisonburg  VA,Sat Jul 12 16:22:00 PDT 2003,0.00,210.00
+H0157,N4NW                   Stafford      VA,Sat Jul 12 16:33:00 PDT 2003,0.45,240.00
+H0594,Stafford			     VA,Sat Jul 12 16:30:00 PDT 2003,0.00,30.00
+H0363,Darrington    WA,Sat Jul 12 16:33:00 PDT 2003,0.89,250.00
+H0481,Kenmore      WA,Sat Jul 12 16:31:00 PDT 2003,1.79,180.00
+H0596,Maple Valley			     WA,Sat Jul 12 16:29:00 PDT 2003,0.00,90.00
+H0597,Vancouver			     WA,Sat Jul 12 16:32:00 PDT 2003,4.47,250.00
+H0331,Walnut Grove           Vancouver     WA,Sat Jul 12 16:30:00 PDT 2003,1.79,200.00
+H0598,Vancouver		Lutegrad Weather WA,Sat Jul 12 16:31:00 PDT 2003,2.68,10.00
+H0151,Lake Five              Clam Lake     WI,Sat Jul 12 16:33:00 PDT 2003,0.45,360.00
+H0601,Denver			Lake Norman  NC,Sat Jul 12 16:32:00 PDT 2003,0.00,180.00
+H0490,Sylmar       CA,Sat Jul 12 16:30:00 PDT 2003,0.00,220.00
+H0423,Middleboro   MA,Sat Jul 12 16:30:00 PDT 2003,0.89,300.00
+H0052,New Milford Weather    New Milford   CT,Sat Jul 12 16:31:00 PDT 2003,0.00,250.00
+H0482,Savage       MN,Sat Jul 12 16:32:00 PDT 2003,0.00,330.00
+H0501,Peanut Hill Weather	Lodi	     CA,Sat Jul 12 16:33:00 PDT 2003,2.68,260.00
+H0062,Northeast Raleigh      Raleigh       NC,Sat Jul 12 16:31:00 PDT 2003,1.34,190.00
+H0505,Santa Rosa   CA,Sat Jul 12 16:31:00 PDT 2003,0.00,350.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Sat Jul 12 16:31:00 PDT 2003,0.00,270.00
+H0072,Thunder Ranch          Juniper Hills CA,Sat Jul 12 16:30:00 PDT 2003,4.92,280.00
+H0525,Omaha	     NE,Sat Jul 12 16:32:00 PDT 2003,0.00,340.00
+H0080,Coles Pond Weathercam  Walden        VT,Sat Jul 12 16:31:00 PDT 2003,4.47,220.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Sat Jul 12 16:30:00 PDT 2003,0.00,350.00
+H0610,Wimberley			     TX,Sat Jul 12 16:30:00 PDT 2003,1.34,140.00
+H0090,WKRG Studios           Mobile        AL,Sat Jul 12 16:31:00 PDT 2003,1.79,250.00
+H0091,WMBB Studios           Panama City   FL,Sat Jul 12 16:30:00 PDT 2003,1.34,300.00
+H0094,Gorilla Weather        Winnipeg      MB,Sat Jul 12 16:30:00 PDT 2003,2.68,220.00
+CCDNH,CONCORD NH                             ETL,Sat Jul 12 16:00:00 PDT 2003,0.95,265.85
+CCLCA,CHOWCHILLA CA                          ETL,Sat Jul 12 16:00:00 PDT 2003,6.09,332.59
+GVYCA,GRASS VALLEY CA                        ETL,Sat Jul 12 16:00:00 PDT 2003,4.15,258.40
+GYXME,GRAY ME                                ETL,Sat Jul 12 16:00:00 PDT 2003,1.29,120.61
+PYMMA,PLYMOUTH MA                            ETL,Sat Jul 12 16:00:00 PDT 2003,4.07,227.05
+SCHNY,SCHENECTADY NY                         ETL,Sat Jul 12 16:00:00 PDT 2003,1.93,279.51
+SJEI4,Jefferson Scranton HS                  KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,0.51,340.00
+SINI4,Emerson Elementary -Indianola          KCCI-TV,Sat Jul 12 16:30:00 PDT 2003,1.03,290.00
+SGRI4,Dallas Center/Grimes                   KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.54,50.00
+SFOI4,Nodaway Valley - Fontanelle            KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,0.51,360.00
+SOSI4,Clarke Community - Osceola             KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.54,360.00
+SWII4,Winterset Community                    KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,70.00
+SADI4,Adair Casey                            KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,340.00
+SAFI4,East Union - Afton                     KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,30.00
+SKCI4,KCCI Studios - Des Moines              KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,360.00
+SAEI4,ADM MS - Adel                          KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,360.00
+SCHI4,Van Allen Elementary - Chariton        KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,30.00
+SMAI4,Fisher Elementary - Marshalltown       KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,0.51,270.00
+SNEI4,Berg MS - Newton                       KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,340.00
+SAKI4,Ankeny Christian                       KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.54,30.00
+SHUI4,Taft Elementary - Humboldt             KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,360.00
+SCAI4,Kuemper Catholic - Carroll             KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,340.00
+SGLI4,Glidden Ralston - Glidden              KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,360.00
+SCSI4,Creston HS                             KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,315.00
+SWBI4,Webster City Community                 KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,0.51,290.00
+SAUI4,Audubon Community                      KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.57,315.00
+SMNI4,Montezuma Community                    KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,0.00,315.00
+SIFI4,Rock Run Elementary - Iowa Falls       KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,340.00
+SCNI4,Corning Community - Corning            KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.54,290.00
+SSUI4,Sully Christian                        KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,250.00
+SKNI4,Knoxville Community                    KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,360.00
+SAMI4,Northwood Elementary - Ames            KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.54,360.00
+SJWI4,South Hamilton - Jewell                KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,340.00
+SPAI4,Panorama                               KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,50.00
+SLOI4,Lamoni Community - Lamoni              KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,340.00
+SALI4,Lincoln Center - Albia                 KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.54,50.00
+SWAI4,Wall Lake-View-Auburn                  KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,50.00
+SBRI4,BGM Elementary - Brooklyn              KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.54,270.00
+SDRI4,River Woods - Des Moines               KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,0.51,340.00
+SLMI4,CAL Community - Latimer                KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,1.03,290.00
+SFAI4,Prairie Valley - Farnhamville          KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,30.00
+SCBI4,Coon Rapids - Bayard                   KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,0.00,360.00
+SPEI4,Pella MS                               KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,50.00
+SBKI4,Belmond Klemme                         KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,0.51,290.00
+SLEI4,Leon                                   KCCI-TV,Sat Jul 12 16:35:00 PDT 2003,2.06,360.00
+CO066,I-70 @ Cedar Point (46),Sat Jul 12 16:10:00 PDT 2003,5.36,115.00
+CO071,Floyd Hill (36),Sat Jul 12 16:04:00 PDT 2003,2.68,100.00
+CO072,I-70 @ Bennett (45),Sat Jul 12 16:04:00 PDT 2003,4.47,25.00
+CO073,Surrey Ridge (41),Sat Jul 12 16:07:00 PDT 2003,4.47,320.00
+CO075,Founders Point (41),Sat Jul 12 16:07:00 PDT 2003,3.13,45.00
+SMAM5,Madison                                KELO-TV,Sat Jul 12 16:37:00 PDT 2003,0.00,30.00
+SABS2,Aberdeen                               KELO-TV,Sat Jul 12 16:37:00 PDT 2003,1.54,250.00
+SHUS2,Huron                                  KELO-TV,Sat Jul 12 16:37:00 PDT 2003,0.00,70.00
+SMIS2,Milbank                                KELO-TV,Sat Jul 12 16:37:00 PDT 2003,1.54,340.00
+SMSS2,Mission                                KELO-TV,Sat Jul 12 16:37:00 PDT 2003,5.66,360.00
+SPIS2,Pierre                                 KELO-TV,Sat Jul 12 16:37:00 PDT 2003,4.63,50.00
+SRAS2,Rapid City                             KELO-TV,Sat Jul 12 16:37:00 PDT 2003,2.06,70.00
+SSAS2,Sioux Falls PH                         KELO-TV,Sat Jul 12 16:37:00 PDT 2003,1.03,340.00
+SSBS2,Sioux Falls Pavilion                   KELO-TV,Sat Jul 12 16:37:00 PDT 2003,2.57,315.00
+SWAS2,Wall                                   KELO-TV,Sat Jul 12 16:37:00 PDT 2003,2.57,70.00
+SWTS2,Watertown                              KELO-TV,Sat Jul 12 16:37:00 PDT 2003,0.00,360.00
+SYAS2,Yankton                                KELO-TV,Sat Jul 12 16:37:00 PDT 2003,0.00,360.00
+SHII4,Hull                                   KELO-TV,Sat Jul 12 16:37:00 PDT 2003,1.54,270.00
+4UT01,NORTH SALT LAKE BENCH            UT US 4UTAH,Sat Jul 12 16:15:00 PDT 2003,1.79,315.00
+A01,AREA 1                           NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,6.69,213.00
+A02,AREA 2                           NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,5.14,210.00
+A03,AREA 3 SOUTH                     NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.72,218.00
+A04,AREA 4                           NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.20,190.00
+A05,WELL 5B                          NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,6.17,236.00
+A07,AREA 7                           NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,4.63,218.00
+A09,AREA 9                           NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,8.75,214.00
+A12,AREA 12 MESA                     NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,6.69,212.00
+A13,AREA 5 NORTH                     NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,0.51,232.00
+A14,AREA 15                          NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,5.14,239.00
+A16,BJY TOWER                        NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,8.23,232.00
+A17,BUSTER JUNGLE                    NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.72,221.00
+A18,AREA 18                          NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,3.09,183.00
+A20,PAHUTE MESA 1                    NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,5.14,214.00
+A21,AREA 16                          NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,6.69,199.00
+A23,MERCURY                          NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.20,217.00
+A24,YUCCA MOUNTAIN                   NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.20,258.00
+A25,AREA 25 SOUTH                    NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,4.12,216.00
+A26,AREA 25 EAST                     NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,8.23,229.00
+A28,DEVICE ASSEM.                    NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.72,241.00
+A34,HAZMAT N/E                       NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,6.17,237.00
+A35,TONOPAH TEST                     NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.72,223.00
+A36,NELLIS RANGE 63                  NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,4.12,292.00
+A41,REBOUND ANG RD                   NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.20,215.00
+A42,STATION 42                       NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,6.69,239.00
+A45,REBOUND SOUTH                    NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,6.69,205.00
+A49,X-TUNNEL                         NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,7.72,192.00
+ABD,ABERDEEN                         ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,5.57,151.90
+AME,CAMUS                            ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,7.80,178.40
+ANGM8,Angel Point                      MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,4.78,240.00
+ARL,ARLINGTON                        WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,4.63,320.00
+ARLM8,Arlee                            MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,3.17,240.00
+ARO,ARCO                             ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,11.41,264.90
+ATO,ATOMIC CITY                      ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,9.99,235.40
+BAC,BACCUS/SR111                     UT US UTAH DOT,Sat Jul 12 16:15:00 PDT 2003,1.79,129.00
+BBN,BOUNTIFUL BENCH                  UT US KSL,Sat Jul 12 16:15:00 PDT 2003,0.90,309.00
+BFU,BELLE FOURCHE                    WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,4.12,90.00
+BGAM8,Big Arm                          MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,0.63,260.00
+BIT,BITTERCREEK                      WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,8.23,270.00
+BLD,BLUE DOME                        ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,3.75,198.40
+BLK,BLACKFOOT NEW                    ID    ARL FRD,Sat Jul 12 16:15:00 PDT 2003,2.38,268.70
+BRX,ANONYMOUS WY OB                  WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,5.66,90.00
+BSB,BIG SOUTHERN BUTTE               ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,8.90,253.30
+BTF,POWER BURST FACILITY             ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,9.91,248.50
+BVR,BEAVER RIM                       WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,8.23,270.00
+CFA,CENTRAL FACILITY                 ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,10.77,244.70
+COMID,CRATERS OF THE MOON              ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,10.11,259.20
+CTBSN,Buckhorn Sandhouse               CA US CalTrans,Sat Jul 12 16:00:00 PDT 2003,2.56,215.00
+CTD,CONTINENTAL DIVIDE               WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,7.72,270.00
+CTOMS,Oregon Mountain Summit           CA US CalTrans,Sat Jul 12 16:00:00 PDT 2003,6.08,280.00
+CUPC,UTAH LAKE - SARATOGA             UT US CUP,Sat Jul 12 16:00:00 PDT 2003,0.50,182.20
+CUPE,SNAKE CREEK-CHARLESTON           UT US CUP,Sat Jul 12 16:00:00 PDT 2003,2.41,203.40
+CVRN2,CAVE ROCK                        NV US NV DOT,Sat Jul 12 16:00:00 PDT 2003,1.21,319.00
+DHS,DEAD HORSE                       WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,1.03,90.00
+DMC,DEAD MAN CANYON                  ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,12.78,249.30
+DPG01,MICHAEL AAF                      UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,0.90,263.00
+DPG02,CALLAO GATE                      UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,1.60,180.00
+DPG03,V-GRID                           UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,3.50,182.00
+DPG04,TARGET S                         UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,3.30,252.00
+DPG05,WHITE SAGE                       UT US DUGWAY,Sat Jul 12 16:00:00 PDT 2003,1.30,299.00
+DPG06,CAMEL BACK MTN                   UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,2.30,229.00
+DPG07,MAIN GATE                        UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,5.50,224.00
+DPG08,HORIZONTAL GRID                  UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,1.50,149.00
+DPG09,SE SALT FLATS                    UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,2.30,169.00
+DPG10,BAKER LAB                        UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,1.80,263.00
+DPG11,TOWER GRID                       UT US DUGWAY,Sat Jul 12 16:00:00 PDT 2003,3.20,181.00
+DPG12,JULIET ROAD                      UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,2.00,215.00
+DPG14,NORTH WIG                        UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,3.20,226.00
+DPG15,SALT FLATS                       UT US DUGWAY,Sat Jul 12 16:00:00 PDT 2003,4.40,117.00
+DPG16,UPPER CEDAR MTN                  UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,3.70,218.00
+DPG17,INTERSTATE 80                    UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,3.40,139.00
+DPG18,CAUSEWAY                         UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,6.10,138.00
+DPG19,FISH SPRINGS                     UT US DUGWAY,Sat Jul 12 16:00:00 PDT 2003,4.80,132.00
+DPG20,CALLAO                           UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,7.30,184.00
+DPG21,SIMPSON SPRING                   UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,5.40,245.00
+DPG22,NW DECON PAD                     UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,1.60,222.00
+DPG23,INF Road                         UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,2.20,229.00
+DRC,ANONYMOUS WY OB                  WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,5.14,320.00
+DUB,DUBOIS                           ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,6.80,168.80
+DVE,DV - BURNS                       UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,1.79,217.00
+DXCN2,DIAMOND PEAK                     NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,3.89,155.00
+EAC,TEST REACTOR AREA                ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,11.47,271.30
+EBR,ARGONNE NATL LAB-W               ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,11.06,257.50
+FIR,FIRST DIVIDE                     WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,8.23,320.00
+FOR,FORT HALL                        ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,4.03,256.10
+FPKUT,FRANCIS PEAK                     UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,0.00,336.00
+FSLC1,FOLSOM LAKE - DYKE 8             CA US CNRFC,Sat Jul 12 16:15:00 PDT 2003,2.26,250.00
+FWP,FARNSWORTH PEAK                  UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,0.90,105.00
+GNI,GUNNISON ISLAND DNR              UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,5.37,104.00
+GVLI1,Grangeville 1N                   ID US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,2.73,360.00
+HATUT,HAT ISLAND                       UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,4.92,66.00
+HLD,HILAND                           WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,3.09,320.00
+HOL,NORTH HOLLADAY                   UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,0.90,360.00
+HOW,HOWE                             ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,7.47,246.70
+HWB,HOWE PEAK BASE                   ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,10.93,232.30
+ICNN2,INCLINE                          NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,1.61,192.00
+IDF,IDAHO FALLS                      ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,4.92,179.20
+IDV,I-25 DIVIDE                      WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,3.09,320.00
+IEIN2,SOUTH RENO                       NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,2.59,258.00
+INI,MINIDOKA                         ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,4.65,305.60
+JCTN2,CARSON CITY                      NV US NV DOT,Sat Jul 12 16:00:00 PDT 2003,7.20,257.00
+JVDU1,JOES VALLEY DAM                  UT US CRBFC,Sat Jul 12 16:00:00 PDT 2003,2.33,50.00
+KAHN2,KAHLE DR                         NV US NV DOT,Sat Jul 12 16:00:00 PDT 2003,3.71,28.00
+KAYUT,Kaysville                        UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,1.79,237.00
+KET,KETTLE BUTTE                     ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,9.96,232.60
+KQOP,Opheim                           MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,1.54,270.00
+LANL1,LANLTA6                          NM US LANL,Sat Jul 12 16:00:00 PDT 2003,6.56,296.90
+LANL2,LANLTA54                         NM US LANL,Sat Jul 12 16:00:00 PDT 2003,5.27,276.20
+LDFM8,Lower Dry Fork Dam               MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,2.86,220.00
+LGCUT,LOGAN CAMPBELL HDQ               UT US CAMPBELL,Sat Jul 12 16:00:00 PDT 2003,1.88,200.00
+LGP,LOGAN PEAK                       UT US CAMPBELL,Sat Jul 12 16:00:00 PDT 2003,5.23,269.00
+LMR,Lakeside Mountain                UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,0.00,0.00
+LMS,Locomotive Springs               UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,5.81,170.00
+LRR,LOST RIVER REST AREA             ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,10.64,265.60
+MBOU,BOULDER HILL I-15                MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,6.39,200.00
+MBY,DV - MOUNT BALDY                 UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,2.68,70.00
+MBZH,BOZEMAN HILL I-90                MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,6.12,260.00
+MELV,EAST LIVINGSTON I-90             MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,1.65,165.00
+MEN,MENDON                           UT US CAMPBELL,Sat Jul 12 16:00:00 PDT 2003,1.88,145.00
+MESX,ESSEX US2                        MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,0.85,150.00
+MFLT,FLATHEAD RIVER MT 35             MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,5.27,235.00
+MKAR,KARST SR191                      MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,2.51,110.00
+MMDP,MCDONALD PASS US-12              MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,7.24,270.00
+MMON,MONARCH CANYON MT-89             MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,4.42,280.00
+MNOR,NORRIS HILL US287                MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,4.74,200.00
+MON,MONTEVIEW                        ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,9.58,204.80
+MSI01,SUGARHOUSE - MSI                 UT US MSI,Sat Jul 12 16:15:00 PDT 2003,1.48,266.00
+MTR,MEETEETSE RIM                    WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,5.14,180.00
+MWQ01,Irrigon SE                       OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,4.12,266.00
+MWQ02,Irrigon Middle School            OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,5.14,256.00
+MWQ03,Irrigon SW                       OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,5.66,252.00
+MWQ04,Ordnance W                       OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,5.66,298.00
+MWQ05,Umatilla W                       OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,4.12,268.00
+MWQ06,Hermiston NW                     OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,5.14,264.00
+MWQ08,Hermiston N                      OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,5.66,274.00
+MWQ09,Hermiston SW                     OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,7.20,274.00
+MWQAR,Arlington                        OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,7.72,270.00
+MWQCM,Cle Elum 2NW                     WA US PDTWFO,Sat Jul 12 16:00:00 PDT 2003,0.51,7.00
+MWQCN,Condon                           OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,8.23,293.00
+MWQHP,Heppner                          OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,5.66,315.00
+MWQHX,Helix 3N                         OR US PDTWFO,Sat Jul 12 16:00:00 PDT 2003,4.12,293.00
+MWQJO,Joseph                           OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,5.14,270.00
+MWQKE,Keyes Summit                     OR US PDTWFO,Sat Jul 12 16:00:00 PDT 2003,2.06,23.00
+MWQMN,Moro                             OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,5.14,293.00
+MWQSH,Shaniko                          OR US PDTWFO,Sat Jul 12 16:00:00 PDT 2003,6.17,248.00
+MWQSN,Seneca                           OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,4.63,235.00
+MWQSU,Suttle Lake                      OR US PDTWFO,Sat Jul 12 16:00:00 PDT 2003,1.54,270.00
+MWQTG,Rock Creek Reservoir             OR US PDTWFO,Sat Jul 12 16:00:00 PDT 2003,3.09,288.00
+MWQUM,Umatilla                         OR US PDTWFO,Sat Jul 12 16:00:00 PDT 2003,5.14,203.00
+MWQWG,Wanoga Butte                     OR US PDTWFO,Sat Jul 12 16:00:00 PDT 2003,8.23,293.00
+NDD,SAND DUNES                       ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,10.93,244.80
+NINM8,Ninepipe Dam                     MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,4.24,230.00
+NRF,NAVAL REACTOR FACILITY           ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,9.30,244.50
+ODT01,BEND PARKWAY - NORTH CANAL       OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,4.92,225.00
+ODT03,ODELL LAKE - WILLAMETTE PASS     OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,2.68,315.00
+ODT04,KLAMATH FALLS                    OR US ODOT,Sat Jul 12 16:00:00 PDT 2003,7.15,180.00
+ODT06,INTERSTATE BRIDGE NORTH SPAN     OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,9.39,270.00
+ODT08,GLEN JACKSON BRIDGE NORTH CHAN   OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,3.13,315.00
+ODT10,FREMONT BRIDGE WEST UPPER DECK   OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,7.60,90.00
+ODT13,TIMBER JUNCTION                  OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,1.79,135.00
+ODT14,I-205 - DIVISION STREET          OR US ODOT,Sat Jul 12 16:00:00 PDT 2003,7.15,270.00
+ODT15,BRIGHTWOOD WEIGHT STATION        OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,3.58,270.00
+ODT16,THE DALLES WEST OF CELILO        OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,1.79,0.00
+ODT18,LADD CANYON LOWER END            OR US ODOT,Sat Jul 12 16:00:00 PDT 2003,3.13,315.00
+ODT19,LADD CANYON SUMMIT               OR US ODOT,Sat Jul 12 16:00:00 PDT 2003,4.47,270.00
+ODT20,WEATHERBY REST AREA              OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,3.13,225.00
+ODT21,BATTLE MOUNTAIN SUMMIT           OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,1.79,315.00
+ODT22,SISKIYOU SUMMIT                  OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,7.15,45.00
+ODT23,HAYES HILL SUMMIT                OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,3.13,225.00
+ODT24,SEXTON MOUNTAIN SUMMIT           OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,3.58,180.00
+ODT26,MEDFORD VIADUCT                  OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,4.47,0.00
+ODT27,PORT ORFORD                      OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,2.68,0.00
+ODT28,HWY 42 - COOS COUNTY LINE        OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,3.58,270.00
+OMSC2,OURAY MET STATION                CO US CRBFC,Sat Jul 12 16:00:00 PDT 2003,1.34,250.00
+PABM8,Pablo Dam                        MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,4.42,260.00
+PAT,PATHFINDER HILL                  WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,5.14,270.00
+PCS,PARK CITY - EAGLE                UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,1.79,171.00
+PIN,PINEY CREEK                      WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,1.54,50.00
+PLSM8,Polson                           MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,3.13,150.00
+PMSC2,PORTLAND MET STATION             CO US CRBFC,Sat Jul 12 16:00:00 PDT 2003,0.90,270.00
+PRP,PROMONTORY POINT                 UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,2.23,193.00
+PUM,PUMPKIN VINE                     WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,5.14,180.00
+QB4,BEACH (MAGNA)                    UT US AQ,Sat Jul 12 16:00:00 PDT 2003,4.27,5.00
+QCW,COTTONWOOD (HOLLADAY)            UT US AQ,Sat Jul 12 16:00:00 PDT 2003,0.00,0.00
+QHE,HERRIMAN                         UT US AQ,Sat Jul 12 16:00:00 PDT 2003,2.78,85.00
+QHG,HIGHLAND                         UT US AQ,Sat Jul 12 16:00:00 PDT 2003,2.73,140.00
+QNP,NORTH PROVO                      UT US AQ,Sat Jul 12 16:00:00 PDT 2003,1.39,160.00
+QWT,WASHINGTON TERRACE               UT US AQ,Sat Jul 12 16:00:00 PDT 2003,2.01,29.00
+RHF,RICHFIELD                        ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,3.78,274.00
+RID,GRID III                         ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,9.20,265.20
+RMSC2,RIDGWAY RES MET NR RIDG          CO US CRBFC,Sat Jul 12 16:00:00 PDT 2003,30.40,0.00
+ROB,ROBERTS                          ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,6.88,212.60
+ROV,ROVER                            ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,10.89,234.80
+RSMN2,MOUNT ROSE SUMMIT                NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,5.90,168.00
+RTPC1,ROSEVILLE WATER TRMT PLT         CA US CNRFC,Sat Jul 12 16:15:00 PDT 2003,1.08,60.00
+RWM,RDIOACTV WSTE MGMT CMPLX         ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,10.80,248.90
+RXB,REXBURG                          ID    ARL FRD,Sat Jul 12 16:15:00 PDT 2003,4.15,174.80
+SAPC1,SACRAMENTO METRO AIRPORT         CA US CNRFC,Sat Jul 12 16:00:00 PDT 2003,5.56,190.00
+SARC1,SOUTHERN AG. RESEARCH CENTER     MT US SARC,Sat Jul 12 16:00:00 PDT 2003,0.00,0.00
+SBW,SNOWBASIN-JOHN PAUL              UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,1.79,29.00
+SECN2,SECRET CREEK                     NV US NV DOT,Sat Jul 12 16:00:00 PDT 2003,2.10,332.00
+SIB,SIBLEY PEAK                      WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,4.12,140.00
+SNC,PARK CITY MUN G.C.               UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,0.00,49.00
+SNI,SNOWBASIN-MID. BOWL              UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,0.90,205.00
+SNZ,BOUNTIFUL/F G  HOUSE             UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,0.45,340.00
+SODM8,SOD Ronan                        MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,2.77,210.00
+SRD06,YUCCA FLAT                       NV US ARL SORD,Sat Jul 12 16:00:00 PDT 2003,5.66,202.00
+SUG,SUGAR CITY                       ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,4.34,167.00
+TAB,TABER                            ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,9.40,264.30
+TER,TERRETON                         ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,5.94,247.70
+THFM8,Thomas Falls #2                  MT US MSOWFO,Sat Jul 12 16:00:00 PDT 2003,4.42,230.00
+TMH,TWENTY MILE HILL                 WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,5.14,320.00
+TMPC1,PACIFIC OCEAN - TOMASINI POINT   CA US CNRFC,Sat Jul 12 16:15:00 PDT 2003,9.57,290.00
+TSN,TEST AREA NORTH                  ID US ARL FRD,Sat Jul 12 16:15:00 PDT 2003,12.03,240.50
+UT1,WAHSATCH HILL EB                 UT US UTAH DOT,Sat Jul 12 16:15:00 PDT 2003,5.10,225.00
+UT12,I15/I215 SB                      UT US UTAH DOT,Sat Jul 12 16:15:00 PDT 2003,2.10,247.50
+UT20,I15 500S WB (Gateway)            UT US UTAH DOT,Sat Jul 12 16:15:00 PDT 2003,2.01,292.50
+UT23,I-15/2400 S Spaghetti            UT US UTAH DOT,Sat Jul 12 16:15:00 PDT 2003,0.98,135.00
+UT5,MOUTH PARLEYS                    UT US UTAH DOT,Sat Jul 12 16:15:00 PDT 2003,2.19,135.00
+UT7,BLUFFDALE                        UT US UTAH DOT,Sat Jul 12 16:15:00 PDT 2003,3.22,202.50
+UT9,LAKE POINT I-80                  UT US UTAH DOT,Sat Jul 12 16:15:00 PDT 2003,5.10,22.50
+VDW,VEDAUWOO                         WY US WY DOT,Sat Jul 12 16:15:00 PDT 2003,5.66,270.00
+WASN2,WASHOE VALLEY                    NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,8.41,189.00
+WBB,WBB/U UTAH                       UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,2.45,207.00
+WLMC2,WHITEHOUSE CK MET STATION        CO US CRBFC,Sat Jul 12 16:00:00 PDT 2003,1.34,100.00
+XMSN2,BULLS EYE                        NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,1.70,49.00
+YM1,YUCCA MOUNTAIN 1                 NV US DOERD,Sat Jul 12 16:15:00 PDT 2003,5.14,229.00
+QUIF1,Quincy                                 FAWN,Sat Jul 12 16:30:00 PDT 2003,1.86,354.30
+PHAF1,Putnam Hall                            FAWN,Sat Jul 12 16:30:00 PDT 2003,0.28,203.80
+BMTC2,Blue_Mountain,Sat Jul 12 16:40:00 PDT 2003,2.24,0.00
+DHPC2,Diamond_Hill,Sat Jul 12 16:40:00 PDT 2003,0.72,270.00
+EBBC2,Elbert,Sat Jul 12 16:40:00 PDT 2003,4.07,128.00
+SQWC2,Squaw_Mountain,Sat Jul 12 16:40:00 PDT 2003,5.14,169.00
+HGCC2,Hiwan_G.C.,Sat Jul 12 16:40:00 PDT 2003,0.89,131.00
+HIGC2,Highlands_Ranch_WTP,Sat Jul 12 16:40:00 PDT 2003,0.49,264.00
+SAPC2,Salisbury_Park,Sat Jul 12 16:40:00 PDT 2003,1.70,84.00
+COKC2,Castle_Rock,Sat Jul 12 16:40:00 PDT 2003,1.03,22.00
+SFSC2,Sugarloaf,Sat Jul 12 16:40:00 PDT 2003,0.63,96.00
+LEWC2,Louisville_Lake,Sat Jul 12 16:40:00 PDT 2003,0.67,140.00
+CALC2,Cal-Wood_Ranch,Sat Jul 12 16:40:00 PDT 2003,2.10,84.00
+BTRC2,Button_Rock,Sat Jul 12 16:40:00 PDT 2003,0.49,124.00
+K0104,Saint John,Sat Jul 12 16:00:00 PDT 2003,1.40,231.00
+L0103,Scotian Shelf,Sat Jul 12 16:00:00 PDT 2003,4.50,170.00
+JAYF1,Jay                                    FAWN,Sat Jul 12 16:45:00 PDT 2003,4.94,184.60
+QUIF1,Quincy                                 FAWN,Sat Jul 12 16:45:00 PDT 2003,1.66,8.86
+CARF1,Carrabelle                             FAWN,Sat Jul 12 16:45:00 PDT 2003,0.68,182.40
+LIOF1,Live Oak                               FAWN,Sat Jul 12 16:45:00 PDT 2003,2.91,143.30
+MACF1,Macclenny                              FAWN,Sat Jul 12 16:45:00 PDT 2003,1.66,185.90
+BRZF1,Bronson                                FAWN,Sat Jul 12 16:45:00 PDT 2003,2.83,144.69
+PHAF1,Putnam Hall                            FAWN,Sat Jul 12 16:45:00 PDT 2003,0.31,202.00
+TRAF1,Citra                                  FAWN,Sat Jul 12 16:45:00 PDT 2003,1.59,178.10
+ALHF1,Alachua                                FAWN,Sat Jul 12 16:45:00 PDT 2003,1.75,120.10
+STNF1,Hastings                               FAWN,Sat Jul 12 16:45:00 PDT 2003,0.77,184.80
+CKHF1,Ocklawaha                              FAWN,Sat Jul 12 16:45:00 PDT 2003,1.93,135.30
+EPRF1,Pierson                                FAWN,Sat Jul 12 16:45:00 PDT 2003,0.53,191.30
+VRSF1,Tavares                                FAWN,Sat Jul 12 16:45:00 PDT 2003,0.35,112.40
+UMLF1,Umatilla                               FAWN,Sat Jul 12 16:45:00 PDT 2003,1.22,187.30
+KHPF1,Okahumpka                              FAWN,Sat Jul 12 16:45:00 PDT 2003,2.47,202.30
+VLNF1,Avalon                                 FAWN,Sat Jul 12 16:45:00 PDT 2003,2.31,327.70
+KSLF1,Brooksville                            FAWN,Sat Jul 12 16:45:00 PDT 2003,5.49,131.50
+POPF1,Apopka                                 FAWN,Sat Jul 12 16:45:00 PDT 2003,1.84,188.00
+KALF1,Lake Alfred                            FAWN,Sat Jul 12 16:45:00 PDT 2003,2.46,314.10
+KENF1,Kenansville                            FAWN,Sat Jul 12 16:45:00 PDT 2003,1.61,25.82
+DOVF1,Dover                                  FAWN,Sat Jul 12 16:45:00 PDT 2003,2.71,67.13
+DNTF1,Bradenton                              FAWN,Sat Jul 12 16:45:00 PDT 2003,1.89,42.94
+FDLF1,Fort Lauderdale                        FAWN,Sat Jul 12 16:45:00 PDT 2003,2.13,119.10
+PCEF1,Fort Pierce                            FAWN,Sat Jul 12 16:45:00 PDT 2003,2.42,140.60
+IMKF1,Immokalee                              FAWN,Sat Jul 12 16:45:00 PDT 2003,0.99,15.71
+PALF1,Palmdale                               FAWN,Sat Jul 12 16:45:00 PDT 2003,1.58,331.30
+SEBF1,Sebring                                FAWN,Sat Jul 12 16:45:00 PDT 2003,1.54,281.60
+CO037,I-25 @ Berthoud (43),Sat Jul 12 16:21:00 PDT 2003,0.45,355.00
+CO039,Wiggins @ Bijou Creek (44),Sat Jul 12 16:23:00 PDT 2003,7.15,145.00
+CO041,Natural Fort (38),Sat Jul 12 16:26:00 PDT 2003,4.47,185.00
+CO042,Wellington (38),Sat Jul 12 16:26:00 PDT 2003,0.89,185.00
+CO043,Briggsdale (42),Sat Jul 12 16:27:00 PDT 2003,8.94,35.00
+CO048,Holyoke (51),Sat Jul 12 16:16:00 PDT 2003,8.49,150.00
+CO051,Greeley (43),Sat Jul 12 16:31:00 PDT 2003,0.45,145.00
+CO052,Del Camino (43),Sat Jul 12 16:31:00 PDT 2003,0.00,0.00
+CO065,I-70 @ Genesee (36),Sat Jul 12 16:20:00 PDT 2003,1.34,135.00
+CO067,I-70 @ Seibert (91),Sat Jul 12 16:21:00 PDT 2003,10.28,95.00
+CO070,Vail Pass (34),Sat Jul 12 16:22:00 PDT 2003,3.13,0.00
+CO087,East Tunnel Portal (8),Sat Jul 12 16:30:00 PDT 2003,0.00,0.00
+CO088,Hanging Lake Viaduct (8),Sat Jul 12 16:30:00 PDT 2003,4.47,245.00
+CO090,Bair Ranch (8),Sat Jul 12 16:31:00 PDT 2003,4.02,185.00
+CO091,No Name Tunnel (8),Sat Jul 12 16:35:00 PDT 2003,0.89,20.00
+CO094,Independence Pass (10),Sat Jul 12 16:22:00 PDT 2003,1.34,45.00
+CO095,Wolcott (8),Sat Jul 12 16:23:00 PDT 2003,1.34,295.00
+CO097,Palisade (6),Sat Jul 12 16:25:00 PDT 2003,2.24,175.00
+CO098,Douglas Pass (3),Sat Jul 12 16:26:00 PDT 2003,2.68,130.00
+CO099,Canyon Creek (8),Sat Jul 12 16:34:00 PDT 2003,2.68,245.00
+CO100,Aspen (10),Sat Jul 12 16:31:00 PDT 2003,2.24,270.00
+CO101,Basalt (8*),Sat Jul 12 16:30:00 PDT 2003,0.45,225.00
+CO102,Steamboat Springs (5),Sat Jul 12 16:33:00 PDT 2003,0.89,170.00
+CO103,Snowmass @HWY82 mp26.8 (10*),Sat Jul 12 16:34:00 PDT 2003,0.45,195.00
+CO104,Shale Bluffs (10),Sat Jul 12 16:28:00 PDT 2003,4.02,225.00
+CO105,Grand Junction (6),Sat Jul 12 16:36:00 PDT 2003,0.89,150.00
+H0002,KNCTODD1               Jefferson     NC,Sat Jul 12 16:43:00 PDT 2003,1.34,200.00
+H0344,BlueStar Systems       Milford      OH,Sat Jul 12 16:45:00 PDT 2003,0.00,190.00
+H0004,BoblandUSA             San Diego     CA,Sat Jul 12 16:36:00 PDT 2003,0.45,240.00
+H0012,Crowley TX WX Page     Crowley       TX,Sat Jul 12 16:40:00 PDT 2003,1.79,170.00
+H0549,Danville		Alum Springs KY,Sat Jul 12 16:35:00 PDT 2003,1.79,320.00
+H0017,Olathe        KS,Sat Jul 12 16:41:00 PDT 2003,1.79,300.00
+H0460,ValleyView Ranch       Reasnor      IA,Sat Jul 12 16:45:00 PDT 2003,0.00,300.00
+H0024,Cornelius     OR,Sat Jul 12 16:32:00 PDT 2003,1.34,190.00
+H0025,Dickinson     TX,Sat Jul 12 16:44:00 PDT 2003,1.34,170.00
+H0029,Affton        MO,Sat Jul 12 16:45:00 PDT 2003,0.00,350.00
+H0299,KALB Studios           Alexandria    LA,Sat Jul 12 16:45:00 PDT 2003,1.34,180.00
+H0462,Chandler     AZ,Sat Jul 12 16:45:00 PDT 2003,2.24,250.00
+H0322,Phoenix       AZ,Sat Jul 12 16:47:00 PDT 2003,4.02,260.00
+H0030,Harrisburg             Lowville      NY,Sat Jul 12 16:46:00 PDT 2003,7.15,280.00
+H0031,Rainbow City  AL,Sat Jul 12 16:40:00 PDT 2003,0.00,250.00
+H0032,Hendersonvill TN,Sat Jul 12 16:40:00 PDT 2003,0.00,310.00
+H0244,Acton         CA,Sat Jul 12 16:34:00 PDT 2003,7.15,260.00
+H0498,Balboa	     CA,Sat Jul 12 16:45:00 PDT 2003,2.24,270.00
+H0339,Williams Worship       Bellflower    CA,Sat Jul 12 16:45:00 PDT 2003,2.24,260.00
+H0300,Cloverdale    CA,Sat Jul 12 16:45:00 PDT 2003,2.24,250.00
+H0222,Covelo        CA,Sat Jul 12 16:35:00 PDT 2003,0.45,230.00
+H0223,Petroglyph Computing   Crestline     CA,Sat Jul 12 16:37:00 PDT 2003,0.00,70.00
+H0450,Dublin       CA,Sat Jul 12 16:50:00 PDT 2003,1.34,230.00
+H0294,Rancho San Diego       El Cajon      CA,Sat Jul 12 16:45:00 PDT 2003,1.79,240.00
+H0346,California Hills       Folsom        CA,Sat Jul 12 16:45:00 PDT 2003,0.00,280.00
+H0561,Grass Valley			     CA,Sat Jul 12 16:45:00 PDT 2003,0.00,240.00
+H0563,Half Moon Bay			     CA,Sat Jul 12 16:40:00 PDT 2003,4.02,70.00
+H0237,Healdsburg    CA,Sat Jul 12 16:47:00 PDT 2003,3.58,320.00
+H0333,Cathouse Backyard WX   Lakeside      CA,Sat Jul 12 16:41:00 PDT 2003,0.89,270.00
+H0158,Lancaster     CA,Sat Jul 12 16:40:00 PDT 2003,4.92,260.00
+H0465,Occidental   CA,Sat Jul 12 16:45:00 PDT 2003,7.15,290.00
+H0564,Rohnert Park			     CA,Sat Jul 12 16:45:00 PDT 2003,0.45,300.00
+H0164,San Luis Obis CA,Sat Jul 12 16:45:00 PDT 2003,4.47,340.00
+H0269,South Valley Internet  San Martin    CA,Sat Jul 12 16:45:00 PDT 2003,3.13,50.00
+H0259,Pickles Central        San Rafael    CA,Sat Jul 12 16:46:00 PDT 2003,1.34,350.00
+H0452,Santa Rosa   CA,Sat Jul 12 16:45:00 PDT 2003,1.34,200.00
+H0348,Tehachapi     CA,Sat Jul 12 16:44:00 PDT 2003,0.89,80.00
+H0506,Visalia	     CA,Sat Jul 12 16:32:00 PDT 2003,1.34,310.00
+H0442,Whittier     CA,Sat Jul 12 16:45:00 PDT 2003,1.79,190.00
+H0566,Crestone			     CO,Sat Jul 12 16:45:00 PDT 2003,4.02,310.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Sat Jul 12 16:40:00 PDT 2003,1.34,80.00
+H0325,Summit County CO,Sat Jul 12 16:40:00 PDT 2003,0.45,0.00
+H0189,Canterbury    CT,Sat Jul 12 16:40:00 PDT 2003,0.00,60.00
+H0036,Dunstable     MA,Sat Jul 12 16:45:00 PDT 2003,0.00,280.00
+H0351,Port St. John Weather  Cocoa         FL,Sat Jul 12 16:46:00 PDT 2003,0.00,30.00
+H0295,Lake Mary     FL,Sat Jul 12 16:47:00 PDT 2003,0.00,320.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Sat Jul 12 16:47:00 PDT 2003,0.00,180.00
+H0571,Hemet				     CA,Sat Jul 12 16:45:00 PDT 2003,1.79,280.00
+H0573,Charles City			     IA,Sat Jul 12 16:48:00 PDT 2003,1.79,300.00
+H0353,Keokuk        IA,Sat Jul 12 16:34:00 PDT 2003,0.00,10.00
+H0183,New Hampton   IA,Sat Jul 12 16:48:00 PDT 2003,1.34,300.00
+H0417,Oxford Mills           Oxford Junction	IA,Sat Jul 12 16:47:00 PDT 2003,0.00,320.00
+H0246,Sidney        IA,Sat Jul 12 16:49:00 PDT 2003,1.34,50.00
+H0195,Van Meter     IA,Sat Jul 12 16:40:00 PDT 2003,0.89,20.00
+H0261,Crystal Lake  IL,Sat Jul 12 16:44:00 PDT 2003,0.45,310.00
+H0205,Olathe        KS,Sat Jul 12 16:42:00 PDT 2003,0.00,290.00
+H0191,Paducah       KY,Sat Jul 12 16:43:00 PDT 2003,0.00,300.00
+H0287,Arlington Center       Arlington     MA,Sat Jul 12 16:46:00 PDT 2003,2.68,190.00
+H0272,WoodvilleGr1           Hopkinton     MA,Sat Jul 12 16:45:00 PDT 2003,2.24,240.00
+H0518,Lynn	     MA,Sat Jul 12 16:44:00 PDT 2003,1.79,210.00
+H0373,Parchment/Spring Valley Kalamazoo   MI,Sat Jul 12 16:45:00 PDT 2003,0.89,280.00
+H0253,Blaine        MN,Sat Jul 12 16:45:00 PDT 2003,0.00,0.00
+H0307,Bloomington   MN,Sat Jul 12 16:40:00 PDT 2003,0.00,140.00
+H0342,Gideon School District Gideon        MO,Sat Jul 12 16:45:00 PDT 2003,1.79,220.00
+H0491,Greensboro   NC,Sat Jul 12 16:47:00 PDT 2003,0.00,120.00
+H0523,Lewisville   NC,Sat Jul 12 16:45:00 PDT 2003,0.00,250.00
+H0387,North Holmes           Lake Lincoln NE,Sat Jul 12 16:45:00 PDT 2003,0.00,70.00
+H0241,Omaha         NE,Sat Jul 12 16:45:00 PDT 2003,1.34,320.00
+H0289,Omaha         NE,Sat Jul 12 16:45:00 PDT 2003,0.00,70.00
+H0582,East Millstone			     NJ,Sat Jul 12 16:45:00 PDT 2003,0.89,80.00
+H0583,Highlands			     NJ,Sat Jul 12 16:40:00 PDT 2003,0.00,230.00
+H0302,Cuba          NY,Sat Jul 12 16:39:00 PDT 2003,2.68,210.00
+H0308,New City      NY,Sat Jul 12 16:45:00 PDT 2003,0.00,200.00
+H0290,Rochester     NY,Sat Jul 12 16:46:00 PDT 2003,0.00,70.00
+H0478,Saratoga Springs NY,Sat Jul 12 16:46:00 PDT 2003,1.34,20.00
+H0304,Edmunds Weather        Smithtown     NY,Sat Jul 12 16:48:00 PDT 2003,2.24,80.00
+H0251,Vestal        NY,Sat Jul 12 16:40:00 PDT 2003,0.00,90.00
+H0395,Mecox Bay              Water Mill   NY,Sat Jul 12 16:46:00 PDT 2003,1.34,310.00
+H0309,Columbus      OH,Sat Jul 12 16:40:00 PDT 2003,1.34,50.00
+H0492,Rock Creek, Hillsboro  Portland     OR,Sat Jul 12 16:39:00 PDT 2003,1.79,260.00
+H0227,Turner        OR,Sat Jul 12 16:45:00 PDT 2003,2.68,210.00
+H0440,Broomall     PA,Sat Jul 12 16:45:00 PDT 2003,0.00,10.00
+H0229,Audubon Society of W PA Fox Chapel   PA,Sat Jul 12 16:40:00 PDT 2003,0.00,330.00
+H0043,WX for West PA/East OH Sharon        PA,Sat Jul 12 16:40:00 PDT 2003,1.34,10.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Sat Jul 12 16:45:00 PDT 2003,0.45,190.00
+H0313,BosWeather             Greer         SC,Sat Jul 12 16:42:00 PDT 2003,0.00,290.00
+H0479,West Columbia SC,Sat Jul 12 16:41:00 PDT 2003,0.00,300.00
+H0588,Mitchell			     SD,Sat Jul 12 16:45:00 PDT 2003,1.34,110.00
+H0298,Terricita Hills        Rapid City    SD,Sat Jul 12 16:40:00 PDT 2003,0.00,90.00
+H0247,Sturgis       SD,Sat Jul 12 16:35:00 PDT 2003,1.79,150.00
+H0447,Downtown               Santa Rosa   CA,Sat Jul 12 16:46:00 PDT 2003,3.13,240.00
+H0396,Williamson             County Franklin TN,Sat Jul 12 16:50:00 PDT 2003,0.89,250.00
+H0590,Portland			     TN,Sat Jul 12 16:34:00 PDT 2003,1.34,230.00
+H0310,SSC                    Abilene       TX,Sat Jul 12 16:33:00 PDT 2003,3.13,130.00
+H0318,Austin        TX,Sat Jul 12 16:45:00 PDT 2003,0.45,150.00
+H0202,KC4WTI                 Irving        TX,Sat Jul 12 16:45:00 PDT 2003,0.00,100.00
+H0360,Corinth       TX,Sat Jul 12 16:49:00 PDT 2003,4.92,170.00
+H0591,Dallas	Oak Cliff		     TX,Sat Jul 12 16:45:00 PDT 2003,0.00,160.00
+H0194,Fort Davis    TX,Sat Jul 12 16:47:00 PDT 2003,0.89,100.00
+H0311,Clear Lake City WX     Houston       TX,Sat Jul 12 16:42:00 PDT 2003,2.68,90.00
+H0361,R and K Weather        Houston       TX,Sat Jul 12 16:44:00 PDT 2003,0.45,170.00
+H0278,TeleHobbies            Rockwall      TX,Sat Jul 12 16:34:00 PDT 2003,0.89,180.00
+H0415,Northwest Crossing	San Antonio  TX,Sat Jul 12 16:47:00 PDT 2003,0.89,120.00
+H0280,Taylor        TX,Sat Jul 12 16:45:00 PDT 2003,1.79,150.00
+H0293,Harrisonburg  VA,Sat Jul 12 16:37:00 PDT 2003,0.45,150.00
+H0157,N4NW                   Stafford      VA,Sat Jul 12 16:48:00 PDT 2003,0.00,250.00
+H0594,Stafford			     VA,Sat Jul 12 16:45:00 PDT 2003,0.00,80.00
+H0363,Darrington    WA,Sat Jul 12 16:47:00 PDT 2003,0.00,220.00
+H0481,Kenmore      WA,Sat Jul 12 16:41:00 PDT 2003,2.24,190.00
+H0596,Maple Valley			     WA,Sat Jul 12 16:45:00 PDT 2003,0.00,200.00
+H0597,Vancouver			     WA,Sat Jul 12 16:47:00 PDT 2003,4.47,290.00
+H0331,Walnut Grove           Vancouver     WA,Sat Jul 12 16:40:00 PDT 2003,1.34,230.00
+H0598,Vancouver		Lutegrad Weather WA,Sat Jul 12 16:41:00 PDT 2003,1.34,310.00
+H0601,Denver			Lake Norman  NC,Sat Jul 12 16:42:00 PDT 2003,0.00,180.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Sat Jul 12 16:45:00 PDT 2003,1.34,280.00
+H0490,Sylmar       CA,Sat Jul 12 16:40:00 PDT 2003,0.89,210.00
+H0423,Middleboro   MA,Sat Jul 12 16:45:00 PDT 2003,0.89,240.00
+H0052,New Milford Weather    New Milford   CT,Sat Jul 12 16:41:00 PDT 2003,0.00,230.00
+H0482,Savage       MN,Sat Jul 12 16:46:00 PDT 2003,0.00,360.00
+H0538,Newport News VA,Sat Jul 12 16:34:00 PDT 2003,0.00,290.00
+H0419,Lowes Motor Spdwy Area	Concord	     NC,Sat Jul 12 16:33:00 PDT 2003,0.00,170.00
+H0062,Northeast Raleigh      Raleigh       NC,Sat Jul 12 16:46:00 PDT 2003,0.00,190.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Sat Jul 12 16:45:00 PDT 2003,1.34,250.00
+H0072,Thunder Ranch          Juniper Hills CA,Sat Jul 12 16:45:00 PDT 2003,4.47,270.00
+H0525,Omaha	     NE,Sat Jul 12 16:47:00 PDT 2003,0.00,320.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Sat Jul 12 16:40:00 PDT 2003,0.00,350.00
+H0610,Wimberley			     TX,Sat Jul 12 16:45:00 PDT 2003,0.00,160.00
+H0090,WKRG Studios           Mobile        AL,Sat Jul 12 16:50:00 PDT 2003,1.34,180.00
+H0091,WMBB Studios           Panama City   FL,Sat Jul 12 16:45:00 PDT 2003,0.89,260.00
+4UT01,NORTH SALT LAKE BENCH            UT US 4UTAH,Sat Jul 12 16:30:00 PDT 2003,3.13,292.50
+A01,AREA 1                           NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,5.14,208.00
+A02,AREA 2                           NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,6.17,198.00
+A03,AREA 3 SOUTH                     NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,5.14,237.00
+A04,AREA 4                           NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.72,216.00
+A05,WELL 5B                          NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.20,255.00
+A09,AREA 9                           NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.20,203.00
+A12,AREA 12 MESA                     NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,6.69,223.00
+A13,AREA 5 NORTH                     NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,0.51,242.00
+A14,AREA 15                          NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,5.14,224.00
+A16,BJY TOWER                        NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,8.75,235.00
+A17,BUSTER JUNGLE                    NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.72,222.00
+A18,AREA 18                          NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,6.69,222.00
+A20,PAHUTE MESA 1                    NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,6.17,218.00
+A21,AREA 16                          NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,6.17,220.00
+A23,MERCURY                          NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.20,191.00
+A24,YUCCA MOUNTAIN                   NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,11.32,288.00
+A25,AREA 25 SOUTH                    NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,2.57,257.00
+A26,AREA 25 EAST                     NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.20,235.00
+A28,DEVICE ASSEM.                    NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,5.14,228.00
+A34,HAZMAT N/E                       NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.72,230.00
+A35,TONOPAH TEST                     NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,8.23,194.00
+A36,NELLIS RANGE 63                  NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,6.17,273.00
+A41,REBOUND ANG RD                   NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,5.14,222.00
+A42,STATION 42                       NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,3.60,228.00
+A45,REBOUND SOUTH                    NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.20,223.00
+A49,X-TUNNEL                         NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,9.26,176.00
+ABD,ABERDEEN                         ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,4.04,157.80
+AME,CAMUS                            ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,9.76,230.30
+ANGM8,Angel Point                      MT US MSOWFO,Sat Jul 12 16:15:00 PDT 2003,4.02,170.00
+ATO,ATOMIC CITY                      ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,11.68,259.30
+BAC,BACCUS/SR111                     UT US UTAH DOT,Sat Jul 12 16:30:00 PDT 2003,3.58,63.00
+BBN,BOUNTIFUL BENCH                  UT US KSL,Sat Jul 12 16:30:00 PDT 2003,0.90,303.00
+BCCW1,Bellevue Community College       WA US WAAQ,Sat Jul 12 16:00:00 PDT 2003,4.02,315.00
+BLK,BLACKFOOT NEW                    ID    ARL FRD,Sat Jul 12 16:30:00 PDT 2003,3.16,254.10
+BR4,BEAR RIVER REFUGE #4             UT US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,3.13,132.00
+BRYNT,Bryant School                    WA US WAAQ,Sat Jul 12 16:00:00 PDT 2003,2.23,338.00
+BULLF,Bullfrog Marina                  UT US SNOWNET,Sat Jul 12 16:00:00 PDT 2003,6.70,262.00
+CASD,CASTLE DALE                      UT US REC,Sat Jul 12 16:00:00 PDT 2003,3.27,278.80
+CFA,CENTRAL FACILITY                 ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,10.29,260.30
+CMP02,Amargosa Valley                  NV US CEMP,Sat Jul 12 16:00:00 PDT 2003,1.83,244.20
+CMP04,Boulder City                     NV US CEMP,Sat Jul 12 16:15:00 PDT 2003,2.55,158.90
+CMP06,Cedar City                       UT US CEMP,Sat Jul 12 16:15:00 PDT 2003,3.44,248.70
+CMP10,Henderson                        NV US CEMP,Sat Jul 12 16:00:00 PDT 2003,3.62,280.20
+CMP12,Las Vegas                        NV US CEMP,Sat Jul 12 16:15:00 PDT 2003,3.26,291.60
+CMP16,Overton                          NV US CEMP,Sat Jul 12 16:00:00 PDT 2003,2.01,148.80
+CMP18,Pioche                           NV US CEMP,Sat Jul 12 16:00:00 PDT 2003,2.68,245.90
+CMP19,Rachel                           NV US CEMP,Sat Jul 12 16:00:00 PDT 2003,4.34,268.50
+CMP20,Sarcobatus Flats                 NV US CEMP,Sat Jul 12 16:00:00 PDT 2003,3.09,260.30
+CMP21,St. George                       UT US CEMP,Sat Jul 12 16:15:00 PDT 2003,2.55,248.30
+CMP23,Tonopah                          NV US CEMP,Sat Jul 12 16:00:00 PDT 2003,4.52,353.70
+COMID,CRATERS OF THE MOON              ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,8.68,243.70
+CRN,CAPITOL REEF NP                  UT US SNOWNET,Sat Jul 12 16:00:00 PDT 2003,0.90,293.00
+DMC,DEAD MAN CANYON                  ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,12.10,264.50
+DPG01,MICHAEL AAF                      UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,4.50,195.00
+DPG02,CALLAO GATE                      UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,2.30,139.00
+DPG03,V-GRID                           UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,2.00,151.00
+DPG04,TARGET S                         UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,3.20,207.00
+DPG05,WHITE SAGE                       UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,2.90,246.00
+DPG06,CAMEL BACK MTN                   UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,1.60,120.00
+DPG07,MAIN GATE                        UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,3.70,256.00
+DPG09,SE SALT FLATS                    UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,3.20,155.00
+DPG10,BAKER LAB                        UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,2.50,203.00
+DPG11,TOWER GRID                       UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,1.20,27.00
+DPG14,NORTH WIG                        UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,3.50,192.00
+DPG15,SALT FLATS                       UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,3.80,122.00
+DPG16,UPPER CEDAR MTN                  UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,3.70,242.00
+DPG17,INTERSTATE 80                    UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,3.90,112.00
+DPG18,CAUSEWAY                         UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,7.00,129.00
+DPG19,FISH SPRINGS                     UT US DUGWAY,Sat Jul 12 16:15:00 PDT 2003,2.50,127.00
+DPG20,CALLAO                           UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,7.30,180.00
+DPG21,SIMPSON SPRING                   UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,3.90,264.00
+DPG23,INF Road                         UT US DUGWAY,Sat Jul 12 16:30:00 PDT 2003,3.60,186.00
+DVE,DV - BURNS                       UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,1.34,192.00
+DXCN2,DIAMOND PEAK                     NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,3.71,152.00
+EBR,ARGONNE NATL LAB-W               ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,8.93,231.10
+ELMO,ELMO                             UT US REC,Sat Jul 12 16:00:00 PDT 2003,1.33,35.61
+FERR,FERRON                           UT US REC,Sat Jul 12 16:00:00 PDT 2003,3.43,326.10
+FOR,FORT HALL                        ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,2.91,249.20
+FPKUT,FRANCIS PEAK                     UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,0.00,336.00
+FWP,FARNSWORTH PEAK                  UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,1.79,112.00
+FWPC1,FOLSOM WATER TREATMENT PLANT     CA US CNRFC,Sat Jul 12 16:30:00 PDT 2003,1.59,200.00
+GNI,GUNNISON ISLAND DNR              UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,4.92,112.00
+H100A,Hanford 100                      WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,8.05,227.00
+H100F,Hanford 100F Area                WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,7.60,262.00
+H100K,Hanford 100K Area                WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,7.60,246.00
+H200E,Hanford 200 East Area            WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,8.94,260.00
+H200W,Hanford 200 West Area            WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,8.49,256.00
+H300A,Hanford 300 Area                 WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,7.15,254.00
+HARMY,Hanford Army Loop Road           WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,0.90,266.00
+HATUT,HAT ISLAND                       UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,5.81,77.00
+HBENT,Benton City                      WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,5.37,277.00
+HBVLY,Beverely                         WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,5.81,222.00
+HEDNA,Edna                             WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,6.70,261.00
+HEOC,Hanford Emergency Operations CentWA US HMMN,Sat Jul 12 16:15:00 PDT 2003,6.26,269.00
+HFFTF,Hanford Fast Flux Test Facility  WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,8.05,247.00
+HFRNK,Hanford Franklin County          WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,4.47,260.00
+HGABL,Gable Mountain                   WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,11.17,249.00
+HGABW,Gable West                       WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,8.05,254.00
+HHAMR,Hammer                           WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,7.15,264.00
+HHMS,Hanford                          WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,8.05,249.00
+HOL,NORTH HOLLADAY                   UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,0.45,359.00
+HPASC,Pasco Airport                    WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,12.52,269.00
+HPFP,Hanford 200 West Area #2         WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,7.60,252.00
+HPROS,Prosser Barricade (Hanford)      WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,7.60,254.00
+HRICH,Richland Airport                 WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,6.70,293.00
+HRING,Ringold                          WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,5.37,261.00
+HRMTN,Rattlesnake Mountain             WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,13.41,238.00
+HRSPG,Rattlesnake Springs              WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,8.49,260.00
+HSURF,Roosevelt                        WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,9.39,285.00
+HVERN,Vernita Bridge (Hanford)         WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,7.60,252.00
+HVSTA,Kennewick Vista Field            WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,6.26,270.00
+HWB,HOWE PEAK BASE                   ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,11.71,231.80
+HWPPS,Hanford Nuclear WNP-2            WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,6.26,273.00
+HWYEB,Wye Barricade (Hanford)          WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,7.15,263.00
+HYAKB,Yakima Barricade (Hanford)       WA US HMMN,Sat Jul 12 16:15:00 PDT 2003,8.94,251.00
+ICNN2,INCLINE                          NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,1.79,187.00
+IDF,IDAHO FALLS                      ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,5.19,206.40
+IEIN2,SOUTH RENO                       NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,2.81,202.00
+INI,MINIDOKA                         ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,4.69,292.90
+JCTN2,CARSON CITY                      NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,8.18,247.00
+KAHN2,KAHLE DR                         NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,3.80,30.00
+KAYUT,Kaysville                        UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,0.90,306.00
+KET,KETTLE BUTTE                     ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,11.40,255.10
+KU01,BEACH TWO - B2                   UT US KENNECOTT,Sat Jul 12 16:00:00 PDT 2003,2.63,336.70
+KU02,MARINA - MR                      UT US KENNECOTT,Sat Jul 12 16:00:00 PDT 2003,2.94,345.20
+KU04,WEST POND - WP                   UT US KENNECOTT,Sat Jul 12 16:00:00 PDT 2003,2.75,355.30
+KU05,DIKE STATION - DS                UT US KENNECOTT,Sat Jul 12 16:00:00 PDT 2003,2.47,348.70
+KU06,LITTLE VALLEY - LV               UT US KENNECOTT,Sat Jul 12 16:00:00 PDT 2003,2.02,39.55
+KU07,STATE TWO - S2                   UT US KENNECOTT,Sat Jul 12 16:00:00 PDT 2003,2.17,359.00
+KU08,COPPERTON TWO - C2               UT US KENNECOTT,Sat Jul 12 16:00:00 PDT 2003,2.02,39.55
+KU10,OUTFALL TWELVE- 0T               UT US KENNECOTT,Sat Jul 12 16:00:00 PDT 2003,2.40,13.22
+LANL1,LANLTA6                          NM US LANL,Sat Jul 12 16:15:00 PDT 2003,7.37,288.00
+LANL2,LANLTA54                         NM US LANL,Sat Jul 12 16:15:00 PDT 2003,3.72,276.80
+LDFM8,Lower Dry Fork Dam               MT US MSOWFO,Sat Jul 12 16:15:00 PDT 2003,3.31,310.00
+LITW,LITTLE CREEK                     UT US REC,Sat Jul 12 16:00:00 PDT 2003,3.32,288.30
+LMR,Lakeside Mountain                UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,0.00,0.00
+LMS,Locomotive Springs               UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,5.37,175.00
+MBY,DV - MOUNT BALDY                 UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,1.34,83.00
+MCLUR,McClure High School              WA US WAAQ,Sat Jul 12 16:00:00 PDT 2003,1.34,263.00
+MOLE,MOLEN                            UT US REC,Sat Jul 12 16:00:00 PDT 2003,4.90,295.20
+MON,MONTEVIEW                        ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,8.73,212.40
+MSGRB,Grey Butte                       CA US SHASAVAL,Sat Jul 12 16:00:00 PDT 2003,5.37,221.00
+MSI01,SUGARHOUSE - MSI                 UT US MSI,Sat Jul 12 16:30:00 PDT 2003,2.23,318.00
+MWQ01,Irrigon SE                       OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,3.60,271.00
+MWQ02,Irrigon Middle School            OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,3.60,268.00
+MWQ03,Irrigon SW                       OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,5.14,255.00
+MWQ04,Ordnance W                       OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,6.17,298.00
+MWQ05,Umatilla W                       OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,4.12,278.00
+MWQ06,Hermiston NW                     OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,5.14,265.00
+MWQ08,Hermiston N                      OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,5.14,273.00
+MWQ09,Hermiston SW                     OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,7.20,262.00
+MWQAR,Arlington                        OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,4.63,293.00
+MWQCM,Cle Elum 2NW                     WA US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,0.51,7.00
+MWQCN,Condon                           OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,9.77,293.00
+MWQJO,Joseph                           OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,3.09,282.00
+MWQKE,Keyes Summit                     OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,5.66,23.00
+MWQSH,Shaniko                          OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,8.23,248.00
+MWQSN,Seneca                           OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,2.06,241.00
+MWQSR,Sunriver                         OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,2.06,307.00
+MWQSU,Suttle Lake                      OR US PDTWFO,Sat Jul 12 16:15:00 PDT 2003,2.06,180.00
+MWQTG,Rock Creek Reservoir             OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,4.63,309.00
+MWQUM,Umatilla                         OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,3.60,203.00
+NDD,SAND DUNES                       ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,13.00,249.30
+NINM8,Ninepipe Dam                     MT US MSOWFO,Sat Jul 12 16:15:00 PDT 2003,4.96,270.00
+NRF,NAVAL REACTOR FACILITY           ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,10.62,260.50
+ODT01,BEND PARKWAY - NORTH CANAL       OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,3.13,225.00
+ODT03,ODELL LAKE - WILLAMETTE PASS     OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,1.79,315.00
+ODT04,KLAMATH FALLS                    OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,4.92,180.00
+ODT06,INTERSTATE BRIDGE NORTH SPAN     OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,9.84,225.00
+ODT08,GLEN JACKSON BRIDGE NORTH CHAN   OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,1.79,0.00
+ODT10,FREMONT BRIDGE WEST UPPER DECK   OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,5.81,90.00
+ODT13,TIMBER JUNCTION                  OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,2.68,270.00
+ODT14,I-205 - DIVISION STREET          OR US ODOT,Sat Jul 12 16:15:00 PDT 2003,9.39,225.00
+ODT15,BRIGHTWOOD WEIGHT STATION        OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,4.92,270.00
+ODT18,LADD CANYON LOWER END            OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,3.58,315.00
+ODT19,LADD CANYON SUMMIT               OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,6.26,315.00
+ODT20,WEATHERBY REST AREA              OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,1.79,180.00
+ODT21,BATTLE MOUNTAIN SUMMIT           OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,2.68,0.00
+ODT22,SISKIYOU SUMMIT                  OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,4.92,0.00
+ODT23,HAYES HILL SUMMIT                OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,4.02,225.00
+ODT24,SEXTON MOUNTAIN SUMMIT           OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,3.13,180.00
+ODT26,MEDFORD VIADUCT                  OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,4.47,0.00
+ODT27,PORT ORFORD                      OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,3.13,0.00
+ODT28,HWY 42 - COOS COUNTY LINE        OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,2.68,315.00
+PABM8,Pablo Dam                        MT US MSOWFO,Sat Jul 12 16:15:00 PDT 2003,4.24,260.00
+PCS,PARK CITY - EAGLE                UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,1.34,173.00
+PLSM8,Polson                           MT US MSOWFO,Sat Jul 12 16:15:00 PDT 2003,6.21,200.00
+PRP,PROMONTORY POINT                 UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,2.23,220.00
+QB4,BEACH (MAGNA)                    UT US AQ,Sat Jul 12 16:30:00 PDT 2003,5.04,24.00
+QCW,COTTONWOOD (HOLLADAY)            UT US AQ,Sat Jul 12 16:30:00 PDT 2003,0.00,0.00
+QHE,HERRIMAN                         UT US AQ,Sat Jul 12 16:30:00 PDT 2003,4.78,143.00
+QHG,HIGHLAND                         UT US AQ,Sat Jul 12 16:30:00 PDT 2003,0.98,56.00
+QNP,NORTH PROVO                      UT US AQ,Sat Jul 12 16:30:00 PDT 2003,1.34,322.00
+QWT,WASHINGTON TERRACE               UT US AQ,Sat Jul 12 16:30:00 PDT 2003,0.98,199.00
+ROB,ROBERTS                          ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,5.06,210.70
+ROV,ROVER                            ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,12.57,252.90
+RSMN2,MOUNT ROSE SUMMIT                NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,5.32,161.00
+RXB,REXBURG                          ID    ARL FRD,Sat Jul 12 16:30:00 PDT 2003,4.22,170.00
+SAPC1,SACRAMENTO METRO AIRPORT         CA US CNRFC,Sat Jul 12 16:15:00 PDT 2003,5.40,180.00
+SARC1,SOUTHERN AG. RESEARCH CENTER     MT US SARC,Sat Jul 12 16:30:00 PDT 2003,0.49,178.00
+SBW,SNOWBASIN-JOHN PAUL              UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,1.34,58.00
+SECN2,SECRET CREEK                     NV US NV DOT,Sat Jul 12 16:15:00 PDT 2003,2.19,337.00
+SNC,PARK CITY MUN G.C.               UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,0.00,39.00
+SND,SUNDANCE - ARROWHEAD             UT US AVALANCHE,Sat Jul 12 16:00:00 PDT 2003,2.68,170.00
+SNI,SNOWBASIN-MID. BOWL              UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,0.90,229.00
+SNZ,BOUNTIFUL/F G  HOUSE             UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,0.45,352.00
+SODM8,SOD Ronan                        MT US MSOWFO,Sat Jul 12 16:15:00 PDT 2003,3.71,260.00
+SRD06,YUCCA FLAT                       NV US ARL SORD,Sat Jul 12 16:15:00 PDT 2003,7.72,209.00
+SUG,SUGAR CITY                       ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,4.56,165.00
+SVB,SUN VALLEY-BALD MTN              ID US SNOWNET,Sat Jul 12 16:15:00 PDT 2003,4.92,224.00
+SWI,SNOWBASIN - WILDCAT              UT US AVALANCHE,Sat Jul 12 16:00:00 PDT 2003,1.79,113.00
+T144T,SB I-5 144th                     WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,1.79,230.00
+T904I,SR 904 Interchange               WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,2.23,235.00
+TAB,TABER                            ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,5.86,261.30
+TALPO,Alpowa Summit                    WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,6.70,265.00
+TANAC,Anacortes                        WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,0.45,266.00
+TBAIN,Bainbridge Island                WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,9.84,212.00
+TBEAR,Bear Creek Bridge                WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,1.79,160.00
+TBELL,Cape Horn                        WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,1.34,260.00
+TBLAI,Blaine                           WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,1.34,295.00
+TBLEW,Blewett Pass                     WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,1.79,360.00
+TCAND,Rock Candy Mountain              WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,0.90,210.00
+TCASH,Cashmere                         WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,2.68,308.00
+TDRYD,Dryden Road                      WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,1.34,280.00
+TEAST,Easton Hill                      WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,0.90,260.00
+TELKH,Elk Heights                      WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,3.58,255.00
+TER,TERRETON                         ID US ARL FRD,Sat Jul 12 16:30:00 PDT 2003,5.89,239.20
+TFAUN,Fauntleroy                       WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,1.79,257.00
+TFRAN,Franklin Falls                   WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,3.58,235.00
+THECK,Heckelville Shed                 WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,0.45,360.00
+THOOD,Hood Canal Bridge                WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,10.28,225.00
+TKING,Kingston                         WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,4.02,176.00
+TKNAP,Knapps Tunnel                    WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,2.68,227.00
+TLAUR,Laurier                          WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,1.79,160.00
+TMANE,Manastash Ridge Eastbound        WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,2.23,325.00
+TMANW,Manastash Ridge Westbound        WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,2.68,340.00
+TMPC1,PACIFIC OCEAN - TOMASINI POINT   CA US CNRFC,Sat Jul 12 16:30:00 PDT 2003,8.54,310.00
+TMUKI,Mukilteo                         WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,1.79,347.00
+TOR,TORRINGTON MUNI                  WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,8.23,310.00
+TPALI,Palisades                        WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,3.58,257.00
+TPRIC,Price Creek                      WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,3.58,360.00
+TRITZ,SR 395 Ritzville                 WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,6.70,360.00
+TROCK,Rocky Canyon                     WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,7.15,275.00
+TRYEG,Ryegrass Summit                  WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,5.37,285.00
+TSAMI,Lake Samish Park and Ride        WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,0.45,25.00
+TSATU,Satus Pass                       WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,1.34,360.00
+TSEIB,Seibert Creek Bridge             WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,1.79,275.00
+TSHER,Sherman Pass                     WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,0.00,0.00
+TSOUT,Southworth                       WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,4.92,242.00
+TSR18,EB I-90 SR-18 Echo Lake          WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,0.90,240.00
+TSTEV,Stevens Pass                     WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,4.47,225.00
+TTANN,WB I-90 near Tanner Crossing     WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,0.90,280.00
+TVANT,Vantage                          WA US WA DOT,Sat Jul 12 16:00:00 PDT 2003,1.79,233.00
+TWATE,Waterville                       WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,1.79,235.00
+TWHIT,White Pass Summit                WA US WA DOT,Sat Jul 12 16:15:00 PDT 2003,2.23,230.00
+UT1,WAHSATCH HILL EB                 UT US UTAH DOT,Sat Jul 12 16:30:00 PDT 2003,3.80,225.00
+UT12,I15/I215 SB                      UT US UTAH DOT,Sat Jul 12 16:30:00 PDT 2003,1.79,292.50
+UT20,I15 500S WB (Gateway)            UT US UTAH DOT,Sat Jul 12 16:30:00 PDT 2003,3.80,315.00
+UT23,I-15/2400 S Spaghetti            UT US UTAH DOT,Sat Jul 12 16:30:00 PDT 2003,1.61,90.00
+UT5,MOUTH PARLEYS                    UT US UTAH DOT,Sat Jul 12 16:30:00 PDT 2003,1.92,157.50
+UT7,BLUFFDALE                        UT US UTAH DOT,Sat Jul 12 16:30:00 PDT 2003,2.59,202.50
+UT9,LAKE POINT I-80                  UT US UTAH DOT,Sat Jul 12 16:30:00 PDT 2003,5.10,0.00
+UWASH,UNIVERSITY OF WASHINGTON         WA US WAAQ,Sat Jul 12 16:00:00 PDT 2003,4.02,236.00
+WASN2,WASHOE VALLEY                    NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,7.60,196.00
+WBB,WBB/U UTAH                       UT US SNOWNET,Sat Jul 12 16:30:00 PDT 2003,1.15,91.00
+XMSN2,BULLS EYE                        NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,2.19,33.00
+YM1,YUCCA MOUNTAIN 1                 NV US DOERD,Sat Jul 12 16:30:00 PDT 2003,4.12,207.00
+ZNP,ZION NATIONAL PARK               UT US SNOWNET,Sat Jul 12 16:00:00 PDT 2003,1.34,239.00
+BMTC2,Blue_Mountain,Sat Jul 12 16:50:00 PDT 2003,2.24,0.00
+DHPC2,Diamond_Hill,Sat Jul 12 16:50:00 PDT 2003,0.72,270.00
+EBBC2,Elbert,Sat Jul 12 16:50:00 PDT 2003,4.07,128.00
+SQWC2,Squaw_Mountain,Sat Jul 12 16:50:00 PDT 2003,2.41,169.00
+HGCC2,Hiwan_G.C.,Sat Jul 12 16:50:00 PDT 2003,0.45,355.00
+HIGC2,Highlands_Ranch_WTP,Sat Jul 12 16:50:00 PDT 2003,0.49,264.00
+SAPC2,Salisbury_Park,Sat Jul 12 16:50:00 PDT 2003,1.70,84.00
+COKC2,Castle_Rock,Sat Jul 12 16:50:00 PDT 2003,1.03,22.00
+SFSC2,Sugarloaf,Sat Jul 12 16:50:00 PDT 2003,0.63,96.00
+LEWC2,Louisville_Lake,Sat Jul 12 16:50:00 PDT 2003,0.98,146.00
+CALC2,Cal-Wood_Ranch,Sat Jul 12 16:50:00 PDT 2003,2.10,84.00
+BTRC2,Button_Rock,Sat Jul 12 16:50:00 PDT 2003,0.49,124.00
+STDF1,Homestead                              FAWN,Sat Jul 12 16:45:00 PDT 2003,2.98,111.00
+CO066,I-70 @ Cedar Point (46),Sat Jul 12 16:28:00 PDT 2003,6.71,120.00
+CO071,Floyd Hill (36),Sat Jul 12 16:21:00 PDT 2003,2.68,105.00
+CO072,I-70 @ Bennett (45),Sat Jul 12 16:24:00 PDT 2003,2.68,25.00
+CO073,Surrey Ridge (41),Sat Jul 12 16:25:00 PDT 2003,3.13,345.00
+CO075,Founders Point (41),Sat Jul 12 16:27:00 PDT 2003,4.02,10.00
+CO084,Silt (7),Sat Jul 12 16:40:00 PDT 2003,2.68,285.00
+CO086,West Tunnel Portal (8),Sat Jul 12 16:10:00 PDT 2003,0.00,0.00
+CO087,East Tunnel Portal (8),Sat Jul 12 16:45:00 PDT 2003,0.00,0.00
+CO088,Hanging Lake Viaduct (8),Sat Jul 12 16:45:00 PDT 2003,2.24,275.00
+CO089,French Creek (8),Sat Jul 12 16:40:00 PDT 2003,4.47,280.00
+CO090,Bair Ranch (8),Sat Jul 12 16:46:00 PDT 2003,2.68,190.00
+CO091,No Name Tunnel (8),Sat Jul 12 16:50:00 PDT 2003,0.45,175.00
+CO093,McClure Pass (12),Sat Jul 12 16:41:00 PDT 2003,0.00,10.00
+CO095,Wolcott (8),Sat Jul 12 16:43:00 PDT 2003,3.13,295.00
+CO097,Palisade (6),Sat Jul 12 16:46:00 PDT 2003,3.58,170.00
+CO098,Douglas Pass (3),Sat Jul 12 16:47:00 PDT 2003,3.58,200.00
+CO105,Grand Junction (6),Sat Jul 12 16:51:00 PDT 2003,2.24,270.00
+SJEI4,Jefferson Scranton HS                  KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,2.06,315.00
+SGRI4,Dallas Center/Grimes                   KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,340.00
+SFOI4,Nodaway Valley - Fontanelle            KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,315.00
+SOSI4,Clarke Community - Osceola             KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,360.00
+SWII4,Winterset Community                    KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,2.06,360.00
+SADI4,Adair Casey                            KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,360.00
+SAFI4,East Union - Afton                     KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,30.00
+SKCI4,KCCI Studios - Des Moines              KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,360.00
+SAEI4,ADM MS - Adel                          KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,360.00
+SCHI4,Van Allen Elementary - Chariton        KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,0.00,30.00
+SMAI4,Fisher Elementary - Marshalltown       KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,0.00,290.00
+SNEI4,Berg MS - Newton                       KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,2.06,50.00
+SAKI4,Ankeny Christian                       KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,30.00
+SHUI4,Taft Elementary - Humboldt             KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,290.00
+SCAI4,Kuemper Catholic - Carroll             KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,0.00,360.00
+SGLI4,Glidden Ralston - Glidden              KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,2.06,315.00
+SCSI4,Creston HS                             KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,2.06,340.00
+SWBI4,Webster City Community                 KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,315.00
+SAUI4,Audubon Community                      KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,2.06,340.00
+SMNI4,Montezuma Community                    KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,0.00,315.00
+SIFI4,Rock Run Elementary - Iowa Falls       KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,360.00
+SCNI4,Corning Community - Corning            KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,315.00
+SSUI4,Sully Christian                        KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,340.00
+SKNI4,Knoxville Community                    KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,2.06,340.00
+SAMI4,Northwood Elementary - Ames            KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,0.00,360.00
+SJWI4,South Hamilton - Jewell                KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,30.00
+SPAI4,Panorama                               KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,360.00
+SLOI4,Lamoni Community - Lamoni              KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,315.00
+SALI4,Lincoln Center - Albia                 KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,315.00
+SWAI4,Wall Lake-View-Auburn                  KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,0.51,270.00
+SBRI4,BGM Elementary - Brooklyn              KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,315.00
+SDRI4,River Woods - Des Moines               KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,0.00,230.00
+SLMI4,CAL Community - Latimer                KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,340.00
+SFAI4,Prairie Valley - Farnhamville          KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,2.57,30.00
+SCBI4,Coon Rapids - Bayard                   KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,0.00,360.00
+SPEI4,Pella MS                               KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,30.00
+SBKI4,Belmond Klemme                         KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.03,290.00
+SLEI4,Leon                                   KCCI-TV,Sat Jul 12 16:55:00 PDT 2003,1.54,50.00
+SMAM5,Madison                                KELO-TV,Sat Jul 12 16:57:00 PDT 2003,0.00,360.00
+SABS2,Aberdeen                               KELO-TV,Sat Jul 12 16:57:00 PDT 2003,1.03,250.00
+SHUS2,Huron                                  KELO-TV,Sat Jul 12 16:57:00 PDT 2003,1.54,160.00
+SMIS2,Milbank                                KELO-TV,Sat Jul 12 16:57:00 PDT 2003,1.54,30.00
+SMSS2,Mission                                KELO-TV,Sat Jul 12 16:57:00 PDT 2003,6.69,340.00
+SPIS2,Pierre                                 KELO-TV,Sat Jul 12 16:57:00 PDT 2003,5.66,70.00
+SRAS2,Rapid City                             KELO-TV,Sat Jul 12 16:57:00 PDT 2003,3.09,140.00
+SSAS2,Sioux Falls PH                         KELO-TV,Sat Jul 12 16:57:00 PDT 2003,0.00,360.00
+SSBS2,Sioux Falls Pavilion                   KELO-TV,Sat Jul 12 16:57:00 PDT 2003,0.51,270.00
+SWAS2,Wall                                   KELO-TV,Sat Jul 12 16:57:00 PDT 2003,0.51,180.00
+SWTS2,Watertown                              KELO-TV,Sat Jul 12 16:57:00 PDT 2003,0.00,360.00
+SYAS2,Yankton                                KELO-TV,Sat Jul 12 16:57:00 PDT 2003,0.00,360.00
+SHII4,Hull                                   KELO-TV,Sat Jul 12 16:57:00 PDT 2003,1.03,290.00
+EGK,Egmont Key                             USF,Sat Jul 12 16:48:00 PDT 2003,5.30,46.00
+BMTC2,Blue_Mountain,Sat Jul 12 16:55:00 PDT 2003,1.34,0.00
+DHPC2,Diamond_Hill,Sat Jul 12 16:55:00 PDT 2003,0.72,270.00
+EBBC2,Elbert,Sat Jul 12 16:55:00 PDT 2003,4.78,155.00
+SQWC2,Squaw_Mountain,Sat Jul 12 16:55:00 PDT 2003,2.41,207.00
+HGCC2,Hiwan_G.C.,Sat Jul 12 16:55:00 PDT 2003,0.45,355.00
+HIGC2,Highlands_Ranch_WTP,Sat Jul 12 16:55:00 PDT 2003,0.49,264.00
+SAPC2,Salisbury_Park,Sat Jul 12 16:55:00 PDT 2003,1.70,84.00
+COKC2,Castle_Rock,Sat Jul 12 16:55:00 PDT 2003,1.03,22.00
+SFSC2,Sugarloaf,Sat Jul 12 16:55:00 PDT 2003,0.63,96.00
+LEWC2,Louisville_Lake,Sat Jul 12 16:55:00 PDT 2003,0.98,146.00
+CALC2,Cal-Wood_Ranch,Sat Jul 12 16:55:00 PDT 2003,2.10,84.00
+BTRC2,Button_Rock,Sat Jul 12 16:55:00 PDT 2003,0.49,124.00
+MAIF1,Marianna                               FAWN,Sat Jul 12 16:00:00 PDT 2003,1.82,163.50
+H0004,BoblandUSA             San Diego     CA,Sat Jul 12 16:51:00 PDT 2003,0.00,290.00
+H0549,Danville		Alum Springs KY,Sat Jul 12 16:55:00 PDT 2003,0.89,310.00
+H0449,West Houston	        Houston	     TX,Sat Jul 12 16:59:00 PDT 2003,1.34,180.00
+H0460,ValleyView Ranch       Reasnor      IA,Sat Jul 12 16:59:00 PDT 2003,0.00,290.00
+H0024,Cornelius     OR,Sat Jul 12 16:46:00 PDT 2003,1.79,230.00
+H0025,Dickinson     TX,Sat Jul 12 16:55:00 PDT 2003,1.79,120.00
+H0238,Lake Forest   CA,Sat Jul 12 16:53:00 PDT 2003,0.45,250.00
+H0347,Terra Cotta Estates    Lincoln       CA,Sat Jul 12 16:55:00 PDT 2003,1.34,250.00
+H0506,Visalia	     CA,Sat Jul 12 16:47:00 PDT 2003,1.34,260.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Sat Jul 12 16:57:00 PDT 2003,0.00,260.00
+H0417,Oxford Mills           Oxford Junction	IA,Sat Jul 12 16:58:00 PDT 2003,0.45,290.00
+H0191,Paducah       KY,Sat Jul 12 16:53:00 PDT 2003,0.00,40.00
+H0309,Columbus      OH,Sat Jul 12 16:50:00 PDT 2003,1.34,20.00
+H0338,Spartanburg   SC,Sat Jul 12 16:56:00 PDT 2003,0.00,140.00
+H0310,SSC                    Abilene       TX,Sat Jul 12 16:45:00 PDT 2003,1.34,80.00
+H0278,TeleHobbies            Rockwall      TX,Sat Jul 12 16:49:00 PDT 2003,0.89,190.00
+H0293,Harrisonburg  VA,Sat Jul 12 16:52:00 PDT 2003,0.89,200.00
+CO036,Virginia Dale (35),Sat Jul 12 16:46:00 PDT 2003,1.34,215.00
+CO037,I-25 @ Berthoud (43),Sat Jul 12 16:47:00 PDT 2003,0.45,355.00
+CO039,Wiggins @ Bijou Creek (44),Sat Jul 12 16:48:00 PDT 2003,4.02,140.00
+CO041,Natural Fort (38),Sat Jul 12 16:51:00 PDT 2003,3.58,190.00
+CO042,Wellington (38),Sat Jul 12 16:52:00 PDT 2003,4.92,175.00
+CO043,Briggsdale (42),Sat Jul 12 16:53:00 PDT 2003,8.05,50.00
+CO048,Holyoke (51),Sat Jul 12 16:45:00 PDT 2003,5.81,145.00
+CO065,I-70 @ Genesee (36),Sat Jul 12 16:40:00 PDT 2003,2.68,80.00
+CO067,I-70 @ Seibert (91),Sat Jul 12 16:41:00 PDT 2003,8.49,90.00
+CO070,Vail Pass (34),Sat Jul 12 16:43:00 PDT 2003,3.13,0.00
+CO092,Dowd Junction (10),Sat Jul 12 16:49:00 PDT 2003,3.58,305.00
+CO099,Canyon Creek (8),Sat Jul 12 16:54:00 PDT 2003,4.02,250.00
+CO100,Aspen (10),Sat Jul 12 16:50:00 PDT 2003,4.92,235.00
+CO101,Basalt (8*),Sat Jul 12 16:50:00 PDT 2003,1.34,320.00
+CO102,Steamboat Springs (5),Sat Jul 12 16:53:00 PDT 2003,1.34,165.00
+CO103,Snowmass @HWY82 mp26.8 (10*),Sat Jul 12 16:54:00 PDT 2003,0.45,280.00
+CO104,Shale Bluffs (10),Sat Jul 12 16:46:00 PDT 2003,3.58,230.00
+4UT01,NORTH SALT LAKE BENCH            UT US 4UTAH,Sat Jul 12 16:45:00 PDT 2003,3.13,315.00
+A01,AREA 1                           NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,7.72,207.00
+A02,AREA 2                           NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,6.17,214.00
+A03,AREA 3 SOUTH                     NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,8.75,232.00
+A04,AREA 4                           NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,7.20,224.00
+A05,WELL 5B                          NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,6.17,219.00
+A09,AREA 9                           NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,8.23,185.00
+A12,AREA 12 MESA                     NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,6.17,191.00
+A13,AREA 5 NORTH                     NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,0.51,200.00
+A14,AREA 15                          NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,4.12,223.00
+A16,BJY TOWER                        NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,8.75,219.00
+A17,BUSTER JUNGLE                    NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,7.20,205.00
+A18,AREA 18                          NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,7.20,215.00
+A20,PAHUTE MESA 1                    NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,5.66,231.00
+A21,AREA 16                          NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,4.63,216.00
+A23,MERCURY                          NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,7.72,175.00
+A24,YUCCA MOUNTAIN                   NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,6.17,236.00
+A25,AREA 25 SOUTH                    NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,5.14,240.00
+A26,AREA 25 EAST                     NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,5.14,265.00
+A28,DEVICE ASSEM.                    NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,4.63,227.00
+A34,HAZMAT N/E                       NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,5.66,229.00
+A35,TONOPAH TEST                     NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,7.20,202.00
+A36,NELLIS RANGE 63                  NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,5.14,305.00
+A41,REBOUND ANG RD                   NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,6.69,226.00
+A42,STATION 42                       NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,5.14,229.00
+A45,REBOUND SOUTH                    NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,7.20,223.00
+A49,X-TUNNEL                         NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,6.69,194.00
+ABD,ABERDEEN                         ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,3.56,169.00
+AME,CAMUS                            ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,9.25,217.00
+ANGM8,Angel Point                      MT US MSOWFO,Sat Jul 12 16:30:00 PDT 2003,4.87,280.00
+ARO,ARCO                             ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,9.26,261.80
+ATO,ATOMIC CITY                      ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,9.46,249.00
+BAC,BACCUS/SR111                     UT US UTAH DOT,Sat Jul 12 16:45:00 PDT 2003,2.68,63.00
+BBN,BOUNTIFUL BENCH                  UT US KSL,Sat Jul 12 16:45:00 PDT 2003,0.90,248.00
+BFU,BELLE FOURCHE                    WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,4.63,140.00
+BGAM8,Big Arm                          MT US MSOWFO,Sat Jul 12 16:30:00 PDT 2003,8.58,240.00
+BIT,BITTERCREEK                      WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,9.77,270.00
+BLD,BLUE DOME                        ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,6.40,262.30
+BLK,BLACKFOOT NEW                    ID    ARL FRD,Sat Jul 12 16:45:00 PDT 2003,3.43,235.10
+BRX,ANONYMOUS WY OB                  WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,5.66,50.00
+BSB,BIG SOUTHERN BUTTE               ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,8.58,253.00
+BTF,POWER BURST FACILITY             ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,8.94,246.80
+BVR,BEAVER RIM                       WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,6.17,270.00
+CFA,CENTRAL FACILITY                 ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,9.78,273.40
+COMID,CRATERS OF THE MOON              ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,8.74,243.00
+CTBBS,Black Butte Summit               CA US CalTrans,Sat Jul 12 16:15:00 PDT 2003,4.48,90.00
+CTBSN,Buckhorn Sandhouse               CA US CalTrans,Sat Jul 12 16:30:00 PDT 2003,1.60,0.00
+CTD,CONTINENTAL DIVIDE               WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,7.20,270.00
+CTDUN,Dunsmuir                         CA US CalTrans,Sat Jul 12 16:15:00 PDT 2003,4.48,0.00
+CTHLT,Hilt                             CA US CalTrans,Sat Jul 12 16:30:00 PDT 2003,5.43,280.00
+CTHRN,Hornbrook                        CA US CalTrans,Sat Jul 12 16:15:00 PDT 2003,5.11,220.00
+CTOMS,Oregon Mountain Summit           CA US CalTrans,Sat Jul 12 16:30:00 PDT 2003,6.08,235.00
+CTSNS,Snowman's Summit                 CA US CalTrans,Sat Jul 12 16:15:00 PDT 2003,0.00,0.00
+CTWDA,Weed Airport                     CA US CalTrans,Sat Jul 12 16:15:00 PDT 2003,4.79,0.00
+CTWED,North Weed                       CA US CalTrans,Sat Jul 12 16:15:00 PDT 2003,0.96,95.00
+CVRN2,CAVE ROCK                        NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,1.61,312.00
+DMC,DEAD MAN CANYON                  ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,12.32,251.20
+DPG01,MICHAEL AAF                      UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,0.50,52.00
+DPG03,V-GRID                           UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,3.10,185.00
+DPG04,TARGET S                         UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,3.20,215.00
+DPG05,WHITE SAGE                       UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,1.80,167.00
+DPG06,CAMEL BACK MTN                   UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,2.30,116.00
+DPG07,MAIN GATE                        UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,1.30,353.00
+DPG08,HORIZONTAL GRID                  UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,2.90,174.00
+DPG10,BAKER LAB                        UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,3.00,132.00
+DPG11,TOWER GRID                       UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,0.70,83.00
+DPG12,JULIET ROAD                      UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,3.70,152.00
+DPG14,NORTH WIG                        UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,3.10,164.00
+DPG15,SALT FLATS                       UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,1.80,101.00
+DPG19,FISH SPRINGS                     UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,6.90,163.00
+DPG20,CALLAO                           UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,6.60,169.00
+DPG21,SIMPSON SPRING                   UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,3.70,282.00
+DPG22,NW DECON PAD                     UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,4.00,173.00
+DPG23,INF Road                         UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,2.20,168.00
+DRC,ANONYMOUS WY OB                  WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,4.63,320.00
+DUB,DUBOIS                           ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,6.30,159.60
+DVE,DV - BURNS                       UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,0.90,226.00
+DXCN2,DIAMOND PEAK                     NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,4.29,141.00
+EAC,TEST REACTOR AREA                ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,9.92,258.40
+EBR,ARGONNE NATL LAB-W               ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,8.49,246.60
+FIR,FIRST DIVIDE                     WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,6.69,270.00
+FOR,FORT HALL                        ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,3.82,255.30
+FPKUT,FRANCIS PEAK                     UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,0.00,336.00
+FWP,FARNSWORTH PEAK                  UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,2.23,112.00
+GNI,GUNNISON ISLAND DNR              UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,4.47,109.00
+HATUT,HAT ISLAND                       UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,5.37,85.00
+HLD,HILAND                           WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,5.14,320.00
+HMNM8,Hamilton                         MT US MSOWFO,Sat Jul 12 16:45:00 PDT 2003,1.95,300.00
+HOL,NORTH HOLLADAY                   UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,0.45,360.00
+HOW,HOWE                             ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,6.20,232.40
+HWB,HOWE PEAK BASE                   ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,10.14,246.30
+ICNN2,INCLINE                          NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,1.61,185.00
+IDF,IDAHO FALLS                      ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,6.01,195.00
+IDV,I-25 DIVIDE                      WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,6.17,320.00
+IEIN2,SOUTH RENO                       NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,3.31,184.00
+INI,MINIDOKA                         ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,5.69,283.50
+JCTN2,CARSON CITY                      NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,7.78,247.00
+KAHN2,KAHLE DR                         NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,4.11,30.00
+KAYUT,Kaysville                        UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,0.90,324.00
+KET,KETTLE BUTTE                     ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,9.65,277.70
+LANL1,LANLTA6                          NM US LANL,Sat Jul 12 16:30:00 PDT 2003,5.98,284.10
+LANL2,LANLTA54                         NM US LANL,Sat Jul 12 16:30:00 PDT 2003,5.57,281.20
+LRR,LOST RIVER REST AREA             ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,10.26,245.60
+MBY,DV - MOUNT BALDY                 UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,1.79,73.00
+MON,MONTEVIEW                        ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,7.63,208.60
+MSI01,SUGARHOUSE - MSI                 UT US MSI,Sat Jul 12 16:45:00 PDT 2003,1.61,328.00
+MTR,MEETEETSE RIM                    WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,1.54,90.00
+MWQAR,Arlington                        OR US PDTWFO,Sat Jul 12 16:45:00 PDT 2003,8.23,270.00
+MWQHP,Heppner                          OR US PDTWFO,Sat Jul 12 16:30:00 PDT 2003,3.60,315.00
+NDD,SAND DUNES                       ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,11.33,258.30
+NINM8,Ninepipe Dam                     MT US MSOWFO,Sat Jul 12 16:30:00 PDT 2003,4.20,250.00
+NRF,NAVAL REACTOR FACILITY           ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,8.80,262.30
+ODT01,BEND PARKWAY - NORTH CANAL       OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,4.92,225.00
+ODT03,ODELL LAKE - WILLAMETTE PASS     OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,3.58,0.00
+ODT04,KLAMATH FALLS                    OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,4.47,180.00
+ODT06,INTERSTATE BRIDGE NORTH SPAN     OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,3.58,225.00
+ODT08,GLEN JACKSON BRIDGE NORTH CHAN   OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,0.45,0.00
+ODT10,FREMONT BRIDGE WEST UPPER DECK   OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,6.26,90.00
+ODT13,TIMBER JUNCTION                  OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,0.90,180.00
+ODT14,I-205 - DIVISION STREET          OR US ODOT,Sat Jul 12 16:30:00 PDT 2003,6.26,270.00
+ODT15,BRIGHTWOOD WEIGHT STATION        OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,0.45,180.00
+ODT16,THE DALLES WEST OF CELILO        OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,2.23,270.00
+ODT20,WEATHERBY REST AREA              OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,0.00,0.00
+ODT21,BATTLE MOUNTAIN SUMMIT           OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,2.68,0.00
+ODT22,SISKIYOU SUMMIT                  OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,1.79,0.00
+ODT23,HAYES HILL SUMMIT                OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,4.02,225.00
+ODT24,SEXTON MOUNTAIN SUMMIT           OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,4.47,180.00
+ODT26,MEDFORD VIADUCT                  OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,4.47,315.00
+ODT27,PORT ORFORD                      OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,3.58,0.00
+ODT28,HWY 42 - COOS COUNTY LINE        OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,1.34,0.00
+PABM8,Pablo Dam                        MT US MSOWFO,Sat Jul 12 16:30:00 PDT 2003,3.80,270.00
+PAT,PATHFINDER HILL                  WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,5.14,180.00
+PCS,PARK CITY - EAGLE                UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,1.79,180.00
+PIN,PINEY CREEK                      WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,3.60,50.00
+PLSM8,Polson                           MT US MSOWFO,Sat Jul 12 16:30:00 PDT 2003,5.50,190.00
+PRP,PROMONTORY POINT                 UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,1.79,204.00
+PUM,PUMPKIN VINE                     WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,3.09,140.00
+RHF,RICHFIELD                        ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,3.52,275.80
+RID,GRID III                         ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,9.88,265.60
+ROB,ROBERTS                          ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,6.37,240.30
+ROV,ROVER                            ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,10.00,257.70
+RTPC1,ROSEVILLE WATER TRMT PLT         CA US CNRFC,Sat Jul 12 16:30:00 PDT 2003,1.29,60.00
+RWM,RDIOACTV WSTE MGMT CMPLX         ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,9.11,257.00
+RXB,REXBURG                          ID    ARL FRD,Sat Jul 12 16:45:00 PDT 2003,5.04,180.40
+SAPC1,SACRAMENTO METRO AIRPORT         CA US CNRFC,Sat Jul 12 16:30:00 PDT 2003,5.56,150.00
+SARC1,SOUTHERN AG. RESEARCH CENTER     MT US SARC,Sat Jul 12 16:45:00 PDT 2003,0.00,0.00
+SBW,SNOWBASIN-JOHN PAUL              UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,1.34,28.00
+SECN2,SECRET CREEK                     NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,1.92,337.00
+SIB,SIBLEY PEAK                      WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,2.57,90.00
+SMTC1,SACRAMENTO POST OFFICE           CA US CNRFC,Sat Jul 12 16:45:00 PDT 2003,0.46,110.00
+SNC,PARK CITY MUN G.C.               UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,0.90,209.00
+SNI,SNOWBASIN-MID. BOWL              UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,0.90,281.00
+SNZ,BOUNTIFUL/F G  HOUSE             UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,0.45,13.00
+SODM8,SOD Ronan                        MT US MSOWFO,Sat Jul 12 16:30:00 PDT 2003,3.89,260.00
+SPRN2,SPOONER SUMMIT                   NV US NV DOT,Sat Jul 12 16:30:00 PDT 2003,5.59,237.00
+SRD06,YUCCA FLAT                       NV US ARL SORD,Sat Jul 12 16:30:00 PDT 2003,4.63,212.00
+STORM,Storm Peak Observatory           CO US DRI,Sat Jul 12 16:45:00 PDT 2003,4.07,1.00
+SUG,SUGAR CITY                       ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,3.77,166.00
+TAB,TABER                            ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,8.33,248.30
+TER,TERRETON                         ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,7.67,231.60
+TMH,TWENTY MILE HILL                 WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,3.60,270.00
+TMPC1,PACIFIC OCEAN - TOMASINI POINT   CA US CNRFC,Sat Jul 12 16:45:00 PDT 2003,9.05,300.00
+TSN,TEST AREA NORTH                  ID US ARL FRD,Sat Jul 12 16:45:00 PDT 2003,10.49,236.80
+UT1,WAHSATCH HILL EB                 UT US UTAH DOT,Sat Jul 12 16:45:00 PDT 2003,4.20,225.00
+UT12,I15/I215 SB                      UT US UTAH DOT,Sat Jul 12 16:45:00 PDT 2003,1.92,292.50
+UT20,I15 500S WB (Gateway)            UT US UTAH DOT,Sat Jul 12 16:45:00 PDT 2003,1.61,292.50
+UT23,I-15/2400 S Spaghetti            UT US UTAH DOT,Sat Jul 12 16:45:00 PDT 2003,2.10,157.50
+UT5,MOUTH PARLEYS                    UT US UTAH DOT,Sat Jul 12 16:45:00 PDT 2003,3.22,112.50
+UT7,BLUFFDALE                        UT US UTAH DOT,Sat Jul 12 16:45:00 PDT 2003,3.22,247.50
+UT9,LAKE POINT I-80                  UT US UTAH DOT,Sat Jul 12 16:45:00 PDT 2003,4.78,0.00
+VDW,VEDAUWOO                         WY US WY DOT,Sat Jul 12 16:30:00 PDT 2003,5.66,320.00
+WASN2,WASHOE VALLEY                    NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,7.42,192.00
+WBB,WBB/U UTAH                       UT US SNOWNET,Sat Jul 12 16:45:00 PDT 2003,0.46,168.00
+XMSN2,BULLS EYE                        NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,1.52,47.00
+YM1,YUCCA MOUNTAIN 1                 NV US DOERD,Sat Jul 12 16:45:00 PDT 2003,5.66,223.00
+MGRN,GREENOUGH HILL MT200             MT US MT DOT,Sat Jul 12 16:00:00 PDT 2003,1.92,15.00
+MAIF1,Marianna                               FAWN,Sat Jul 12 16:15:00 PDT 2003,0.99,6.58
+CO066,I-70 @ Cedar Point (46),Sat Jul 12 16:49:00 PDT 2003,7.60,105.00
+CO071,Floyd Hill (36),Sat Jul 12 16:44:00 PDT 2003,0.45,95.00
+CO072,I-70 @ Bennett (45),Sat Jul 12 16:44:00 PDT 2003,3.13,15.00
+CO073,Surrey Ridge (41),Sat Jul 12 16:45:00 PDT 2003,1.79,45.00
+CO075,Founders Point (41),Sat Jul 12 16:47:00 PDT 2003,2.68,40.00
+CO094,Independence Pass (10),Sat Jul 12 16:42:00 PDT 2003,3.13,260.00
+BIT,BITTERCREEK                      WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,5.14,270.00
+BVR,BEAVER RIM                       WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,8.23,320.00
+CTD,CONTINENTAL DIVIDE               WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,4.12,320.00
+CVRN2,CAVE ROCK                        NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,1.70,311.00
+DHS,DEAD HORSE                       WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,2.06,90.00
+DPG02,CALLAO GATE                      UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,4.10,184.00
+DPG09,SE SALT FLATS                    UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,4.40,124.00
+DPG17,INTERSTATE 80                    UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,3.90,115.00
+DPG18,CAUSEWAY                         UT US DUGWAY,Sat Jul 12 16:45:00 PDT 2003,5.30,139.00
+HLD,HILAND                           WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,2.57,270.00
+IDV,I-25 DIVIDE                      WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,8.23,320.00
+JCTN2,CARSON CITY                      NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,8.58,248.00
+KAHN2,KAHLE DR                         NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,3.31,27.00
+MBOW,BOWMANS CORNER MT-200            MT US MT DOT,Sat Jul 12 16:30:00 PDT 2003,6.39,265.00
+MBRN,TWO MEDICINE BRIDGE US-2         MT US MT DOT,Sat Jul 12 16:45:00 PDT 2003,10.01,200.00
+MBVR,BEAVER HILL I-94                 MT US MT DOT,Sat Jul 12 16:15:00 PDT 2003,6.12,110.00
+MCRY,CRYSTAL CREEK US2                MT US MT DOT,Sat Jul 12 16:30:00 PDT 2003,4.16,330.00
+MESX,ESSEX US2                        MT US MT DOT,Sat Jul 12 16:30:00 PDT 2003,1.92,110.00
+MHLM,HELMVILLE MT-200                 MT US MT DOT,Sat Jul 12 16:30:00 PDT 2003,0.00,0.00
+MMCD,MCDONALDS MT-13                  MT US MT DOT,Sat Jul 12 16:45:00 PDT 2003,5.81,165.00
+MPND,PENDROY MT-89                    MT US MT DOT,Sat Jul 12 16:30:00 PDT 2003,6.66,250.00
+MTR,MEETEETSE RIM                    WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,2.06,140.00
+MYEP,DEARBORN/GARY COOPER I-1         MT US MT DOT,Sat Jul 12 16:45:00 PDT 2003,6.12,185.00
+MYRB,YELLOWSTONEBRIDGE/BILLIN         MT US MT DOT,Sat Jul 12 16:45:00 PDT 2003,1.38,185.00
+NPYC1,NAPA CORPORATION YARD            CA US CNRFC,Sat Jul 12 16:45:00 PDT 2003,1.44,210.00
+ODT04,KLAMATH FALLS                    OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,2.68,180.00
+ODT14,I-205 - DIVISION STREET          OR US ODOT,Sat Jul 12 16:45:00 PDT 2003,6.70,270.00
+PAT,PATHFINDER HILL                  WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,2.57,320.00
+PIN,PINEY CREEK                      WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,1.54,360.00
+PUM,PUMPKIN VINE                     WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,4.12,180.00
+RTPC1,ROSEVILLE WATER TRMT PLT         CA US CNRFC,Sat Jul 12 16:45:00 PDT 2003,1.03,90.00
+SAPC1,SACRAMENTO METRO AIRPORT         CA US CNRFC,Sat Jul 12 16:45:00 PDT 2003,5.45,180.00
+SECN2,SECRET CREEK                     NV US NV DOT,Sat Jul 12 16:45:00 PDT 2003,1.92,344.00
+TMH,TWENTY MILE HILL                 WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,1.54,320.00
+TOR,TORRINGTON MUNI                  WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,3.09,50.00
+VDW,VEDAUWOO                         WY US WY DOT,Sat Jul 12 16:45:00 PDT 2003,6.69,320.00
+H0424,Carson City	        Carson City  NV,Sat Jul 12 16:00:00 PDT 2003,4.47,270.00
+CO051,Greeley (43),Sat Jul 12 16:57:00 PDT 2003,2.24,240.00
+CO065,I-70 @ Genesee (36),Sat Jul 12 16:59:00 PDT 2003,0.89,20.00
+CTBBS,Black Butte Summit               CA US CalTrans,Sat Jul 12 16:45:00 PDT 2003,3.52,85.00
+CTDUN,Dunsmuir                         CA US CalTrans,Sat Jul 12 16:45:00 PDT 2003,3.52,0.00
+CTSNS,Snowman's Summit                 CA US CalTrans,Sat Jul 12 16:45:00 PDT 2003,0.00,0.00
+CTWDA,Weed Airport                     CA US CalTrans,Sat Jul 12 16:45:00 PDT 2003,3.84,0.00
+CTWED,North Weed                       CA US CalTrans,Sat Jul 12 16:45:00 PDT 2003,4.48,140.00
+KQFP,East of Fort Peck Dam            MT US MSOWFO,Sat Jul 12 16:45:00 PDT 2003,5.14,150.00
+KQML,Malta                            MT US MSOWFO,Sat Jul 12 16:45:00 PDT 2003,1.54,240.00
+KQPW,Plentywood                       MT US MSOWFO,Sat Jul 12 16:45:00 PDT 2003,5.66,170.00
+MAIF1,Marianna                               FAWN,Sat Jul 12 16:30:00 PDT 2003,1.10,16.86
+TRIVE,Riverside                        WA US WA DOT,Sat Jul 12 16:45:00 PDT 2003,4.92,355.00
+TSBLE,South Blewett                    WA US WA DOT,Sat Jul 12 16:45:00 PDT 2003,0.45,113.00
+TSILI,Silica Road                      WA US WA DOT,Sat Jul 12 16:45:00 PDT 2003,6.70,245.00
+MAIF1,Marianna                               FAWN,Sat Jul 12 16:45:00 PDT 2003,0.68,53.62
+H0424,Carson City	        Carson City  NV,Sat Jul 12 16:30:00 PDT 2003,3.13,180.00

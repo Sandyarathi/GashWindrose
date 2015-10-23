@@ -21,19 +21,19 @@ struct MesoData
 };
 
 int main (int argc, char* argv[]);
-vector<MesoData> readData(String file_name);
+vector<MesoData> readData(string file_name);
 void aggData(vector<MesoData> data);
 
 
 
 int main( int argc, char *argv[]){
-  String file_name = "../Data/ACME_2011.csv";
+  string file_name = "../Data/ACME_2011.csv";
   vector<MesoData> inputData= readData(file_name);
   aggData(inputData);
 
 }
 
-vector<MesoData> readData(String file_name) {
+vector<MesoData> readData(string file_name) {
   vector<MesoData> inData;
   ifstream  inputfile1(file_name);
   inputfile1.ignore(100, '\n');//To ignore column header line

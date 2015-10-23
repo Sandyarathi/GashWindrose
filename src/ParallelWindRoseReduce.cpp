@@ -1,3 +1,5 @@
+
+
 #include <mpi.h>
 #include <iostream>
 #include <fstream>
@@ -5,6 +7,7 @@
 #include <vector>
 #include <sstream>
 #include <cstdlib>
+
 #include <array>
 using namespace std;
 
@@ -27,12 +30,13 @@ int calcSpeedBin(float windSpd) {
 
 struct MesoData
 {
-	int year;
-	int month;
-	int day;
+
+	//int year;
+	//int month;
+	//int day;
 	string stid;
-	int windDir;
 	double windSpd;
+	int windDir;
 };
 
 vector<MesoData> readData(string file_name) {
@@ -42,25 +46,35 @@ vector<MesoData> readData(string file_name) {
     string line;
     while(getline(inputfile1,line))
     {
-      string rowData[6];
+      bool setflag =false;
+      string rowData[3];
       istringstream lineStream(line);
       string token;
       int i=0;
       while(getline(lineStream,token,',')){
-        rowData[i++]=token;
+    	if(!rowData[0] == "AP005" ){
+    		setflag=true;
+    		break;
+    	}
+    	rowData[i++]=token;
       }
+      if(setflag)
+    	  continue;
        MesoData mesoData ={
-        atoi(rowData[0].c_str()),
+        //atoi(rowData[0].c_str()),
+        //atoi(rowData[1].c_str()),
+        //atoi(rowData[2].c_str()),
+        rowData[0],
         atoi(rowData[1].c_str()),
-        atoi(rowData[2].c_str()),
-        rowData[3],
-        atoi(rowData[4].c_str()),
-        atof(rowData[5].c_str())
+        atof(rowData[2].c_str())
       };
-    inData.push_back(mesoData);
+    if(mesoData.stid == "AP005")
+    	inData.push_back(mesoData);
     }
     return inData;
 }
+
+
 
 auto aggData(vector<MesoData> data){
   auto wr = new int[NUM_OF_SECTORS][SPEED_BUCKETS]();

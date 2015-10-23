@@ -1,0 +1,2752 @@
+QURC2,Quincy_Res,Thu Jul 17 15:00:00 PDT 2003,1.12,101.00
+DHPC2,Diamond_Hill,Thu Jul 17 15:00:00 PDT 2003,3.62,79.00
+EBBC2,Elbert,Thu Jul 17 15:00:00 PDT 2003,3.44,246.00
+BHNC2,Brighton,Thu Jul 17 15:00:00 PDT 2003,0.76,68.00
+SQWC2,Squaw_Mountain,Thu Jul 17 15:00:00 PDT 2003,2.01,41.00
+HGCC2,Hiwan_G.C.,Thu Jul 17 15:00:00 PDT 2003,3.13,119.00
+HIGC2,Highlands_Ranch_WTP,Thu Jul 17 15:00:00 PDT 2003,1.52,79.00
+SAPC2,Salisbury_Park,Thu Jul 17 15:00:00 PDT 2003,1.03,141.00
+COKC2,Castle_Rock,Thu Jul 17 15:00:00 PDT 2003,1.34,152.00
+LEWC2,Louisville_Lake,Thu Jul 17 15:00:00 PDT 2003,0.58,259.00
+CALC2,Cal-Wood_Ranch,Thu Jul 17 15:00:00 PDT 2003,0.85,129.00
+BTRC2,Button_Rock,Thu Jul 17 15:00:00 PDT 2003,0.98,158.00
+QUIF1,Quincy                                 FAWN,Thu Jul 17 15:00:00 PDT 2003,2.98,141.40
+CARF1,Carrabelle                             FAWN,Thu Jul 17 15:00:00 PDT 2003,3.71,14.52
+LIOF1,Live Oak                               FAWN,Thu Jul 17 15:00:00 PDT 2003,5.11,253.70
+MACF1,Macclenny                              FAWN,Thu Jul 17 15:00:00 PDT 2003,0.83,236.40
+BRZF1,Bronson                                FAWN,Thu Jul 17 15:00:00 PDT 2003,1.92,145.00
+PHAF1,Putnam Hall                            FAWN,Thu Jul 17 15:00:00 PDT 2003,1.02,258.60
+TRAF1,Citra                                  FAWN,Thu Jul 17 15:00:00 PDT 2003,2.09,227.80
+ALHF1,Alachua                                FAWN,Thu Jul 17 15:00:00 PDT 2003,1.70,236.00
+STNF1,Hastings                               FAWN,Thu Jul 17 15:00:00 PDT 2003,3.68,133.10
+CKHF1,Ocklawaha                              FAWN,Thu Jul 17 15:00:00 PDT 2003,1.44,114.40
+EPRF1,Pierson                                FAWN,Thu Jul 17 15:00:00 PDT 2003,1.76,123.80
+UMLF1,Umatilla                               FAWN,Thu Jul 17 15:00:00 PDT 2003,1.95,199.30
+KHPF1,Okahumpka                              FAWN,Thu Jul 17 15:00:00 PDT 2003,1.25,175.30
+VLNF1,Avalon                                 FAWN,Thu Jul 17 15:00:00 PDT 2003,4.46,124.50
+KSLF1,Brooksville                            FAWN,Thu Jul 17 15:00:00 PDT 2003,1.44,96.20
+KALF1,Lake Alfred                            FAWN,Thu Jul 17 15:00:00 PDT 2003,2.87,114.80
+KENF1,Kenansville                            FAWN,Thu Jul 17 15:00:00 PDT 2003,0.76,120.30
+DOVF1,Dover                                  FAWN,Thu Jul 17 15:00:00 PDT 2003,0.48,285.89
+DNTF1,Bradenton                              FAWN,Thu Jul 17 15:00:00 PDT 2003,1.35,297.10
+NNAF1,Ona                                    FAWN,Thu Jul 17 15:00:00 PDT 2003,4.16,108.50
+FDLF1,Fort Lauderdale                        FAWN,Thu Jul 17 15:00:00 PDT 2003,3.24,134.40
+PCEF1,Fort Pierce                            FAWN,Thu Jul 17 15:00:00 PDT 2003,4.11,111.20
+STDF1,Homestead                              FAWN,Thu Jul 17 15:00:00 PDT 2003,5.66,110.90
+IMKF1,Immokalee                              FAWN,Thu Jul 17 15:00:00 PDT 2003,2.64,68.98
+PALF1,Palmdale                               FAWN,Thu Jul 17 15:00:00 PDT 2003,1.10,76.40
+SEBF1,Sebring                                FAWN,Thu Jul 17 15:00:00 PDT 2003,1.36,85.60
+H0003,Black River Electric   Fredericktown MO,Thu Jul 17 15:00:00 PDT 2003,1.34,10.00
+H0344,BlueStar Systems       Milford      OH,Thu Jul 17 15:01:00 PDT 2003,0.00,260.00
+H0004,BoblandUSA             San Diego     CA,Thu Jul 17 15:01:00 PDT 2003,0.45,180.00
+H0457,Corte Madera CA,Thu Jul 17 15:01:00 PDT 2003,3.58,170.00
+H0010,Mac Weather            Charlottetown PE,Thu Jul 17 15:00:00 PDT 2003,0.00,240.00
+H0012,Crowley TX WX Page     Crowley       TX,Thu Jul 17 15:01:00 PDT 2003,0.45,150.00
+H0449,West Houston	        Houston	     TX,Thu Jul 17 15:00:00 PDT 2003,0.00,150.00
+H0017,Olathe        KS,Thu Jul 17 15:01:00 PDT 2003,1.79,240.00
+H0020,Gilbert       AZ,Thu Jul 17 15:01:00 PDT 2003,0.00,140.00
+H0500,Gilroy	     CA,Thu Jul 17 15:01:00 PDT 2003,1.34,150.00
+H0025,Dickinson     TX,Thu Jul 17 15:02:00 PDT 2003,1.34,150.00
+H0461,Westford     MA,Thu Jul 17 15:03:00 PDT 2003,0.00,200.00
+H0029,Affton        MO,Thu Jul 17 15:00:00 PDT 2003,0.45,170.00
+H0299,KALB Studios           Alexandria    LA,Thu Jul 17 15:00:00 PDT 2003,2.24,330.00
+H0182,Apache Juncti AZ,Thu Jul 17 15:01:00 PDT 2003,2.24,160.00
+H0462,Chandler     AZ,Thu Jul 17 15:00:00 PDT 2003,1.34,110.00
+H0163,Aspen Trails Subdiv. WX Flagstaff    AZ,Thu Jul 17 15:03:00 PDT 2003,2.24,270.00
+H0489,Pagosa Springs CO,Thu Jul 17 15:00:00 PDT 2003,1.34,260.00
+H0031,Rainbow City  AL,Thu Jul 17 15:00:00 PDT 2003,0.00,0.00
+H0032,Hendersonvill TN,Thu Jul 17 15:00:00 PDT 2003,0.89,30.00
+H0498,Balboa	     CA,Thu Jul 17 15:01:00 PDT 2003,3.13,120.00
+H0339,Williams Worship       Bellflower    CA,Thu Jul 17 15:01:00 PDT 2003,3.58,190.00
+H0464,Citrus Heights CA,Thu Jul 17 15:00:00 PDT 2003,0.00,300.00
+H0300,Cloverdale    CA,Thu Jul 17 15:03:00 PDT 2003,2.68,170.00
+H0223,Petroglyph Computing   Crestline     CA,Thu Jul 17 15:02:00 PDT 2003,0.00,50.00
+H0450,Dublin       CA,Thu Jul 17 15:04:00 PDT 2003,1.34,130.00
+H0294,Rancho San Diego       El Cajon      CA,Thu Jul 17 15:00:00 PDT 2003,0.00,150.00
+H0560,El Dorado Hills	Dartboard Wx CA,Thu Jul 17 15:01:00 PDT 2003,2.68,290.00
+H0232,Emerald Hills          Redwood City  CA,Thu Jul 17 15:02:00 PDT 2003,1.34,20.00
+H0346,California Hills       Folsom        CA,Thu Jul 17 15:00:00 PDT 2003,1.79,300.00
+H0153,Coyote Weather         Fort Bragg    CA,Thu Jul 17 15:00:00 PDT 2003,2.24,290.00
+H0562,Grizzly Flats			     CA,Thu Jul 17 15:04:00 PDT 2003,0.00,50.00
+H0333,Cathouse Backyard WX   Lakeside      CA,Thu Jul 17 15:02:00 PDT 2003,1.79,200.00
+H0158,Lancaster     CA,Thu Jul 17 15:01:00 PDT 2003,3.13,230.00
+H0465,Occidental   CA,Thu Jul 17 15:01:00 PDT 2003,2.24,300.00
+H0564,Rohnert Park			     CA,Thu Jul 17 15:00:00 PDT 2003,0.45,260.00
+H0269,South Valley Internet  San Martin    CA,Thu Jul 17 15:00:00 PDT 2003,2.24,20.00
+H0259,Pickles Central        San Rafael    CA,Thu Jul 17 15:01:00 PDT 2003,2.24,280.00
+H0452,Santa Rosa   CA,Thu Jul 17 15:00:00 PDT 2003,1.34,240.00
+H0442,Whittier     CA,Thu Jul 17 15:00:00 PDT 2003,3.13,160.00
+H0566,Crestone			     CO,Thu Jul 17 15:02:00 PDT 2003,0.00,160.00
+H0185,On the Mesa            Meeker        CO,Thu Jul 17 15:02:00 PDT 2003,0.89,310.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Thu Jul 17 15:00:00 PDT 2003,1.34,60.00
+H0325,Summit County CO,Thu Jul 17 15:00:00 PDT 2003,1.34,230.00
+H0189,Canterbury    CT,Thu Jul 17 15:02:00 PDT 2003,0.89,210.00
+H0206,Stonybrook             Norwalk       CT,Thu Jul 17 15:00:00 PDT 2003,0.00,200.00
+H0035,Bristol, VA WX Station Bristol       VA,Thu Jul 17 15:01:00 PDT 2003,0.00,260.00
+H0036,Dunstable     MA,Thu Jul 17 15:00:00 PDT 2003,1.79,290.00
+H0224,Boynton Beach FL,Thu Jul 17 15:00:00 PDT 2003,0.89,140.00
+H0351,Port St. John Weather  Cocoa         FL,Thu Jul 17 15:01:00 PDT 2003,0.00,40.00
+H0295,Lake Mary     FL,Thu Jul 17 15:02:00 PDT 2003,1.34,150.00
+H0270,Margate       FL,Thu Jul 17 15:01:00 PDT 2003,1.34,100.00
+H0240,Santa Rosa Sound       Navarre       FL,Thu Jul 17 15:02:00 PDT 2003,0.89,350.00
+H0468,Pensacola Beach        Gulf Breeze  FL,Thu Jul 17 15:04:00 PDT 2003,0.89,30.00
+H0312,Satellite Bea FL,Thu Jul 17 15:05:00 PDT 2003,2.68,80.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Thu Jul 17 15:01:00 PDT 2003,1.34,110.00
+H0175,Sampson                St. Augustine FL,Thu Jul 17 15:00:00 PDT 2003,2.68,90.00
+H0509,Buchanan     GA,Thu Jul 17 15:00:00 PDT 2003,0.00,220.00
+H0296,KD4K                   Cumming       GA,Thu Jul 17 15:02:00 PDT 2003,0.00,280.00
+H0134,Powder Spring GA,Thu Jul 17 15:00:00 PDT 2003,0.00,20.00
+H0569,Rabun Gap			     GA,Thu Jul 17 15:00:00 PDT 2003,0.00,330.00
+H0234,Roswell       GA,Thu Jul 17 15:03:00 PDT 2003,1.34,10.00
+H0571,Hemet				     CA,Thu Jul 17 15:00:00 PDT 2003,0.00,330.00
+H0195,Van Meter     IA,Thu Jul 17 15:00:00 PDT 2003,0.45,0.00
+H0190,Boise         ID,Thu Jul 17 15:03:00 PDT 2003,0.00,300.00
+H0167,Northern Idaho Weather Coeur D' Alen ID,Thu Jul 17 15:02:00 PDT 2003,2.24,20.00
+H0427,Bloomington  IL,Thu Jul 17 15:01:00 PDT 2003,0.45,140.00
+H0205,Olathe        KS,Thu Jul 17 15:02:00 PDT 2003,2.68,200.00
+H0191,Paducah       KY,Thu Jul 17 15:02:00 PDT 2003,0.00,210.00
+H0287,Arlington Center       Arlington     MA,Thu Jul 17 15:02:00 PDT 2003,3.58,310.00
+H0272,WoodvilleGr1           Hopkinton     MA,Thu Jul 17 15:00:00 PDT 2003,1.34,330.00
+H0518,Lynn	     MA,Thu Jul 17 15:00:00 PDT 2003,0.89,160.00
+H0150,Davisburg     MI,Thu Jul 17 15:03:00 PDT 2003,0.00,290.00
+H0373,Parchment/Spring Valley Kalamazoo   MI,Thu Jul 17 15:00:00 PDT 2003,0.89,0.00
+H0253,Blaine        MN,Thu Jul 17 15:01:00 PDT 2003,0.00,310.00
+H0307,Bloomington   MN,Thu Jul 17 15:00:00 PDT 2003,0.00,340.00
+H0273,Minnesotaweathernet    Franklin      MN,Thu Jul 17 15:00:00 PDT 2003,3.13,60.00
+H0354,Monticello    MN,Thu Jul 17 15:01:00 PDT 2003,1.79,50.00
+H0342,Gideon School District Gideon        MO,Thu Jul 17 15:00:00 PDT 2003,0.89,20.00
+H0523,Lewisville   NC,Thu Jul 17 15:00:00 PDT 2003,0.45,220.00
+H0263,WeatherSource          Shelby        NC,Thu Jul 17 15:00:00 PDT 2003,0.00,120.00
+H0387,North Holmes           Lake Lincoln NE,Thu Jul 17 15:00:00 PDT 2003,0.89,20.00
+H0241,Omaha         NE,Thu Jul 17 15:00:00 PDT 2003,1.79,210.00
+H0289,Omaha         NE,Thu Jul 17 15:00:00 PDT 2003,0.00,200.00
+H0582,East Millstone			     NJ,Thu Jul 17 15:00:00 PDT 2003,0.89,260.00
+H0583,Highlands			     NJ,Thu Jul 17 15:00:00 PDT 2003,1.34,230.00
+H0476,Hopewell     NJ,Thu Jul 17 15:00:00 PDT 2003,0.00,250.00
+H0370,Meadowlands            Secaucus     NJ,Thu Jul 17 15:01:00 PDT 2003,0.45,150.00
+H0177,Highland Lakes         Vernon Twsp   NJ,Thu Jul 17 15:01:00 PDT 2003,2.24,330.00
+H0302,Cuba          NY,Thu Jul 17 15:00:00 PDT 2003,4.47,280.00
+H0358,Port of Rensselaer     Rensselaer    NY,Thu Jul 17 15:00:00 PDT 2003,4.47,310.00
+H0290,Rochester     NY,Thu Jul 17 15:01:00 PDT 2003,5.81,230.00
+H0304,Edmunds Weather        Smithtown     NY,Thu Jul 17 15:03:00 PDT 2003,1.79,330.00
+H0395,Mecox Bay              Water Mill   NY,Thu Jul 17 15:01:00 PDT 2003,0.89,280.00
+H0291,Colerain Township      Cincinnati    OH,Thu Jul 17 15:01:00 PDT 2003,0.00,80.00
+H0220,Hillsboro     OR,Thu Jul 17 15:00:00 PDT 2003,0.00,40.00
+H0492,Rock Creek, Hillsboro  Portland     OR,Thu Jul 17 15:01:00 PDT 2003,1.34,60.00
+H0159,Old Town               Sherwood      OR,Thu Jul 17 15:02:00 PDT 2003,1.34,20.00
+H0227,Turner        OR,Thu Jul 17 15:00:00 PDT 2003,1.79,340.00
+H0440,Broomall     PA,Thu Jul 17 15:00:00 PDT 2003,1.34,350.00
+H0179,Masons Mill Bus. Park  Bryn Athyn    PA,Thu Jul 17 15:01:00 PDT 2003,1.34,10.00
+H0160,Collinsville  PA,Thu Jul 17 15:00:00 PDT 2003,0.00,340.00
+H0336,Malvern       PA,Thu Jul 17 15:00:00 PDT 2003,0.00,280.00
+H0229,Audubon Society of W PA Fox Chapel   PA,Thu Jul 17 15:00:00 PDT 2003,0.00,10.00
+H0043,WX for West PA/East OH Sharon        PA,Thu Jul 17 15:01:00 PDT 2003,0.00,300.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Thu Jul 17 15:02:00 PDT 2003,0.89,40.00
+H0313,BosWeather             Greer         SC,Thu Jul 17 15:03:00 PDT 2003,0.45,110.00
+H0116,Boones Creek Weather   Salem         SC,Thu Jul 17 15:00:00 PDT 2003,0.00,250.00
+H0479,West Columbia SC,Thu Jul 17 15:01:00 PDT 2003,0.00,290.00
+H0329,Williamston   SC,Thu Jul 17 15:00:00 PDT 2003,0.00,110.00
+H0588,Mitchell			     SD,Thu Jul 17 15:01:00 PDT 2003,4.47,90.00
+H0298,Terricita Hills        Rapid City    SD,Thu Jul 17 15:00:00 PDT 2003,0.89,50.00
+H0247,Sturgis       SD,Thu Jul 17 15:03:00 PDT 2003,2.24,110.00
+H0447,Downtown               Santa Rosa   CA,Thu Jul 17 15:02:00 PDT 2003,1.79,190.00
+H0589,Castroville			     TX,Thu Jul 17 15:00:00 PDT 2003,0.89,180.00
+H0396,Williamson             County Franklin TN,Thu Jul 17 15:00:00 PDT 2003,0.45,210.00
+H0235,Lebanon       TN,Thu Jul 17 15:02:00 PDT 2003,0.45,40.00
+H0318,Austin        TX,Thu Jul 17 15:01:00 PDT 2003,0.00,140.00
+H0202,KC4WTI                 Irving        TX,Thu Jul 17 15:01:00 PDT 2003,0.00,110.00
+H0360,Corinth       TX,Thu Jul 17 15:05:00 PDT 2003,2.24,170.00
+H0591,Dallas	Oak Cliff		     TX,Thu Jul 17 15:00:00 PDT 2003,1.34,230.00
+H0194,Fort Davis    TX,Thu Jul 17 15:01:00 PDT 2003,4.02,100.00
+H0152,Frisco        TX,Thu Jul 17 15:01:00 PDT 2003,0.89,130.00
+H0180,Georgetown    TX,Thu Jul 17 15:03:00 PDT 2003,0.89,60.00
+H0311,Clear Lake City WX     Houston       TX,Thu Jul 17 15:02:00 PDT 2003,0.89,190.00
+H0361,R and K Weather        Houston       TX,Thu Jul 17 15:00:00 PDT 2003,0.00,340.00
+H0430,San Patricio           Mathis	     TX,Thu Jul 17 15:01:00 PDT 2003,0.00,60.00
+H0230,Riverbend WA5KXX       Plano         TX,Thu Jul 17 15:00:00 PDT 2003,1.34,220.00
+H0415,Northwest Crossing	San Antonio  TX,Thu Jul 17 15:02:00 PDT 2003,0.00,160.00
+H0280,Taylor        TX,Thu Jul 17 15:00:00 PDT 2003,1.34,160.00
+H0148,Rosehill Ranches       Tomball       TX,Thu Jul 17 15:00:00 PDT 2003,0.89,40.00
+H0362,Salt Lake Cty UT,Thu Jul 17 15:00:00 PDT 2003,2.24,0.00
+H0293,Harrisonburg  VA,Thu Jul 17 15:02:00 PDT 2003,0.00,230.00
+H0281,WREL WeatherCenter     Lexington     VA,Thu Jul 17 15:01:00 PDT 2003,0.00,120.00
+H0157,N4NW                   Stafford      VA,Thu Jul 17 15:03:00 PDT 2003,0.00,100.00
+H0594,Stafford			     VA,Thu Jul 17 15:00:00 PDT 2003,0.00,270.00
+H0363,Darrington    WA,Thu Jul 17 15:01:00 PDT 2003,1.79,250.00
+H0481,Kenmore      WA,Thu Jul 17 15:02:00 PDT 2003,2.24,280.00
+H0596,Maple Valley			     WA,Thu Jul 17 15:00:00 PDT 2003,0.00,260.00
+H0597,Vancouver			     WA,Thu Jul 17 15:02:00 PDT 2003,1.79,260.00
+H0331,Walnut Grove           Vancouver     WA,Thu Jul 17 15:00:00 PDT 2003,0.89,210.00
+H0598,Vancouver		Lutegrad Weather WA,Thu Jul 17 15:01:00 PDT 2003,1.79,60.00
+H0151,Lake Five              Clam Lake     WI,Thu Jul 17 15:01:00 PDT 2003,0.45,150.00
+H0490,Sylmar       CA,Thu Jul 17 15:00:00 PDT 2003,0.00,230.00
+H0423,Middleboro   MA,Thu Jul 17 15:00:00 PDT 2003,0.45,290.00
+H0603,Concord		Muncheeville CA,Thu Jul 17 15:01:00 PDT 2003,1.34,310.00
+H0052,New Milford Weather    New Milford   CT,Thu Jul 17 15:02:00 PDT 2003,0.00,180.00
+H0482,Savage       MN,Thu Jul 17 15:02:00 PDT 2003,1.79,130.00
+H0538,Newport News VA,Thu Jul 17 15:03:00 PDT 2003,0.00,120.00
+H0501,Peanut Hill Weather	Lodi	     CA,Thu Jul 17 15:03:00 PDT 2003,1.34,210.00
+H0062,Northeast Raleigh      Raleigh       NC,Thu Jul 17 15:01:00 PDT 2003,0.00,50.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Thu Jul 17 15:05:00 PDT 2003,1.79,100.00
+H0071,South Weber WX Porch   South Weber   UT,Thu Jul 17 15:00:00 PDT 2003,1.79,300.00
+H0525,Omaha	     NE,Thu Jul 17 15:03:00 PDT 2003,0.00,200.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Thu Jul 17 15:00:00 PDT 2003,0.89,290.00
+H0610,Wimberley			     TX,Thu Jul 17 15:00:00 PDT 2003,0.00,140.00
+H0090,WKRG Studios           Mobile        AL,Thu Jul 17 15:00:00 PDT 2003,0.00,210.00
+H0091,WMBB Studios           Panama City   FL,Thu Jul 17 15:00:00 PDT 2003,0.00,250.00
+POPF1,Apopka                                 FAWN,Thu Jul 17 15:00:00 PDT 2003,3.79,119.30
+MN009,Blue Earth I-90 Mile Post 119,Thu Jul 17 15:00:02 PDT 2003,3.33,20.00
+MN015,Alexandria I-94 Mile Post 104,Thu Jul 17 15:00:02 PDT 2003,5.00,50.00
+MN020,Emily MN-6 Mile Post 29,Thu Jul 17 15:00:03 PDT 2003,1.67,120.00
+MN021,Clara City MN-7 Mile Post 89,Thu Jul 17 15:00:01 PDT 2003,5.28,50.00
+MN024,MN-7 Mile Post 11,Thu Jul 17 15:00:10 PDT 2003,3.89,150.00
+MN025,MN-11 Mile Post 62,Thu Jul 17 15:00:11 PDT 2003,3.33,90.00
+MN060,East Grand Forks US-2 Mile Post 8,Thu Jul 17 15:00:13 PDT 2003,3.33,60.00
+MN069,Kellogg US-61 Mile Post 53,Thu Jul 17 15:00:00 PDT 2003,2.22,15.00
+F2017,ODEN,Thu Jul 17 15:03:00 PDT 2003,1.34,220.00
+QBRA3,BLACK ROCK,Thu Jul 17 15:01:00 PDT 2003,2.68,330.00
+CHEA3,CHERRY,Thu Jul 17 15:04:00 PDT 2003,4.47,180.00
+QCWA3,COTTONWOOD RIDGE,Thu Jul 17 15:00:00 PDT 2003,4.47,40.00
+QEMA3,EMPIRE,Thu Jul 17 15:02:00 PDT 2003,4.47,40.00
+QGDA3,GOODWIN MESA,Thu Jul 17 15:03:00 PDT 2003,2.24,210.00
+QGSA3,GUNSIGHT,Thu Jul 17 15:03:00 PDT 2003,2.68,190.00
+QGTA3,GUTHRIE,Thu Jul 17 15:04:00 PDT 2003,2.68,110.00
+QHAA3,HAVASU,Thu Jul 17 15:04:00 PDT 2003,1.79,80.00
+NS005,LAKESIDE,Thu Jul 17 15:00:00 PDT 2003,3.13,190.00
+TR071,NIXON FLATS,Thu Jul 17 15:02:00 PDT 2003,0.00,200.00
+QRCA3,RUCKER,Thu Jul 17 15:01:00 PDT 2003,3.13,250.00
+NS007,SAGUARO,Thu Jul 17 15:00:00 PDT 2003,3.58,150.00
+BNDC1,BEN LOMOND,Thu Jul 17 15:01:00 PDT 2003,1.79,260.00
+TMPA1,BIG HILL,Thu Jul 17 15:00:00 PDT 2003,1.79,280.00
+TR541,BRIDGEPORT,Thu Jul 17 15:04:00 PDT 2003,5.36,190.00
+BMEC1,BUCK MEADOWS,Thu Jul 17 15:02:00 PDT 2003,2.24,280.00
+CMNC1,CAMERON FIRE STATIO,Thu Jul 17 15:03:00 PDT 2003,1.79,350.00
+CVBC1,CATHEYS VALLEY,Thu Jul 17 15:03:00 PDT 2003,4.02,260.00
+CTOC1,CORRALITOS,Thu Jul 17 15:02:00 PDT 2003,0.89,140.00
+DNTC1,DELNORTE,Thu Jul 17 15:04:00 PDT 2003,1.34,60.00
+DBLC1,DIABLO GRANDE,Thu Jul 17 15:00:00 PDT 2003,3.13,20.00
+EPKC1,EAGLE PEAK,Thu Jul 17 15:00:00 PDT 2003,3.58,120.00
+ECSC1,EL CARISO,Thu Jul 17 15:04:00 PDT 2003,1.79,340.00
+ESPC1,ESPERANZA,Thu Jul 17 15:02:00 PDT 2003,1.34,340.00
+FNWC1,FENCE MEADOW,Thu Jul 17 15:01:00 PDT 2003,3.13,260.00
+FHCC1,FISH CREEK MOUNTAIN,Thu Jul 17 15:01:00 PDT 2003,4.47,200.00
+GNSC1,GREEN SPRING,Thu Jul 17 15:03:00 PDT 2003,2.24,280.00
+HKSC1,HAWKINS,Thu Jul 17 15:02:00 PDT 2003,0.89,70.00
+LAHC1,LA HONDA,Thu Jul 17 15:01:00 PDT 2003,1.79,90.00
+LMOC1,LIVERMORE,Thu Jul 17 15:00:00 PDT 2003,2.24,190.00
+SLRC1,LOS BANOS,Thu Jul 17 15:04:00 PDT 2003,3.13,360.00
+LTHC1,LOST HORSE,Thu Jul 17 15:01:00 PDT 2003,4.92,210.00
+TMPC4,LOWDEN,Thu Jul 17 15:03:00 PDT 2003,0.89,310.00
+MDDC1,MAD RIVER,Thu Jul 17 15:00:00 PDT 2003,1.79,160.00
+MPOC1,MARIPOSA,Thu Jul 17 15:03:00 PDT 2003,2.24,260.00
+MCFC1,METCALF GAP,Thu Jul 17 15:04:00 PDT 2003,1.79,210.00
+MOUC1,MOUNT ELIZABETH,Thu Jul 17 15:02:00 PDT 2003,2.68,250.00
+MMTC1,MOUNT TOM,Thu Jul 17 15:02:00 PDT 2003,8.05,230.00
+MTQC1,MOUNTAIN REST,Thu Jul 17 15:01:00 PDT 2003,1.79,250.00
+MLGC1,MT. LAGUNA,Thu Jul 17 15:03:00 PDT 2003,0.45,20.00
+OGVC1,OAK GROVE,Thu Jul 17 15:04:00 PDT 2003,0.45,200.00
+INTC1,PANAMINT,Thu Jul 17 15:01:00 PDT 2003,2.68,260.00
+RVDC1,RAVENDALE,Thu Jul 17 15:02:00 PDT 2003,5.81,210.00
+RVYC1,RICE VALLEY,Thu Jul 17 15:02:00 PDT 2003,3.58,240.00
+SMDC1,STAMPEDE,Thu Jul 17 15:02:00 PDT 2003,4.02,210.00
+TSCC1,TEMESCAL (CNF),Thu Jul 17 15:00:00 PDT 2003,0.00,320.00
+TRMC1,TRIMMER,Thu Jul 17 15:02:00 PDT 2003,1.79,270.00
+CISC1,WHITE CLOUD,Thu Jul 17 15:02:00 PDT 2003,1.34,190.00
+F2276,ATHENS,Thu Jul 17 15:02:00 PDT 2003,0.89,140.00
+F2277,BAXLEY,Thu Jul 17 15:04:00 PDT 2003,1.34,330.00
+F2269,BRENDER,Thu Jul 17 15:03:00 PDT 2003,0.89,170.00
+F2278,CAMILLA,Thu Jul 17 15:04:00 PDT 2003,2.24,170.00
+F2305,CHATSWORTH,Thu Jul 17 15:02:00 PDT 2003,3.13,350.00
+F2343,DALLAS,Thu Jul 17 15:02:00 PDT 2003,2.68,320.00
+F2280,DAWSONVILLE,Thu Jul 17 15:02:00 PDT 2003,1.34,250.00
+F2281,LOUISVILLE,Thu Jul 17 15:03:00 PDT 2003,0.89,250.00
+F2271,MCINTYRE,Thu Jul 17 15:03:00 PDT 2003,2.24,230.00
+F2272,MCRAE,Thu Jul 17 15:03:00 PDT 2003,0.89,40.00
+F2282,METTER,Thu Jul 17 15:03:00 PDT 2003,3.13,300.00
+F2273,MIDWAY,Thu Jul 17 15:04:00 PDT 2003,0.89,60.00
+F2274,PLAINS/SUMTER,Thu Jul 17 15:03:00 PDT 2003,0.89,190.00
+F2283,WASHINGTON,Thu Jul 17 15:02:00 PDT 2003,1.34,10.00
+BFRI1,BRACE FLAT,Thu Jul 17 15:00:00 PDT 2003,3.13,290.00
+CHRI1,CHALLIS,Thu Jul 17 15:03:00 PDT 2003,4.47,280.00
+TR263,COTTON PORTABLE,Thu Jul 17 15:04:00 PDT 2003,2.68,280.00
+FHFI1,FISH HOOK,Thu Jul 17 15:04:00 PDT 2003,2.24,150.00
+PNFI1,PINE CREEK,Thu Jul 17 15:02:00 PDT 2003,0.00,280.00
+F2069,CHERRY TREE KNOB,Thu Jul 17 15:01:00 PDT 2003,1.34,30.00
+F2073,SOMERSET,Thu Jul 17 15:01:00 PDT 2003,3.13,310.00
+F2074,TRIANGLE MTN,Thu Jul 17 15:02:00 PDT 2003,2.24,300.00
+F2078,EVANGELINE/GARDNER,Thu Jul 17 15:04:00 PDT 2003,2.24,330.00
+F2081,VERNON,Thu Jul 17 15:01:00 PDT 2003,2.24,290.00
+F2186,DOE LAKE,Thu Jul 17 15:04:00 PDT 2003,3.58,330.00
+F2107,BIENVILLE,Thu Jul 17 15:01:00 PDT 2003,1.34,330.00
+F2108,BLACK CREEK,Thu Jul 17 15:00:00 PDT 2003,0.45,290.00
+BRAM8,BRAVO,Thu Jul 17 15:00:00 PDT 2003,1.34,90.00
+TR298,CABINET (TROUT CREE,Thu Jul 17 15:04:00 PDT 2003,1.34,30.00
+DEEM8,DEER MOUNTAIN,Thu Jul 17 15:04:00 PDT 2003,4.02,320.00
+TR269,DERBY MOUNTAIN,Thu Jul 17 15:01:00 PDT 2003,1.34,30.00
+ENNM8,ENNIS,Thu Jul 17 15:03:00 PDT 2003,4.47,280.00
+EURM8,EUREKA,Thu Jul 17 15:04:00 PDT 2003,2.68,230.00
+NS032,FOUR MILE,Thu Jul 17 15:00:00 PDT 2003,3.58,20.00
+GINM8,GINGER,Thu Jul 17 15:03:00 PDT 2003,5.36,190.00
+GLFM8,GOLF,Thu Jul 17 15:01:00 PDT 2003,7.15,270.00
+HBRM8,HEBGEN LAKE,Thu Jul 17 15:00:00 PDT 2003,3.58,200.00
+HHAM8,HELLS HALF,Thu Jul 17 15:03:00 PDT 2003,1.79,10.00
+KLOM8,KILO,Thu Jul 17 15:02:00 PDT 2003,4.47,260.00
+LBBM8,LIBBY,Thu Jul 17 15:04:00 PDT 2003,1.34,90.00
+TR280,NINE MILE,Thu Jul 17 15:01:00 PDT 2003,5.81,220.00
+OSCM8,OSCAR,Thu Jul 17 15:03:00 PDT 2003,2.24,30.00
+PRDM8,PARDEE,Thu Jul 17 15:00:00 PDT 2003,3.58,320.00
+PHGM8,PHILLIPSBURG,Thu Jul 17 15:03:00 PDT 2003,3.13,310.00
+NS038,PLAINS,Thu Jul 17 15:02:00 PDT 2003,6.26,280.00
+PHYM8,PORPHYRY,Thu Jul 17 15:03:00 PDT 2003,4.92,280.00
+TR287,R1-PREPOSITION PORT,Thu Jul 17 15:04:00 PDT 2003,2.24,160.00
+RRDM8,RED ROCK,Thu Jul 17 15:02:00 PDT 2003,4.02,230.00
+NS040,SEELEY LAKE,Thu Jul 17 15:02:00 PDT 2003,4.02,350.00
+TR293,SHENANGO,Thu Jul 17 15:00:00 PDT 2003,1.34,50.00
+SMTM8,SMITH CREEK,Thu Jul 17 15:02:00 PDT 2003,2.24,150.00
+SPBM8,SPOTTED BEAR RS,Thu Jul 17 15:01:00 PDT 2003,1.79,310.00
+NS042,ST. REGIS,Thu Jul 17 15:02:00 PDT 2003,1.34,230.00
+THAM8,THOMPSON FALLS A/P,Thu Jul 17 15:01:00 PDT 2003,4.47,120.00
+NS045,TIMBERCREST,Thu Jul 17 15:01:00 PDT 2003,5.36,120.00
+TMPF6,WEST FORK,Thu Jul 17 15:03:00 PDT 2003,2.68,80.00
+TMPF7,WHITE SULPHUR SPRIN,Thu Jul 17 15:03:00 PDT 2003,2.24,270.00
+WHHM8,WHITEHALL,Thu Jul 17 15:03:00 PDT 2003,3.58,200.00
+TR565,WICKED CREEK,Thu Jul 17 15:01:00 PDT 2003,3.13,340.00
+YLWM8,YELLOW MULE,Thu Jul 17 15:00:00 PDT 2003,0.00,190.00
+BDAN5,BOSQUE,Thu Jul 17 15:03:00 PDT 2003,2.68,140.00
+NS055,MAYHILL,Thu Jul 17 15:01:00 PDT 2003,2.24,80.00
+SNDN5,SAN ANDRES,Thu Jul 17 15:04:00 PDT 2003,3.13,130.00
+TR728,AUSTIN,Thu Jul 17 15:04:00 PDT 2003,3.58,280.00
+BPKN2,BRAWLEY PEAKS (AURO,Thu Jul 17 15:03:00 PDT 2003,6.71,170.00
+DEDN2,DEAD CAMEL MOUNTAIN,Thu Jul 17 15:03:00 PDT 2003,7.60,140.00
+FISN2,FISH SPRINGS,Thu Jul 17 15:02:00 PDT 2003,3.58,210.00
+TR706,GALENA,Thu Jul 17 15:03:00 PDT 2003,4.92,190.00
+F2141,KIAMICHI,Thu Jul 17 15:03:00 PDT 2003,1.79,230.00
+BWFO3,BROWNS WELL,Thu Jul 17 15:02:00 PDT 2003,4.02,290.00
+BUCO3,BUCKHORN SPRINGS,Thu Jul 17 15:04:00 PDT 2003,2.24,310.00
+CLFO3,CALIMUS,Thu Jul 17 15:00:00 PDT 2003,3.58,270.00
+CQFO3,CHILOQUIN,Thu Jul 17 15:00:00 PDT 2003,2.24,230.00
+FAFO3,FLAGSTAFF HILL,Thu Jul 17 15:01:00 PDT 2003,6.26,290.00
+OYFO3,HOYT CREEK,Thu Jul 17 15:01:00 PDT 2003,1.79,230.00
+SHFO3,SAGE HEN,Thu Jul 17 15:00:00 PDT 2003,2.24,190.00
+SDFO3,SELDOM CREEK,Thu Jul 17 15:01:00 PDT 2003,1.79,230.00
+F2146,WHITMIRE,Thu Jul 17 15:02:00 PDT 2003,1.79,30.00
+F2147,WITHERBEE,Thu Jul 17 15:02:00 PDT 2003,1.34,170.00
+ARAU1,ARAGONITE,Thu Jul 17 15:03:00 PDT 2003,1.79,270.00
+BADU1,BADGER SPRING,Thu Jul 17 15:04:00 PDT 2003,3.58,250.00
+BRAU1,BEAR RIVER,Thu Jul 17 15:00:00 PDT 2003,1.34,120.00
+BIVU1,BIG INDIAN VALLEY,Thu Jul 17 15:04:00 PDT 2003,2.24,100.00
+TR943,CLASS III 6-C (RATT,Thu Jul 17 15:02:00 PDT 2003,1.79,250.00
+TR439,CLASS III 8-C,Thu Jul 17 15:02:00 PDT 2003,1.79,280.00
+ENTU1,ENTERPRISE,Thu Jul 17 15:03:00 PDT 2003,9.39,30.00
+HOHU1,HORSE HOLLOW,Thu Jul 17 15:01:00 PDT 2003,4.02,10.00
+WRRU1,WHITE REEF,Thu Jul 17 15:04:00 PDT 2003,3.58,190.00
+ABNW1,ABERNATHY MTN.,Thu Jul 17 15:01:00 PDT 2003,1.79,350.00
+EKRW1,ELK ROCK,Thu Jul 17 15:01:00 PDT 2003,0.89,340.00
+WRFW1,HAMILTON MOUNTAIN,Thu Jul 17 15:00:00 PDT 2003,0.00,260.00
+HURW1,HURRICANE,Thu Jul 17 15:00:00 PDT 2003,0.00,20.00
+MIPW1,MINOT PEAK,Thu Jul 17 15:00:00 PDT 2003,2.24,40.00
+TRFW1,TROUT CREEK,Thu Jul 17 15:02:00 PDT 2003,3.13,240.00
+VPFW1,VIEWPOINT,Thu Jul 17 15:01:00 PDT 2003,0.00,120.00
+QADW4,QUADRANT,Thu Jul 17 15:03:00 PDT 2003,2.24,230.00
+BMTC2,Blue_Mountain,Thu Jul 17 15:10:00 PDT 2003,0.45,0.00
+QURC2,Quincy_Res,Thu Jul 17 15:10:00 PDT 2003,1.12,101.00
+DHPC2,Diamond_Hill,Thu Jul 17 15:10:00 PDT 2003,3.62,79.00
+EBBC2,Elbert,Thu Jul 17 15:10:00 PDT 2003,3.44,162.00
+BHNC2,Brighton,Thu Jul 17 15:10:00 PDT 2003,0.76,68.00
+SQWC2,Squaw_Mountain,Thu Jul 17 15:10:00 PDT 2003,2.01,0.00
+HGCC2,Hiwan_G.C.,Thu Jul 17 15:10:00 PDT 2003,3.13,119.00
+HIGC2,Highlands_Ranch_WTP,Thu Jul 17 15:10:00 PDT 2003,1.52,79.00
+SAPC2,Salisbury_Park,Thu Jul 17 15:10:00 PDT 2003,1.03,141.00
+COKC2,Castle_Rock,Thu Jul 17 15:10:00 PDT 2003,1.34,152.00
+LEWC2,Louisville_Lake,Thu Jul 17 15:10:00 PDT 2003,0.36,236.00
+CALC2,Cal-Wood_Ranch,Thu Jul 17 15:10:00 PDT 2003,0.85,129.00
+BTRC2,Button_Rock,Thu Jul 17 15:10:00 PDT 2003,0.98,158.00
+MN085,I-494 and MN-5 I-494 Mile Post 18,Thu Jul 17 15:01:34 PDT 2003,2.78,25.00
+MN086,Burnsville I-35W Mile Post 4,Thu Jul 17 15:02:07 PDT 2003,0.00,355.00
+MN087,Maple Grove I-94 Mile Post 217,Thu Jul 17 15:02:42 PDT 2003,1.94,50.00
+MN096,Albert Lea I-35 Mile Post 30,Thu Jul 17 15:02:04 PDT 2003,3.89,15.00
+MN093,Silver Cliff MN-61 Mile Post 30,Thu Jul 17 15:00:00 PDT 2003,1.11,96.00
+MN095,Blatnick Bridge South Abutment,Thu Jul 17 15:02:00 PDT 2003,4.17,56.00
+SJEI4,Jefferson Scranton HS                  KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,0.00,210.00
+SFOI4,Nodaway Valley - Fontanelle            KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,4.63,160.00
+SOSI4,Clarke Community - Osceola             KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.09,210.00
+SWII4,Winterset Community                    KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.06,230.00
+SADI4,Adair Casey                            KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,4.12,210.00
+SAFI4,East Union - Afton                     KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.09,230.00
+SKCI4,KCCI Studios - Des Moines              KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.09,250.00
+SAEI4,ADM MS - Adel                          KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,210.00
+SCHI4,Van Allen Elementary - Chariton        KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.09,230.00
+SMAI4,Fisher Elementary - Marshalltown       KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.06,250.00
+SNEI4,Berg MS - Newton                       KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.03,250.00
+SAKI4,Ankeny Christian                       KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.57,250.00
+SHUI4,Taft Elementary - Humboldt             KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,30.00
+SROI4,Rockwell City                          KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.57,30.00
+SCAI4,Kuemper Catholic - Carroll             KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.06,270.00
+SGLI4,Glidden Ralston - Glidden              KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,290.00
+SCOI4,Colo Elementary - Colo                 KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,250.00
+SCSI4,Creston HS                             KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.57,230.00
+SWBI4,Webster City Community                 KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.57,70.00
+SAUI4,Audubon Community                      KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.06,230.00
+SMNI4,Montezuma Community                    KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.60,250.00
+SIFI4,Rock Run Elementary - Iowa Falls       KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,360.00
+SCNI4,Corning Community - Corning            KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,140.00
+SSUI4,Sully Christian                        KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.09,250.00
+SKNI4,Knoxville Community                    KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.09,250.00
+SAMI4,Northwood Elementary - Ames            KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,230.00
+SJWI4,South Hamilton - Jewell                KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,0.00,360.00
+SLOI4,Lamoni Community - Lamoni              KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,210.00
+SALI4,Lincoln Center - Albia                 KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.09,230.00
+SWAI4,Wall Lake-View-Auburn                  KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.03,70.00
+SBRI4,BGM Elementary - Brooklyn              KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.60,270.00
+SDRI4,River Woods - Des Moines               KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.60,250.00
+SBOI4,United Community - Boone               KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.09,230.00
+SLMI4,CAL Community - Latimer                KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,1.54,30.00
+SFAI4,Prairie Valley - Farnhamville          KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,0.51,120.00
+SCBI4,Coon Rapids - Bayard                   KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,0.00,360.00
+SPEI4,Pella MS                               KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,4.63,250.00
+SBKI4,Belmond Klemme                         KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,2.06,50.00
+SLEI4,Leon                                   KCCI-TV,Thu Jul 17 15:15:00 PDT 2003,3.60,230.00
+SMAM5,Madison                                KELO-TV,Thu Jul 17 15:17:00 PDT 2003,0.00,340.00
+SABS2,Aberdeen                               KELO-TV,Thu Jul 17 15:17:00 PDT 2003,2.57,360.00
+SHUS2,Huron                                  KELO-TV,Thu Jul 17 15:17:00 PDT 2003,4.12,70.00
+SMIS2,Milbank                                KELO-TV,Thu Jul 17 15:17:00 PDT 2003,3.09,50.00
+SMSS2,Mission                                KELO-TV,Thu Jul 17 15:17:00 PDT 2003,6.69,70.00
+SPIS2,Pierre                                 KELO-TV,Thu Jul 17 15:17:00 PDT 2003,5.66,50.00
+SSAS2,Sioux Falls PH                         KELO-TV,Thu Jul 17 15:17:00 PDT 2003,3.09,70.00
+SSBS2,Sioux Falls Pavilion                   KELO-TV,Thu Jul 17 15:17:00 PDT 2003,2.57,70.00
+SWAS2,Wall                                   KELO-TV,Thu Jul 17 15:17:00 PDT 2003,7.72,90.00
+SWTS2,Watertown                              KELO-TV,Thu Jul 17 15:17:00 PDT 2003,0.51,90.00
+SYAS2,Yankton                                KELO-TV,Thu Jul 17 15:17:00 PDT 2003,1.03,90.00
+SHII4,Hull                                   KELO-TV,Thu Jul 17 15:17:00 PDT 2003,5.66,120.00
+QUIF1,Quincy                                 FAWN,Thu Jul 17 15:15:00 PDT 2003,3.11,180.70
+CARF1,Carrabelle                             FAWN,Thu Jul 17 15:15:00 PDT 2003,1.57,312.20
+LIOF1,Live Oak                               FAWN,Thu Jul 17 15:15:00 PDT 2003,5.97,274.20
+MACF1,Macclenny                              FAWN,Thu Jul 17 15:15:00 PDT 2003,1.25,210.30
+BRZF1,Bronson                                FAWN,Thu Jul 17 15:15:00 PDT 2003,2.20,149.10
+PHAF1,Putnam Hall                            FAWN,Thu Jul 17 15:15:00 PDT 2003,0.77,260.30
+TRAF1,Citra                                  FAWN,Thu Jul 17 15:15:00 PDT 2003,1.55,207.30
+STNF1,Hastings                               FAWN,Thu Jul 17 15:15:00 PDT 2003,3.10,155.60
+CKHF1,Ocklawaha                              FAWN,Thu Jul 17 15:15:00 PDT 2003,1.80,129.80
+EPRF1,Pierson                                FAWN,Thu Jul 17 15:15:00 PDT 2003,2.53,120.80
+KHPF1,Okahumpka                              FAWN,Thu Jul 17 15:15:00 PDT 2003,1.14,153.10
+VLNF1,Avalon                                 FAWN,Thu Jul 17 15:15:00 PDT 2003,3.68,114.40
+KSLF1,Brooksville                            FAWN,Thu Jul 17 15:15:00 PDT 2003,1.49,68.01
+POPF1,Apopka                                 FAWN,Thu Jul 17 15:15:00 PDT 2003,4.03,109.10
+KALF1,Lake Alfred                            FAWN,Thu Jul 17 15:15:00 PDT 2003,2.67,112.70
+KENF1,Kenansville                            FAWN,Thu Jul 17 15:15:00 PDT 2003,0.96,116.90
+DOVF1,Dover                                  FAWN,Thu Jul 17 15:15:00 PDT 2003,0.54,116.10
+DNTF1,Bradenton                              FAWN,Thu Jul 17 15:15:00 PDT 2003,1.26,297.30
+NNAF1,Ona                                    FAWN,Thu Jul 17 15:15:00 PDT 2003,3.86,102.20
+FDLF1,Fort Lauderdale                        FAWN,Thu Jul 17 15:15:00 PDT 2003,3.06,124.60
+PCEF1,Fort Pierce                            FAWN,Thu Jul 17 15:15:00 PDT 2003,4.10,116.90
+STDF1,Homestead                              FAWN,Thu Jul 17 15:15:00 PDT 2003,4.78,107.40
+IMKF1,Immokalee                              FAWN,Thu Jul 17 15:15:00 PDT 2003,2.42,78.80
+PALF1,Palmdale                               FAWN,Thu Jul 17 15:15:00 PDT 2003,1.21,87.30
+SEBF1,Sebring                                FAWN,Thu Jul 17 15:15:00 PDT 2003,1.41,82.10
+CO025,Raton Pass (74),Thu Jul 17 15:02:00 PDT 2003,5.81,190.00
+CO084,Silt (7),Thu Jul 17 15:00:00 PDT 2003,0.45,125.00
+CO087,East Tunnel Portal (8),Thu Jul 17 15:00:00 PDT 2003,0.00,0.00
+CO088,Hanging Lake Viaduct (8),Thu Jul 17 15:00:00 PDT 2003,2.68,250.00
+CO089,French Creek (8),Thu Jul 17 15:00:00 PDT 2003,1.79,290.00
+CO090,Bair Ranch (8),Thu Jul 17 15:01:00 PDT 2003,4.47,220.00
+CO091,No Name Tunnel (8),Thu Jul 17 15:05:00 PDT 2003,2.24,130.00
+CO093,McClure Pass (12),Thu Jul 17 15:01:00 PDT 2003,0.00,340.00
+CO095,Wolcott (8),Thu Jul 17 15:02:00 PDT 2003,1.34,300.00
+CO097,Palisade (6),Thu Jul 17 15:04:00 PDT 2003,3.58,190.00
+CO098,Douglas Pass (3),Thu Jul 17 15:05:00 PDT 2003,4.02,145.00
+CO105,Grand Junction (6),Thu Jul 17 15:06:00 PDT 2003,1.34,10.00
+H0002,KNCTODD1               Jefferson     NC,Thu Jul 17 15:13:00 PDT 2003,0.45,110.00
+H0344,BlueStar Systems       Milford      OH,Thu Jul 17 15:15:00 PDT 2003,0.89,340.00
+H0004,BoblandUSA             San Diego     CA,Thu Jul 17 15:16:00 PDT 2003,1.34,260.00
+H0005,Acton         ON,Thu Jul 17 15:11:00 PDT 2003,2.68,310.00
+H0012,Crowley TX WX Page     Crowley       TX,Thu Jul 17 15:10:00 PDT 2003,0.89,110.00
+H0017,Olathe        KS,Thu Jul 17 15:11:00 PDT 2003,1.34,60.00
+H0022,KVTISLAN1              Island Pond   VT,Thu Jul 17 15:15:00 PDT 2003,0.00,70.00
+H0024,Cornelius     OR,Thu Jul 17 15:01:00 PDT 2003,1.79,0.00
+H0025,Dickinson     TX,Thu Jul 17 15:12:00 PDT 2003,1.79,160.00
+H0029,Affton        MO,Thu Jul 17 15:15:00 PDT 2003,0.00,140.00
+H0299,KALB Studios           Alexandria    LA,Thu Jul 17 15:15:00 PDT 2003,2.68,350.00
+H0462,Chandler     AZ,Thu Jul 17 15:15:00 PDT 2003,0.89,90.00
+H0163,Aspen Trails Subdiv. WX Flagstaff    AZ,Thu Jul 17 15:18:00 PDT 2003,2.68,270.00
+H0322,Phoenix       AZ,Thu Jul 17 15:10:00 PDT 2003,0.00,150.00
+H0030,Harrisburg             Lowville      NY,Thu Jul 17 15:16:00 PDT 2003,4.47,270.00
+H0031,Rainbow City  AL,Thu Jul 17 15:10:00 PDT 2003,0.00,50.00
+H0032,Hendersonvill TN,Thu Jul 17 15:10:00 PDT 2003,0.00,30.00
+H0244,Acton         CA,Thu Jul 17 15:04:00 PDT 2003,4.47,220.00
+H0498,Balboa	     CA,Thu Jul 17 15:15:00 PDT 2003,2.24,110.00
+H0339,Williams Worship       Bellflower    CA,Thu Jul 17 15:15:00 PDT 2003,4.02,200.00
+H0300,Cloverdale    CA,Thu Jul 17 15:15:00 PDT 2003,0.89,80.00
+H0222,Covelo        CA,Thu Jul 17 15:03:00 PDT 2003,0.45,270.00
+H0450,Dublin       CA,Thu Jul 17 15:20:00 PDT 2003,0.00,140.00
+H0294,Rancho San Diego       El Cajon      CA,Thu Jul 17 15:15:00 PDT 2003,1.79,200.00
+H0346,California Hills       Folsom        CA,Thu Jul 17 15:15:00 PDT 2003,0.00,290.00
+H0153,Coyote Weather         Fort Bragg    CA,Thu Jul 17 15:08:00 PDT 2003,1.34,290.00
+H0197,Guerneville   CA,Thu Jul 17 15:05:00 PDT 2003,1.34,310.00
+H0563,Half Moon Bay			     CA,Thu Jul 17 15:14:00 PDT 2003,2.68,100.00
+H0237,Healdsburg    CA,Thu Jul 17 15:07:00 PDT 2003,2.24,100.00
+H0238,Lake Forest   CA,Thu Jul 17 15:04:00 PDT 2003,1.34,180.00
+H0333,Cathouse Backyard WX   Lakeside      CA,Thu Jul 17 15:12:00 PDT 2003,1.79,270.00
+H0158,Lancaster     CA,Thu Jul 17 15:10:00 PDT 2003,1.79,210.00
+H0465,Occidental   CA,Thu Jul 17 15:15:00 PDT 2003,0.89,280.00
+H0564,Rohnert Park			     CA,Thu Jul 17 15:15:00 PDT 2003,0.45,280.00
+H0164,San Luis Obis CA,Thu Jul 17 15:15:00 PDT 2003,0.00,300.00
+H0269,South Valley Internet  San Martin    CA,Thu Jul 17 15:15:00 PDT 2003,1.34,320.00
+H0259,Pickles Central        San Rafael    CA,Thu Jul 17 15:16:00 PDT 2003,1.34,260.00
+H0452,Santa Rosa   CA,Thu Jul 17 15:15:00 PDT 2003,1.34,190.00
+H0348,Tehachapi     CA,Thu Jul 17 15:15:00 PDT 2003,2.24,120.00
+H0506,Visalia	     CA,Thu Jul 17 15:02:00 PDT 2003,1.34,280.00
+H0442,Whittier     CA,Thu Jul 17 15:15:00 PDT 2003,2.68,150.00
+H0566,Crestone			     CO,Thu Jul 17 15:15:00 PDT 2003,2.68,360.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Thu Jul 17 15:10:00 PDT 2003,1.34,80.00
+H0325,Summit County CO,Thu Jul 17 15:10:00 PDT 2003,1.79,240.00
+H0189,Canterbury    CT,Thu Jul 17 15:20:00 PDT 2003,0.89,220.00
+H0350,Barn Hill              Monroe        CT,Thu Jul 17 15:00:00 PDT 2003,0.45,320.00
+H0206,Stonybrook             Norwalk       CT,Thu Jul 17 15:15:00 PDT 2003,0.89,50.00
+H0036,Dunstable     MA,Thu Jul 17 15:15:00 PDT 2003,1.79,350.00
+H0351,Port St. John Weather  Cocoa         FL,Thu Jul 17 15:16:00 PDT 2003,0.00,40.00
+H0295,Lake Mary     FL,Thu Jul 17 15:17:00 PDT 2003,0.00,170.00
+H0270,Margate       FL,Thu Jul 17 15:16:00 PDT 2003,2.24,140.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Thu Jul 17 15:16:00 PDT 2003,2.24,120.00
+H0175,Sampson                St. Augustine FL,Thu Jul 17 15:15:00 PDT 2003,3.13,80.00
+H0509,Buchanan     GA,Thu Jul 17 15:15:00 PDT 2003,0.00,230.00
+H0296,KD4K                   Cumming       GA,Thu Jul 17 15:17:00 PDT 2003,0.89,270.00
+H0234,Roswell       GA,Thu Jul 17 15:12:00 PDT 2003,0.00,360.00
+H0041,Piedmont Triad Weather Greensboro    NC,Thu Jul 17 15:06:00 PDT 2003,0.00,100.00
+H0571,Hemet				     CA,Thu Jul 17 15:15:00 PDT 2003,1.34,200.00
+H0573,Charles City			     IA,Thu Jul 17 15:17:00 PDT 2003,0.45,360.00
+H0353,Keokuk        IA,Thu Jul 17 15:04:00 PDT 2003,0.00,210.00
+H0183,New Hampton   IA,Thu Jul 17 15:18:00 PDT 2003,2.24,280.00
+H0417,Oxford Mills           Oxford Junction	IA,Thu Jul 17 15:18:00 PDT 2003,0.89,320.00
+H0246,Sidney        IA,Thu Jul 17 15:19:00 PDT 2003,4.02,160.00
+H0195,Van Meter     IA,Thu Jul 17 15:11:00 PDT 2003,0.45,70.00
+H0167,Northern Idaho Weather Coeur D' Alen ID,Thu Jul 17 15:14:00 PDT 2003,1.34,290.00
+H0575,Coeur d'Alene			     ID,Thu Jul 17 15:02:00 PDT 2003,1.79,250.00
+H0169,Castle Mountain        Garden Valley ID,Thu Jul 17 15:03:00 PDT 2003,0.45,130.00
+H0261,Crystal Lake  IL,Thu Jul 17 15:15:00 PDT 2003,2.68,230.00
+H0369,East side of I65       Crothersville IN,Thu Jul 17 15:10:00 PDT 2003,0.00,240.00
+H0191,Paducah       KY,Thu Jul 17 15:12:00 PDT 2003,0.00,260.00
+H0287,Arlington Center       Arlington     MA,Thu Jul 17 15:16:00 PDT 2003,1.34,360.00
+H0272,WoodvilleGr1           Hopkinton     MA,Thu Jul 17 15:15:00 PDT 2003,0.89,260.00
+H0518,Lynn	     MA,Thu Jul 17 15:15:00 PDT 2003,0.00,160.00
+H0297,Uxbridge      MA,Thu Jul 17 15:01:00 PDT 2003,0.00,160.00
+H0156,Raymond       ME,Thu Jul 17 15:11:00 PDT 2003,0.00,130.00
+H0373,Parchment/Spring Valley Kalamazoo   MI,Thu Jul 17 15:15:00 PDT 2003,0.45,80.00
+H0253,Blaine        MN,Thu Jul 17 15:15:00 PDT 2003,0.89,310.00
+H0307,Bloomington   MN,Thu Jul 17 15:10:00 PDT 2003,1.34,360.00
+H0354,Monticello    MN,Thu Jul 17 15:20:00 PDT 2003,0.89,100.00
+H0342,Gideon School District Gideon        MO,Thu Jul 17 15:15:00 PDT 2003,0.89,60.00
+H0491,Greensboro   NC,Thu Jul 17 15:17:00 PDT 2003,0.00,100.00
+H0523,Lewisville   NC,Thu Jul 17 15:15:00 PDT 2003,0.00,220.00
+H0387,North Holmes           Lake Lincoln NE,Thu Jul 17 15:15:00 PDT 2003,2.24,240.00
+H0241,Omaha         NE,Thu Jul 17 15:15:00 PDT 2003,2.68,210.00
+H0289,Omaha         NE,Thu Jul 17 15:15:00 PDT 2003,2.24,140.00
+H0582,East Millstone			     NJ,Thu Jul 17 15:15:00 PDT 2003,1.79,270.00
+H0583,Highlands			     NJ,Thu Jul 17 15:10:00 PDT 2003,0.89,230.00
+H0302,Cuba          NY,Thu Jul 17 15:09:00 PDT 2003,4.92,260.00
+H0358,Port of Rensselaer     Rensselaer    NY,Thu Jul 17 15:10:00 PDT 2003,3.13,20.00
+H0290,Rochester     NY,Thu Jul 17 15:16:00 PDT 2003,4.02,300.00
+H0478,Saratoga Springs NY,Thu Jul 17 15:16:00 PDT 2003,3.58,20.00
+H0304,Edmunds Weather        Smithtown     NY,Thu Jul 17 15:17:00 PDT 2003,0.00,270.00
+H0395,Mecox Bay              Water Mill   NY,Thu Jul 17 15:16:00 PDT 2003,1.34,200.00
+H0291,Colerain Township      Cincinnati    OH,Thu Jul 17 15:15:00 PDT 2003,0.00,50.00
+H0309,Columbus      OH,Thu Jul 17 15:10:00 PDT 2003,1.34,260.00
+H0227,Turner        OR,Thu Jul 17 15:15:00 PDT 2003,3.13,330.00
+H0440,Broomall     PA,Thu Jul 17 15:15:00 PDT 2003,0.45,340.00
+H0043,WX for West PA/East OH Sharon        PA,Thu Jul 17 15:10:00 PDT 2003,0.00,250.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Thu Jul 17 15:15:00 PDT 2003,0.00,40.00
+H0313,BosWeather             Greer         SC,Thu Jul 17 15:12:00 PDT 2003,0.89,110.00
+H0479,West Columbia SC,Thu Jul 17 15:10:00 PDT 2003,0.00,130.00
+H0329,Williamston   SC,Thu Jul 17 15:10:00 PDT 2003,0.00,110.00
+H0588,Mitchell			     SD,Thu Jul 17 15:05:00 PDT 2003,3.58,70.00
+H0298,Terricita Hills        Rapid City    SD,Thu Jul 17 15:10:00 PDT 2003,0.00,360.00
+H0447,Downtown               Santa Rosa   CA,Thu Jul 17 15:16:00 PDT 2003,1.79,170.00
+H0396,Williamson             County Franklin TN,Thu Jul 17 15:20:00 PDT 2003,0.45,0.00
+H0590,Portland			     TN,Thu Jul 17 15:04:00 PDT 2003,0.00,40.00
+H0310,SSC                    Abilene       TX,Thu Jul 17 15:03:00 PDT 2003,0.00,140.00
+H0201,Arlington     TX,Thu Jul 17 15:15:00 PDT 2003,0.00,80.00
+H0318,Austin        TX,Thu Jul 17 15:15:00 PDT 2003,0.89,160.00
+H0236,Burk                   Burnett       TX,Thu Jul 17 15:03:00 PDT 2003,3.58,200.00
+H0202,KC4WTI                 Irving        TX,Thu Jul 17 15:15:00 PDT 2003,0.00,130.00
+H0360,Corinth       TX,Thu Jul 17 15:20:00 PDT 2003,2.68,140.00
+H0591,Dallas	Oak Cliff		     TX,Thu Jul 17 15:15:00 PDT 2003,0.00,150.00
+H0194,Fort Davis    TX,Thu Jul 17 15:15:00 PDT 2003,4.47,90.00
+H0311,Clear Lake City WX     Houston       TX,Thu Jul 17 15:12:00 PDT 2003,2.24,110.00
+H0361,R and K Weather        Houston       TX,Thu Jul 17 15:16:00 PDT 2003,0.45,230.00
+H0203,Oak Ridge Nor TX,Thu Jul 17 15:15:00 PDT 2003,0.45,140.00
+H0204,Key Allegro            Rockport      TX,Thu Jul 17 15:17:00 PDT 2003,2.24,160.00
+H0278,TeleHobbies            Rockwall      TX,Thu Jul 17 15:06:00 PDT 2003,0.00,160.00
+H0415,Northwest Crossing	San Antonio  TX,Thu Jul 17 15:17:00 PDT 2003,0.00,210.00
+H0280,Taylor        TX,Thu Jul 17 15:15:00 PDT 2003,0.89,130.00
+H0362,Salt Lake Cty UT,Thu Jul 17 15:15:00 PDT 2003,0.00,100.00
+H0157,N4NW                   Stafford      VA,Thu Jul 17 15:18:00 PDT 2003,0.00,70.00
+H0594,Stafford			     VA,Thu Jul 17 15:15:00 PDT 2003,0.00,230.00
+H0363,Darrington    WA,Thu Jul 17 15:16:00 PDT 2003,1.79,60.00
+H0481,Kenmore      WA,Thu Jul 17 15:11:00 PDT 2003,1.34,310.00
+H0596,Maple Valley			     WA,Thu Jul 17 15:15:00 PDT 2003,0.00,270.00
+H0597,Vancouver			     WA,Thu Jul 17 15:17:00 PDT 2003,0.45,330.00
+H0331,Walnut Grove           Vancouver     WA,Thu Jul 17 15:10:00 PDT 2003,0.45,10.00
+H0598,Vancouver		Lutegrad Weather WA,Thu Jul 17 15:11:00 PDT 2003,3.13,250.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Thu Jul 17 15:03:00 PDT 2003,1.34,200.00
+H0490,Sylmar       CA,Thu Jul 17 15:10:00 PDT 2003,1.34,280.00
+H0423,Middleboro   MA,Thu Jul 17 15:15:00 PDT 2003,0.89,310.00
+H0052,New Milford Weather    New Milford   CT,Thu Jul 17 15:11:00 PDT 2003,0.00,210.00
+H0482,Savage       MN,Thu Jul 17 15:16:00 PDT 2003,1.79,150.00
+H0419,Lowes Motor Spdwy Area	Concord	     NC,Thu Jul 17 15:04:00 PDT 2003,0.45,130.00
+H0062,Northeast Raleigh      Raleigh       NC,Thu Jul 17 15:16:00 PDT 2003,0.00,50.00
+H0505,Santa Rosa   CA,Thu Jul 17 15:02:00 PDT 2003,0.00,340.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Thu Jul 17 15:20:00 PDT 2003,0.00,40.00
+H0525,Omaha	     NE,Thu Jul 17 15:18:00 PDT 2003,1.34,250.00
+H0080,Coles Pond Weathercam  Walden        VT,Thu Jul 17 15:04:00 PDT 2003,1.34,250.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Thu Jul 17 15:10:00 PDT 2003,0.89,290.00
+H0610,Wimberley			     TX,Thu Jul 17 15:15:00 PDT 2003,0.89,180.00
+H0090,WKRG Studios           Mobile        AL,Thu Jul 17 15:20:00 PDT 2003,5.81,160.00
+H0091,WMBB Studios           Panama City   FL,Thu Jul 17 15:15:00 PDT 2003,0.45,230.00
+MN001,Twin Lakes I-35 Mile Post 1,Thu Jul 17 15:04:01 PDT 2003,3.06,10.00
+MN003,Little Chicago I-35 Mile Post 70,Thu Jul 17 15:04:00 PDT 2003,0.56,295.00
+MN004,Rush City I-35 Mile Post 157,Thu Jul 17 15:07:02 PDT 2003,2.78,40.00
+MN006,Beaver Creek I-90 Mile Post 4,Thu Jul 17 15:05:06 PDT 2003,7.78,65.00
+MN007,I-90 Mile Post 35,Thu Jul 17 15:01:01 PDT 2003,9.44,70.00
+MN008,I-90 Mile Post 67,Thu Jul 17 15:10:01 PDT 2003,6.67,95.00
+MN009,Blue Earth I-90 Mile Post 119,Thu Jul 17 15:10:01 PDT 2003,3.06,40.00
+MN010,Dexter I-90 Mile Post 195,Thu Jul 17 15:05:00 PDT 2003,4.17,10.00
+MN011,Jct CR 7 I-90 Mile Post 226,Thu Jul 17 15:09:01 PDT 2003,5.00,20.00
+MN012,Ridgeway I-90 Mile Post 261,Thu Jul 17 15:05:01 PDT 2003,3.61,0.00
+MN013,Dilworth I-94 Mile Post 5,Thu Jul 17 15:09:02 PDT 2003,3.06,130.00
+MN014,Rothsay I-94 Mile Post 38,Thu Jul 17 15:04:00 PDT 2003,4.72,65.00
+MN015,Alexandria I-94 Mile Post 104,Thu Jul 17 15:10:02 PDT 2003,4.17,55.00
+MN016,Sauk Center I-94 Mile Post 128,Thu Jul 17 15:02:02 PDT 2003,3.06,70.00
+MN017,Clearwater I-94 Mile Post 180,Thu Jul 17 15:06:02 PDT 2003,2.50,70.00
+MN018,Shooks MN-1 Mile Post 34,Thu Jul 17 15:09:00 PDT 2003,2.78,135.00
+MN020,Emily MN-6 Mile Post 29,Thu Jul 17 15:10:03 PDT 2003,0.28,105.00
+MN021,Clara City MN-7 Mile Post 89,Thu Jul 17 15:10:00 PDT 2003,6.39,45.00
+MN022,Lester Prairie MN-7 Mile Post 161,Thu Jul 17 15:01:01 PDT 2003,4.17,45.00
+MN024,MN-7 Mile Post 11,Thu Jul 17 15:10:10 PDT 2003,2.78,115.00
+MN025,MN-11 Mile Post 62,Thu Jul 17 15:10:10 PDT 2003,3.33,70.00
+MN026,Brichdale MN-11 Mile Post 157,Thu Jul 17 15:09:01 PDT 2003,1.67,100.00
+MN028,Lake Benton US-14 Mile Post 7,Thu Jul 17 15:01:02 PDT 2003,6.11,85.00
+MN029,Byron US-14 Mile Post 200,Thu Jul 17 15:08:01 PDT 2003,3.06,15.00
+MN030,Hendricks MN-19 Mile Post 2,Thu Jul 17 15:01:03 PDT 2003,3.61,100.00
+MN032,Winthrop MN-19 Mile Post 108,Thu Jul 17 15:01:03 PDT 2003,6.39,55.00
+MN033,Hanley Falls MN-23 Mile Post 94,Thu Jul 17 15:06:02 PDT 2003,3.61,60.00
+MN035,Lastrup MN-25 Mile Post 140,Thu Jul 17 15:03:00 PDT 2003,2.78,55.00
+MN036,Graceville MN-28 Mile Post 19,Thu Jul 17 15:03:02 PDT 2003,3.33,40.00
+MN037,Langhei Township MN-29 Mile Post 46,Thu Jul 17 15:03:01 PDT 2003,5.00,55.00
+MN038,Dovray MN-30 Mile Post 49,Thu Jul 17 15:02:00 PDT 2003,5.28,75.00
+MN040,Caledonia MN-44 Mile Post 60,Thu Jul 17 15:05:01 PDT 2003,1.39,90.00
+MN041,Squaw Lake MN-46 Mile Post 25,Thu Jul 17 15:02:02 PDT 2003,0.83,40.00
+MN042,Cannon Falls US-52 Mile Post 90,Thu Jul 17 15:03:00 PDT 2003,3.33,80.00
+MN043,Georgeville MN-55 Mile Post 98,Thu Jul 17 15:02:01 PDT 2003,5.56,75.00
+MN045,Madelia US-60 Mile Post 86,Thu Jul 17 15:02:00 PDT 2003,4.17,35.00
+MN047,Red Wing US-61 Mile Post 101,Thu Jul 17 15:04:01 PDT 2003,0.56,100.00
+MN048,Grand Portage MN-61 Mile Post 146,Thu Jul 17 15:03:02 PDT 2003,1.39,215.00
+MN049,Chamberlain MN-64 Mile Post 42,Thu Jul 17 15:09:02 PDT 2003,1.94,85.00
+MN050,Pliny MN-65 Mile Post 98,Thu Jul 17 15:04:02 PDT 2003,3.61,35.00
+MN051,Ball Bluff MN-65 Mile Post 145,Thu Jul 17 15:05:03 PDT 2003,2.22,110.00
+MN052,Effie MN-1 Mile Post 194,Thu Jul 17 15:08:03 PDT 2003,2.78,70.00
+MN054,Tenney US-75 Mile Post 188,Thu Jul 17 15:06:03 PDT 2003,4.17,100.00
+MN055,Ottertail MN-78 Mile Post 34,Thu Jul 17 15:07:03 PDT 2003,1.39,95.00
+MN056,Gatzke MN-89 Mile Post 96,Thu Jul 17 15:06:03 PDT 2003,3.33,145.00
+MN057,St. Vincent MN-171 Mile Post 2,Thu Jul 17 15:08:03 PDT 2003,3.33,125.00
+MN058,Anthony MN-200 Mile Post 9,Thu Jul 17 15:07:00 PDT 2003,2.50,90.00
+MN059,Mehurin US-212 Mile Post 1,Thu Jul 17 15:09:03 PDT 2003,1.39,45.00
+MN060,East Grand Forks US-2 Mile Post 8,Thu Jul 17 15:10:13 PDT 2003,3.89,65.00
+MN062,Lake Park US-10 Mile Post 32,Thu Jul 17 15:07:00 PDT 2003,3.06,110.00
+MN063,Verndale US-10 Mile Post 94,Thu Jul 17 15:08:02 PDT 2003,3.61,90.00
+MN064,Rice US-10 Mile Post 162,Thu Jul 17 15:06:02 PDT 2003,3.89,70.00
+MN065,Canton US-52 Mile Post 2,Thu Jul 17 15:05:02 PDT 2003,2.78,355.00
+MN066,Cotton US-53 Mile Post 41,Thu Jul 17 15:01:07 PDT 2003,2.22,140.00
+MN067,Ash Lake US-53 Mile Post 129,Thu Jul 17 15:02:03 PDT 2003,2.50,25.00
+MN068,Brooks US-59 Mile Post 331,Thu Jul 17 15:07:01 PDT 2003,2.78,100.00
+MN069,Kellogg US-61 Mile Post 53,Thu Jul 17 15:10:00 PDT 2003,1.67,60.00
+MN071,MN-71 Mile Post 43,Thu Jul 17 15:02:01 PDT 2003,5.28,75.00
+MN073,Mankato US-169 Mile Post 52,Thu Jul 17 15:04:04 PDT 2003,2.50,50.00
+MN075,Belle Plaine US-169 Mile Post 86,Thu Jul 17 15:03:03 PDT 2003,3.89,60.00
+MN076,Milaca US-169 Mile Post 200,Thu Jul 17 15:06:02 PDT 2003,2.22,65.00
+MN079,New Prague MN-19 Mile Post 149,Thu Jul 17 15:08:00 PDT 2003,2.50,65.00
+MN044,Mahnomen US-59 Mile Post 296,Thu Jul 17 15:07:01 PDT 2003,2.78,135.00
+MN072,Margie US-71 Mile Post 379,Thu Jul 17 15:08:02 PDT 2003,2.78,55.00
+BMTC2,Blue_Mountain,Thu Jul 17 15:20:00 PDT 2003,0.45,0.00
+QURC2,Quincy_Res,Thu Jul 17 15:20:00 PDT 2003,2.24,146.00
+DHPC2,Diamond_Hill,Thu Jul 17 15:20:00 PDT 2003,1.16,17.00
+EBBC2,Elbert,Thu Jul 17 15:20:00 PDT 2003,3.44,162.00
+BHNC2,Brighton,Thu Jul 17 15:20:00 PDT 2003,0.76,68.00
+SQWC2,Squaw_Mountain,Thu Jul 17 15:20:00 PDT 2003,2.95,0.00
+HGCC2,Hiwan_G.C.,Thu Jul 17 15:20:00 PDT 2003,0.89,119.00
+HIGC2,Highlands_Ranch_WTP,Thu Jul 17 15:20:00 PDT 2003,1.52,79.00
+SAPC2,Salisbury_Park,Thu Jul 17 15:20:00 PDT 2003,2.46,197.00
+COKC2,Castle_Rock,Thu Jul 17 15:20:00 PDT 2003,0.94,174.00
+LEWC2,Louisville_Lake,Thu Jul 17 15:20:00 PDT 2003,0.36,236.00
+CALC2,Cal-Wood_Ranch,Thu Jul 17 15:20:00 PDT 2003,0.85,129.00
+BTRC2,Button_Rock,Thu Jul 17 15:20:00 PDT 2003,0.98,158.00
+SADDL,Niwot Ridge Saddle                     NiwotRidge,Thu Jul 17 15:00:00 PDT 2003,3.93,160.00
+D1,Niwot Ridge D1                         NiwotRidge,Thu Jul 17 15:00:00 PDT 2003,3.56,167.00
+C1,Niwot Ridge C1                         NiwotRidge,Thu Jul 17 15:00:00 PDT 2003,2.07,141.00
+ALHF1,Alachua                                FAWN,Thu Jul 17 15:15:00 PDT 2003,2.61,231.90
+UMLF1,Umatilla                               FAWN,Thu Jul 17 15:15:00 PDT 2003,2.95,147.80
+CO037,I-25 @ Berthoud (43),Thu Jul 17 15:06:00 PDT 2003,0.89,355.00
+CO039,Wiggins @ Bijou Creek (44),Thu Jul 17 15:08:00 PDT 2003,4.02,45.00
+CO041,Natural Fort (38),Thu Jul 17 15:11:00 PDT 2003,3.58,185.00
+CO042,Wellington (38),Thu Jul 17 15:12:00 PDT 2003,1.79,190.00
+CO048,Holyoke (51),Thu Jul 17 15:15:00 PDT 2003,4.92,155.00
+CO084,Silt (7),Thu Jul 17 15:20:00 PDT 2003,0.00,170.00
+CO087,East Tunnel Portal (8),Thu Jul 17 15:15:00 PDT 2003,0.00,0.00
+CO088,Hanging Lake Viaduct (8),Thu Jul 17 15:15:00 PDT 2003,2.24,345.00
+CO089,French Creek (8),Thu Jul 17 15:21:00 PDT 2003,3.13,275.00
+CO090,Bair Ranch (8),Thu Jul 17 15:16:00 PDT 2003,3.58,260.00
+CO091,No Name Tunnel (8),Thu Jul 17 15:20:00 PDT 2003,0.89,105.00
+CO092,Dowd Junction (10),Thu Jul 17 15:08:00 PDT 2003,3.13,280.00
+CO093,McClure Pass (12),Thu Jul 17 15:21:00 PDT 2003,1.79,20.00
+CO101,Basalt (8*),Thu Jul 17 15:12:00 PDT 2003,1.79,350.00
+CO102,Steamboat Springs (5),Thu Jul 17 15:14:00 PDT 2003,2.68,240.00
+CO103,Snowmass @HWY82 mp26.8 (10*),Thu Jul 17 15:15:00 PDT 2003,1.34,250.00
+CO104,Shale Bluffs (10),Thu Jul 17 15:08:00 PDT 2003,1.79,260.00
+CO105,Grand Junction (6),Thu Jul 17 15:21:00 PDT 2003,1.79,25.00
+MN094,I-35W at Mississippi I-35W Mile Post 19,Thu Jul 17 15:08:00 PDT 2003,3.33,5.00
+MN085,I-494 and MN-5 I-494 Mile Post 18,Thu Jul 17 15:12:18 PDT 2003,3.89,35.00
+MN088,Little Canada I-694 Mile Post 46,Thu Jul 17 15:04:25 PDT 2003,1.94,345.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Thu Jul 17 15:06:03 PDT 2003,2.78,60.00
+MN092,Mitchell Bridge MN-169 Mile Post 343,Thu Jul 17 15:06:54 PDT 2003,1.94,190.00
+MN096,Albert Lea I-35 Mile Post 30,Thu Jul 17 15:12:04 PDT 2003,3.06,20.00
+MN093,Silver Cliff MN-61 Mile Post 30,Thu Jul 17 15:10:00 PDT 2003,1.11,82.00
+MN095,Blatnick Bridge South Abutment,Thu Jul 17 15:12:00 PDT 2003,3.61,57.00
+J0204,Cobscook Bay,Thu Jul 17 15:00:00 PDT 2003,3.70,174.00
+E0106,Central Maine Shelf,Thu Jul 17 15:00:00 PDT 2003,3.00,201.00
+C0203,Casco Bay,Thu Jul 17 15:00:00 PDT 2003,3.30,207.00
+B0104,Western Maine Shelf,Thu Jul 17 15:00:00 PDT 2003,3.70,193.00
+F0106,W. Penobscot Bay,Thu Jul 17 15:00:00 PDT 2003,2.40,198.00
+A0106,Massachusetts Bay,Thu Jul 17 15:00:00 PDT 2003,2.30,151.00
+M0103,Jordan Basin,Thu Jul 17 15:00:00 PDT 2003,1.60,232.00
+I0105,Eastern Maine Shelf,Thu Jul 17 15:00:00 PDT 2003,1.70,194.00
+F1923,BIRCH CREEK,Thu Jul 17 15:10:00 PDT 2003,4.02,200.00
+F1977,NEW LAKE,Thu Jul 17 15:07:00 PDT 2003,5.36,300.00
+F1985,PREACHER CREEK,Thu Jul 17 15:07:00 PDT 2003,5.81,240.00
+F1988,REINDEER RIVER,Thu Jul 17 15:08:00 PDT 2003,7.15,70.00
+F1990,ROUND LAKE,Thu Jul 17 15:10:00 PDT 2003,0.89,10.00
+F1995,SELAWIK,Thu Jul 17 15:15:00 PDT 2003,5.36,260.00
+F2002,SWANSON RIVER,Thu Jul 17 15:15:00 PDT 2003,1.34,300.00
+F2007,VUNZIK LAKE,Thu Jul 17 15:18:00 PDT 2003,3.13,220.00
+ALRA3,ALPINE,Thu Jul 17 15:06:00 PDT 2003,2.68,210.00
+QBAA3,BRIGHT ANGEL,Thu Jul 17 15:11:00 PDT 2003,0.89,210.00
+QBMA3,BUCKSKIN MTN,Thu Jul 17 15:10:00 PDT 2003,3.58,120.00
+TR489,COCONINO MICRO #4,Thu Jul 17 15:17:00 PDT 2003,1.79,160.00
+NS001,FLAGSTAFF,Thu Jul 17 15:06:00 PDT 2003,2.24,230.00
+TR400,FORT APACHE 1,Thu Jul 17 15:14:00 PDT 2003,1.34,280.00
+QFRA3,FORT APACHE RX#1,Thu Jul 17 15:14:00 PDT 2003,2.24,190.00
+FZWA3,FRAZIER WELLS,Thu Jul 17 15:15:00 PDT 2003,4.02,120.00
+NS003,GLOBE,Thu Jul 17 15:06:00 PDT 2003,1.34,130.00
+QGRA3,GREER,Thu Jul 17 15:08:00 PDT 2003,2.68,160.00
+QHEA3,HEBER,Thu Jul 17 15:06:00 PDT 2003,3.13,60.00
+TR068,HILLTOP,Thu Jul 17 15:05:00 PDT 2003,1.34,170.00
+QHIA3,HOPI,Thu Jul 17 15:13:00 PDT 2003,4.47,30.00
+QHRA3,HORSE CAMP CANYON,Thu Jul 17 15:05:00 PDT 2003,4.02,110.00
+QHOA3,HOUSEROCK,Thu Jul 17 15:05:00 PDT 2003,3.58,70.00
+QHBA3,HUMBUG CREEK,Thu Jul 17 15:06:00 PDT 2003,5.81,210.00
+QHUA3,HURRICANE,Thu Jul 17 15:06:00 PDT 2003,4.02,270.00
+TR490,KAIBAB-NK MICRO #1,Thu Jul 17 15:17:00 PDT 2003,1.34,260.00
+TR492,KAIBAB-SK MICRO #3,Thu Jul 17 15:17:00 PDT 2003,1.79,220.00
+QLBA3,LINDBERGH HILL,Thu Jul 17 15:12:00 PDT 2003,0.45,230.00
+QMBA3,MOSS BASIN,Thu Jul 17 15:08:00 PDT 2003,0.89,340.00
+QMLA3,MOUNT LOGAN,Thu Jul 17 15:08:00 PDT 2003,3.13,30.00
+QMRA3,MULESHOE RANCH,Thu Jul 17 15:09:00 PDT 2003,1.79,160.00
+QMMA3,MUSIC MOUNTAIN,Thu Jul 17 15:09:00 PDT 2003,2.24,220.00
+QOKA3,OLAF KNOLLS,Thu Jul 17 15:10:00 PDT 2003,2.24,330.00
+QPRA3,PROMONTORY,Thu Jul 17 15:09:00 PDT 2003,1.79,210.00
+QRTA3,ROBINSON TANK,Thu Jul 17 15:11:00 PDT 2003,3.13,100.00
+QSCA3,SAN CARLOS #1,Thu Jul 17 15:14:00 PDT 2003,5.36,120.00
+QSTA3,STANTON,Thu Jul 17 15:12:00 PDT 2003,4.47,170.00
+QSPA3,SUNSET POINT,Thu Jul 17 15:12:00 PDT 2003,4.47,180.00
+QTCA3,TRAIL CABIN,Thu Jul 17 15:08:00 PDT 2003,2.68,90.00
+TR581,TRUXTON CANYON,Thu Jul 17 15:14:00 PDT 2003,3.13,270.00
+QTWA3,TWEEDS POINT,Thu Jul 17 15:13:00 PDT 2003,2.68,300.00
+QUPA3,UNION PASS,Thu Jul 17 15:13:00 PDT 2003,1.79,150.00
+QVDA3,VERDE,Thu Jul 17 15:05:00 PDT 2003,0.00,220.00
+QYJA3,YELLOW JOHN MOUNTAI,Thu Jul 17 15:10:00 PDT 2003,3.13,350.00
+NZAC1,ANZA,Thu Jul 17 15:12:00 PDT 2003,2.24,270.00
+ARGC1,ARROYO GRANDE,Thu Jul 17 15:10:00 PDT 2003,2.68,260.00
+ASRC1,ARROYO SECO (MT. DI,Thu Jul 17 15:09:00 PDT 2003,1.79,240.00
+AVLC1,ASH VALLEY,Thu Jul 17 15:09:00 PDT 2003,4.92,300.00
+BDMC1,BALD MTN LOC,Thu Jul 17 15:09:00 PDT 2003,0.89,240.00
+BETC1,BENTON,Thu Jul 17 15:12:00 PDT 2003,5.81,160.00
+TR822,BRADLEY,Thu Jul 17 15:07:00 PDT 2003,0.89,170.00
+CAZC1,CARRIZO,Thu Jul 17 15:08:00 PDT 2003,5.36,10.00
+TR494,CASE MOUNTAIN,Thu Jul 17 15:13:00 PDT 2003,1.79,160.00
+CHAC1,CASHMAN,Thu Jul 17 15:09:00 PDT 2003,5.36,220.00
+CNFC1,CFLO RAWS,Thu Jul 17 15:14:00 PDT 2003,4.02,210.00
+CUUC1,CHUCHUPATE,Thu Jul 17 15:15:00 PDT 2003,2.24,270.00
+CLHC1,CLARK,Thu Jul 17 15:12:00 PDT 2003,2.68,40.00
+PTEC1,COOSKIE MOUNTAIN,Thu Jul 17 15:06:00 PDT 2003,0.00,350.00
+DVOC1,DEVORE,Thu Jul 17 15:10:00 PDT 2003,2.24,210.00
+DKYC1,DINKEY,Thu Jul 17 15:05:00 PDT 2003,1.79,200.00
+EMRC1,EL MIRAGE,Thu Jul 17 15:17:00 PDT 2003,5.36,190.00
+FCHC1,FANCHER CREEK,Thu Jul 17 15:05:00 PDT 2003,2.68,220.00
+FMRC1,FIVE MILE,Thu Jul 17 15:14:00 PDT 2003,9.39,170.00
+FSHC1,FORESTHILL 2,Thu Jul 17 15:10:00 PDT 2003,1.34,290.00
+FODC1,FORT ORD,Thu Jul 17 15:16:00 PDT 2003,6.26,270.00
+FTNC1,FOUNTAIN SPRINGS,Thu Jul 17 15:06:00 PDT 2003,2.24,300.00
+HLLC1,HELL HOLE,Thu Jul 17 15:09:00 PDT 2003,2.24,270.00
+HDZC1,HERNANDEZ,Thu Jul 17 15:07:00 PDT 2003,4.47,200.00
+TR823,HOLLISTER,Thu Jul 17 15:07:00 PDT 2003,5.36,280.00
+PRHC1,HURLEY,Thu Jul 17 15:05:00 PDT 2003,0.89,240.00
+IDWC1,INDIAN WELL,Thu Jul 17 15:16:00 PDT 2003,2.68,350.00
+IWLC1,INDIAN WELLS CANYON,Thu Jul 17 15:13:00 PDT 2003,8.05,160.00
+TR412,INF01 PORTABLE,Thu Jul 17 15:07:00 PDT 2003,2.24,220.00
+JULC1,JULIAN,Thu Jul 17 15:14:00 PDT 2003,2.68,250.00
+JPRC1,JUNIPER CREEK,Thu Jul 17 15:16:00 PDT 2003,3.13,320.00
+KTLC1,KETTLEMAN HILLS,Thu Jul 17 15:09:00 PDT 2003,4.47,20.00
+KNXC1,KNOXVILLE CREEK,Thu Jul 17 15:05:00 PDT 2003,2.24,190.00
+LPZC1,LA PANZA,Thu Jul 17 15:09:00 PDT 2003,2.68,260.00
+TABC1,LAS TABLAS,Thu Jul 17 15:09:00 PDT 2003,2.24,270.00
+LAFC1,LAUFMAN,Thu Jul 17 15:10:00 PDT 2003,2.68,230.00
+LRLC1,LAURAL MOUNTAIN,Thu Jul 17 15:13:00 PDT 2003,8.05,170.00
+LPOC1,LOS PRIETOS,Thu Jul 17 15:10:00 PDT 2003,1.34,10.00
+COWC1,LYONS VALLEY,Thu Jul 17 15:17:00 PDT 2003,3.58,260.00
+MKEC1,MARKLEEVILLE,Thu Jul 17 15:18:00 PDT 2003,4.92,240.00
+MYRC1,MEYERS,Thu Jul 17 15:10:00 PDT 2003,1.34,250.00
+MDHC1,MID HILLS,Thu Jul 17 15:13:00 PDT 2003,0.89,310.00
+MOLC1,MILO,Thu Jul 17 15:06:00 PDT 2003,2.24,240.00
+MRSC1,MOJAVE RIVER SINK,Thu Jul 17 15:12:00 PDT 2003,3.13,220.00
+MTIC1,MONTECITO,Thu Jul 17 15:10:00 PDT 2003,2.24,210.00
+MDAC1,MT. DIABLO,Thu Jul 17 15:17:00 PDT 2003,1.34,10.00
+OJAC1,OJAI,Thu Jul 17 15:17:00 PDT 2003,3.58,280.00
+OWNC1,OWENS CAMP,Thu Jul 17 15:11:00 PDT 2003,1.34,310.00
+OVRC1,OWENS VALLEY,Thu Jul 17 15:08:00 PDT 2003,4.92,60.00
+PKFC1,PARKFIELD,Thu Jul 17 15:08:00 PDT 2003,0.89,20.00
+PKCC1,PIKE COUNTY LOOKOUT,Thu Jul 17 15:10:00 PDT 2003,1.34,190.00
+PIHC1,PINE HILLS,Thu Jul 17 15:14:00 PDT 2003,1.34,350.00
+PPRC1,PIRU,Thu Jul 17 15:17:00 PDT 2003,6.26,260.00
+POTC1,POTRERO,Thu Jul 17 15:14:00 PDT 2003,2.68,260.00
+RCHC1,RANCHITA,Thu Jul 17 15:13:00 PDT 2003,4.47,290.00
+ROVC1,ROSE VALLEY,Thu Jul 17 15:09:00 PDT 2003,3.13,200.00
+RSHC1,RUSH CREEK,Thu Jul 17 15:10:00 PDT 2003,2.68,210.00
+SLEC1,SADDLEBACK,Thu Jul 17 15:10:00 PDT 2003,4.02,170.00
+SCNC1,SAN CLEMENTE ISLAND,Thu Jul 17 15:07:00 PDT 2003,0.00,180.00
+SHUC1,SCHOOL HOUSE,Thu Jul 17 15:10:00 PDT 2003,3.13,330.00
+SHQC1,SHADEQUARTER,Thu Jul 17 15:06:00 PDT 2003,2.24,230.00
+SHVC1,SHAVER,Thu Jul 17 15:05:00 PDT 2003,0.89,250.00
+OKPC1,SIMI VALLEY,Thu Jul 17 15:17:00 PDT 2003,2.68,290.00
+SWLC1,SQUAW LAKE,Thu Jul 17 15:14:00 PDT 2003,6.71,10.00
+TR579,TIMBER MOUNTAIN,Thu Jul 17 15:12:00 PDT 2003,4.47,210.00
+TR584,UNDERWOOD,Thu Jul 17 15:10:00 PDT 2003,1.34,230.00
+VLCC1,VALLEY CENTER,Thu Jul 17 15:13:00 PDT 2003,1.79,290.00
+VDBC1,VANDENBERG,Thu Jul 17 15:10:00 PDT 2003,3.13,260.00
+UCCC1,YUCCA VALLEY,Thu Jul 17 15:11:00 PDT 2003,5.36,310.00
+CCDC2,CCDBLMFTS1,Thu Jul 17 15:08:00 PDT 2003,4.02,110.00
+CHAC2,CHAPIN - FTS,Thu Jul 17 15:17:00 PDT 2003,2.68,210.00
+CGRC2,COPPER GULCH,Thu Jul 17 15:15:00 PDT 2003,3.58,110.00
+CMEC2,COTTONWOOD BASIN,Thu Jul 17 15:15:00 PDT 2003,3.13,70.00
+EGRC2,ERNIE GULCH,Thu Jul 17 15:16:00 PDT 2003,3.13,10.00
+GDRC2,GREAT DIVIDE,Thu Jul 17 15:16:00 PDT 2003,3.58,240.00
+GSPC2,GUNSIGHT,Thu Jul 17 15:17:00 PDT 2003,1.34,120.00
+GPRC2,GYPSUM,Thu Jul 17 15:17:00 PDT 2003,2.68,190.00
+HACC2,HACKETT,Thu Jul 17 15:18:00 PDT 2003,3.58,90.00
+MTAC2,MATACAT,Thu Jul 17 15:17:00 PDT 2003,0.89,10.00
+MMRC2,MESA MTN,Thu Jul 17 15:12:00 PDT 2003,1.34,20.00
+MRFC2,MOREFIELD - FTS,Thu Jul 17 15:17:00 PDT 2003,3.13,280.00
+NOVC2,NOVEMBER 01,Thu Jul 17 15:08:00 PDT 2003,1.79,280.00
+STOC2,STORM KING MOUNTAIN,Thu Jul 17 15:12:00 PDT 2003,2.68,260.00
+F2022,MERRITT ISLAND,Thu Jul 17 15:15:00 PDT 2003,3.13,120.00
+F2028,ARMUCHEE #1,Thu Jul 17 15:05:00 PDT 2003,1.79,350.00
+F2029,BRASSTOWN #1,Thu Jul 17 15:06:00 PDT 2003,1.34,310.00
+F2270,BYROMVILLE,Thu Jul 17 15:05:00 PDT 2003,2.24,120.00
+F2030,CAMP MERRILL,Thu Jul 17 15:05:00 PDT 2003,1.79,30.00
+F2031,CHATTOOGA #1,Thu Jul 17 15:06:00 PDT 2003,2.68,270.00
+F2032,COHUTTA#1,Thu Jul 17 15:05:00 PDT 2003,1.34,330.00
+F2034,OCONEE #1,Thu Jul 17 15:06:00 PDT 2003,0.00,140.00
+F2035,TALLULAH #1,Thu Jul 17 15:06:00 PDT 2003,1.79,210.00
+F2036,TOCCOA #1,Thu Jul 17 15:05:00 PDT 2003,1.79,340.00
+F2048,MAKAHA RIDGE,Thu Jul 17 15:12:00 PDT 2003,0.89,290.00
+F2049,MAKAPULAPAI,Thu Jul 17 15:14:00 PDT 2003,8.05,80.00
+F2053,MOLOAA DAIRY,Thu Jul 17 15:12:00 PDT 2003,3.13,110.00
+TR212,3 MILE,Thu Jul 17 15:15:00 PDT 2003,4.02,170.00
+BCFI1,BEARSKIN CREEK,Thu Jul 17 15:13:00 PDT 2003,2.24,270.00
+YFFI1,BONANZA,Thu Jul 17 15:05:00 PDT 2003,0.89,160.00
+BFYI1,BONNERS FERRY,Thu Jul 17 15:08:00 PDT 2003,0.89,220.00
+NS017,CLARKIA,Thu Jul 17 15:08:00 PDT 2003,1.79,200.00
+CBFI1,COPPER BASIN,Thu Jul 17 15:05:00 PDT 2003,2.68,200.00
+CYFI1,CRYSTAL,Thu Jul 17 15:17:00 PDT 2003,4.47,260.00
+DEAI1,DEAD INDIAN RIDGE,Thu Jul 17 15:08:00 PDT 2003,2.68,130.00
+DEHI1,DEER HAVEN,Thu Jul 17 15:11:00 PDT 2003,2.68,10.00
+DNFI1,DENT,Thu Jul 17 15:13:00 PDT 2003,1.34,170.00
+DMNI1,DIAMOND FLAT,Thu Jul 17 15:15:00 PDT 2003,1.79,270.00
+TR225,EAGLE,Thu Jul 17 15:13:00 PDT 2003,0.45,180.00
+EZRI1,EZRA CREEK,Thu Jul 17 15:13:00 PDT 2003,5.81,260.00
+FERI1,FENN,Thu Jul 17 15:14:00 PDT 2003,1.34,270.00
+FLEI1,FLECK SUMMIT,Thu Jul 17 15:08:00 PDT 2003,5.36,290.00
+FLFI1,FLINT CREEK,Thu Jul 17 15:10:00 PDT 2003,3.13,180.00
+GSKI1,GOOSE CREEK,Thu Jul 17 15:14:00 PDT 2003,4.02,90.00
+HAYI1,HAYDEN LAKE,Thu Jul 17 15:08:00 PDT 2003,2.24,260.00
+HBFI1,HORSE BUTTE,Thu Jul 17 15:16:00 PDT 2003,6.71,340.00
+HPFI1,HORTON PEAK,Thu Jul 17 15:08:00 PDT 2003,0.89,310.00
+INDI1,INDIANOLA,Thu Jul 17 15:07:00 PDT 2003,1.79,320.00
+KELI1,KELLY,Thu Jul 17 15:11:00 PDT 2003,1.34,270.00
+LCKI1,LINES CREEK,Thu Jul 17 15:08:00 PDT 2003,3.13,260.00
+THFI1,LITTLE CREEK,Thu Jul 17 15:05:00 PDT 2003,3.13,180.00
+LPFI1,LODGEPOLE,Thu Jul 17 15:12:00 PDT 2003,4.92,260.00
+MOFI1,MOBURG CANYON,Thu Jul 17 15:05:00 PDT 2003,6.26,170.00
+MOOI1,MOOSE CREEK,Thu Jul 17 15:12:00 PDT 2003,2.68,210.00
+NFFI1,NORTH FORK,Thu Jul 17 15:16:00 PDT 2003,1.34,10.00
+NS024,NUCKOLS,Thu Jul 17 15:07:00 PDT 2003,1.79,310.00
+PIEI1,PIERCE,Thu Jul 17 15:13:00 PDT 2003,0.89,50.00
+TR561,PINE CREEK PASS,Thu Jul 17 15:10:00 PDT 2003,0.00,30.00
+POTI1,POTLATCH,Thu Jul 17 15:12:00 PDT 2003,1.79,180.00
+SVFI1,POWELL,Thu Jul 17 15:11:00 PDT 2003,2.24,10.00
+NS025,PRIEST LAKE,Thu Jul 17 15:09:00 PDT 2003,2.24,190.00
+RRFI1,RED RIVER,Thu Jul 17 15:11:00 PDT 2003,1.34,230.00
+RONI1,ROUNDTOP,Thu Jul 17 15:13:00 PDT 2003,3.13,70.00
+TR952,SADDLE PASS,Thu Jul 17 15:09:00 PDT 2003,1.79,220.00
+TR257,SAWTOOTH - PORTABLE,Thu Jul 17 15:17:00 PDT 2003,3.13,150.00
+TR555,SHO-PAI,Thu Jul 17 15:17:00 PDT 2003,3.13,240.00
+SHCI1,SHOCK,Thu Jul 17 15:12:00 PDT 2003,0.45,290.00
+SFFI1,SKI HILL,Thu Jul 17 15:08:00 PDT 2003,0.45,70.00
+SKFI1,SKULL GULCH,Thu Jul 17 15:09:00 PDT 2003,2.68,200.00
+SCFI1,SLATE CREEK,Thu Jul 17 15:12:00 PDT 2003,3.13,310.00
+SRFI1,SNAKE RIVER,Thu Jul 17 15:08:00 PDT 2003,4.47,270.00
+TR574,STANLEY,Thu Jul 17 15:13:00 PDT 2003,1.34,130.00
+MCLI1,TEA POT,Thu Jul 17 15:12:00 PDT 2003,2.68,260.00
+TCFI1,TOWN CREEK,Thu Jul 17 15:13:00 PDT 2003,0.89,260.00
+TGFI1,TRAIL GULCH,Thu Jul 17 15:06:00 PDT 2003,3.58,320.00
+WEFI1,WEISER RIVER,Thu Jul 17 15:12:00 PDT 2003,3.13,130.00
+F2064,BEAN RIDGE,Thu Jul 17 15:08:00 PDT 2003,0.00,80.00
+F2065,DIXON SPRINGS,Thu Jul 17 15:08:00 PDT 2003,1.34,80.00
+F2067,HARDIN RIDGE,Thu Jul 17 15:09:00 PDT 2003,0.89,180.00
+F2068,TIPSAW LAKE,Thu Jul 17 15:11:00 PDT 2003,0.45,320.00
+QNRK1,STAFFORD,Thu Jul 17 15:08:00 PDT 2003,7.60,180.00
+F2071,KOOMER,Thu Jul 17 15:09:00 PDT 2003,1.34,20.00
+F2072,KYLBL,Thu Jul 17 15:14:00 PDT 2003,1.34,90.00
+F2079,GUM SPRINGS,Thu Jul 17 15:09:00 PDT 2003,2.24,260.00
+F2088,BALDWIN,Thu Jul 17 15:11:00 PDT 2003,1.34,10.00
+F2089,BEAR,Thu Jul 17 15:08:00 PDT 2003,3.13,10.00
+F2091,ELKHORN,Thu Jul 17 15:05:00 PDT 2003,3.13,10.00
+F2094,RACO,Thu Jul 17 15:05:00 PDT 2003,4.47,10.00
+F2096,SPINICH LAKE,Thu Jul 17 15:11:00 PDT 2003,0.89,340.00
+F2187,BADOURA,Thu Jul 17 15:06:00 PDT 2003,1.79,130.00
+F2188,BAUDETTE,Thu Jul 17 15:06:00 PDT 2003,3.58,70.00
+F2189,BEMIDJI,Thu Jul 17 15:06:00 PDT 2003,2.24,80.00
+F2190,BRAINERD,Thu Jul 17 15:06:00 PDT 2003,0.00,60.00
+F2191,CARLOS AVERY,Thu Jul 17 15:06:00 PDT 2003,1.34,20.00
+F2192,EFFIE,Thu Jul 17 15:07:00 PDT 2003,2.24,70.00
+F2193,HIBBING,Thu Jul 17 15:07:00 PDT 2003,2.24,170.00
+F2194,HILL CITY,Thu Jul 17 15:07:00 PDT 2003,1.34,150.00
+F2289,ISABELLA,Thu Jul 17 15:11:00 PDT 2003,1.79,360.00
+F2195,ITASCA,Thu Jul 17 15:07:00 PDT 2003,1.34,100.00
+F2196,KELLIHER,Thu Jul 17 15:07:00 PDT 2003,2.24,160.00
+F2197,LITTLE FALLS,Thu Jul 17 15:07:00 PDT 2003,2.24,70.00
+F2198,LITTLEFORK,Thu Jul 17 15:08:00 PDT 2003,2.68,80.00
+F2199,MOOSE LAKE,Thu Jul 17 15:08:00 PDT 2003,3.13,50.00
+F2200,MORA,Thu Jul 17 15:08:00 PDT 2003,2.68,40.00
+F2201,ORR,Thu Jul 17 15:08:00 PDT 2003,2.24,70.00
+F2202,ROSEAU,Thu Jul 17 15:08:00 PDT 2003,0.00,90.00
+F2103,AVA,Thu Jul 17 15:15:00 PDT 2003,2.24,190.00
+F2105,DONIPHAN,Thu Jul 17 15:15:00 PDT 2003,0.89,210.00
+F2106,SINKIN,Thu Jul 17 15:15:00 PDT 2003,0.89,290.00
+F2110,DELTA RD,Thu Jul 17 15:09:00 PDT 2003,1.34,260.00
+F2114,WAUSAU,Thu Jul 17 15:07:00 PDT 2003,1.79,210.00
+F2115,WINBORN,Thu Jul 17 15:09:00 PDT 2003,2.68,10.00
+ARMM8,ARMELLS CREEK,Thu Jul 17 15:05:00 PDT 2003,2.68,180.00
+BEFM8,BENCHMARK,Thu Jul 17 15:14:00 PDT 2003,4.47,130.00
+SKCM8,CURRY COULEE,Thu Jul 17 15:11:00 PDT 2003,1.79,50.00
+GPRM8,GIRD POINT,Thu Jul 17 15:06:00 PDT 2003,1.34,310.00
+HNYM8,HUNGRY HORSE,Thu Jul 17 15:14:00 PDT 2003,3.13,290.00
+LNCM8,LINCOLN,Thu Jul 17 15:05:00 PDT 2003,2.24,200.00
+TR286,LOLO PORTABLE #2,Thu Jul 17 15:06:00 PDT 2003,2.24,200.00
+MSLM8,MISSOULA,Thu Jul 17 15:05:00 PDT 2003,2.24,20.00
+PNTM8,POINT 6,Thu Jul 17 15:05:00 PDT 2003,1.79,320.00
+TR284,R1 - PORTABLE,Thu Jul 17 15:17:00 PDT 2003,2.24,300.00
+SRRM8,SIERRA,Thu Jul 17 15:05:00 PDT 2003,4.92,270.00
+TEPM8,TEPEE PT,Thu Jul 17 15:09:00 PDT 2003,5.36,240.00
+TROM8,TROY,Thu Jul 17 15:07:00 PDT 2003,2.68,40.00
+WGRM8,WEST GLACIER,Thu Jul 17 15:12:00 PDT 2003,1.79,180.00
+TR303,YAAK (UPPER FORD),Thu Jul 17 15:07:00 PDT 2003,2.24,220.00
+F2116,BACK ISLAND,Thu Jul 17 15:13:00 PDT 2003,5.81,80.00
+F2292,BEAUFORT,Thu Jul 17 15:15:00 PDT 2003,0.89,300.00
+F2117,CASWELL GAME LANDS,Thu Jul 17 15:17:00 PDT 2003,0.89,60.00
+F2118,DUKE FOREST,Thu Jul 17 15:07:00 PDT 2003,0.89,50.00
+F2119,FORT BRAGG,Thu Jul 17 15:07:00 PDT 2003,1.34,200.00
+F2120,GREENS CROSS,Thu Jul 17 15:08:00 PDT 2003,1.34,320.00
+F2122,HOFMANN FOREST,Thu Jul 17 15:09:00 PDT 2003,0.89,210.00
+F2123,JACKSON COUNTY,Thu Jul 17 15:13:00 PDT 2003,1.79,300.00
+F2130,ROCKY MOUNT,Thu Jul 17 15:13:00 PDT 2003,0.89,20.00
+F2131,RUTHERFORD COUNTY,Thu Jul 17 15:08:00 PDT 2003,1.34,140.00
+F2133,TURNBULL CREEK,Thu Jul 17 15:13:00 PDT 2003,1.34,230.00
+NS132,J. CLARK SALYER,Thu Jul 17 15:07:00 PDT 2003,4.47,120.00
+NS094,LOSTWOOD,Thu Jul 17 15:07:00 PDT 2003,4.02,140.00
+WCYN8,WATFORD CITY,Thu Jul 17 15:10:00 PDT 2003,1.34,20.00
+TR538,CRESCENT LAKE - FTS,Thu Jul 17 15:08:00 PDT 2003,1.79,240.00
+FORN1,FOX 01,Thu Jul 17 15:07:00 PDT 2003,1.79,280.00
+DPKN5,DEADMAN PEAK,Thu Jul 17 15:07:00 PDT 2003,2.24,210.00
+LOMN5,DRIPPING SPRINGS,Thu Jul 17 15:14:00 PDT 2003,4.02,340.00
+F2136,GARCIA CANY ALERT #,Thu Jul 17 15:18:00 PDT 2003,3.13,160.00
+NS053,GRANTS,Thu Jul 17 15:11:00 PDT 2003,3.13,150.00
+NS054,JEMEZ,Thu Jul 17 15:10:00 PDT 2003,3.58,120.00
+NS056,MOUNTAINAIR,Thu Jul 17 15:05:00 PDT 2003,3.58,140.00
+TR396,TRUCHAS,Thu Jul 17 15:10:00 PDT 2003,3.58,270.00
+ALLN2,ALLIGATOR RIDGE,Thu Jul 17 15:09:00 PDT 2003,4.47,200.00
+BATN2,BEACON LIGHT,Thu Jul 17 15:05:00 PDT 2003,2.24,80.00
+BLUN2,BLUEWING MOUNTAIN,Thu Jul 17 15:06:00 PDT 2003,7.15,220.00
+BUFN2,BUFFALO CREEK,Thu Jul 17 15:11:00 PDT 2003,5.81,240.00
+CRSN2,CRANE SPRINGS,Thu Jul 17 15:11:00 PDT 2003,3.58,220.00
+GRVN2,DESATOYA MOUNTAIN,Thu Jul 17 15:13:00 PDT 2003,6.26,230.00
+KYCN2,KYLE CANYON,Thu Jul 17 15:16:00 PDT 2003,2.24,240.00
+LONN2,LONG HOLLOW,Thu Jul 17 15:11:00 PDT 2003,2.68,300.00
+MORN2,MOREY CREEK,Thu Jul 17 15:07:00 PDT 2003,2.68,300.00
+MTSN2,MOUNTAIN SPRINGS,Thu Jul 17 15:16:00 PDT 2003,0.45,90.00
+STMN2,STAG MOUNTAIN,Thu Jul 17 15:10:00 PDT 2003,2.24,220.00
+F2139,CHILLICOTHE,Thu Jul 17 15:14:00 PDT 2003,1.79,280.00
+F2140,ZALESKI,Thu Jul 17 15:14:00 PDT 2003,1.34,300.00
+F2142,WICHITA,Thu Jul 17 15:09:00 PDT 2003,5.36,170.00
+ATFO3,ANTELOPE,Thu Jul 17 15:12:00 PDT 2003,7.60,230.00
+BQFO3,BASQUE HILLS,Thu Jul 17 15:07:00 PDT 2003,8.94,250.00
+BOFO3,BOULDER CREEK,Thu Jul 17 15:13:00 PDT 2003,1.79,230.00
+PKFO3,BUCKEYE,Thu Jul 17 15:14:00 PDT 2003,1.79,290.00
+CDFO3,CEDAR,Thu Jul 17 15:05:00 PDT 2003,1.79,300.00
+CPFO3,CRANE PRAIRIE,Thu Jul 17 15:11:00 PDT 2003,4.02,160.00
+CWFO3,CROW FLAT,Thu Jul 17 15:11:00 PDT 2003,3.58,140.00
+ENFO3,EDEN,Thu Jul 17 15:09:00 PDT 2003,2.68,50.00
+EKCO3,ELK CREEK,Thu Jul 17 15:06:00 PDT 2003,1.79,350.00
+EVFO3,EVANS CREEK,Thu Jul 17 15:06:00 PDT 2003,0.89,250.00
+FMFO3,FALL MOUNTAIN,Thu Jul 17 15:11:00 PDT 2003,3.13,310.00
+FEFO3,FIELDS,Thu Jul 17 15:14:00 PDT 2003,1.79,260.00
+GRBO3,GERBER RESERVOIR,Thu Jul 17 15:12:00 PDT 2003,3.58,210.00
+GSFO3,GRASSY MOUNTAIN,Thu Jul 17 15:10:00 PDT 2003,5.81,300.00
+SBFO3,ILLINOIS VALLEY AIR,Thu Jul 17 15:08:00 PDT 2003,1.34,80.00
+KEEO3,KEENEY TWO,Thu Jul 17 15:11:00 PDT 2003,1.79,340.00
+LBFO3,LAVA BUTTE,Thu Jul 17 15:10:00 PDT 2003,2.24,160.00
+MLFO3,MERLIN SEED ORCHARD,Thu Jul 17 15:09:00 PDT 2003,2.24,10.00
+FGFO3,P HILL  (FRENCHGLEN,Thu Jul 17 15:17:00 PDT 2003,6.26,210.00
+PANO3,PANHANDLE,Thu Jul 17 15:13:00 PDT 2003,0.45,180.00
+PYFO3,POLLYWOG,Thu Jul 17 15:07:00 PDT 2003,1.79,60.00
+PRFO3,PROVOLT SEED ORCHAR,Thu Jul 17 15:08:00 PDT 2003,4.02,320.00
+RMFO3,RED MOUND,Thu Jul 17 15:16:00 PDT 2003,2.68,270.00
+F2143,ANDREW PICKENS,Thu Jul 17 15:05:00 PDT 2003,0.89,130.00
+F2235,CAROLINA SANDHILLS,Thu Jul 17 15:14:00 PDT 2003,2.24,200.00
+F2144,SAVRAW,Thu Jul 17 15:06:00 PDT 2003,2.68,200.00
+F2145,SAVRIV,Thu Jul 17 15:06:00 PDT 2003,2.68,250.00
+F2165,ARANSAS,Thu Jul 17 15:08:00 PDT 2003,3.13,130.00
+BNHT2,BARNHART,Thu Jul 17 15:17:00 PDT 2003,4.92,150.00
+F2331,BASTROP,Thu Jul 17 15:15:00 PDT 2003,1.34,50.00
+F2171,BRAZORIA NWR,Thu Jul 17 15:09:00 PDT 2003,3.13,180.00
+F2332,CLARKSVILLE,Thu Jul 17 15:15:00 PDT 2003,1.79,330.00
+F2293,COLEMAN,Thu Jul 17 15:15:00 PDT 2003,4.92,90.00
+F2226,FALCON LAKE,Thu Jul 17 15:17:00 PDT 2003,7.15,40.00
+F2333,HENDERSON,Thu Jul 17 15:17:00 PDT 2003,1.34,260.00
+F2227,LINN-SAN MANUEL,Thu Jul 17 15:17:00 PDT 2003,2.24,140.00
+F2340,MATAGORDA ISLAND,Thu Jul 17 15:12:00 PDT 2003,4.47,140.00
+PSGT2,PINERY - FTS,Thu Jul 17 15:06:00 PDT 2003,5.36,50.00
+F2179,SAN BERNARD,Thu Jul 17 15:07:00 PDT 2003,4.02,150.00
+ACRU1,AGUA CANYON,Thu Jul 17 15:12:00 PDT 2003,1.79,320.00
+TR427,ASHLEY #1 PORTABLE,Thu Jul 17 15:15:00 PDT 2003,3.58,330.00
+ASYU1,ASSAY,Thu Jul 17 15:14:00 PDT 2003,1.79,280.00
+BKCU1,BLACK CEDAR,Thu Jul 17 15:07:00 PDT 2003,2.24,80.00
+BLAU1,BLACKTAIL,Thu Jul 17 15:13:00 PDT 2003,4.92,280.00
+BRPU1,BRUIN POINT,Thu Jul 17 15:07:00 PDT 2003,0.00,70.00
+BUKU1,BUCK FLAT,Thu Jul 17 15:14:00 PDT 2003,1.34,320.00
+BEUU1,BUES CANYON,Thu Jul 17 15:14:00 PDT 2003,1.34,280.00
+CCRU1,CART CREEK,Thu Jul 17 15:06:00 PDT 2003,2.24,300.00
+CDMU1,CEDAR MOUNTAIN,Thu Jul 17 15:15:00 PDT 2003,3.58,260.00
+FIVU1,FIVE MILE,Thu Jul 17 15:15:00 PDT 2003,1.79,190.00
+FTMU1,FLATTOP MOUNTAIN,Thu Jul 17 15:05:00 PDT 2003,2.24,130.00
+HWAU1,HEWINTA,Thu Jul 17 15:08:00 PDT 2003,0.45,220.00
+HSRU1,HORSE RIDGE,Thu Jul 17 15:06:00 PDT 2003,3.58,300.00
+LSCU1,LOST CREEK,Thu Jul 17 15:16:00 PDT 2003,8.49,190.00
+MSRU1,MUD SPRING,Thu Jul 17 15:13:00 PDT 2003,2.24,180.00
+NWYU1,NORWAY,Thu Jul 17 15:08:00 PDT 2003,1.34,50.00
+OTRU1,OTTER CREEK,Thu Jul 17 15:10:00 PDT 2003,8.94,200.00
+PGRU1,PLEASANT GROVE,Thu Jul 17 15:07:00 PDT 2003,2.24,210.00
+RSBU1,ROSEBUD,Thu Jul 17 15:10:00 PDT 2003,4.47,160.00
+SBWU1,SEVIER RESERVOIR,Thu Jul 17 15:14:00 PDT 2003,4.47,150.00
+SIGU1,SIGNAL PEAK,Thu Jul 17 15:07:00 PDT 2003,3.13,160.00
+TBSU1,TOM BEST SPRING,Thu Jul 17 15:16:00 PDT 2003,5.36,300.00
+TVWU1,TULE VALLEY,Thu Jul 17 15:15:00 PDT 2003,0.00,300.00
+YLSU1,YELLOWSTONE DRAINAG,Thu Jul 17 15:06:00 PDT 2003,7.60,360.00
+CMFW1,CAMP 4,Thu Jul 17 15:10:00 PDT 2003,2.24,140.00
+DRYW1,DRY CREEK,Thu Jul 17 15:14:00 PDT 2003,1.34,220.00
+TMPG4,ENTIAT,Thu Jul 17 15:10:00 PDT 2003,1.34,80.00
+TR582,GOLDENDALE,Thu Jul 17 15:09:00 PDT 2003,1.79,130.00
+HKFW1,HUCKLEBERRY RIDGE,Thu Jul 17 15:11:00 PDT 2003,0.89,30.00
+KOSW1,KOSMOS,Thu Jul 17 15:11:00 PDT 2003,2.68,10.00
+KMFW1,KRAMER,Thu Jul 17 15:08:00 PDT 2003,2.24,300.00
+TR863,MARBLEMOUNT,Thu Jul 17 15:12:00 PDT 2003,4.02,180.00
+OCFW1,ORR CREEK,Thu Jul 17 15:09:00 PDT 2003,1.79,200.00
+MEFW1,SAWMILL FLATS,Thu Jul 17 15:15:00 PDT 2003,0.89,210.00
+SMFW1,SUMAS,Thu Jul 17 15:09:00 PDT 2003,2.68,300.00
+FWFW1,SWAUK,Thu Jul 17 15:15:00 PDT 2003,1.79,160.00
+TCFW1,TACOMA CREEK,Thu Jul 17 15:06:00 PDT 2003,1.79,350.00
+TR532,WELLPINIT - FTS,Thu Jul 17 15:08:00 PDT 2003,2.24,280.00
+TR757,WENATCHEE PORTABLE,Thu Jul 17 15:15:00 PDT 2003,0.89,40.00
+F2268,GRANDVIEW,Thu Jul 17 15:10:00 PDT 2003,0.00,360.00
+TR048,TANGO 01,Thu Jul 17 15:09:00 PDT 2003,1.34,240.00
+THRW4,THOROFARE,Thu Jul 17 15:11:00 PDT 2003,1.79,300.00
+MN001,Twin Lakes I-35 Mile Post 1,Thu Jul 17 15:14:01 PDT 2003,2.78,0.00
+MN003,Little Chicago I-35 Mile Post 70,Thu Jul 17 15:14:00 PDT 2003,1.67,0.00
+MN004,Rush City I-35 Mile Post 157,Thu Jul 17 15:17:03 PDT 2003,2.50,30.00
+MN006,Beaver Creek I-90 Mile Post 4,Thu Jul 17 15:15:04 PDT 2003,7.50,80.00
+MN007,I-90 Mile Post 35,Thu Jul 17 15:11:00 PDT 2003,6.94,65.00
+MN008,I-90 Mile Post 67,Thu Jul 17 15:20:01 PDT 2003,5.28,105.00
+MN009,Blue Earth I-90 Mile Post 119,Thu Jul 17 15:20:01 PDT 2003,3.06,25.00
+MN010,Dexter I-90 Mile Post 195,Thu Jul 17 15:15:00 PDT 2003,3.33,15.00
+MN011,Jct CR 7 I-90 Mile Post 226,Thu Jul 17 15:19:01 PDT 2003,3.06,45.00
+MN012,Ridgeway I-90 Mile Post 261,Thu Jul 17 15:15:00 PDT 2003,5.56,345.00
+MN013,Dilworth I-94 Mile Post 5,Thu Jul 17 15:19:02 PDT 2003,2.78,125.00
+MN014,Rothsay I-94 Mile Post 38,Thu Jul 17 15:14:00 PDT 2003,4.44,65.00
+MN015,Alexandria I-94 Mile Post 104,Thu Jul 17 15:20:02 PDT 2003,3.89,65.00
+MN016,Sauk Center I-94 Mile Post 128,Thu Jul 17 15:12:02 PDT 2003,3.89,60.00
+MN017,Clearwater I-94 Mile Post 180,Thu Jul 17 15:16:02 PDT 2003,2.50,65.00
+MN018,Shooks MN-1 Mile Post 34,Thu Jul 17 15:19:00 PDT 2003,1.67,175.00
+MN020,Emily MN-6 Mile Post 29,Thu Jul 17 15:20:03 PDT 2003,0.00,350.00
+MN021,Clara City MN-7 Mile Post 89,Thu Jul 17 15:20:00 PDT 2003,4.44,55.00
+MN022,Lester Prairie MN-7 Mile Post 161,Thu Jul 17 15:11:01 PDT 2003,4.17,50.00
+MN024,MN-7 Mile Post 11,Thu Jul 17 15:20:07 PDT 2003,2.50,145.00
+MN026,Brichdale MN-11 Mile Post 157,Thu Jul 17 15:19:01 PDT 2003,1.94,80.00
+MN028,Lake Benton US-14 Mile Post 7,Thu Jul 17 15:11:01 PDT 2003,5.28,105.00
+MN029,Byron US-14 Mile Post 200,Thu Jul 17 15:18:00 PDT 2003,1.94,20.00
+MN030,Hendricks MN-19 Mile Post 2,Thu Jul 17 15:11:02 PDT 2003,4.44,60.00
+MN032,Winthrop MN-19 Mile Post 108,Thu Jul 17 15:11:03 PDT 2003,4.44,40.00
+MN033,Hanley Falls MN-23 Mile Post 94,Thu Jul 17 15:16:01 PDT 2003,3.61,30.00
+MN035,Lastrup MN-25 Mile Post 140,Thu Jul 17 15:13:00 PDT 2003,3.06,65.00
+MN036,Graceville MN-28 Mile Post 19,Thu Jul 17 15:13:02 PDT 2003,4.44,45.00
+MN037,Langhei Township MN-29 Mile Post 46,Thu Jul 17 15:13:02 PDT 2003,3.89,65.00
+MN038,Dovray MN-30 Mile Post 49,Thu Jul 17 15:12:00 PDT 2003,5.00,65.00
+MN040,Caledonia MN-44 Mile Post 60,Thu Jul 17 15:15:01 PDT 2003,1.39,75.00
+MN041,Squaw Lake MN-46 Mile Post 25,Thu Jul 17 15:12:02 PDT 2003,1.39,25.00
+MN042,Cannon Falls US-52 Mile Post 90,Thu Jul 17 15:13:01 PDT 2003,4.17,95.00
+MN043,Georgeville MN-55 Mile Post 98,Thu Jul 17 15:12:01 PDT 2003,6.39,85.00
+MN045,Madelia US-60 Mile Post 86,Thu Jul 17 15:12:00 PDT 2003,5.00,30.00
+MN047,Red Wing US-61 Mile Post 101,Thu Jul 17 15:14:01 PDT 2003,2.50,80.00
+MN048,Grand Portage MN-61 Mile Post 146,Thu Jul 17 15:13:03 PDT 2003,3.06,190.00
+MN049,Chamberlain MN-64 Mile Post 42,Thu Jul 17 15:19:02 PDT 2003,2.22,105.00
+MN050,Pliny MN-65 Mile Post 98,Thu Jul 17 15:14:02 PDT 2003,4.17,35.00
+MN051,Ball Bluff MN-65 Mile Post 145,Thu Jul 17 15:15:02 PDT 2003,1.67,155.00
+MN052,Effie MN-1 Mile Post 194,Thu Jul 17 15:18:02 PDT 2003,1.39,65.00
+MN054,Tenney US-75 Mile Post 188,Thu Jul 17 15:16:03 PDT 2003,4.44,120.00
+MN055,Ottertail MN-78 Mile Post 34,Thu Jul 17 15:17:03 PDT 2003,2.50,60.00
+MN056,Gatzke MN-89 Mile Post 96,Thu Jul 17 15:16:03 PDT 2003,2.50,130.00
+MN057,St. Vincent MN-171 Mile Post 2,Thu Jul 17 15:18:03 PDT 2003,3.89,115.00
+MN058,Anthony MN-200 Mile Post 9,Thu Jul 17 15:17:01 PDT 2003,3.33,85.00
+MN059,Mehurin US-212 Mile Post 1,Thu Jul 17 15:19:03 PDT 2003,3.06,65.00
+MN062,Lake Park US-10 Mile Post 32,Thu Jul 17 15:17:01 PDT 2003,3.33,110.00
+MN063,Verndale US-10 Mile Post 94,Thu Jul 17 15:18:01 PDT 2003,2.78,95.00
+MN064,Rice US-10 Mile Post 162,Thu Jul 17 15:16:01 PDT 2003,2.50,60.00
+MN065,Canton US-52 Mile Post 2,Thu Jul 17 15:15:01 PDT 2003,2.22,0.00
+MN066,Cotton US-53 Mile Post 41,Thu Jul 17 15:11:07 PDT 2003,2.50,160.00
+MN067,Ash Lake US-53 Mile Post 129,Thu Jul 17 15:12:03 PDT 2003,0.83,55.00
+MN068,Brooks US-59 Mile Post 331,Thu Jul 17 15:17:02 PDT 2003,2.22,110.00
+MN069,Kellogg US-61 Mile Post 53,Thu Jul 17 15:20:00 PDT 2003,0.56,0.00
+MN071,MN-71 Mile Post 43,Thu Jul 17 15:12:01 PDT 2003,4.44,115.00
+MN073,Mankato US-169 Mile Post 52,Thu Jul 17 15:14:04 PDT 2003,1.94,45.00
+MN075,Belle Plaine US-169 Mile Post 86,Thu Jul 17 15:13:03 PDT 2003,3.33,55.00
+MN076,Milaca US-169 Mile Post 200,Thu Jul 17 15:16:02 PDT 2003,3.89,70.00
+MN079,New Prague MN-19 Mile Post 149,Thu Jul 17 15:18:00 PDT 2003,3.06,75.00
+MN044,Mahnomen US-59 Mile Post 296,Thu Jul 17 15:17:01 PDT 2003,3.89,110.00
+MN072,Margie US-71 Mile Post 379,Thu Jul 17 15:18:02 PDT 2003,1.39,0.00
+MN025,MN-11 Mile Post 62,Thu Jul 17 15:20:10 PDT 2003,4.17,50.00
+MN060,East Grand Forks US-2 Mile Post 8,Thu Jul 17 15:20:11 PDT 2003,2.50,85.00
+BMTC2,Blue_Mountain,Thu Jul 17 15:30:00 PDT 2003,0.89,0.00
+QURC2,Quincy_Res,Thu Jul 17 15:30:00 PDT 2003,2.24,146.00
+DHPC2,Diamond_Hill,Thu Jul 17 15:30:00 PDT 2003,1.16,17.00
+EBBC2,Elbert,Thu Jul 17 15:30:00 PDT 2003,3.44,166.00
+BHNC2,Brighton,Thu Jul 17 15:30:00 PDT 2003,0.76,68.00
+SQWC2,Squaw_Mountain,Thu Jul 17 15:30:00 PDT 2003,2.95,32.00
+HGCC2,Hiwan_G.C.,Thu Jul 17 15:30:00 PDT 2003,0.89,91.00
+HIGC2,Highlands_Ranch_WTP,Thu Jul 17 15:30:00 PDT 2003,1.07,101.00
+SAPC2,Salisbury_Park,Thu Jul 17 15:30:00 PDT 2003,3.40,174.00
+COKC2,Castle_Rock,Thu Jul 17 15:30:00 PDT 2003,0.94,174.00
+LEWC2,Louisville_Lake,Thu Jul 17 15:30:00 PDT 2003,1.97,236.00
+CALC2,Cal-Wood_Ranch,Thu Jul 17 15:30:00 PDT 2003,0.85,129.00
+BTRC2,Button_Rock,Thu Jul 17 15:30:00 PDT 2003,0.98,158.00
+QUIF1,Quincy                                 FAWN,Thu Jul 17 15:30:00 PDT 2003,3.20,259.80
+CARF1,Carrabelle                             FAWN,Thu Jul 17 15:30:00 PDT 2003,1.59,200.10
+LIOF1,Live Oak                               FAWN,Thu Jul 17 15:30:00 PDT 2003,5.52,283.00
+MACF1,Macclenny                              FAWN,Thu Jul 17 15:30:00 PDT 2003,1.32,228.20
+BRZF1,Bronson                                FAWN,Thu Jul 17 15:30:00 PDT 2003,2.12,181.40
+PHAF1,Putnam Hall                            FAWN,Thu Jul 17 15:30:00 PDT 2003,0.87,259.89
+TRAF1,Citra                                  FAWN,Thu Jul 17 15:30:00 PDT 2003,2.06,220.80
+STNF1,Hastings                               FAWN,Thu Jul 17 15:30:00 PDT 2003,2.78,176.20
+CKHF1,Ocklawaha                              FAWN,Thu Jul 17 15:30:00 PDT 2003,1.01,146.80
+EPRF1,Pierson                                FAWN,Thu Jul 17 15:30:00 PDT 2003,2.60,117.60
+UMLF1,Umatilla                               FAWN,Thu Jul 17 15:30:00 PDT 2003,3.44,139.10
+KHPF1,Okahumpka                              FAWN,Thu Jul 17 15:30:00 PDT 2003,1.63,142.00
+VLNF1,Avalon                                 FAWN,Thu Jul 17 15:30:00 PDT 2003,3.67,123.30
+KSLF1,Brooksville                            FAWN,Thu Jul 17 15:30:00 PDT 2003,1.21,55.75
+POPF1,Apopka                                 FAWN,Thu Jul 17 15:30:00 PDT 2003,4.04,122.30
+KALF1,Lake Alfred                            FAWN,Thu Jul 17 15:30:00 PDT 2003,2.88,129.10
+KENF1,Kenansville                            FAWN,Thu Jul 17 15:30:00 PDT 2003,0.99,148.50
+DOVF1,Dover                                  FAWN,Thu Jul 17 15:30:00 PDT 2003,0.64,191.30
+DNTF1,Bradenton                              FAWN,Thu Jul 17 15:30:00 PDT 2003,1.19,284.70
+NNAF1,Ona                                    FAWN,Thu Jul 17 15:30:00 PDT 2003,3.77,110.70
+FDLF1,Fort Lauderdale                        FAWN,Thu Jul 17 15:30:00 PDT 2003,3.12,112.30
+PCEF1,Fort Pierce                            FAWN,Thu Jul 17 15:30:00 PDT 2003,4.39,124.90
+STDF1,Homestead                              FAWN,Thu Jul 17 15:30:00 PDT 2003,4.12,104.70
+IMKF1,Immokalee                              FAWN,Thu Jul 17 15:30:00 PDT 2003,2.49,63.85
+PALF1,Palmdale                               FAWN,Thu Jul 17 15:30:00 PDT 2003,1.09,100.60
+SEBF1,Sebring                                FAWN,Thu Jul 17 15:30:00 PDT 2003,1.41,65.84
+H0002,KNCTODD1               Jefferson     NC,Thu Jul 17 15:33:00 PDT 2003,0.00,170.00
+H0344,BlueStar Systems       Milford      OH,Thu Jul 17 15:30:00 PDT 2003,0.00,10.00
+H0004,BoblandUSA             San Diego     CA,Thu Jul 17 15:31:00 PDT 2003,1.79,300.00
+H0457,Corte Madera CA,Thu Jul 17 15:30:00 PDT 2003,2.24,130.00
+H0008,Fort Frances  ON,Thu Jul 17 15:20:00 PDT 2003,1.34,10.00
+H0010,Mac Weather            Charlottetown PE,Thu Jul 17 15:30:00 PDT 2003,0.89,190.00
+H0012,Crowley TX WX Page     Crowley       TX,Thu Jul 17 15:30:00 PDT 2003,1.34,180.00
+H0449,West Houston	        Houston	     TX,Thu Jul 17 15:29:00 PDT 2003,0.00,150.00
+H0017,Olathe        KS,Thu Jul 17 15:31:00 PDT 2003,1.34,300.00
+H0500,Gilroy	     CA,Thu Jul 17 15:31:00 PDT 2003,2.24,350.00
+H0024,Cornelius     OR,Thu Jul 17 15:16:00 PDT 2003,0.00,280.00
+H0025,Dickinson     TX,Thu Jul 17 15:33:00 PDT 2003,2.24,150.00
+H0461,Westford     MA,Thu Jul 17 15:33:00 PDT 2003,0.00,330.00
+H0029,Affton        MO,Thu Jul 17 15:30:00 PDT 2003,0.45,150.00
+H0299,KALB Studios           Alexandria    LA,Thu Jul 17 15:30:00 PDT 2003,2.24,320.00
+H0462,Chandler     AZ,Thu Jul 17 15:30:00 PDT 2003,0.89,130.00
+H0163,Aspen Trails Subdiv. WX Flagstaff    AZ,Thu Jul 17 15:33:00 PDT 2003,0.45,330.00
+H0322,Phoenix       AZ,Thu Jul 17 15:25:00 PDT 2003,0.00,150.00
+H0489,Pagosa Springs CO,Thu Jul 17 15:30:00 PDT 2003,0.00,40.00
+H0030,Harrisburg             Lowville      NY,Thu Jul 17 15:32:00 PDT 2003,4.47,260.00
+H0031,Rainbow City  AL,Thu Jul 17 15:30:00 PDT 2003,1.34,30.00
+H0032,Hendersonvill TN,Thu Jul 17 15:30:00 PDT 2003,0.00,30.00
+H0498,Balboa	     CA,Thu Jul 17 15:30:00 PDT 2003,2.24,110.00
+H0339,Williams Worship       Bellflower    CA,Thu Jul 17 15:30:00 PDT 2003,2.68,150.00
+H0300,Cloverdale    CA,Thu Jul 17 15:32:00 PDT 2003,1.34,120.00
+H0223,Petroglyph Computing   Crestline     CA,Thu Jul 17 15:32:00 PDT 2003,0.00,50.00
+H0294,Rancho San Diego       El Cajon      CA,Thu Jul 17 15:30:00 PDT 2003,2.68,180.00
+H0560,El Dorado Hills	Dartboard Wx CA,Thu Jul 17 15:31:00 PDT 2003,2.24,310.00
+H0232,Emerald Hills          Redwood City  CA,Thu Jul 17 15:31:00 PDT 2003,4.02,340.00
+H0346,California Hills       Folsom        CA,Thu Jul 17 15:30:00 PDT 2003,0.00,300.00
+H0153,Coyote Weather         Fort Bragg    CA,Thu Jul 17 15:20:00 PDT 2003,2.24,290.00
+H0563,Half Moon Bay			     CA,Thu Jul 17 15:20:00 PDT 2003,2.24,60.00
+H0237,Healdsburg    CA,Thu Jul 17 15:27:00 PDT 2003,1.34,150.00
+H0333,Cathouse Backyard WX   Lakeside      CA,Thu Jul 17 15:34:00 PDT 2003,0.00,270.00
+H0158,Lancaster     CA,Thu Jul 17 15:30:00 PDT 2003,3.58,200.00
+H0347,Terra Cotta Estates    Lincoln       CA,Thu Jul 17 15:25:00 PDT 2003,1.34,280.00
+H0465,Occidental   CA,Thu Jul 17 15:31:00 PDT 2003,1.79,320.00
+H0564,Rohnert Park			     CA,Thu Jul 17 15:30:00 PDT 2003,0.89,270.00
+H0164,San Luis Obis CA,Thu Jul 17 15:30:00 PDT 2003,0.00,300.00
+H0269,South Valley Internet  San Martin    CA,Thu Jul 17 15:30:00 PDT 2003,1.34,90.00
+H0259,Pickles Central        San Rafael    CA,Thu Jul 17 15:32:00 PDT 2003,1.79,310.00
+H0452,Santa Rosa   CA,Thu Jul 17 15:30:00 PDT 2003,1.34,230.00
+H0348,Tehachapi     CA,Thu Jul 17 15:31:00 PDT 2003,1.34,110.00
+H0506,Visalia	     CA,Thu Jul 17 15:17:00 PDT 2003,1.79,260.00
+H0442,Whittier     CA,Thu Jul 17 15:30:00 PDT 2003,2.68,150.00
+H0566,Crestone			     CO,Thu Jul 17 15:32:00 PDT 2003,1.79,340.00
+H0185,On the Mesa            Meeker        CO,Thu Jul 17 15:30:00 PDT 2003,0.45,360.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Thu Jul 17 15:30:00 PDT 2003,1.34,50.00
+H0325,Summit County CO,Thu Jul 17 15:30:00 PDT 2003,0.00,140.00
+H0350,Barn Hill              Monroe        CT,Thu Jul 17 15:30:00 PDT 2003,0.00,320.00
+H0206,Stonybrook             Norwalk       CT,Thu Jul 17 15:30:00 PDT 2003,0.45,10.00
+H0035,Bristol, VA WX Station Bristol       VA,Thu Jul 17 15:31:00 PDT 2003,0.00,220.00
+H0036,Dunstable     MA,Thu Jul 17 15:30:00 PDT 2003,2.24,300.00
+H0224,Boynton Beach FL,Thu Jul 17 15:30:00 PDT 2003,1.34,140.00
+H0351,Port St. John Weather  Cocoa         FL,Thu Jul 17 15:31:00 PDT 2003,0.00,40.00
+H0295,Lake Mary     FL,Thu Jul 17 15:32:00 PDT 2003,1.34,110.00
+H0270,Margate       FL,Thu Jul 17 15:31:00 PDT 2003,1.79,120.00
+H0240,Santa Rosa Sound       Navarre       FL,Thu Jul 17 15:32:00 PDT 2003,2.24,290.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Thu Jul 17 15:26:00 PDT 2003,1.34,130.00
+H0175,Sampson                St. Augustine FL,Thu Jul 17 15:30:00 PDT 2003,2.24,110.00
+H0509,Buchanan     GA,Thu Jul 17 15:30:00 PDT 2003,0.00,90.00
+H0296,KD4K                   Cumming       GA,Thu Jul 17 15:30:00 PDT 2003,0.45,300.00
+H0234,Roswell       GA,Thu Jul 17 15:32:00 PDT 2003,0.00,340.00
+H0571,Hemet				     CA,Thu Jul 17 15:30:00 PDT 2003,0.45,210.00
+H0573,Charles City			     IA,Thu Jul 17 15:33:00 PDT 2003,0.45,360.00
+H0183,New Hampton   IA,Thu Jul 17 15:29:00 PDT 2003,0.00,290.00
+H0417,Oxford Mills           Oxford Junction	IA,Thu Jul 17 15:31:00 PDT 2003,0.00,320.00
+H0195,Van Meter     IA,Thu Jul 17 15:31:00 PDT 2003,1.34,100.00
+H0167,Northern Idaho Weather Coeur D' Alen ID,Thu Jul 17 15:31:00 PDT 2003,1.34,140.00
+H0575,Coeur d'Alene			     ID,Thu Jul 17 15:18:00 PDT 2003,1.79,320.00
+H0261,Crystal Lake  IL,Thu Jul 17 15:30:00 PDT 2003,3.58,280.00
+H0369,East side of I65       Crothersville IN,Thu Jul 17 15:30:00 PDT 2003,0.00,140.00
+H0205,Olathe        KS,Thu Jul 17 15:22:00 PDT 2003,1.79,200.00
+H0191,Paducah       KY,Thu Jul 17 15:32:00 PDT 2003,0.00,30.00
+H0287,Arlington Center       Arlington     MA,Thu Jul 17 15:31:00 PDT 2003,1.79,280.00
+H0272,WoodvilleGr1           Hopkinton     MA,Thu Jul 17 15:30:00 PDT 2003,0.89,260.00
+H0518,Lynn	     MA,Thu Jul 17 15:30:00 PDT 2003,1.79,160.00
+H0297,Uxbridge      MA,Thu Jul 17 15:16:00 PDT 2003,0.00,290.00
+H0156,Raymond       ME,Thu Jul 17 15:31:00 PDT 2003,0.00,130.00
+H0373,Parchment/Spring Valley Kalamazoo   MI,Thu Jul 17 15:30:00 PDT 2003,0.45,280.00
+H0253,Blaine        MN,Thu Jul 17 15:30:00 PDT 2003,1.34,340.00
+H0307,Bloomington   MN,Thu Jul 17 15:30:00 PDT 2003,1.34,90.00
+H0273,Minnesotaweathernet    Franklin      MN,Thu Jul 17 15:30:00 PDT 2003,1.79,60.00
+H0354,Monticello    MN,Thu Jul 17 15:31:00 PDT 2003,2.68,90.00
+H0342,Gideon School District Gideon        MO,Thu Jul 17 15:30:00 PDT 2003,0.45,270.00
+H0491,Greensboro   NC,Thu Jul 17 15:33:00 PDT 2003,0.00,310.00
+H0523,Lewisville   NC,Thu Jul 17 15:30:00 PDT 2003,0.00,220.00
+H0387,North Holmes           Lake Lincoln NE,Thu Jul 17 15:30:00 PDT 2003,0.89,260.00
+H0241,Omaha         NE,Thu Jul 17 15:30:00 PDT 2003,1.79,200.00
+H0289,Omaha         NE,Thu Jul 17 15:30:00 PDT 2003,0.89,150.00
+H0582,East Millstone			     NJ,Thu Jul 17 15:30:00 PDT 2003,0.89,350.00
+H0583,Highlands			     NJ,Thu Jul 17 15:30:00 PDT 2003,0.00,240.00
+H0476,Hopewell     NJ,Thu Jul 17 15:30:00 PDT 2003,0.00,40.00
+H0370,Meadowlands            Secaucus     NJ,Thu Jul 17 15:20:00 PDT 2003,0.00,10.00
+H0302,Cuba          NY,Thu Jul 17 15:29:00 PDT 2003,3.58,260.00
+H0358,Port of Rensselaer     Rensselaer    NY,Thu Jul 17 15:30:00 PDT 2003,1.79,300.00
+H0290,Rochester     NY,Thu Jul 17 15:31:00 PDT 2003,5.81,280.00
+H0478,Saratoga Springs NY,Thu Jul 17 15:31:00 PDT 2003,0.00,90.00
+H0395,Mecox Bay              Water Mill   NY,Thu Jul 17 15:31:00 PDT 2003,0.89,280.00
+H0291,Colerain Township      Cincinnati    OH,Thu Jul 17 15:30:00 PDT 2003,0.00,70.00
+H0309,Columbus      OH,Thu Jul 17 15:20:00 PDT 2003,0.89,270.00
+H0220,Hillsboro     OR,Thu Jul 17 15:30:00 PDT 2003,0.89,120.00
+H0492,Rock Creek, Hillsboro  Portland     OR,Thu Jul 17 15:20:00 PDT 2003,1.34,20.00
+H0159,Old Town               Sherwood      OR,Thu Jul 17 15:30:00 PDT 2003,0.89,20.00
+H0227,Turner        OR,Thu Jul 17 15:30:00 PDT 2003,2.24,10.00
+H0440,Broomall     PA,Thu Jul 17 15:31:00 PDT 2003,0.89,260.00
+H0336,Malvern       PA,Thu Jul 17 15:30:00 PDT 2003,0.00,40.00
+H0229,Audubon Society of W PA Fox Chapel   PA,Thu Jul 17 15:20:00 PDT 2003,0.00,320.00
+H0043,WX for West PA/East OH Sharon        PA,Thu Jul 17 15:30:00 PDT 2003,0.00,270.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Thu Jul 17 15:31:00 PDT 2003,0.00,40.00
+H0313,BosWeather             Greer         SC,Thu Jul 17 15:33:00 PDT 2003,0.89,110.00
+H0479,West Columbia SC,Thu Jul 17 15:31:00 PDT 2003,0.00,40.00
+H0588,Mitchell			     SD,Thu Jul 17 15:30:00 PDT 2003,3.13,90.00
+H0298,Terricita Hills        Rapid City    SD,Thu Jul 17 15:32:00 PDT 2003,0.00,360.00
+H0247,Sturgis       SD,Thu Jul 17 15:33:00 PDT 2003,6.71,110.00
+H0447,Downtown               Santa Rosa   CA,Thu Jul 17 15:32:00 PDT 2003,4.02,200.00
+H0396,Williamson             County Franklin TN,Thu Jul 17 15:30:00 PDT 2003,0.45,360.00
+H0235,Lebanon       TN,Thu Jul 17 15:32:00 PDT 2003,2.24,310.00
+H0310,SSC                    Abilene       TX,Thu Jul 17 15:15:00 PDT 2003,3.13,180.00
+H0318,Austin        TX,Thu Jul 17 15:30:00 PDT 2003,0.00,150.00
+H0236,Burk                   Burnett       TX,Thu Jul 17 15:32:00 PDT 2003,2.24,200.00
+H0591,Dallas	Oak Cliff		     TX,Thu Jul 17 15:30:00 PDT 2003,0.00,190.00
+H0194,Fort Davis    TX,Thu Jul 17 15:30:00 PDT 2003,1.34,20.00
+H0152,Frisco        TX,Thu Jul 17 15:31:00 PDT 2003,1.34,270.00
+H0311,Clear Lake City WX     Houston       TX,Thu Jul 17 15:32:00 PDT 2003,2.24,120.00
+H0361,R and K Weather        Houston       TX,Thu Jul 17 15:32:00 PDT 2003,0.45,220.00
+H0230,Riverbend WA5KXX       Plano         TX,Thu Jul 17 15:30:00 PDT 2003,1.34,150.00
+H0278,TeleHobbies            Rockwall      TX,Thu Jul 17 15:20:00 PDT 2003,0.00,170.00
+H0415,Northwest Crossing	San Antonio  TX,Thu Jul 17 15:32:00 PDT 2003,0.00,220.00
+H0280,Taylor        TX,Thu Jul 17 15:30:00 PDT 2003,0.89,130.00
+H0451,Centerville  UT,Thu Jul 17 15:20:00 PDT 2003,1.79,350.00
+H0362,Salt Lake Cty UT,Thu Jul 17 15:30:00 PDT 2003,0.00,0.00
+H0157,N4NW                   Stafford      VA,Thu Jul 17 15:33:00 PDT 2003,0.00,30.00
+H0594,Stafford			     VA,Thu Jul 17 15:30:00 PDT 2003,0.00,230.00
+H0363,Darrington    WA,Thu Jul 17 15:33:00 PDT 2003,1.34,80.00
+H0481,Kenmore      WA,Thu Jul 17 15:32:00 PDT 2003,3.58,300.00
+H0596,Maple Valley			     WA,Thu Jul 17 15:30:00 PDT 2003,0.00,10.00
+H0597,Vancouver			     WA,Thu Jul 17 15:32:00 PDT 2003,0.89,330.00
+H0331,Walnut Grove           Vancouver     WA,Thu Jul 17 15:30:00 PDT 2003,1.34,210.00
+H0598,Vancouver		Lutegrad Weather WA,Thu Jul 17 15:31:00 PDT 2003,1.34,310.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Thu Jul 17 15:16:00 PDT 2003,0.89,190.00
+H0490,Sylmar       CA,Thu Jul 17 15:30:00 PDT 2003,1.34,170.00
+H0423,Middleboro   MA,Thu Jul 17 15:30:00 PDT 2003,0.45,300.00
+H0052,New Milford Weather    New Milford   CT,Thu Jul 17 15:31:00 PDT 2003,0.00,110.00
+H0482,Savage       MN,Thu Jul 17 15:32:00 PDT 2003,2.68,80.00
+H0501,Peanut Hill Weather	Lodi	     CA,Thu Jul 17 15:33:00 PDT 2003,0.00,290.00
+H0062,Northeast Raleigh      Raleigh       NC,Thu Jul 17 15:31:00 PDT 2003,1.34,50.00
+H0505,Santa Rosa   CA,Thu Jul 17 15:31:00 PDT 2003,0.00,230.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Thu Jul 17 15:31:00 PDT 2003,1.79,100.00
+H0525,Omaha	     NE,Thu Jul 17 15:33:00 PDT 2003,1.34,280.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Thu Jul 17 15:30:00 PDT 2003,0.45,270.00
+H0610,Wimberley			     TX,Thu Jul 17 15:30:00 PDT 2003,0.89,180.00
+H0090,WKRG Studios           Mobile        AL,Thu Jul 17 15:30:00 PDT 2003,1.34,130.00
+H0091,WMBB Studios           Panama City   FL,Thu Jul 17 15:30:00 PDT 2003,3.13,260.00
+CCDNH,CONCORD NH                             ETL,Thu Jul 17 15:00:00 PDT 2003,2.94,288.69
+CCLCA,CHOWCHILLA CA                          ETL,Thu Jul 17 15:00:00 PDT 2003,4.29,316.25
+GVYCA,GRASS VALLEY CA                        ETL,Thu Jul 17 15:00:00 PDT 2003,1.85,251.60
+GYXME,GRAY ME                                ETL,Thu Jul 17 15:00:00 PDT 2003,1.73,162.16
+PYMMA,PLYMOUTH MA                            ETL,Thu Jul 17 15:00:00 PDT 2003,2.33,145.64
+SCHNY,SCHENECTADY NY                         ETL,Thu Jul 17 15:00:00 PDT 2003,3.02,271.43
+MN094,I-35W at Mississippi I-35W Mile Post 19,Thu Jul 17 15:18:00 PDT 2003,2.50,25.00
+MN085,I-494 and MN-5 I-494 Mile Post 18,Thu Jul 17 15:21:33 PDT 2003,3.33,20.00
+MN086,Burnsville I-35W Mile Post 4,Thu Jul 17 15:22:06 PDT 2003,0.00,0.00
+MN087,Maple Grove I-94 Mile Post 217,Thu Jul 17 15:22:42 PDT 2003,3.33,75.00
+MN088,Little Canada I-694 Mile Post 46,Thu Jul 17 15:13:25 PDT 2003,2.78,0.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Thu Jul 17 15:16:19 PDT 2003,2.78,0.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Thu Jul 17 15:16:57 PDT 2003,2.78,40.00
+MN092,Mitchell Bridge MN-169 Mile Post 343,Thu Jul 17 15:17:34 PDT 2003,0.83,255.00
+MN096,Albert Lea I-35 Mile Post 30,Thu Jul 17 15:22:03 PDT 2003,2.78,35.00
+MN093,Silver Cliff MN-61 Mile Post 30,Thu Jul 17 15:20:00 PDT 2003,1.11,75.00
+SJEI4,Jefferson Scranton HS                  KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.03,210.00
+SFOI4,Nodaway Valley - Fontanelle            KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,120.00
+SOSI4,Clarke Community - Osceola             KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,2.57,230.00
+SWII4,Winterset Community                    KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,4.12,230.00
+SADI4,Adair Casey                            KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,2.57,210.00
+SAFI4,East Union - Afton                     KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,230.00
+SKCI4,KCCI Studios - Des Moines              KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,250.00
+SAEI4,ADM MS - Adel                          KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,2.06,180.00
+SCHI4,Van Allen Elementary - Chariton        KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,210.00
+SMAI4,Fisher Elementary - Marshalltown       KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.54,210.00
+SNEI4,Berg MS - Newton                       KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.54,290.00
+SAKI4,Ankeny Christian                       KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,2.06,290.00
+SHUI4,Taft Elementary - Humboldt             KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.54,70.00
+SROI4,Rockwell City                          KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,50.00
+SCAI4,Kuemper Catholic - Carroll             KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.54,340.00
+SGLI4,Glidden Ralston - Glidden              KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.03,360.00
+SCOI4,Colo Elementary - Colo                 KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.54,250.00
+SCSI4,Creston HS                             KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,180.00
+SWBI4,Webster City Community                 KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,0.51,290.00
+SAUI4,Audubon Community                      KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,2.06,230.00
+SMNI4,Montezuma Community                    KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,2.57,270.00
+SIFI4,Rock Run Elementary - Iowa Falls       KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.03,70.00
+SCNI4,Corning Community - Corning            KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.54,160.00
+SSUI4,Sully Christian                        KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,230.00
+SKNI4,Knoxville Community                    KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,250.00
+SAMI4,Northwood Elementary - Ames            KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,0.00,210.00
+SJWI4,South Hamilton - Jewell                KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.03,250.00
+SLOI4,Lamoni Community - Lamoni              KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.03,230.00
+SALI4,Lincoln Center - Albia                 KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,210.00
+SWAI4,Wall Lake-View-Auburn                  KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.03,70.00
+SBRI4,BGM Elementary - Brooklyn              KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,270.00
+SDRI4,River Woods - Des Moines               KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.60,270.00
+SBOI4,United Community - Boone               KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,1.03,210.00
+SLMI4,CAL Community - Latimer                KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,2.57,50.00
+SFAI4,Prairie Valley - Farnhamville          KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.60,50.00
+SCBI4,Coon Rapids - Bayard                   KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,0.00,360.00
+SPEI4,Pella MS                               KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,270.00
+SBKI4,Belmond Klemme                         KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,3.09,70.00
+SLEI4,Leon                                   KCCI-TV,Thu Jul 17 15:35:00 PDT 2003,6.17,250.00
+CO099,Canyon Creek (8),Thu Jul 17 15:16:00 PDT 2003,0.45,135.00
+SMAM5,Madison                                KELO-TV,Thu Jul 17 15:37:00 PDT 2003,0.51,340.00
+SABS2,Aberdeen                               KELO-TV,Thu Jul 17 15:37:00 PDT 2003,4.12,30.00
+SHUS2,Huron                                  KELO-TV,Thu Jul 17 15:37:00 PDT 2003,4.12,70.00
+SMIS2,Milbank                                KELO-TV,Thu Jul 17 15:37:00 PDT 2003,1.54,50.00
+SMSS2,Mission                                KELO-TV,Thu Jul 17 15:37:00 PDT 2003,5.14,70.00
+SPIS2,Pierre                                 KELO-TV,Thu Jul 17 15:37:00 PDT 2003,5.66,50.00
+SSAS2,Sioux Falls PH                         KELO-TV,Thu Jul 17 15:37:00 PDT 2003,3.09,70.00
+SSBS2,Sioux Falls Pavilion                   KELO-TV,Thu Jul 17 15:37:00 PDT 2003,6.17,70.00
+SWAS2,Wall                                   KELO-TV,Thu Jul 17 15:37:00 PDT 2003,5.66,90.00
+SWTS2,Watertown                              KELO-TV,Thu Jul 17 15:37:00 PDT 2003,1.54,140.00
+SYAS2,Yankton                                KELO-TV,Thu Jul 17 15:37:00 PDT 2003,3.09,90.00
+SHII4,Hull                                   KELO-TV,Thu Jul 17 15:37:00 PDT 2003,5.66,90.00
+ALHF1,Alachua                                FAWN,Thu Jul 17 15:30:00 PDT 2003,2.32,217.00
+MN001,Twin Lakes I-35 Mile Post 1,Thu Jul 17 15:24:02 PDT 2003,3.06,0.00
+MN003,Little Chicago I-35 Mile Post 70,Thu Jul 17 15:24:01 PDT 2003,1.67,40.00
+MN004,Rush City I-35 Mile Post 157,Thu Jul 17 15:27:03 PDT 2003,2.22,10.00
+MN006,Beaver Creek I-90 Mile Post 4,Thu Jul 17 15:25:04 PDT 2003,7.22,75.00
+MN007,I-90 Mile Post 35,Thu Jul 17 15:21:00 PDT 2003,7.78,75.00
+MN008,I-90 Mile Post 67,Thu Jul 17 15:30:01 PDT 2003,5.28,110.00
+MN009,Blue Earth I-90 Mile Post 119,Thu Jul 17 15:30:01 PDT 2003,3.89,30.00
+MN010,Dexter I-90 Mile Post 195,Thu Jul 17 15:25:00 PDT 2003,3.33,5.00
+MN011,Jct CR 7 I-90 Mile Post 226,Thu Jul 17 15:29:01 PDT 2003,3.06,30.00
+MN012,Ridgeway I-90 Mile Post 261,Thu Jul 17 15:25:01 PDT 2003,5.00,0.00
+MN013,Dilworth I-94 Mile Post 5,Thu Jul 17 15:29:03 PDT 2003,2.50,95.00
+MN014,Rothsay I-94 Mile Post 38,Thu Jul 17 15:24:00 PDT 2003,4.44,60.00
+MN015,Alexandria I-94 Mile Post 104,Thu Jul 17 15:30:02 PDT 2003,4.44,70.00
+MN016,Sauk Center I-94 Mile Post 128,Thu Jul 17 15:22:02 PDT 2003,3.33,70.00
+MN017,Clearwater I-94 Mile Post 180,Thu Jul 17 15:26:01 PDT 2003,3.06,65.00
+MN018,Shooks MN-1 Mile Post 34,Thu Jul 17 15:29:00 PDT 2003,1.11,155.00
+MN020,Emily MN-6 Mile Post 29,Thu Jul 17 15:30:03 PDT 2003,0.83,65.00
+MN021,Clara City MN-7 Mile Post 89,Thu Jul 17 15:30:00 PDT 2003,5.83,50.00
+MN022,Lester Prairie MN-7 Mile Post 161,Thu Jul 17 15:21:01 PDT 2003,5.00,60.00
+MN024,MN-7 Mile Post 11,Thu Jul 17 15:30:10 PDT 2003,2.50,115.00
+MN025,MN-11 Mile Post 62,Thu Jul 17 15:30:10 PDT 2003,3.33,75.00
+MN026,Brichdale MN-11 Mile Post 157,Thu Jul 17 15:29:01 PDT 2003,2.50,115.00
+MN028,Lake Benton US-14 Mile Post 7,Thu Jul 17 15:21:01 PDT 2003,5.00,100.00
+MN029,Byron US-14 Mile Post 200,Thu Jul 17 15:28:00 PDT 2003,2.22,20.00
+MN030,Hendricks MN-19 Mile Post 2,Thu Jul 17 15:21:03 PDT 2003,5.28,90.00
+MN032,Winthrop MN-19 Mile Post 108,Thu Jul 17 15:21:03 PDT 2003,4.17,60.00
+MN033,Hanley Falls MN-23 Mile Post 94,Thu Jul 17 15:26:01 PDT 2003,3.33,35.00
+MN035,Lastrup MN-25 Mile Post 140,Thu Jul 17 15:23:00 PDT 2003,3.61,55.00
+MN036,Graceville MN-28 Mile Post 19,Thu Jul 17 15:23:02 PDT 2003,5.28,70.00
+MN037,Langhei Township MN-29 Mile Post 46,Thu Jul 17 15:23:01 PDT 2003,3.61,65.00
+MN038,Dovray MN-30 Mile Post 49,Thu Jul 17 15:22:00 PDT 2003,4.72,75.00
+MN040,Caledonia MN-44 Mile Post 60,Thu Jul 17 15:25:01 PDT 2003,2.78,55.00
+MN041,Squaw Lake MN-46 Mile Post 25,Thu Jul 17 15:22:02 PDT 2003,1.11,35.00
+MN042,Cannon Falls US-52 Mile Post 90,Thu Jul 17 15:23:00 PDT 2003,3.33,85.00
+MN043,Georgeville MN-55 Mile Post 98,Thu Jul 17 15:22:01 PDT 2003,5.00,80.00
+MN045,Madelia US-60 Mile Post 86,Thu Jul 17 15:22:00 PDT 2003,4.44,50.00
+MN047,Red Wing US-61 Mile Post 101,Thu Jul 17 15:24:01 PDT 2003,2.78,50.00
+MN048,Grand Portage MN-61 Mile Post 146,Thu Jul 17 15:23:02 PDT 2003,1.94,215.00
+MN049,Chamberlain MN-64 Mile Post 42,Thu Jul 17 15:29:02 PDT 2003,1.67,115.00
+MN050,Pliny MN-65 Mile Post 98,Thu Jul 17 15:24:02 PDT 2003,3.06,35.00
+MN051,Ball Bluff MN-65 Mile Post 145,Thu Jul 17 15:25:03 PDT 2003,1.39,115.00
+MN052,Effie MN-1 Mile Post 194,Thu Jul 17 15:28:02 PDT 2003,2.50,60.00
+MN054,Tenney US-75 Mile Post 188,Thu Jul 17 15:26:03 PDT 2003,5.00,95.00
+MN055,Ottertail MN-78 Mile Post 34,Thu Jul 17 15:27:03 PDT 2003,1.67,75.00
+MN056,Gatzke MN-89 Mile Post 96,Thu Jul 17 15:26:02 PDT 2003,3.06,130.00
+MN057,St. Vincent MN-171 Mile Post 2,Thu Jul 17 15:28:03 PDT 2003,3.33,140.00
+MN058,Anthony MN-200 Mile Post 9,Thu Jul 17 15:27:00 PDT 2003,2.22,100.00
+MN059,Mehurin US-212 Mile Post 1,Thu Jul 17 15:29:03 PDT 2003,1.39,90.00
+MN060,East Grand Forks US-2 Mile Post 8,Thu Jul 17 15:30:13 PDT 2003,3.89,60.00
+MN062,Lake Park US-10 Mile Post 32,Thu Jul 17 15:27:01 PDT 2003,3.33,95.00
+MN063,Verndale US-10 Mile Post 94,Thu Jul 17 15:28:01 PDT 2003,3.61,80.00
+MN064,Rice US-10 Mile Post 162,Thu Jul 17 15:26:01 PDT 2003,3.06,80.00
+MN065,Canton US-52 Mile Post 2,Thu Jul 17 15:25:02 PDT 2003,2.22,0.00
+MN066,Cotton US-53 Mile Post 41,Thu Jul 17 15:21:03 PDT 2003,1.94,150.00
+MN067,Ash Lake US-53 Mile Post 129,Thu Jul 17 15:22:03 PDT 2003,1.39,25.00
+MN068,Brooks US-59 Mile Post 331,Thu Jul 17 15:27:01 PDT 2003,3.33,95.00
+MN069,Kellogg US-61 Mile Post 53,Thu Jul 17 15:30:00 PDT 2003,2.50,0.00
+MN071,MN-71 Mile Post 43,Thu Jul 17 15:22:01 PDT 2003,2.78,60.00
+MN075,Belle Plaine US-169 Mile Post 86,Thu Jul 17 15:23:03 PDT 2003,2.78,50.00
+MN076,Milaca US-169 Mile Post 200,Thu Jul 17 15:26:02 PDT 2003,3.33,60.00
+MN079,New Prague MN-19 Mile Post 149,Thu Jul 17 15:28:00 PDT 2003,3.89,70.00
+MN044,Mahnomen US-59 Mile Post 296,Thu Jul 17 15:27:01 PDT 2003,3.06,145.00
+MN072,Margie US-71 Mile Post 379,Thu Jul 17 15:28:02 PDT 2003,2.78,135.00
+MN073,Mankato US-169 Mile Post 52,Thu Jul 17 15:24:05 PDT 2003,3.06,40.00
+F1264,ALCAN HWY MI-1244,Thu Jul 17 15:19:00 PDT 2003,3.58,310.00
+F1266,BEAR MTN.,Thu Jul 17 15:20:00 PDT 2003,6.71,210.00
+F1268,BEN CREEK,Thu Jul 17 15:25:00 PDT 2003,0.00,300.00
+F1269,BENTALIT,Thu Jul 17 15:21:00 PDT 2003,3.13,220.00
+F1924,BLACK CAPE,Thu Jul 17 15:18:00 PDT 2003,4.02,110.00
+F1925,BOOTH LAKE,Thu Jul 17 15:24:00 PDT 2003,4.92,130.00
+F1927,CAPE KIAVAK,Thu Jul 17 15:26:00 PDT 2003,9.39,70.00
+F1928,CARIBOU PEAK,Thu Jul 17 15:20:00 PDT 2003,6.26,230.00
+F1931,CHICKEN,Thu Jul 17 15:18:00 PDT 2003,2.24,50.00
+F1932,CHIEF COVE,Thu Jul 17 15:19:00 PDT 2003,8.94,130.00
+F1933,CHISANA,Thu Jul 17 15:24:00 PDT 2003,4.02,200.00
+F1936,COTTONWOOD,Thu Jul 17 15:25:00 PDT 2003,2.24,310.00
+F1937,EAGLE,Thu Jul 17 15:25:00 PDT 2003,2.68,320.00
+F1953,HOODOO HILL,Thu Jul 17 15:19:00 PDT 2003,1.79,280.00
+F1961,KAVET CREEK,Thu Jul 17 15:21:00 PDT 2003,2.24,320.00
+F2299,KELLY,Thu Jul 17 15:23:00 PDT 2003,3.13,240.00
+F1967,KLAWASI,Thu Jul 17 15:24:00 PDT 2003,12.07,160.00
+F1969,LAKE MINCHUMINA,Thu Jul 17 15:20:00 PDT 2003,2.24,100.00
+F1971,MAY CREEK,Thu Jul 17 15:25:00 PDT 2003,3.13,200.00
+F1972,MCKINLEY RIVER,Thu Jul 17 15:20:00 PDT 2003,1.34,60.00
+F1979,NOATAK,Thu Jul 17 15:23:00 PDT 2003,2.68,210.00
+F1980,NORUTAK LAKE,Thu Jul 17 15:21:00 PDT 2003,0.89,200.00
+F1984,PORT ALSWORTH,Thu Jul 17 15:22:00 PDT 2003,0.89,300.00
+F2000,STONEY,Thu Jul 17 15:22:00 PDT 2003,1.34,350.00
+F2011,BANKHEAD,Thu Jul 17 15:25:00 PDT 2003,1.34,10.00
+F2013,OAKMULGEE,Thu Jul 17 15:24:00 PDT 2003,2.24,160.00
+F2014,OPNPND,Thu Jul 17 15:22:00 PDT 2003,2.24,210.00
+F2326,SHOAL CREEK,Thu Jul 17 15:22:00 PDT 2003,1.79,320.00
+F2015,TALLADEGA,Thu Jul 17 15:24:00 PDT 2003,1.34,50.00
+QBHA3,BLACK HILLS,Thu Jul 17 15:31:00 PDT 2003,3.58,150.00
+QCZA3,CARRIZO,Thu Jul 17 15:19:00 PDT 2003,4.02,170.00
+QCPA3,CHEDISKI PEAK,Thu Jul 17 15:22:00 PDT 2003,3.13,210.00
+QCBA3,CHUCK BOX,Thu Jul 17 15:22:00 PDT 2003,1.34,250.00
+TR572,CIBECUE RIDGE,Thu Jul 17 15:20:00 PDT 2003,3.13,150.00
+QDSA3,DEER SPRINGS,Thu Jul 17 15:20:00 PDT 2003,2.68,210.00
+QGHA3,GRASSHOPPER,Thu Jul 17 15:20:00 PDT 2003,3.58,220.00
+QHPA3,HOPKINS,Thu Jul 17 15:27:00 PDT 2003,5.36,110.00
+QJOA3,JUMP-OFF RIDGE,Thu Jul 17 15:22:00 PDT 2003,4.92,200.00
+QJPA3,JUNIPER RIDGE,Thu Jul 17 15:20:00 PDT 2003,4.47,220.00
+QOSA3,O W SADDLE,Thu Jul 17 15:19:00 PDT 2003,1.79,220.00
+QSHA3,STRAY HORSE,Thu Jul 17 15:21:00 PDT 2003,0.89,180.00
+TR074,TONTO PORTABLE #1,Thu Jul 17 15:25:00 PDT 2003,0.89,180.00
+QWSA3,WARM SPRINGS CANYON,Thu Jul 17 15:23:00 PDT 2003,0.45,70.00
+TR085,BAKERSFIELD PORTABL,Thu Jul 17 15:30:00 PDT 2003,1.34,130.00
+BSNC1,BATTERSON,Thu Jul 17 15:31:00 PDT 2003,0.89,190.00
+BPKC1,BEAR PEAK,Thu Jul 17 15:21:00 PDT 2003,4.02,170.00
+CAPC1,BELL CANYON,Thu Jul 17 15:31:00 PDT 2003,5.36,200.00
+BPFC1,BIG PINE FLAT,Thu Jul 17 15:19:00 PDT 2003,1.79,290.00
+TR361,BIG SUR,Thu Jul 17 15:26:00 PDT 2003,1.79,330.00
+BOGC1,BOGARD R.S.,Thu Jul 17 15:30:00 PDT 2003,2.68,190.00
+BUFC1,BULL FLAT,Thu Jul 17 15:25:00 PDT 2003,5.36,260.00
+TR841,BURRO CANYON BAER,Thu Jul 17 15:25:00 PDT 2003,0.45,170.00
+TR106,CDF PORTABLE #17,Thu Jul 17 15:21:00 PDT 2003,1.34,60.00
+CESC1,CHESTER,Thu Jul 17 15:30:00 PDT 2003,4.92,170.00
+TR119,CNF30 PORTABLE,Thu Jul 17 15:21:00 PDT 2003,0.89,220.00
+CVEC1,CONVERSE,Thu Jul 17 15:20:00 PDT 2003,2.24,60.00
+CNSC1,CRANSTON,Thu Jul 17 15:20:00 PDT 2003,0.45,220.00
+TR844,CRYSTAL LAKE BAER,Thu Jul 17 15:24:00 PDT 2003,0.89,120.00
+FWSC1,FAWNSKIN,Thu Jul 17 15:20:00 PDT 2003,2.24,190.00
+TR372,FIGUEROA,Thu Jul 17 15:26:00 PDT 2003,1.79,220.00
+FHLC1,FORT HUNTER LIGGET,Thu Jul 17 15:22:00 PDT 2003,1.79,240.00
+FRCC1,FREMONT CANYON,Thu Jul 17 15:30:00 PDT 2003,2.68,210.00
+TR935,GRIZZLY FLAT,Thu Jul 17 15:21:00 PDT 2003,1.34,260.00
+TR138,H-T PORTABLE #2,Thu Jul 17 15:29:00 PDT 2003,0.45,160.00
+GJCN5,HOPLAND UC,Thu Jul 17 15:28:00 PDT 2003,3.58,220.00
+HTSC1,HORSE THIEF SPRINGS,Thu Jul 17 15:21:00 PDT 2003,2.24,310.00
+KNWC1,KEENWILD,Thu Jul 17 15:19:00 PDT 2003,0.89,280.00
+TR149,LNF06 PORTABLE,Thu Jul 17 15:29:00 PDT 2003,0.45,20.00
+LTLC1,LYTLE CREEK,Thu Jul 17 15:20:00 PDT 2003,0.00,80.00
+LVMC1,MALLORY RIDGE,Thu Jul 17 15:19:00 PDT 2003,3.13,240.00
+VIOC1,MANZANITA LAKE,Thu Jul 17 15:31:00 PDT 2003,2.68,250.00
+TR079,MDF04 PORTABLE,Thu Jul 17 15:28:00 PDT 2003,1.79,300.00
+DBHC1,MDF06 PORTABLE,Thu Jul 17 15:28:00 PDT 2003,0.89,300.00
+MMKC1,MILL CREEK (BDF),Thu Jul 17 15:23:00 PDT 2003,1.79,210.00
+MNCC1,MORMON ROCK,Thu Jul 17 15:23:00 PDT 2003,3.58,60.00
+OBRC1,OAK BOTTOM,Thu Jul 17 15:30:00 PDT 2003,2.24,70.00
+OZNC1,OZENA,Thu Jul 17 15:25:00 PDT 2003,3.13,360.00
+TR871,PNF24 PORTABLE,Thu Jul 17 15:30:00 PDT 2003,1.79,40.00
+MIPC1,POVERTY,Thu Jul 17 15:18:00 PDT 2003,4.02,240.00
+QYRC1,QUINCY RD,Thu Jul 17 15:18:00 PDT 2003,2.68,180.00
+RCEC1,ROCK CREEK,Thu Jul 17 15:28:00 PDT 2003,2.24,100.00
+TR172,SNF04 PORTABLE,Thu Jul 17 15:28:00 PDT 2003,0.89,240.00
+HSPC1,SPRING VALLEY,Thu Jul 17 15:19:00 PDT 2003,4.92,280.00
+TCLC1,TEMESCAL (LPF),Thu Jul 17 15:25:00 PDT 2003,1.79,280.00
+NJRC2,9J ROAD,Thu Jul 17 15:18:00 PDT 2003,3.58,150.00
+LPRC2,BLACK CANYON,Thu Jul 17 15:20:00 PDT 2003,2.24,10.00
+CPTC2,CARPENTER RIDGE,Thu Jul 17 15:29:00 PDT 2003,0.89,250.00
+DRAC2,DRAGON ROAD,Thu Jul 17 15:21:00 PDT 2003,2.24,10.00
+TR390,GMF1 MONTROSE 555,Thu Jul 17 15:27:00 PDT 2003,1.34,330.00
+HCKC2,HUNTER CREEK,Thu Jul 17 15:18:00 PDT 2003,2.24,230.00
+HMEC2,HUNTSMAN MESA,Thu Jul 17 15:18:00 PDT 2003,8.49,190.00
+JCRC2,JACKS CANYON,Thu Jul 17 15:19:00 PDT 2003,1.79,320.00
+JAYC2,JAY,Thu Jul 17 15:19:00 PDT 2003,3.13,190.00
+LODC2,LADORE,Thu Jul 17 15:20:00 PDT 2003,2.24,60.00
+NUCC2,NUCLA,Thu Jul 17 15:26:00 PDT 2003,2.68,340.00
+PIRC2,PINTO,Thu Jul 17 15:21:00 PDT 2003,1.79,290.00
+TR209,PSF2 SALIDA 555,Thu Jul 17 15:28:00 PDT 2003,0.45,140.00
+RFEC2,RIFLE,Thu Jul 17 15:22:00 PDT 2003,2.24,300.00
+PAPC2,SJF2 PAGOSA PORTABL,Thu Jul 17 15:27:00 PDT 2003,5.36,30.00
+CRWC2,THE CROWN,Thu Jul 17 15:22:00 PDT 2003,1.79,340.00
+F2204,PRIME HOOK,Thu Jul 17 15:27:00 PDT 2003,1.34,360.00
+DPKI1,BULL CANYON,Thu Jul 17 15:29:00 PDT 2003,2.24,240.00
+GASI1,GAS CAVES,Thu Jul 17 15:25:00 PDT 2003,4.02,180.00
+KRCI1,KRILEY CREEK,Thu Jul 17 15:28:00 PDT 2003,8.49,190.00
+LDOI1,LEADORE CREEK,Thu Jul 17 15:29:00 PDT 2003,4.92,320.00
+PLFI1,PITTSBURG LANDING,Thu Jul 17 15:26:00 PDT 2003,3.58,310.00
+PCKI1,POLE CREEK,Thu Jul 17 15:24:00 PDT 2003,3.58,30.00
+F2216,CRAB ORCHARD,Thu Jul 17 15:31:00 PDT 2003,1.34,70.00
+F2217,BIG OAKS,Thu Jul 17 15:31:00 PDT 2003,0.89,300.00
+F2285,ALPINE,Thu Jul 17 15:30:00 PDT 2003,2.68,30.00
+F2286,CRITTENDEN,Thu Jul 17 15:30:00 PDT 2003,0.89,270.00
+F2229,BIG BRANCH NWR,Thu Jul 17 15:24:00 PDT 2003,2.24,170.00
+F2077,CATAHOULA,Thu Jul 17 15:20:00 PDT 2003,1.79,290.00
+F2080,NATCHITOCHES,Thu Jul 17 15:20:00 PDT 2003,1.79,300.00
+F2206,BLACKWATER,Thu Jul 17 15:27:00 PDT 2003,3.13,310.00
+F2218,AGASSIZ,Thu Jul 17 15:20:00 PDT 2003,3.58,160.00
+F2219,DETROIT LAKES,Thu Jul 17 15:20:00 PDT 2003,1.79,130.00
+F2220,SHERBURNE,Thu Jul 17 15:20:00 PDT 2003,2.68,40.00
+F2104,CARR CREEK,Thu Jul 17 15:18:00 PDT 2003,0.89,130.00
+F2230,MS SANDHILL CRANE -,Thu Jul 17 15:24:00 PDT 2003,1.79,180.00
+F2113,RIDGELAND,Thu Jul 17 15:28:00 PDT 2003,0.00,260.00
+BAFM8,BADGER PEAK,Thu Jul 17 15:26:00 PDT 2003,0.00,200.00
+BOOM8,BOORMAN,Thu Jul 17 15:24:00 PDT 2003,2.24,270.00
+BRRM8,BRENNER,Thu Jul 17 15:23:00 PDT 2003,5.36,290.00
+TR267,BVD/DEERLODGE - POR,Thu Jul 17 15:23:00 PDT 2003,2.68,240.00
+CBUM8,CHAIN BUTTES,Thu Jul 17 15:22:00 PDT 2003,1.79,260.00
+FSLM8,FISHTAIL,Thu Jul 17 15:26:00 PDT 2003,4.92,160.00
+FBLM8,FORT BELKNAP,Thu Jul 17 15:19:00 PDT 2003,6.71,230.00
+FHFM8,FORT HOWES,Thu Jul 17 15:24:00 PDT 2003,3.13,10.00
+HOTM8,HOT SPRINGS,Thu Jul 17 15:22:00 PDT 2003,5.36,360.00
+JETM8,JETTE,Thu Jul 17 15:18:00 PDT 2003,0.89,150.00
+KTFM8,KNOWLTON,Thu Jul 17 15:24:00 PDT 2003,2.24,150.00
+TR588,LEWIS & CLARK PORTA,Thu Jul 17 15:26:00 PDT 2003,1.34,310.00
+TR464,LEWISTOWN PORTABLE,Thu Jul 17 15:26:00 PDT 2003,1.79,200.00
+TR279,LOLO PORTABLE #1,Thu Jul 17 15:18:00 PDT 2003,2.24,260.00
+POPM8,POPLAR,Thu Jul 17 15:19:00 PDT 2003,6.26,170.00
+PMRM8,PRYOR MOUNTAIN,Thu Jul 17 15:24:00 PDT 2003,3.13,80.00
+RCBM8,ROCKY BOY,Thu Jul 17 15:26:00 PDT 2003,3.13,240.00
+SSMM8,SOUTH SAWMILL CREEK,Thu Jul 17 15:25:00 PDT 2003,2.24,50.00
+SRYM8,ST. MARY,Thu Jul 17 15:26:00 PDT 2003,2.24,200.00
+WWMM8,WOLF MOUNTAIN,Thu Jul 17 15:26:00 PDT 2003,2.68,360.00
+F2128,RENDEZVOUS MTN.,Thu Jul 17 15:27:00 PDT 2003,0.89,200.00
+TR468,CROSBY,Thu Jul 17 15:29:00 PDT 2003,4.47,170.00
+AMDN8,SAND CREEK,Thu Jul 17 15:20:00 PDT 2003,8.94,110.00
+SNGN8,SHEYENNE,Thu Jul 17 15:30:00 PDT 2003,2.68,10.00
+F2207,EB FORSYTHE,Thu Jul 17 15:27:00 PDT 2003,0.89,280.00
+CWRN5,ALBINO CANYON,Thu Jul 17 15:22:00 PDT 2003,0.00,70.00
+TR305,ALBUQUERQUE PORTABL,Thu Jul 17 15:23:00 PDT 2003,3.58,100.00
+GBWN5,BEAR WALLOW,Thu Jul 17 15:19:00 PDT 2003,1.34,10.00
+NS052,BEAVERHEAD,Thu Jul 17 15:21:00 PDT 2003,4.02,160.00
+CPPN5,CAPROCK,Thu Jul 17 15:26:00 PDT 2003,4.92,170.00
+BCHN5,CHUPADERA,Thu Jul 17 15:27:00 PDT 2003,4.92,190.00
+CBBN5,CUBA,Thu Jul 17 15:29:00 PDT 2003,4.47,160.00
+DUNN5,DUNKEN,Thu Jul 17 15:27:00 PDT 2003,4.47,110.00
+REMN5,EIGHT MILE DRAW,Thu Jul 17 15:18:00 PDT 2003,4.02,180.00
+TR309,GILA - PORTABLE,Thu Jul 17 15:28:00 PDT 2003,2.68,100.00
+GNMN5,GILA CENTER RAWS,Thu Jul 17 15:19:00 PDT 2003,3.58,250.00
+HHRN5,HACHITA VALLEY,Thu Jul 17 15:19:00 PDT 2003,6.71,150.00
+GMLN5,MALPIAS LAVA FLOW,Thu Jul 17 15:21:00 PDT 2003,3.13,130.00
+MPAN5,PADUCA,Thu Jul 17 15:28:00 PDT 2003,4.92,100.00
+DPRN5,PELONA MOUNTAIN,Thu Jul 17 15:23:00 PDT 2003,5.81,130.00
+F2137,PUEBLO CANY ALERT #,Thu Jul 17 15:18:00 PDT 2003,4.47,150.00
+TR486,RO PORTABLE #3,Thu Jul 17 15:18:00 PDT 2003,4.47,10.00
+SCLN5,SANTA CLARA CANY AL,Thu Jul 17 15:27:00 PDT 2003,2.68,170.00
+UVSN5,SIERRA DE LAS UVAS,Thu Jul 17 15:30:00 PDT 2003,4.92,140.00
+SLMN5,SLAUGHTER,Thu Jul 17 15:19:00 PDT 2003,0.89,40.00
+TMPG1,TOWER,Thu Jul 17 15:21:00 PDT 2003,5.36,210.00
+ULAN5,UPPER LOS ALAMOS AL,Thu Jul 17 15:26:00 PDT 2003,2.68,160.00
+USCN5,UPPER SANTA CLARA #,Thu Jul 17 15:25:00 PDT 2003,3.58,170.00
+BKFN2,BAKER FLAT,Thu Jul 17 15:31:00 PDT 2003,1.79,60.00
+CEDN2,CEDAR PASS,Thu Jul 17 15:29:00 PDT 2003,3.13,300.00
+COMN2,COMBS CANYON,Thu Jul 17 15:26:00 PDT 2003,4.92,170.00
+COYN2,COYOTE WASH,Thu Jul 17 15:28:00 PDT 2003,2.68,290.00
+DESN2,DESERT SPRINGS,Thu Jul 17 15:22:00 PDT 2003,7.15,270.00
+DRYN2,DRY CANYON,Thu Jul 17 15:30:00 PDT 2003,7.60,230.00
+IMWN2,IMMIGRATION WASH,Thu Jul 17 15:28:00 PDT 2003,4.47,310.00
+TR414,JACK WRIGHT,Thu Jul 17 15:19:00 PDT 2003,4.92,220.00
+KNSN2,KANE SPRINGS,Thu Jul 17 15:28:00 PDT 2003,4.47,230.00
+MTHN2,MATHER,Thu Jul 17 15:29:00 PDT 2003,0.45,350.00
+ORWN2,ORIENTAL WASH,Thu Jul 17 15:27:00 PDT 2003,3.13,190.00
+PANN2,PANCAKE,Thu Jul 17 15:26:00 PDT 2003,1.79,170.00
+RRKN2,RED ROCK,Thu Jul 17 15:19:00 PDT 2003,7.15,320.00
+RSCN2,ROCK SPRING CREEK,Thu Jul 17 15:30:00 PDT 2003,4.92,240.00
+SIAN2,SIARD,Thu Jul 17 15:30:00 PDT 2003,4.02,290.00
+SPMN2,SPRUCE MOUNTAIN,Thu Jul 17 15:18:00 PDT 2003,8.94,220.00
+ALFO3,ALLISON,Thu Jul 17 15:18:00 PDT 2003,4.02,280.00
+TR322,BLACK MTN #2,Thu Jul 17 15:23:00 PDT 2003,2.68,270.00
+BCFO3,BOARD CREEK,Thu Jul 17 15:25:00 PDT 2003,1.79,320.00
+FFFO3,FISH FIN RIM,Thu Jul 17 15:30:00 PDT 2003,5.81,240.00
+JRFO3,J RIDGE,Thu Jul 17 15:23:00 PDT 2003,0.45,320.00
+KBFO3,KELSAY BUTTE,Thu Jul 17 15:24:00 PDT 2003,1.79,230.00
+MEFO3,METOLIUS ARM,Thu Jul 17 15:27:00 PDT 2003,0.89,100.00
+WSFO3,MT. WILSON,Thu Jul 17 15:27:00 PDT 2003,0.89,210.00
+MMFO3,MUTTON MOUNTAIN,Thu Jul 17 15:27:00 PDT 2003,2.24,140.00
+PPFO3,POINT PROM II,Thu Jul 17 15:23:00 PDT 2003,0.45,130.00
+TRFO3,SIGNAL TREE,Thu Jul 17 15:29:00 PDT 2003,0.89,70.00
+STFO3,STRAWBERRY,Thu Jul 17 15:24:00 PDT 2003,2.68,320.00
+SMFO3,SUMMIT,Thu Jul 17 15:24:00 PDT 2003,3.58,250.00
+TMFO3,TIMOTHY,Thu Jul 17 15:24:00 PDT 2003,1.34,40.00
+WMFO3,WAMIC MILL,Thu Jul 17 15:28:00 PDT 2003,0.89,60.00
+LANS2,BEAR CREEK,Thu Jul 17 15:26:00 PDT 2003,8.49,100.00
+TR472,BKF1 CUSTER 555,Thu Jul 17 15:27:00 PDT 2003,2.68,70.00
+PRMS2,MAGPIE CREEK,Thu Jul 17 15:22:00 PDT 2003,7.15,90.00
+PRGS2,PINE RIDGE,Thu Jul 17 15:27:00 PDT 2003,7.60,20.00
+TR881,PORTABLE FIRE MET 1,Thu Jul 17 15:20:00 PDT 2003,2.68,30.00
+TR834,PORTABLE FIRE MET 2,Thu Jul 17 15:20:00 PDT 2003,7.15,350.00
+F2161,MERIWETHER LEWIS,Thu Jul 17 15:30:00 PDT 2003,1.34,360.00
+TR719,PANTHER JUNCTION -,Thu Jul 17 15:30:00 PDT 2003,4.47,100.00
+F2339,WOODVILLE,Thu Jul 17 15:20:00 PDT 2003,1.34,290.00
+TR780,BRYCE CANYON,Thu Jul 17 15:30:00 PDT 2003,5.81,330.00
+DIAU1,DIAMOND RIM,Thu Jul 17 15:23:00 PDT 2003,1.79,220.00
+TR351,FISHLAKE PORTABLE #,Thu Jul 17 15:22:00 PDT 2003,1.79,290.00
+JVAU1,JOES VALLLEY,Thu Jul 17 15:28:00 PDT 2003,1.34,360.00
+KAGU1,KANE GULCH,Thu Jul 17 15:27:00 PDT 2003,3.58,180.00
+VENU1,VERNON,Thu Jul 17 15:27:00 PDT 2003,4.47,30.00
+TR801,ZION CANYON,Thu Jul 17 15:30:00 PDT 2003,1.79,230.00
+F2184,SWEEZY,Thu Jul 17 15:20:00 PDT 2003,1.79,250.00
+MIDW1,ESCURE,Thu Jul 17 15:23:00 PDT 2003,3.13,240.00
+STRW1,STEHEKIN,Thu Jul 17 15:31:00 PDT 2003,2.24,130.00
+GTGW4,GRAND TETON,Thu Jul 17 15:23:00 PDT 2003,0.00,270.00
+RATW4,RATTLESNAKE MTN.,Thu Jul 17 15:26:00 PDT 2003,5.81,240.00
+WRVW4,WIND RIVER,Thu Jul 17 15:22:00 PDT 2003,2.24,150.00
+BMTC2,Blue_Mountain,Thu Jul 17 15:40:00 PDT 2003,0.00,0.00
+QURC2,Quincy_Res,Thu Jul 17 15:40:00 PDT 2003,2.24,146.00
+DHPC2,Diamond_Hill,Thu Jul 17 15:40:00 PDT 2003,1.16,17.00
+EBBC2,Elbert,Thu Jul 17 15:40:00 PDT 2003,4.25,133.00
+BHNC2,Brighton,Thu Jul 17 15:40:00 PDT 2003,0.76,354.00
+SQWC2,Squaw_Mountain,Thu Jul 17 15:40:00 PDT 2003,2.32,5.00
+HGCC2,Hiwan_G.C.,Thu Jul 17 15:40:00 PDT 2003,1.34,91.00
+HIGC2,Highlands_Ranch_WTP,Thu Jul 17 15:40:00 PDT 2003,1.07,101.00
+SAPC2,Salisbury_Park,Thu Jul 17 15:40:00 PDT 2003,2.68,118.00
+COKC2,Castle_Rock,Thu Jul 17 15:40:00 PDT 2003,0.94,174.00
+LEWC2,Louisville_Lake,Thu Jul 17 15:40:00 PDT 2003,2.95,248.00
+CALC2,Cal-Wood_Ranch,Thu Jul 17 15:40:00 PDT 2003,0.27,202.00
+BTRC2,Button_Rock,Thu Jul 17 15:40:00 PDT 2003,0.40,146.00
+MN094,I-35W at Mississippi I-35W Mile Post 19,Thu Jul 17 15:28:00 PDT 2003,1.67,40.00
+MN080,Thompson Hill I-35 Mile Post 248,Thu Jul 17 15:00:30 PDT 2003,3.06,65.00
+MN083,Lafayette Tunnel MN-61 Mile Post 32,Thu Jul 17 15:02:30 PDT 2003,0.83,145.00
+MN085,I-494 and MN-5 I-494 Mile Post 18,Thu Jul 17 15:31:32 PDT 2003,3.06,35.00
+MN086,Burnsville I-35W Mile Post 4,Thu Jul 17 15:32:05 PDT 2003,0.28,355.00
+MN087,Maple Grove I-94 Mile Post 217,Thu Jul 17 15:32:41 PDT 2003,3.33,70.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Thu Jul 17 15:24:22 PDT 2003,2.22,350.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Thu Jul 17 15:24:57 PDT 2003,2.78,15.00
+MN092,Mitchell Bridge MN-169 Mile Post 343,Thu Jul 17 15:25:33 PDT 2003,1.11,195.00
+MN096,Albert Lea I-35 Mile Post 30,Thu Jul 17 15:32:02 PDT 2003,1.67,20.00
+MN093,Silver Cliff MN-61 Mile Post 30,Thu Jul 17 15:30:00 PDT 2003,1.67,49.00
+MN095,Blatnick Bridge South Abutment,Thu Jul 17 15:32:00 PDT 2003,2.22,56.00
+K0104,Saint John,Thu Jul 17 15:00:00 PDT 2003,4.30,108.00
+L0103,Scotian Shelf,Thu Jul 17 15:00:00 PDT 2003,1.70,149.00
+QUIF1,Quincy                                 FAWN,Thu Jul 17 15:45:00 PDT 2003,1.41,243.20
+CARF1,Carrabelle                             FAWN,Thu Jul 17 15:45:00 PDT 2003,1.44,247.10
+LIOF1,Live Oak                               FAWN,Thu Jul 17 15:45:00 PDT 2003,3.26,287.89
+MACF1,Macclenny                              FAWN,Thu Jul 17 15:45:00 PDT 2003,1.07,232.80
+BRZF1,Bronson                                FAWN,Thu Jul 17 15:45:00 PDT 2003,2.18,194.90
+PHAF1,Putnam Hall                            FAWN,Thu Jul 17 15:45:00 PDT 2003,0.97,270.70
+TRAF1,Citra                                  FAWN,Thu Jul 17 15:45:00 PDT 2003,1.50,201.00
+ALHF1,Alachua                                FAWN,Thu Jul 17 15:45:00 PDT 2003,2.17,230.80
+STNF1,Hastings                               FAWN,Thu Jul 17 15:45:00 PDT 2003,3.19,141.19
+CKHF1,Ocklawaha                              FAWN,Thu Jul 17 15:45:00 PDT 2003,0.82,161.19
+EPRF1,Pierson                                FAWN,Thu Jul 17 15:45:00 PDT 2003,2.31,132.69
+UMLF1,Umatilla                               FAWN,Thu Jul 17 15:45:00 PDT 2003,2.88,133.80
+KHPF1,Okahumpka                              FAWN,Thu Jul 17 15:45:00 PDT 2003,1.03,134.00
+VLNF1,Avalon                                 FAWN,Thu Jul 17 15:45:00 PDT 2003,3.46,119.60
+KSLF1,Brooksville                            FAWN,Thu Jul 17 15:45:00 PDT 2003,0.73,70.80
+POPF1,Apopka                                 FAWN,Thu Jul 17 15:45:00 PDT 2003,4.44,123.10
+KALF1,Lake Alfred                            FAWN,Thu Jul 17 15:45:00 PDT 2003,2.88,137.69
+KENF1,Kenansville                            FAWN,Thu Jul 17 15:45:00 PDT 2003,0.84,157.30
+DNTF1,Bradenton                              FAWN,Thu Jul 17 15:45:00 PDT 2003,1.26,270.30
+FDLF1,Fort Lauderdale                        FAWN,Thu Jul 17 15:45:00 PDT 2003,2.81,116.90
+PCEF1,Fort Pierce                            FAWN,Thu Jul 17 15:45:00 PDT 2003,4.38,125.40
+STDF1,Homestead                              FAWN,Thu Jul 17 15:45:00 PDT 2003,4.15,116.60
+PALF1,Palmdale                               FAWN,Thu Jul 17 15:45:00 PDT 2003,1.51,117.20
+SEBF1,Sebring                                FAWN,Thu Jul 17 15:45:00 PDT 2003,2.08,100.60
+CO025,Raton Pass (74),Thu Jul 17 15:32:00 PDT 2003,4.02,195.00
+CO037,I-25 @ Berthoud (43),Thu Jul 17 15:32:00 PDT 2003,0.45,355.00
+CO043,Briggsdale (42),Thu Jul 17 15:13:00 PDT 2003,1.34,90.00
+CO051,Greeley (43),Thu Jul 17 15:17:00 PDT 2003,1.79,155.00
+CO052,Del Camino (43),Thu Jul 17 15:18:00 PDT 2003,0.00,0.00
+CO087,East Tunnel Portal (8),Thu Jul 17 15:30:00 PDT 2003,0.00,0.00
+CO088,Hanging Lake Viaduct (8),Thu Jul 17 15:30:00 PDT 2003,1.79,205.00
+CO090,Bair Ranch (8),Thu Jul 17 15:31:00 PDT 2003,4.02,210.00
+CO091,No Name Tunnel (8),Thu Jul 17 15:35:00 PDT 2003,0.89,125.00
+CO092,Dowd Junction (10),Thu Jul 17 15:29:00 PDT 2003,2.68,280.00
+CO095,Wolcott (8),Thu Jul 17 15:23:00 PDT 2003,0.00,50.00
+CO096,DeBeque Canyon (7),Thu Jul 17 15:24:00 PDT 2003,4.47,245.00
+CO097,Palisade (6),Thu Jul 17 15:25:00 PDT 2003,3.13,180.00
+CO098,Douglas Pass (3),Thu Jul 17 15:25:00 PDT 2003,6.71,180.00
+CO100,Aspen (10),Thu Jul 17 15:30:00 PDT 2003,2.68,80.00
+CO102,Steamboat Springs (5),Thu Jul 17 15:33:00 PDT 2003,1.79,0.00
+CO103,Snowmass @HWY82 mp26.8 (10*),Thu Jul 17 15:35:00 PDT 2003,4.47,310.00
+CO104,Shale Bluffs (10),Thu Jul 17 15:27:00 PDT 2003,0.89,185.00
+CO105,Grand Junction (6),Thu Jul 17 15:36:00 PDT 2003,3.58,35.00
+H0002,KNCTODD1               Jefferson     NC,Thu Jul 17 15:43:00 PDT 2003,0.00,200.00
+H0344,BlueStar Systems       Milford      OH,Thu Jul 17 15:45:00 PDT 2003,0.00,350.00
+H0004,BoblandUSA             San Diego     CA,Thu Jul 17 15:46:00 PDT 2003,0.00,220.00
+H0012,Crowley TX WX Page     Crowley       TX,Thu Jul 17 15:40:00 PDT 2003,0.00,200.00
+H0017,Olathe        KS,Thu Jul 17 15:41:00 PDT 2003,1.79,130.00
+H0024,Cornelius     OR,Thu Jul 17 15:31:00 PDT 2003,1.79,40.00
+H0025,Dickinson     TX,Thu Jul 17 15:43:00 PDT 2003,0.89,170.00
+H0029,Affton        MO,Thu Jul 17 15:45:00 PDT 2003,0.45,90.00
+H0299,KALB Studios           Alexandria    LA,Thu Jul 17 15:45:00 PDT 2003,3.13,340.00
+H0462,Chandler     AZ,Thu Jul 17 15:45:00 PDT 2003,0.00,60.00
+H0163,Aspen Trails Subdiv. WX Flagstaff    AZ,Thu Jul 17 15:48:00 PDT 2003,0.89,320.00
+H0322,Phoenix       AZ,Thu Jul 17 15:40:00 PDT 2003,1.34,220.00
+H0030,Harrisburg             Lowville      NY,Thu Jul 17 15:46:00 PDT 2003,4.47,280.00
+H0031,Rainbow City  AL,Thu Jul 17 15:40:00 PDT 2003,2.24,10.00
+H0032,Hendersonvill TN,Thu Jul 17 15:40:00 PDT 2003,0.00,30.00
+H0244,Acton         CA,Thu Jul 17 15:37:00 PDT 2003,4.47,170.00
+H0498,Balboa	     CA,Thu Jul 17 15:45:00 PDT 2003,2.24,130.00
+H0339,Williams Worship       Bellflower    CA,Thu Jul 17 15:45:00 PDT 2003,1.34,170.00
+H0300,Cloverdale    CA,Thu Jul 17 15:45:00 PDT 2003,2.24,130.00
+H0222,Covelo        CA,Thu Jul 17 15:34:00 PDT 2003,1.34,340.00
+H0450,Dublin       CA,Thu Jul 17 15:49:00 PDT 2003,1.79,200.00
+H0294,Rancho San Diego       El Cajon      CA,Thu Jul 17 15:45:00 PDT 2003,1.79,170.00
+H0346,California Hills       Folsom        CA,Thu Jul 17 15:45:00 PDT 2003,3.13,300.00
+H0563,Half Moon Bay			     CA,Thu Jul 17 15:40:00 PDT 2003,2.24,100.00
+H0237,Healdsburg    CA,Thu Jul 17 15:47:00 PDT 2003,1.34,130.00
+H0333,Cathouse Backyard WX   Lakeside      CA,Thu Jul 17 15:44:00 PDT 2003,1.34,270.00
+H0158,Lancaster     CA,Thu Jul 17 15:40:00 PDT 2003,4.47,180.00
+H0465,Occidental   CA,Thu Jul 17 15:45:00 PDT 2003,0.45,330.00
+H0564,Rohnert Park			     CA,Thu Jul 17 15:45:00 PDT 2003,0.45,290.00
+H0164,San Luis Obis CA,Thu Jul 17 15:45:00 PDT 2003,0.00,310.00
+H0269,South Valley Internet  San Martin    CA,Thu Jul 17 15:45:00 PDT 2003,1.79,40.00
+H0259,Pickles Central        San Rafael    CA,Thu Jul 17 15:45:00 PDT 2003,0.89,270.00
+H0452,Santa Rosa   CA,Thu Jul 17 15:45:00 PDT 2003,1.34,200.00
+H0348,Tehachapi     CA,Thu Jul 17 15:45:00 PDT 2003,3.13,110.00
+H0506,Visalia	     CA,Thu Jul 17 15:32:00 PDT 2003,1.79,320.00
+H0442,Whittier     CA,Thu Jul 17 15:45:00 PDT 2003,1.79,130.00
+H0566,Crestone			     CO,Thu Jul 17 15:45:00 PDT 2003,3.13,210.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Thu Jul 17 15:40:00 PDT 2003,2.68,100.00
+H0325,Summit County CO,Thu Jul 17 15:40:00 PDT 2003,1.34,270.00
+H0189,Canterbury    CT,Thu Jul 17 15:40:00 PDT 2003,0.00,200.00
+H0206,Stonybrook             Norwalk       CT,Thu Jul 17 15:45:00 PDT 2003,0.00,0.00
+H0036,Dunstable     MA,Thu Jul 17 15:45:00 PDT 2003,0.00,320.00
+H0351,Port St. John Weather  Cocoa         FL,Thu Jul 17 15:46:00 PDT 2003,0.00,160.00
+H0270,Margate       FL,Thu Jul 17 15:46:00 PDT 2003,1.34,130.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Thu Jul 17 15:44:00 PDT 2003,0.00,80.00
+H0175,Sampson                St. Augustine FL,Thu Jul 17 15:44:00 PDT 2003,2.68,90.00
+H0509,Buchanan     GA,Thu Jul 17 15:45:00 PDT 2003,0.00,110.00
+H0296,KD4K                   Cumming       GA,Thu Jul 17 15:47:00 PDT 2003,0.00,310.00
+H0234,Roswell       GA,Thu Jul 17 15:42:00 PDT 2003,0.00,310.00
+H0571,Hemet				     CA,Thu Jul 17 15:45:00 PDT 2003,0.00,0.00
+H0573,Charles City			     IA,Thu Jul 17 15:47:00 PDT 2003,1.34,340.00
+H0353,Keokuk        IA,Thu Jul 17 15:34:00 PDT 2003,0.00,160.00
+H0183,New Hampton   IA,Thu Jul 17 15:48:00 PDT 2003,1.34,340.00
+H0417,Oxford Mills           Oxford Junction	IA,Thu Jul 17 15:48:00 PDT 2003,0.00,300.00
+H0246,Sidney        IA,Thu Jul 17 15:34:00 PDT 2003,1.79,170.00
+H0195,Van Meter     IA,Thu Jul 17 15:40:00 PDT 2003,0.45,170.00
+H0167,Northern Idaho Weather Coeur D' Alen ID,Thu Jul 17 15:44:00 PDT 2003,0.00,140.00
+H0575,Coeur d'Alene			     ID,Thu Jul 17 15:33:00 PDT 2003,2.24,130.00
+H0261,Crystal Lake  IL,Thu Jul 17 15:44:00 PDT 2003,1.79,310.00
+H0205,Olathe        KS,Thu Jul 17 15:42:00 PDT 2003,1.34,180.00
+H0191,Paducah       KY,Thu Jul 17 15:42:00 PDT 2003,0.00,170.00
+H0287,Arlington Center       Arlington     MA,Thu Jul 17 15:46:00 PDT 2003,1.79,20.00
+H0272,WoodvilleGr1           Hopkinton     MA,Thu Jul 17 15:45:00 PDT 2003,0.00,260.00
+H0518,Lynn	     MA,Thu Jul 17 15:45:00 PDT 2003,2.24,180.00
+H0156,Raymond       ME,Thu Jul 17 15:42:00 PDT 2003,0.00,140.00
+H0373,Parchment/Spring Valley Kalamazoo   MI,Thu Jul 17 15:45:00 PDT 2003,0.89,310.00
+H0253,Blaine        MN,Thu Jul 17 15:45:00 PDT 2003,0.00,350.00
+H0307,Bloomington   MN,Thu Jul 17 15:40:00 PDT 2003,0.00,30.00
+H0342,Gideon School District Gideon        MO,Thu Jul 17 15:45:00 PDT 2003,0.45,30.00
+H0491,Greensboro   NC,Thu Jul 17 15:47:00 PDT 2003,0.00,330.00
+H0523,Lewisville   NC,Thu Jul 17 15:45:00 PDT 2003,0.00,220.00
+H0387,North Holmes           Lake Lincoln NE,Thu Jul 17 15:45:00 PDT 2003,1.34,120.00
+H0241,Omaha         NE,Thu Jul 17 15:45:00 PDT 2003,2.68,190.00
+H0289,Omaha         NE,Thu Jul 17 15:45:00 PDT 2003,0.89,160.00
+H0582,East Millstone			     NJ,Thu Jul 17 15:45:00 PDT 2003,1.34,300.00
+H0583,Highlands			     NJ,Thu Jul 17 15:40:00 PDT 2003,0.00,240.00
+H0370,Meadowlands            Secaucus     NJ,Thu Jul 17 15:40:00 PDT 2003,0.00,90.00
+H0302,Cuba          NY,Thu Jul 17 15:39:00 PDT 2003,4.92,270.00
+H0358,Port of Rensselaer     Rensselaer    NY,Thu Jul 17 15:40:00 PDT 2003,1.34,250.00
+H0290,Rochester     NY,Thu Jul 17 15:46:00 PDT 2003,4.02,290.00
+H0478,Saratoga Springs NY,Thu Jul 17 15:46:00 PDT 2003,2.68,10.00
+H0304,Edmunds Weather        Smithtown     NY,Thu Jul 17 15:47:00 PDT 2003,0.00,50.00
+H0395,Mecox Bay              Water Mill   NY,Thu Jul 17 15:46:00 PDT 2003,2.24,250.00
+H0291,Colerain Township      Cincinnati    OH,Thu Jul 17 15:45:00 PDT 2003,1.34,110.00
+H0309,Columbus      OH,Thu Jul 17 15:40:00 PDT 2003,0.89,260.00
+H0492,Rock Creek, Hillsboro  Portland     OR,Thu Jul 17 15:39:00 PDT 2003,2.68,0.00
+H0227,Turner        OR,Thu Jul 17 15:45:00 PDT 2003,2.68,330.00
+H0440,Broomall     PA,Thu Jul 17 15:45:00 PDT 2003,0.00,290.00
+H0229,Audubon Society of W PA Fox Chapel   PA,Thu Jul 17 15:40:00 PDT 2003,0.00,210.00
+H0043,WX for West PA/East OH Sharon        PA,Thu Jul 17 15:40:00 PDT 2003,0.00,270.00
+H0044,Portsmouth WX Rec Svc  Portsmouth    VA,Thu Jul 17 15:45:00 PDT 2003,0.00,40.00
+H0313,BosWeather             Greer         SC,Thu Jul 17 15:43:00 PDT 2003,0.89,110.00
+H0479,West Columbia SC,Thu Jul 17 15:40:00 PDT 2003,0.45,120.00
+H0329,Williamston   SC,Thu Jul 17 15:45:00 PDT 2003,0.00,110.00
+H0588,Mitchell			     SD,Thu Jul 17 15:45:00 PDT 2003,2.24,70.00
+H0298,Terricita Hills        Rapid City    SD,Thu Jul 17 15:40:00 PDT 2003,0.00,270.00
+H0447,Downtown               Santa Rosa   CA,Thu Jul 17 15:46:00 PDT 2003,1.79,270.00
+H0396,Williamson             County Franklin TN,Thu Jul 17 15:50:00 PDT 2003,1.79,300.00
+H0590,Portland			     TN,Thu Jul 17 15:33:00 PDT 2003,0.00,40.00
+H0310,SSC                    Abilene       TX,Thu Jul 17 15:34:00 PDT 2003,3.13,140.00
+H0318,Austin        TX,Thu Jul 17 15:45:00 PDT 2003,1.34,140.00
+H0202,KC4WTI                 Irving        TX,Thu Jul 17 15:45:00 PDT 2003,0.00,210.00
+H0360,Corinth       TX,Thu Jul 17 15:50:00 PDT 2003,0.00,240.00
+H0591,Dallas	Oak Cliff		     TX,Thu Jul 17 15:45:00 PDT 2003,0.89,180.00
+H0194,Fort Davis    TX,Thu Jul 17 15:45:00 PDT 2003,3.13,100.00
+H0311,Clear Lake City WX     Houston       TX,Thu Jul 17 15:43:00 PDT 2003,1.34,120.00
+H0361,R and K Weather        Houston       TX,Thu Jul 17 15:48:00 PDT 2003,0.00,230.00
+H0278,TeleHobbies            Rockwall      TX,Thu Jul 17 15:37:00 PDT 2003,0.00,170.00
+H0415,Northwest Crossing	San Antonio  TX,Thu Jul 17 15:47:00 PDT 2003,0.00,220.00
+H0280,Taylor        TX,Thu Jul 17 15:45:00 PDT 2003,0.45,170.00
+H0293,Harrisonburg  VA,Thu Jul 17 15:46:00 PDT 2003,0.00,200.00
+H0157,N4NW                   Stafford      VA,Thu Jul 17 15:48:00 PDT 2003,0.00,120.00
+H0594,Stafford			     VA,Thu Jul 17 15:45:00 PDT 2003,0.00,10.00
+H0363,Darrington    WA,Thu Jul 17 15:47:00 PDT 2003,0.00,120.00
+H0481,Kenmore      WA,Thu Jul 17 15:41:00 PDT 2003,1.34,290.00
+H0596,Maple Valley			     WA,Thu Jul 17 15:45:00 PDT 2003,0.00,220.00
+H0597,Vancouver			     WA,Thu Jul 17 15:47:00 PDT 2003,3.13,320.00
+H0331,Walnut Grove           Vancouver     WA,Thu Jul 17 15:40:00 PDT 2003,1.34,200.00
+H0598,Vancouver		Lutegrad Weather WA,Thu Jul 17 15:41:00 PDT 2003,2.68,280.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Thu Jul 17 15:33:00 PDT 2003,2.24,210.00
+H0490,Sylmar       CA,Thu Jul 17 15:40:00 PDT 2003,1.34,270.00
+H0423,Middleboro   MA,Thu Jul 17 15:45:00 PDT 2003,1.34,300.00
+H0052,New Milford Weather    New Milford   CT,Thu Jul 17 15:43:00 PDT 2003,0.00,210.00
+H0482,Savage       MN,Thu Jul 17 15:46:00 PDT 2003,2.24,50.00
+H0419,Lowes Motor Spdwy Area	Concord	     NC,Thu Jul 17 15:34:00 PDT 2003,0.45,110.00
+H0062,Northeast Raleigh      Raleigh       NC,Thu Jul 17 15:46:00 PDT 2003,1.34,30.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Thu Jul 17 15:46:00 PDT 2003,1.79,70.00
+H0525,Omaha	     NE,Thu Jul 17 15:49:00 PDT 2003,1.34,260.00
+H0085,Greenspire Assoc. WX Svc Hockessin   DE,Thu Jul 17 15:40:00 PDT 2003,0.00,260.00
+H0090,WKRG Studios           Mobile        AL,Thu Jul 17 15:50:00 PDT 2003,0.89,230.00
+H0091,WMBB Studios           Panama City   FL,Thu Jul 17 15:45:00 PDT 2003,2.24,250.00
+MN001,Twin Lakes I-35 Mile Post 1,Thu Jul 17 15:34:02 PDT 2003,2.78,355.00
+MN003,Little Chicago I-35 Mile Post 70,Thu Jul 17 15:34:01 PDT 2003,2.22,45.00
+MN004,Rush City I-35 Mile Post 157,Thu Jul 17 15:37:03 PDT 2003,0.56,65.00
+MN006,Beaver Creek I-90 Mile Post 4,Thu Jul 17 15:35:04 PDT 2003,6.67,85.00
+MN007,I-90 Mile Post 35,Thu Jul 17 15:31:00 PDT 2003,6.67,75.00
+MN008,I-90 Mile Post 67,Thu Jul 17 15:40:01 PDT 2003,5.56,110.00
+MN009,Blue Earth I-90 Mile Post 119,Thu Jul 17 15:40:01 PDT 2003,2.22,15.00
+MN010,Dexter I-90 Mile Post 195,Thu Jul 17 15:35:00 PDT 2003,2.78,15.00
+MN011,Jct CR 7 I-90 Mile Post 226,Thu Jul 17 15:39:00 PDT 2003,1.67,15.00
+MN012,Ridgeway I-90 Mile Post 261,Thu Jul 17 15:35:00 PDT 2003,3.33,45.00
+MN013,Dilworth I-94 Mile Post 5,Thu Jul 17 15:39:02 PDT 2003,1.67,95.00
+MN014,Rothsay I-94 Mile Post 38,Thu Jul 17 15:34:00 PDT 2003,3.89,65.00
+MN015,Alexandria I-94 Mile Post 104,Thu Jul 17 15:40:02 PDT 2003,4.72,80.00
+MN016,Sauk Center I-94 Mile Post 128,Thu Jul 17 15:32:02 PDT 2003,4.44,65.00
+MN017,Clearwater I-94 Mile Post 180,Thu Jul 17 15:36:03 PDT 2003,2.78,65.00
+MN018,Shooks MN-1 Mile Post 34,Thu Jul 17 15:39:00 PDT 2003,1.94,115.00
+MN020,Emily MN-6 Mile Post 29,Thu Jul 17 15:40:03 PDT 2003,0.00,85.00
+MN021,Clara City MN-7 Mile Post 89,Thu Jul 17 15:40:00 PDT 2003,4.72,50.00
+MN022,Lester Prairie MN-7 Mile Post 161,Thu Jul 17 15:31:00 PDT 2003,4.44,40.00
+MN024,MN-7 Mile Post 11,Thu Jul 17 15:40:10 PDT 2003,2.22,125.00
+MN025,MN-11 Mile Post 62,Thu Jul 17 15:40:10 PDT 2003,3.89,70.00
+MN026,Brichdale MN-11 Mile Post 157,Thu Jul 17 15:39:01 PDT 2003,2.50,80.00
+MN028,Lake Benton US-14 Mile Post 7,Thu Jul 17 15:31:01 PDT 2003,3.89,85.00
+MN029,Byron US-14 Mile Post 200,Thu Jul 17 15:38:00 PDT 2003,1.94,0.00
+MN030,Hendricks MN-19 Mile Post 2,Thu Jul 17 15:31:02 PDT 2003,4.44,55.00
+MN032,Winthrop MN-19 Mile Post 108,Thu Jul 17 15:31:03 PDT 2003,7.50,60.00
+MN033,Hanley Falls MN-23 Mile Post 94,Thu Jul 17 15:36:01 PDT 2003,4.17,50.00
+MN035,Lastrup MN-25 Mile Post 140,Thu Jul 17 15:33:00 PDT 2003,3.06,55.00
+MN036,Graceville MN-28 Mile Post 19,Thu Jul 17 15:33:02 PDT 2003,5.28,75.00
+MN037,Langhei Township MN-29 Mile Post 46,Thu Jul 17 15:33:02 PDT 2003,5.00,75.00
+MN038,Dovray MN-30 Mile Post 49,Thu Jul 17 15:32:00 PDT 2003,4.17,65.00
+MN040,Caledonia MN-44 Mile Post 60,Thu Jul 17 15:35:01 PDT 2003,3.61,70.00
+MN041,Squaw Lake MN-46 Mile Post 25,Thu Jul 17 15:32:03 PDT 2003,0.56,50.00
+MN042,Cannon Falls US-52 Mile Post 90,Thu Jul 17 15:33:01 PDT 2003,1.94,15.00
+MN043,Georgeville MN-55 Mile Post 98,Thu Jul 17 15:32:02 PDT 2003,4.44,85.00
+MN045,Madelia US-60 Mile Post 86,Thu Jul 17 15:32:01 PDT 2003,4.44,50.00
+MN047,Red Wing US-61 Mile Post 101,Thu Jul 17 15:34:01 PDT 2003,2.22,25.00
+MN048,Grand Portage MN-61 Mile Post 146,Thu Jul 17 15:33:03 PDT 2003,3.33,180.00
+MN049,Chamberlain MN-64 Mile Post 42,Thu Jul 17 15:39:01 PDT 2003,1.94,110.00
+MN050,Pliny MN-65 Mile Post 98,Thu Jul 17 15:34:02 PDT 2003,2.78,35.00
+MN051,Ball Bluff MN-65 Mile Post 145,Thu Jul 17 15:35:02 PDT 2003,1.67,85.00
+MN052,Effie MN-1 Mile Post 194,Thu Jul 17 15:38:02 PDT 2003,2.22,80.00
+MN054,Tenney US-75 Mile Post 188,Thu Jul 17 15:36:03 PDT 2003,5.00,100.00
+MN055,Ottertail MN-78 Mile Post 34,Thu Jul 17 15:37:03 PDT 2003,2.22,70.00
+MN056,Gatzke MN-89 Mile Post 96,Thu Jul 17 15:36:03 PDT 2003,3.89,185.00
+MN057,St. Vincent MN-171 Mile Post 2,Thu Jul 17 15:38:03 PDT 2003,2.78,95.00
+MN058,Anthony MN-200 Mile Post 9,Thu Jul 17 15:37:00 PDT 2003,1.94,125.00
+MN059,Mehurin US-212 Mile Post 1,Thu Jul 17 15:39:03 PDT 2003,1.94,90.00
+MN060,East Grand Forks US-2 Mile Post 8,Thu Jul 17 15:40:11 PDT 2003,2.50,60.00
+MN062,Lake Park US-10 Mile Post 32,Thu Jul 17 15:37:01 PDT 2003,2.50,105.00
+MN063,Verndale US-10 Mile Post 94,Thu Jul 17 15:38:01 PDT 2003,3.89,80.00
+MN064,Rice US-10 Mile Post 162,Thu Jul 17 15:36:01 PDT 2003,3.61,70.00
+MN065,Canton US-52 Mile Post 2,Thu Jul 17 15:35:01 PDT 2003,3.06,350.00
+MN066,Cotton US-53 Mile Post 41,Thu Jul 17 15:31:04 PDT 2003,1.94,235.00
+MN067,Ash Lake US-53 Mile Post 129,Thu Jul 17 15:32:03 PDT 2003,1.94,95.00
+MN068,Brooks US-59 Mile Post 331,Thu Jul 17 15:37:02 PDT 2003,2.78,105.00
+MN069,Kellogg US-61 Mile Post 53,Thu Jul 17 15:40:00 PDT 2003,3.06,25.00
+MN071,MN-71 Mile Post 43,Thu Jul 17 15:32:01 PDT 2003,1.94,130.00
+MN073,Mankato US-169 Mile Post 52,Thu Jul 17 15:34:05 PDT 2003,3.06,20.00
+MN075,Belle Plaine US-169 Mile Post 86,Thu Jul 17 15:33:03 PDT 2003,3.06,55.00
+MN076,Milaca US-169 Mile Post 200,Thu Jul 17 15:36:03 PDT 2003,3.33,75.00
+MN079,New Prague MN-19 Mile Post 149,Thu Jul 17 15:38:00 PDT 2003,3.33,70.00
+MN044,Mahnomen US-59 Mile Post 296,Thu Jul 17 15:37:01 PDT 2003,3.33,145.00
+MN072,Margie US-71 Mile Post 379,Thu Jul 17 15:38:02 PDT 2003,3.06,90.00
+BMTC2,Blue_Mountain,Thu Jul 17 15:50:00 PDT 2003,0.00,0.00
+QURC2,Quincy_Res,Thu Jul 17 15:50:00 PDT 2003,2.24,146.00
+DHPC2,Diamond_Hill,Thu Jul 17 15:50:00 PDT 2003,1.16,17.00
+EBBC2,Elbert,Thu Jul 17 15:50:00 PDT 2003,4.25,133.00
+BHNC2,Brighton,Thu Jul 17 15:50:00 PDT 2003,0.76,354.00
+SQWC2,Squaw_Mountain,Thu Jul 17 15:50:00 PDT 2003,2.32,5.00
+HGCC2,Hiwan_G.C.,Thu Jul 17 15:50:00 PDT 2003,2.68,38.00
+HIGC2,Highlands_Ranch_WTP,Thu Jul 17 15:50:00 PDT 2003,1.07,101.00
+SAPC2,Salisbury_Park,Thu Jul 17 15:50:00 PDT 2003,2.68,118.00
+COKC2,Castle_Rock,Thu Jul 17 15:50:00 PDT 2003,1.12,96.00
+LEWC2,Louisville_Lake,Thu Jul 17 15:50:00 PDT 2003,2.91,264.00
+CALC2,Cal-Wood_Ranch,Thu Jul 17 15:50:00 PDT 2003,0.27,202.00
+BTRC2,Button_Rock,Thu Jul 17 15:50:00 PDT 2003,0.40,146.00
+DOVF1,Dover                                  FAWN,Thu Jul 17 15:45:00 PDT 2003,0.66,193.00
+NNAF1,Ona                                    FAWN,Thu Jul 17 15:45:00 PDT 2003,3.07,108.20
+IMKF1,Immokalee                              FAWN,Thu Jul 17 15:45:00 PDT 2003,2.41,61.82
+F2297,ALASKA PORTABLE #2,Thu Jul 17 15:43:00 PDT 2003,1.79,120.00
+F1949,HELMUT MTN.,Thu Jul 17 15:41:00 PDT 2003,9.39,230.00
+F1950,HODZANA,Thu Jul 17 15:42:00 PDT 2003,8.05,240.00
+F1956,JATAHMUND LAKE,Thu Jul 17 15:43:00 PDT 2003,2.24,340.00
+QCAA3,CARR,Thu Jul 17 15:37:00 PDT 2003,1.34,210.00
+QCGA3,COLUMBINE,Thu Jul 17 15:37:00 PDT 2003,1.34,10.00
+QDLA3,DRY LAKE,Thu Jul 17 15:36:00 PDT 2003,0.89,280.00
+QDPA3,DRY PARK,Thu Jul 17 15:31:00 PDT 2003,0.00,300.00
+QFSA3,FOUR SPRINGS,Thu Jul 17 15:40:00 PDT 2003,3.13,160.00
+QLCA3,LIMESTONE CANYON,Thu Jul 17 15:36:00 PDT 2003,4.92,200.00
+QNOA3,NOON CREEK,Thu Jul 17 15:37:00 PDT 2003,2.24,60.00
+QPPA3,PARIA POINT,Thu Jul 17 15:40:00 PDT 2003,2.24,170.00
+QPVA3,PLEASANT VALLEY,Thu Jul 17 15:41:00 PDT 2003,2.24,210.00
+QSBA3,SASABE,Thu Jul 17 15:33:00 PDT 2003,3.13,170.00
+ATNC1,ACTON,Thu Jul 17 15:32:00 PDT 2003,5.81,200.00
+ECKC1,ALDER SPRINGS,Thu Jul 17 15:42:00 PDT 2003,2.24,140.00
+SNQC1,ANGELES-PORTABLE #1,Thu Jul 17 15:35:00 PDT 2003,1.79,60.00
+MCCC1,ASH CREEK,Thu Jul 17 15:44:00 PDT 2003,1.34,270.00
+BBEC1,BARNABY,Thu Jul 17 15:41:00 PDT 2003,2.24,310.00
+BEVC1,BEAR VALLEY,Thu Jul 17 15:44:00 PDT 2003,3.58,210.00
+BVRC1,BEVERLY HILLS,Thu Jul 17 15:39:00 PDT 2003,2.24,190.00
+PIBC1,BLACK DIAMOND,Thu Jul 17 15:34:00 PDT 2003,2.24,330.00
+BKRC1,BLACKROCK,Thu Jul 17 15:34:00 PDT 2003,1.34,280.00
+BDOC1,BLUE DOOR,Thu Jul 17 15:32:00 PDT 2003,5.36,250.00
+PLEC1,BRIONES,Thu Jul 17 15:34:00 PDT 2003,1.79,30.00
+PEAC1,CALAVERAS ROAD,Thu Jul 17 15:39:00 PDT 2003,5.81,230.00
+CNIC1,CAMP 9,Thu Jul 17 15:37:00 PDT 2003,4.02,40.00
+CNYC1,CANBY,Thu Jul 17 15:32:00 PDT 2003,4.92,270.00
+CHOC1,CHILAO,Thu Jul 17 15:35:00 PDT 2003,4.47,150.00
+CTGC1,CMP TARGET RANGE,Thu Jul 17 15:11:00 PDT 2003,2.24,170.00
+CTGC1,CMP TARGET RANGE,Thu Jul 17 15:26:00 PDT 2003,0.89,180.00
+CTGC1,CMP TARGET RANGE,Thu Jul 17 15:41:00 PDT 2003,0.45,230.00
+DLVC1,DEL VALLE,Thu Jul 17 15:41:00 PDT 2003,4.47,280.00
+DENC1,DESCANSO,Thu Jul 17 15:33:00 PDT 2003,2.68,270.00
+DYLC1,DOYLE,Thu Jul 17 15:42:00 PDT 2003,5.36,240.00
+EELC1,EEL RIVER (MNF),Thu Jul 17 15:42:00 PDT 2003,1.34,320.00
+GNTC1,GRANITE MOUNTAIN,Thu Jul 17 15:34:00 PDT 2003,9.39,240.00
+TR421,H-T PORTABLE #3,Thu Jul 17 15:32:00 PDT 2003,2.68,300.00
+TMPB6,HAYFORK,Thu Jul 17 15:33:00 PDT 2003,0.89,10.00
+HGLC1,HIGH GLADE LOOKOUT,Thu Jul 17 15:43:00 PDT 2003,4.47,140.00
+JSNC1,JOHNSONDALE,Thu Jul 17 15:34:00 PDT 2003,1.79,180.00
+KRNC1,KERNVILLE,Thu Jul 17 15:34:00 PDT 2003,3.13,40.00
+TR420,KNF97 PORTABLE,Thu Jul 17 15:41:00 PDT 2003,0.00,70.00
+LDRC1,LADDER BUTTE,Thu Jul 17 15:31:00 PDT 2003,3.58,250.00
+LTRC1,LAS TRAMPAS,Thu Jul 17 15:35:00 PDT 2003,3.58,230.00
+LCBC1,LEO CARRILLO,Thu Jul 17 15:42:00 PDT 2003,2.24,170.00
+LOAC1,LOS ALTOS,Thu Jul 17 15:40:00 PDT 2003,1.34,30.00
+LSGC1,LOS GATOS,Thu Jul 17 15:32:00 PDT 2003,1.34,350.00
+LSFC1,LSF LAS FLORES,Thu Jul 17 15:10:00 PDT 2003,0.89,180.00
+LSFC1,LSF LAS FLORES,Thu Jul 17 15:25:00 PDT 2003,0.00,180.00
+LSFC1,LSF LAS FLORES,Thu Jul 17 15:40:00 PDT 2003,0.89,210.00
+MBUC1,MALIBU HILLS,Thu Jul 17 15:36:00 PDT 2003,1.79,160.00
+MASC1,MENDOCINO PASS,Thu Jul 17 15:42:00 PDT 2003,3.13,290.00
+MLCC1,MILL CREEK (ANF),Thu Jul 17 15:35:00 PDT 2003,6.26,170.00
+MSAC1,MT. SHASTA,Thu Jul 17 15:38:00 PDT 2003,2.24,140.00
+NFRC1,NORTH FORK,Thu Jul 17 15:32:00 PDT 2003,1.79,270.00
+ONOC1,OAKLAND NORTH,Thu Jul 17 15:33:00 PDT 2003,2.24,210.00
+OKSC1,OAKLAND SOUTH,Thu Jul 17 15:33:00 PDT 2003,1.34,260.00
+BKWC1,PNF12 PORTABLE,Thu Jul 17 15:32:00 PDT 2003,2.24,230.00
+PPPC1,POPPY PARK,Thu Jul 17 15:38:00 PDT 2003,8.05,210.00
+PUGC1,PULGAS,Thu Jul 17 15:38:00 PDT 2003,3.58,300.00
+RSPC1,ROSE PEAK,Thu Jul 17 15:35:00 PDT 2003,3.58,240.00
+NWRC1,SAC NWR,Thu Jul 17 15:41:00 PDT 2003,3.58,80.00
+SDLC1,SADDLEBACK BUTTE,Thu Jul 17 15:41:00 PDT 2003,4.02,190.00
+SLWC1,SAN LUIS NWR,Thu Jul 17 15:31:00 PDT 2003,2.68,340.00
+STFC1,SANTA FE DAM,Thu Jul 17 15:31:00 PDT 2003,2.24,300.00
+SRTC1,SANTA RITA,Thu Jul 17 15:43:00 PDT 2003,2.24,80.00
+SAUC1,SAUGUS,Thu Jul 17 15:36:00 PDT 2003,5.36,190.00
+SOAC1,SODA CREEK,Thu Jul 17 15:43:00 PDT 2003,0.89,260.00
+SQSC1,SQUAW SPRINGS,Thu Jul 17 15:37:00 PDT 2003,4.47,170.00
+SYWC1,STONYFORD,Thu Jul 17 15:43:00 PDT 2003,1.79,10.00
+TR117,SURPRISE PORTABLE,Thu Jul 17 15:34:00 PDT 2003,4.92,310.00
+TANC1,TANBARK,Thu Jul 17 15:35:00 PDT 2003,0.00,120.00
+WMSC1,WARM SPRINGS,Thu Jul 17 15:35:00 PDT 2003,3.13,170.00
+WTPC1,WHITAKER PEAK,Thu Jul 17 15:37:00 PDT 2003,5.81,150.00
+WTHC1,WHITTIER HILLS,Thu Jul 17 15:42:00 PDT 2003,3.13,160.00
+TR865,WOODACRE,Thu Jul 17 15:33:00 PDT 2003,3.58,270.00
+CCYC2,COLORADO CITY,Thu Jul 17 15:34:00 PDT 2003,2.24,200.00
+SURC2,DINOSAUR NM SUCCESS,Thu Jul 17 15:38:00 PDT 2003,2.68,310.00
+PNRC2,PINE RIDGE,Thu Jul 17 15:36:00 PDT 2003,3.58,200.00
+DUFC2,SJF1 DURANGO 555,Thu Jul 17 15:42:00 PDT 2003,0.89,140.00
+F2020,CHEKIKA,Thu Jul 17 15:39:00 PDT 2003,3.58,130.00
+F2023,MILES CITY RAWS,Thu Jul 17 15:35:00 PDT 2003,3.13,30.00
+F2024,OASIS,Thu Jul 17 15:34:00 PDT 2003,2.24,110.00
+F2025,OCHOPEE RAWS,Thu Jul 17 15:36:00 PDT 2003,2.68,10.00
+F2026,RACCOON POINT RAWS,Thu Jul 17 15:36:00 PDT 2003,1.79,150.00
+F2309,LANAI 1,Thu Jul 17 15:37:00 PDT 2003,8.94,60.00
+F2311,MOLOKAI 1,Thu Jul 17 15:37:00 PDT 2003,2.68,20.00
+F2313,PUU WAAWAA,Thu Jul 17 15:37:00 PDT 2003,3.58,310.00
+F2314,PUUANAHULU,Thu Jul 17 15:37:00 PDT 2003,0.89,320.00
+F2327,WAIANAE VALLEY,Thu Jul 17 15:37:00 PDT 2003,2.68,260.00
+F2215,NEAL SMITH,Thu Jul 17 15:32:00 PDT 2003,4.02,230.00
+ACRI1,ARCO,Thu Jul 17 15:34:00 PDT 2003,4.47,220.00
+GRAI1,GRACE,Thu Jul 17 15:35:00 PDT 2003,0.00,110.00
+IPFI1,ISLAND PARK,Thu Jul 17 15:33:00 PDT 2003,2.24,240.00
+TR243,MARIAH - PORTABLE,Thu Jul 17 15:31:00 PDT 2003,0.89,140.00
+MYFI1,MOODY,Thu Jul 17 15:43:00 PDT 2003,1.34,10.00
+TR514,MOUNTAIN HOME,Thu Jul 17 15:41:00 PDT 2003,3.13,300.00
+MKBI1,MULKEY BAR,Thu Jul 17 15:33:00 PDT 2003,6.26,310.00
+OHOI1,OHIO GULCH,Thu Jul 17 15:35:00 PDT 2003,4.02,210.00
+RFTI1,RAFT RIVER,Thu Jul 17 15:35:00 PDT 2003,7.15,300.00
+RDKI1,ROAD CREEK,Thu Jul 17 15:43:00 PDT 2003,0.45,320.00
+TRII1,TRIANGLE,Thu Jul 17 15:32:00 PDT 2003,3.13,80.00
+TWBI1,TWIN BUTTES,Thu Jul 17 15:40:00 PDT 2003,7.60,310.00
+F2205,GREENVILLE,Thu Jul 17 15:37:00 PDT 2003,2.24,20.00
+F2082,ASSATEAGUE ISLAND,Thu Jul 17 15:40:00 PDT 2003,0.89,140.00
+F2085,MOOSEHORN - FTS,Thu Jul 17 15:32:00 PDT 2003,2.24,180.00
+F2093,OJIBWAY - FTS,Thu Jul 17 15:33:00 PDT 2003,2.24,40.00
+F2098,WINDIGO - FTS,Thu Jul 17 15:33:00 PDT 2003,2.68,270.00
+F2320,SUPERIOR #2,Thu Jul 17 15:37:00 PDT 2003,0.89,50.00
+F2111,HIGHWAY 41,Thu Jul 17 15:40:00 PDT 2003,0.00,170.00
+BHMM8,BIGHORN MOUNTAIN,Thu Jul 17 15:36:00 PDT 2003,1.34,60.00
+BSHM8,BRADSHAW CREEK,Thu Jul 17 15:31:00 PDT 2003,3.13,10.00
+HRWM8,HELENA,Thu Jul 17 15:32:00 PDT 2003,7.15,90.00
+LSNM8,LITTLE SNOWY,Thu Jul 17 15:35:00 PDT 2003,2.68,90.00
+TR702,MEDICINE LAKE,Thu Jul 17 15:33:00 PDT 2003,1.79,110.00
+PNHM8,PINE HILL,Thu Jul 17 15:41:00 PDT 2003,5.36,130.00
+SBFM8,SOUTH BRIDGER,Thu Jul 17 15:36:00 PDT 2003,2.68,220.00
+STVM8,STEVI,Thu Jul 17 15:42:00 PDT 2003,1.34,90.00
+TR543,STILLWATER,Thu Jul 17 15:32:00 PDT 2003,2.24,10.00
+HMDN8,HAMPDEN,Thu Jul 17 15:34:00 PDT 2003,4.92,140.00
+NS095,TEWAUKON,Thu Jul 17 15:34:00 PDT 2003,3.58,160.00
+TR364,GUAJE ALERT #6,Thu Jul 17 15:35:00 PDT 2003,4.02,160.00
+PJRN5,PAJARITO ALERT #3,Thu Jul 17 15:32:00 PDT 2003,1.79,170.00
+QMCN5,QUEMAZON CANY #1,Thu Jul 17 15:33:00 PDT 2003,3.13,160.00
+WTRN5,WATER CANY ALERT #2,Thu Jul 17 15:32:00 PDT 2003,2.68,130.00
+COIN2,COILS CREEK,Thu Jul 17 15:36:00 PDT 2003,2.24,200.00
+GDNN2,ELY,Thu Jul 17 15:39:00 PDT 2003,2.68,250.00
+F2225,LITTLE VALLEY (WRCC,Thu Jul 17 15:34:00 PDT 2003,4.02,280.00
+SPGN2,SPRING GULCH,Thu Jul 17 15:42:00 PDT 2003,4.92,130.00
+TEXN2,TEXAS SPRINGS,Thu Jul 17 15:33:00 PDT 2003,4.92,170.00
+F2221,LONG ISLAND,Thu Jul 17 15:39:00 PDT 2003,1.79,270.00
+BAFO3,BALD MTN,Thu Jul 17 15:37:00 PDT 2003,4.47,250.00
+BYFO3,BLUE CANYON,Thu Jul 17 15:36:00 PDT 2003,4.92,50.00
+PTFO3,COFFEE POT FLAT,Thu Jul 17 15:37:00 PDT 2003,1.79,290.00
+FKFO3,FORT ROCK,Thu Jul 17 15:37:00 PDT 2003,1.34,240.00
+HBFO3,HAWLEY BUTTE,Thu Jul 17 15:39:00 PDT 2003,0.00,330.00
+LOFO3,HIGH POINT,Thu Jul 17 15:38:00 PDT 2003,1.34,50.00
+HSFO3,HORSE CREEK,Thu Jul 17 15:39:00 PDT 2003,1.79,270.00
+TR328,MINAM LODGE-PORTABL,Thu Jul 17 15:36:00 PDT 2003,3.58,340.00
+YNFO3,MT. YONCALLA,Thu Jul 17 15:37:00 PDT 2003,0.89,310.00
+NPFO3,NORTH POLE RIDGE,Thu Jul 17 15:38:00 PDT 2003,4.02,20.00
+OWFO3,OWYHEE RIDGE,Thu Jul 17 15:39:00 PDT 2003,5.81,60.00
+RTFO3,RED BUTTE,Thu Jul 17 15:33:00 PDT 2003,4.02,270.00
+BDFO3,RYE MOUNTAIN,Thu Jul 17 15:38:00 PDT 2003,0.45,210.00
+SVFO3,SILVER BUTTE,Thu Jul 17 15:40:00 PDT 2003,1.34,290.00
+TCFO3,TROUT CREEK,Thu Jul 17 15:39:00 PDT 2003,2.24,270.00
+VCFO3,VILLAGE CREEK,Thu Jul 17 15:38:00 PDT 2003,0.45,170.00
+WKFO3,WILKINSON RIDGE,Thu Jul 17 15:39:00 PDT 2003,0.89,360.00
+YEFO3,YELLOWSTONE MTN.,Thu Jul 17 15:38:00 PDT 2003,1.34,190.00
+F2211,NINIGRET,Thu Jul 17 15:34:00 PDT 2003,1.79,230.00
+F2330,SAVANNAH PORT - QDS,Thu Jul 17 15:38:00 PDT 2003,1.34,90.00
+CRRS2,CUSTER,Thu Jul 17 15:42:00 PDT 2003,1.34,130.00
+CEDT2,CEDAR,Thu Jul 17 15:37:00 PDT 2003,6.26,200.00
+F2334,HUNTSVILLE,Thu Jul 17 15:37:00 PDT 2003,1.34,250.00
+F2335,KIRBYVILLE, TX,Thu Jul 17 15:37:00 PDT 2003,1.34,270.00
+F2176,LAGUNA ATASCOSA,Thu Jul 17 15:39:00 PDT 2003,2.68,20.00
+F2336,LINDEN,Thu Jul 17 15:37:00 PDT 2003,2.68,310.00
+F2177,MCFADDEN,Thu Jul 17 15:40:00 PDT 2003,4.02,200.00
+F2181,SOUTHERN ROUGH - FT,Thu Jul 17 15:43:00 PDT 2003,2.24,60.00
+BAEU1,BAER #10,Thu Jul 17 15:33:00 PDT 2003,6.71,80.00
+BBBU1,BAER #11,Thu Jul 17 15:34:00 PDT 2003,0.00,200.00
+TR940,BAER #12,Thu Jul 17 15:40:00 PDT 2003,3.13,80.00
+BSTU1,BRIMSTONE RESERVOIR,Thu Jul 17 15:34:00 PDT 2003,4.92,310.00
+BCRU1,BRYSON CANYON,Thu Jul 17 15:42:00 PDT 2003,2.68,220.00
+KPRU1,KINGS POINT,Thu Jul 17 15:38:00 PDT 2003,7.60,300.00
+MCKU1,MCCOOK RIDGE,Thu Jul 17 15:38:00 PDT 2003,3.13,250.00
+NLPU1,NORTH LONG POINT,Thu Jul 17 15:39:00 PDT 2003,0.45,160.00
+RVZU1,RAY S VALLEY,Thu Jul 17 15:38:00 PDT 2003,0.89,110.00
+TFRU1,TELEGRAPH FLAT,Thu Jul 17 15:35:00 PDT 2003,2.24,120.00
+UPRU1,UPPER P.R. CANYON,Thu Jul 17 15:39:00 PDT 2003,2.24,90.00
+USWU1,UPPER SAND WASH,Thu Jul 17 15:39:00 PDT 2003,0.89,60.00
+WNTU1,WINTER RIDGE,Thu Jul 17 15:40:00 PDT 2003,3.58,40.00
+SFLU1,YAMPA PLATEAU,Thu Jul 17 15:40:00 PDT 2003,3.58,330.00
+F2212,BACK BAY,Thu Jul 17 15:35:00 PDT 2003,2.24,90.00
+BKBW1,BLACK KNOB,Thu Jul 17 15:38:00 PDT 2003,3.58,320.00
+DOUW1,DOUGLAS,Thu Jul 17 15:41:00 PDT 2003,2.24,160.00
+FIFW1,FINNEY CREEK,Thu Jul 17 15:43:00 PDT 2003,0.00,120.00
+FTFW1,FLOWERY TRAIL,Thu Jul 17 15:37:00 PDT 2003,2.24,230.00
+JUFW1,JUNIPER DUNES,Thu Jul 17 15:41:00 PDT 2003,4.02,310.00
+TR375,SIGNAL PEAK - FTS,Thu Jul 17 15:36:00 PDT 2003,2.68,150.00
+F2223,HORICON,Thu Jul 17 15:31:00 PDT 2003,5.36,80.00
+F2224,NECEDAH,Thu Jul 17 15:31:00 PDT 2003,3.58,50.00
+BECW4,BECHLER,Thu Jul 17 15:39:00 PDT 2003,1.34,230.00
+TR347,BT MICRO #1,Thu Jul 17 15:43:00 PDT 2003,1.79,210.00
+ERAW4,BURRO HILL,Thu Jul 17 15:40:00 PDT 2003,1.79,330.00
+CAMW4,CAMP CREEK,Thu Jul 17 15:44:00 PDT 2003,2.68,100.00
+CMRW4,CASPER MOUNTAIN,Thu Jul 17 15:42:00 PDT 2003,4.02,350.00
+COWW4,COW CREEK,Thu Jul 17 15:43:00 PDT 2003,2.24,110.00
+ECEW4,ECHETA,Thu Jul 17 15:42:00 PDT 2003,4.47,340.00
+GCRW4,GRASS CREEK DIVIDE,Thu Jul 17 15:42:00 PDT 2003,0.89,90.00
+HAFW4,HALF MOON,Thu Jul 17 15:39:00 PDT 2003,2.24,320.00
+HOBW4,HOBACK,Thu Jul 17 15:40:00 PDT 2003,3.13,340.00
+HHRW4,HYATT HIGH,Thu Jul 17 15:43:00 PDT 2003,4.47,330.00
+MUDW4,MUDDY CREEK,Thu Jul 17 15:42:00 PDT 2003,9.39,190.00
+PCRW4,POKER CREEK,Thu Jul 17 15:43:00 PDT 2003,4.47,60.00
+RASW4,RASPBERRY,Thu Jul 17 15:40:00 PDT 2003,1.79,160.00
+SPLW4,SPLIT ROCK CREEK,Thu Jul 17 15:43:00 PDT 2003,4.02,360.00
+CO031,I-25 @ Aguilar (88),Thu Jul 17 15:38:00 PDT 2003,4.02,145.00
+CO084,Silt (7),Thu Jul 17 15:40:00 PDT 2003,0.00,135.00
+CO086,West Tunnel Portal (8),Thu Jul 17 15:30:00 PDT 2003,0.00,0.00
+CO087,East Tunnel Portal (8),Thu Jul 17 15:45:00 PDT 2003,0.00,0.00
+CO088,Hanging Lake Viaduct (8),Thu Jul 17 15:45:00 PDT 2003,2.68,240.00
+CO089,French Creek (8),Thu Jul 17 15:40:00 PDT 2003,2.68,330.00
+CO090,Bair Ranch (8),Thu Jul 17 15:46:00 PDT 2003,1.79,255.00
+CO091,No Name Tunnel (8),Thu Jul 17 15:50:00 PDT 2003,0.89,240.00
+CO093,McClure Pass (12),Thu Jul 17 15:41:00 PDT 2003,1.79,80.00
+CO095,Wolcott (8),Thu Jul 17 15:43:00 PDT 2003,0.89,250.00
+CO097,Palisade (6),Thu Jul 17 15:45:00 PDT 2003,1.34,155.00
+CO098,Douglas Pass (3),Thu Jul 17 15:45:00 PDT 2003,5.36,160.00
+CO099,Canyon Creek (8),Thu Jul 17 15:36:00 PDT 2003,2.24,335.00
+CO105,Grand Junction (6),Thu Jul 17 15:51:00 PDT 2003,1.34,95.00
+MN094,I-35W at Mississippi I-35W Mile Post 19,Thu Jul 17 15:38:00 PDT 2003,1.67,30.00
+MN080,Thompson Hill I-35 Mile Post 248,Thu Jul 17 15:15:30 PDT 2003,2.78,65.00
+MN085,I-494 and MN-5 I-494 Mile Post 18,Thu Jul 17 15:41:55 PDT 2003,3.06,25.00
+MN088,Little Canada I-694 Mile Post 46,Thu Jul 17 15:34:03 PDT 2003,1.94,25.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Thu Jul 17 15:35:43 PDT 2003,2.78,60.00
+MN092,Mitchell Bridge MN-169 Mile Post 343,Thu Jul 17 15:36:18 PDT 2003,1.94,170.00
+MN096,Albert Lea I-35 Mile Post 30,Thu Jul 17 15:42:05 PDT 2003,2.78,25.00
+MN093,Silver Cliff MN-61 Mile Post 30,Thu Jul 17 15:40:00 PDT 2003,1.11,32.00
+MN095,Blatnick Bridge South Abutment,Thu Jul 17 15:42:00 PDT 2003,2.50,56.00
+SJEI4,Jefferson Scranton HS                  KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.03,160.00
+SFOI4,Nodaway Valley - Fontanelle            KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.54,120.00
+SOSI4,Clarke Community - Osceola             KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.57,210.00
+SWII4,Winterset Community                    KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.60,230.00
+SADI4,Adair Casey                            KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.06,230.00
+SAFI4,East Union - Afton                     KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.09,210.00
+SKCI4,KCCI Studios - Des Moines              KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.09,230.00
+SAEI4,ADM MS - Adel                          KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.03,180.00
+SCHI4,Van Allen Elementary - Chariton        KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.06,230.00
+SMAI4,Fisher Elementary - Marshalltown       KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,0.00,210.00
+SNEI4,Berg MS - Newton                       KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.06,290.00
+SAKI4,Ankeny Christian                       KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.06,270.00
+SHUI4,Taft Elementary - Humboldt             KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.06,70.00
+SROI4,Rockwell City                          KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.06,90.00
+SCAI4,Kuemper Catholic - Carroll             KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,0.00,360.00
+SGLI4,Glidden Ralston - Glidden              KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.54,140.00
+SCOI4,Colo Elementary - Colo                 KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,0.51,250.00
+SCSI4,Creston HS                             KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.57,210.00
+SWBI4,Webster City Community                 KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.03,360.00
+SAUI4,Audubon Community                      KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.54,230.00
+SMNI4,Montezuma Community                    KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,0.51,290.00
+SIFI4,Rock Run Elementary - Iowa Falls       KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.03,50.00
+SCNI4,Corning Community - Corning            KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.57,160.00
+SSUI4,Sully Christian                        KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.06,250.00
+SKNI4,Knoxville Community                    KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.57,250.00
+SAMI4,Northwood Elementary - Ames            KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.03,250.00
+SJWI4,South Hamilton - Jewell                KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,0.00,270.00
+SLOI4,Lamoni Community - Lamoni              KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,1.03,160.00
+SALI4,Lincoln Center - Albia                 KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.09,250.00
+SWAI4,Wall Lake-View-Auburn                  KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.09,70.00
+SBRI4,BGM Elementary - Brooklyn              KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.09,290.00
+SDRI4,River Woods - Des Moines               KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.09,250.00
+SBOI4,United Community - Boone               KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.06,210.00
+SLMI4,CAL Community - Latimer                KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.57,30.00
+SFAI4,Prairie Valley - Farnhamville          KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.09,70.00
+SCBI4,Coon Rapids - Bayard                   KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,0.00,360.00
+SPEI4,Pella MS                               KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,2.57,270.00
+SBKI4,Belmond Klemme                         KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,3.09,50.00
+SLEI4,Leon                                   KCCI-TV,Thu Jul 17 15:55:00 PDT 2003,5.66,250.00
+SMAM5,Madison                                KELO-TV,Thu Jul 17 15:57:00 PDT 2003,3.09,360.00
+SABS2,Aberdeen                               KELO-TV,Thu Jul 17 15:57:00 PDT 2003,3.09,30.00
+SHUS2,Huron                                  KELO-TV,Thu Jul 17 15:57:00 PDT 2003,3.60,50.00
+SMIS2,Milbank                                KELO-TV,Thu Jul 17 15:57:00 PDT 2003,2.57,50.00
+SMSS2,Mission                                KELO-TV,Thu Jul 17 15:57:00 PDT 2003,6.69,70.00
+SPIS2,Pierre                                 KELO-TV,Thu Jul 17 15:57:00 PDT 2003,5.14,50.00
+SSAS2,Sioux Falls PH                         KELO-TV,Thu Jul 17 15:57:00 PDT 2003,3.60,120.00
+SSBS2,Sioux Falls Pavilion                   KELO-TV,Thu Jul 17 15:57:00 PDT 2003,3.09,70.00
+SWAS2,Wall                                   KELO-TV,Thu Jul 17 15:57:00 PDT 2003,6.17,120.00
+SWTS2,Watertown                              KELO-TV,Thu Jul 17 15:57:00 PDT 2003,1.03,90.00
+SYAS2,Yankton                                KELO-TV,Thu Jul 17 15:57:00 PDT 2003,2.57,70.00
+SHII4,Hull                                   KELO-TV,Thu Jul 17 15:57:00 PDT 2003,4.63,90.00
+MN001,Twin Lakes I-35 Mile Post 1,Thu Jul 17 15:44:02 PDT 2003,4.44,20.00
+MN003,Little Chicago I-35 Mile Post 70,Thu Jul 17 15:44:01 PDT 2003,3.33,55.00
+MN004,Rush City I-35 Mile Post 157,Thu Jul 17 15:47:03 PDT 2003,3.61,10.00
+MN006,Beaver Creek I-90 Mile Post 4,Thu Jul 17 15:45:05 PDT 2003,3.61,105.00
+MN007,I-90 Mile Post 35,Thu Jul 17 15:41:00 PDT 2003,6.39,95.00
+MN008,I-90 Mile Post 67,Thu Jul 17 15:50:01 PDT 2003,5.28,105.00
+MN009,Blue Earth I-90 Mile Post 119,Thu Jul 17 15:50:01 PDT 2003,1.39,10.00
+MN010,Dexter I-90 Mile Post 195,Thu Jul 17 15:45:00 PDT 2003,3.89,35.00
+MN011,Jct CR 7 I-90 Mile Post 226,Thu Jul 17 15:49:01 PDT 2003,3.33,10.00
+MN012,Ridgeway I-90 Mile Post 261,Thu Jul 17 15:45:01 PDT 2003,3.33,85.00
+MN013,Dilworth I-94 Mile Post 5,Thu Jul 17 15:49:02 PDT 2003,1.39,100.00
+MN014,Rothsay I-94 Mile Post 38,Thu Jul 17 15:44:00 PDT 2003,4.44,80.00
+MN015,Alexandria I-94 Mile Post 104,Thu Jul 17 15:50:02 PDT 2003,4.72,75.00
+MN016,Sauk Center I-94 Mile Post 128,Thu Jul 17 15:42:02 PDT 2003,4.17,85.00
+MN017,Clearwater I-94 Mile Post 180,Thu Jul 17 15:46:01 PDT 2003,3.06,80.00
+MN018,Shooks MN-1 Mile Post 34,Thu Jul 17 15:49:00 PDT 2003,1.39,110.00
+MN020,Emily MN-6 Mile Post 29,Thu Jul 17 15:50:03 PDT 2003,0.56,0.00
+MN021,Clara City MN-7 Mile Post 89,Thu Jul 17 15:50:00 PDT 2003,4.44,50.00
+MN022,Lester Prairie MN-7 Mile Post 161,Thu Jul 17 15:41:01 PDT 2003,3.61,40.00
+MN024,MN-7 Mile Post 11,Thu Jul 17 15:50:11 PDT 2003,1.94,155.00
+MN025,MN-11 Mile Post 62,Thu Jul 17 15:50:11 PDT 2003,4.17,60.00
+MN026,Brichdale MN-11 Mile Post 157,Thu Jul 17 15:49:01 PDT 2003,2.50,95.00
+MN028,Lake Benton US-14 Mile Post 7,Thu Jul 17 15:41:02 PDT 2003,4.72,85.00
+MN029,Byron US-14 Mile Post 200,Thu Jul 17 15:48:00 PDT 2003,1.67,15.00
+MN030,Hendricks MN-19 Mile Post 2,Thu Jul 17 15:41:03 PDT 2003,4.44,20.00
+MN032,Winthrop MN-19 Mile Post 108,Thu Jul 17 15:41:03 PDT 2003,6.67,60.00
+MN033,Hanley Falls MN-23 Mile Post 94,Thu Jul 17 15:46:00 PDT 2003,3.89,35.00
+MN035,Lastrup MN-25 Mile Post 140,Thu Jul 17 15:43:00 PDT 2003,3.61,60.00
+MN036,Graceville MN-28 Mile Post 19,Thu Jul 17 15:43:02 PDT 2003,5.00,65.00
+MN037,Langhei Township MN-29 Mile Post 46,Thu Jul 17 15:43:01 PDT 2003,3.33,70.00
+MN038,Dovray MN-30 Mile Post 49,Thu Jul 17 15:42:00 PDT 2003,4.44,70.00
+MN040,Caledonia MN-44 Mile Post 60,Thu Jul 17 15:45:01 PDT 2003,1.11,120.00
+MN041,Squaw Lake MN-46 Mile Post 25,Thu Jul 17 15:42:03 PDT 2003,0.56,100.00
+MN042,Cannon Falls US-52 Mile Post 90,Thu Jul 17 15:43:00 PDT 2003,3.89,50.00
+MN043,Georgeville MN-55 Mile Post 98,Thu Jul 17 15:42:02 PDT 2003,5.28,85.00
+MN045,Madelia US-60 Mile Post 86,Thu Jul 17 15:42:00 PDT 2003,2.50,10.00
+MN047,Red Wing US-61 Mile Post 101,Thu Jul 17 15:44:01 PDT 2003,1.39,0.00
+MN048,Grand Portage MN-61 Mile Post 146,Thu Jul 17 15:43:02 PDT 2003,3.33,200.00
+MN049,Chamberlain MN-64 Mile Post 42,Thu Jul 17 15:49:02 PDT 2003,2.22,105.00
+MN050,Pliny MN-65 Mile Post 98,Thu Jul 17 15:44:02 PDT 2003,3.89,35.00
+MN051,Ball Bluff MN-65 Mile Post 145,Thu Jul 17 15:45:03 PDT 2003,0.83,110.00
+MN052,Effie MN-1 Mile Post 194,Thu Jul 17 15:48:02 PDT 2003,0.83,90.00
+MN054,Tenney US-75 Mile Post 188,Thu Jul 17 15:46:03 PDT 2003,4.44,90.00
+MN055,Ottertail MN-78 Mile Post 34,Thu Jul 17 15:47:03 PDT 2003,2.78,75.00
+MN056,Gatzke MN-89 Mile Post 96,Thu Jul 17 15:46:03 PDT 2003,2.50,190.00
+MN057,St. Vincent MN-171 Mile Post 2,Thu Jul 17 15:48:03 PDT 2003,3.06,100.00
+MN058,Anthony MN-200 Mile Post 9,Thu Jul 17 15:47:00 PDT 2003,1.67,110.00
+MN059,Mehurin US-212 Mile Post 1,Thu Jul 17 15:49:03 PDT 2003,3.06,110.00
+MN060,East Grand Forks US-2 Mile Post 8,Thu Jul 17 15:50:12 PDT 2003,2.22,45.00
+MN062,Lake Park US-10 Mile Post 32,Thu Jul 17 15:47:01 PDT 2003,3.33,110.00
+MN063,Verndale US-10 Mile Post 94,Thu Jul 17 15:48:02 PDT 2003,2.78,70.00
+MN064,Rice US-10 Mile Post 162,Thu Jul 17 15:46:01 PDT 2003,3.06,85.00
+MN065,Canton US-52 Mile Post 2,Thu Jul 17 15:45:02 PDT 2003,5.83,0.00
+MN066,Cotton US-53 Mile Post 41,Thu Jul 17 15:41:07 PDT 2003,1.94,175.00
+MN067,Ash Lake US-53 Mile Post 129,Thu Jul 17 15:42:03 PDT 2003,1.67,50.00
+MN068,Brooks US-59 Mile Post 331,Thu Jul 17 15:47:02 PDT 2003,3.06,95.00
+MN069,Kellogg US-61 Mile Post 53,Thu Jul 17 15:50:00 PDT 2003,2.50,15.00
+MN071,MN-71 Mile Post 43,Thu Jul 17 15:42:01 PDT 2003,3.89,125.00
+MN073,Mankato US-169 Mile Post 52,Thu Jul 17 15:44:05 PDT 2003,3.06,25.00
+MN075,Belle Plaine US-169 Mile Post 86,Thu Jul 17 15:43:03 PDT 2003,3.89,45.00
+MN076,Milaca US-169 Mile Post 200,Thu Jul 17 15:46:03 PDT 2003,2.78,85.00
+MN079,New Prague MN-19 Mile Post 149,Thu Jul 17 15:48:00 PDT 2003,3.33,70.00
+MN044,Mahnomen US-59 Mile Post 296,Thu Jul 17 15:47:01 PDT 2003,3.06,115.00
+MN072,Margie US-71 Mile Post 379,Thu Jul 17 15:48:02 PDT 2003,1.39,145.00
+EGK,Egmont Key                             USF,Thu Jul 17 15:42:00 PDT 2003,1.90,170.00
+MAIF1,Marianna                               FAWN,Thu Jul 17 15:00:00 PDT 2003,4.69,170.60
+H0002,KNCTODD1               Jefferson     NC,Thu Jul 17 15:53:00 PDT 2003,0.00,130.00
+H0024,Cornelius     OR,Thu Jul 17 15:46:00 PDT 2003,1.34,20.00
+H0025,Dickinson     TX,Thu Jul 17 15:53:00 PDT 2003,0.00,0.00
+H0322,Phoenix       AZ,Thu Jul 17 15:55:00 PDT 2003,0.00,140.00
+H0563,Half Moon Bay			     CA,Thu Jul 17 15:52:00 PDT 2003,3.13,110.00
+H0347,Terra Cotta Estates    Lincoln       CA,Thu Jul 17 15:55:00 PDT 2003,0.45,240.00
+H0506,Visalia	     CA,Thu Jul 17 15:47:00 PDT 2003,1.34,320.00
+H0305,Cozmos Weather Watch   Pueblo        CO,Thu Jul 17 15:50:00 PDT 2003,2.68,90.00
+H0295,Lake Mary     FL,Thu Jul 17 15:47:00 PDT 2003,1.34,130.00
+H0315,Memory Makers, Inc.    Sebastian     FL,Thu Jul 17 15:56:00 PDT 2003,0.89,120.00
+H0573,Charles City			     IA,Thu Jul 17 15:59:00 PDT 2003,1.34,340.00
+H0183,New Hampton   IA,Thu Jul 17 15:59:00 PDT 2003,0.00,340.00
+H0417,Oxford Mills           Oxford Junction	IA,Thu Jul 17 15:58:00 PDT 2003,0.45,300.00
+H0246,Sidney        IA,Thu Jul 17 15:49:00 PDT 2003,3.13,170.00
+H0575,Coeur d'Alene			     ID,Thu Jul 17 15:50:00 PDT 2003,1.79,40.00
+H0261,Crystal Lake  IL,Thu Jul 17 15:59:00 PDT 2003,1.79,260.00
+H0297,Uxbridge      MA,Thu Jul 17 15:33:00 PDT 2003,0.00,320.00
+H0156,Raymond       ME,Thu Jul 17 15:51:00 PDT 2003,0.00,140.00
+H0358,Port of Rensselaer     Rensselaer    NY,Thu Jul 17 15:59:00 PDT 2003,2.24,300.00
+H0309,Columbus      OH,Thu Jul 17 15:50:00 PDT 2003,0.45,300.00
+H0310,SSC                    Abilene       TX,Thu Jul 17 15:45:00 PDT 2003,1.79,200.00
+H0311,Clear Lake City WX     Houston       TX,Thu Jul 17 15:53:00 PDT 2003,1.79,130.00
+H0361,R and K Weather        Houston       TX,Thu Jul 17 15:56:00 PDT 2003,0.00,300.00
+H0278,TeleHobbies            Rockwall      TX,Thu Jul 17 15:50:00 PDT 2003,0.00,180.00
+H0048,Lazy B Llama Ranch     Franktown     CO,Thu Jul 17 15:45:00 PDT 2003,2.24,90.00
+H0069,Chippewa Falls WX Svc  Chippewa Fall WI,Thu Jul 17 15:55:00 PDT 2003,0.89,50.00
+MN094,I-35W at Mississippi I-35W Mile Post 19,Thu Jul 17 15:48:00 PDT 2003,3.33,35.00
+MN083,Lafayette Tunnel MN-61 Mile Post 32,Thu Jul 17 15:17:30 PDT 2003,0.83,50.00
+MN085,I-494 and MN-5 I-494 Mile Post 18,Thu Jul 17 15:51:34 PDT 2003,2.78,45.00
+MN086,Burnsville I-35W Mile Post 4,Thu Jul 17 15:52:08 PDT 2003,0.28,355.00
+MN087,Maple Grove I-94 Mile Post 217,Thu Jul 17 15:52:42 PDT 2003,2.78,65.00
+MN088,Little Canada I-694 Mile Post 46,Thu Jul 17 15:43:45 PDT 2003,2.78,30.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Thu Jul 17 15:45:10 PDT 2003,3.06,0.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Thu Jul 17 15:45:48 PDT 2003,3.33,45.00
+MN092,Mitchell Bridge MN-169 Mile Post 343,Thu Jul 17 15:46:28 PDT 2003,0.83,160.00
+MN096,Albert Lea I-35 Mile Post 30,Thu Jul 17 15:52:05 PDT 2003,3.33,40.00
+MN093,Silver Cliff MN-61 Mile Post 30,Thu Jul 17 15:50:00 PDT 2003,1.11,49.00
+MN095,Blatnick Bridge South Abutment,Thu Jul 17 15:52:00 PDT 2003,2.78,59.00
+F2298,ALASKA PORTABLE #3,Thu Jul 17 15:44:00 PDT 2003,2.24,330.00
+F1926,BROADVIEW,Thu Jul 17 15:44:00 PDT 2003,1.79,140.00
+F1945,GRANITE,Thu Jul 17 15:44:00 PDT 2003,1.34,70.00
+F1947,HAIDA,Thu Jul 17 15:50:00 PDT 2003,1.34,160.00
+F1954,HOONAH,Thu Jul 17 15:56:00 PDT 2003,1.34,180.00
+F1958,KAIYUH,Thu Jul 17 15:46:00 PDT 2003,1.34,50.00
+F1960,KANUTI NWR,Thu Jul 17 15:46:00 PDT 2003,3.13,290.00
+F1963,KENAI LAKE,Thu Jul 17 15:44:00 PDT 2003,1.34,200.00
+F1964,KENAI NWR,Thu Jul 17 15:47:00 PDT 2003,4.02,140.00
+F1966,KILBUCK,Thu Jul 17 15:47:00 PDT 2003,14.31,80.00
+F1968,KOYUKUK NWR,Thu Jul 17 15:48:00 PDT 2003,5.36,280.00
+F1997,SHELTER COVE,Thu Jul 17 15:46:00 PDT 2003,2.24,130.00
+F2005,THORNE RIVER,Thu Jul 17 15:51:00 PDT 2003,0.89,50.00
+F2302,FRWS-12,Thu Jul 17 15:50:00 PDT 2003,0.00,170.00
+QCKA3,CROWN KING,Thu Jul 17 15:54:00 PDT 2003,2.68,250.00
+QOCA3,OAK CREEK,Thu Jul 17 15:53:00 PDT 2003,0.89,180.00
+TR075,TONTO PORTABLE #2,Thu Jul 17 15:45:00 PDT 2003,0.45,160.00
+ALDC1,ALDER POINT,Thu Jul 17 15:48:00 PDT 2003,1.34,50.00
+ANEC1,ALPINE,Thu Jul 17 15:53:00 PDT 2003,0.89,300.00
+PLIC1,ARBUCKLE BASIN,Thu Jul 17 15:49:00 PDT 2003,3.13,120.00
+BABC1,BACKBONE,Thu Jul 17 15:47:00 PDT 2003,0.00,160.00
+BNGC1,BANGOR,Thu Jul 17 15:53:00 PDT 2003,1.79,270.00
+BGBC1,BIG BAR,Thu Jul 17 15:47:00 PDT 2003,1.34,270.00
+BPNC1,BIG PINES,Thu Jul 17 15:53:00 PDT 2003,1.34,180.00
+BUGC1,BLUE RIDGE (KNF),Thu Jul 17 15:47:00 PDT 2003,2.24,270.00
+BZRC1,BRAZIE RANCH,Thu Jul 17 15:45:00 PDT 2003,1.79,160.00
+CLNC1,CALLAHAN,Thu Jul 17 15:46:00 PDT 2003,0.45,340.00
+CDEC1,CARPENTER RIDGE,Thu Jul 17 15:52:00 PDT 2003,0.89,200.00
+CSPC1,CASE SPRINGS,Thu Jul 17 15:00:00 PDT 2003,2.24,190.00
+CSPC1,CASE SPRINGS,Thu Jul 17 15:15:00 PDT 2003,1.79,150.00
+CSPC1,CASE SPRINGS,Thu Jul 17 15:30:00 PDT 2003,2.68,110.00
+CSPC1,CASE SPRINGS,Thu Jul 17 15:45:00 PDT 2003,1.79,120.00
+CICC1,CHICO,Thu Jul 17 15:53:00 PDT 2003,2.24,220.00
+CEKC1,CLEAR CREEK,Thu Jul 17 15:53:00 PDT 2003,1.34,230.00
+CSTC1,COHASSET,Thu Jul 17 15:52:00 PDT 2003,3.58,200.00
+BLDC1,COLLINS BALDY,Thu Jul 17 15:44:00 PDT 2003,3.13,310.00
+CRGC1,CORNING,Thu Jul 17 15:51:00 PDT 2003,2.68,150.00
+CNAC1,CORONA,Thu Jul 17 15:53:00 PDT 2003,0.00,340.00
+WISC1,COUNTY LINE,Thu Jul 17 15:48:00 PDT 2003,2.24,60.00
+CVTC1,COVINGTON,Thu Jul 17 15:53:00 PDT 2003,2.68,280.00
+TR411,DEMOCRAT,Thu Jul 17 15:51:00 PDT 2003,3.13,260.00
+ATSC1,DEVILS GARDEN,Thu Jul 17 15:46:00 PDT 2003,1.79,260.00
+DOGC1,DOG VALLEY,Thu Jul 17 15:47:00 PDT 2003,1.79,220.00
+ERCC1,EEL RIVER CAMP,Thu Jul 17 15:48:00 PDT 2003,3.13,70.00
+TR130,FORT HUNTER LIGGET-,Thu Jul 17 15:50:00 PDT 2003,4.47,260.00
+HYFC1,FRIEND MTN.,Thu Jul 17 15:47:00 PDT 2003,0.89,300.00
+GQEC1,GASQUET,Thu Jul 17 15:53:00 PDT 2003,0.89,240.00
+TR721,GORDON,Thu Jul 17 15:46:00 PDT 2003,3.13,180.00
+GRSC1,GRASSHOPPER,Thu Jul 17 15:47:00 PDT 2003,3.13,190.00
+HSQC1,HIGH SIERRA,Thu Jul 17 15:50:00 PDT 2003,2.68,230.00
+HLKC1,HORSE LAKE,Thu Jul 17 15:54:00 PDT 2003,6.26,220.00
+JWBC1,JAWBONE,Thu Jul 17 15:53:00 PDT 2003,4.47,300.00
+TR534,JERSEYDALE,Thu Jul 17 15:47:00 PDT 2003,0.89,200.00
+JTAC1,JUANITA LAKE,Thu Jul 17 15:45:00 PDT 2003,2.24,200.00
+LSNC1,LASSEN LODGE,Thu Jul 17 15:50:00 PDT 2003,1.79,210.00
+LAYC1,LAYTONVILLE,Thu Jul 17 15:56:00 PDT 2003,0.89,210.00
+LICC1,LINCOLN,Thu Jul 17 15:55:00 PDT 2003,2.24,270.00
+MPCC1,MAPLE CREEK,Thu Jul 17 15:48:00 PDT 2003,2.24,100.00
+MCGC1,MCGUIRES,Thu Jul 17 15:55:00 PDT 2003,2.68,290.00
+MNLC1,MEANS LAKE,Thu Jul 17 15:48:00 PDT 2003,5.36,200.00
+IDPC1,OAK CREEK,Thu Jul 17 15:47:00 PDT 2003,8.05,250.00
+OKNC1,OAK KNOLL,Thu Jul 17 15:45:00 PDT 2003,1.34,250.00
+PRGC1,PARK RIDGE,Thu Jul 17 15:55:00 PDT 2003,2.24,210.00
+PMCC1,PATTYMOCUS,Thu Jul 17 15:46:00 PDT 2003,2.68,80.00
+PHRC1,PINEHURST,Thu Jul 17 15:45:00 PDT 2003,1.34,240.00
+QTZC1,QUARTZ HILL,Thu Jul 17 15:44:00 PDT 2003,1.34,110.00
+MKGC1,RATTLESNAKE,Thu Jul 17 15:55:00 PDT 2003,6.26,160.00
+RRRC1,READER RANCH,Thu Jul 17 15:54:00 PDT 2003,2.68,250.00
+RRAC1,REDDING,Thu Jul 17 15:49:00 PDT 2003,1.79,200.00
+RDVC1,RODEO VALLEY,Thu Jul 17 15:55:00 PDT 2003,1.34,90.00
+RNDC1,ROUND MOUNTAIN,Thu Jul 17 15:46:00 PDT 2003,3.13,220.00
+MIGC1,SAN MIGUEL,Thu Jul 17 15:51:00 PDT 2003,1.79,300.00
+SWBC1,SAWYERS BAR,Thu Jul 17 15:46:00 PDT 2003,3.13,240.00
+CFCC1,SCORPION,Thu Jul 17 15:48:00 PDT 2003,2.24,180.00
+SETC1,SECRET TOWN,Thu Jul 17 15:54:00 PDT 2003,1.79,350.00
+SMSC1,SIMS,Thu Jul 17 15:48:00 PDT 2003,0.89,190.00
+ATRC1,SLATER BUTTE,Thu Jul 17 15:44:00 PDT 2003,0.00,120.00
+SDRC1,SOLDIER MTN,Thu Jul 17 15:49:00 PDT 2003,4.02,330.00
+SLFC1,SUGARLOAF (SHF),Thu Jul 17 15:48:00 PDT 2003,2.68,120.00
+TCAC1,TRINITY CAMP,Thu Jul 17 15:50:00 PDT 2003,2.24,220.00
+VABC1,VAN BREMMER,Thu Jul 17 15:45:00 PDT 2003,4.02,180.00
+WALC1,WALKER,Thu Jul 17 15:47:00 PDT 2003,5.36,230.00
+ONYC1,WALKER PASS,Thu Jul 17 15:56:00 PDT 2003,1.34,290.00
+TMPE4,WEAVERVILLE,Thu Jul 17 15:47:00 PDT 2003,0.00,150.00
+WEEC1,WEED AIRPORT,Thu Jul 17 15:45:00 PDT 2003,1.79,230.00
+WWDC1,WESTWOOD,Thu Jul 17 15:47:00 PDT 2003,3.13,190.00
+WITC1,WHITMORE,Thu Jul 17 15:49:00 PDT 2003,1.34,270.00
+WVTC1,WOLVERTON,Thu Jul 17 15:56:00 PDT 2003,1.79,250.00
+YOBC1,YOLLA BOLLA,Thu Jul 17 15:46:00 PDT 2003,1.79,160.00
+TR701,YUROK,Thu Jul 17 15:45:00 PDT 2003,3.13,310.00
+BAWC2,BAILEY,Thu Jul 17 15:52:00 PDT 2003,3.13,70.00
+BHRC2,BIG HORN,Thu Jul 17 15:54:00 PDT 2003,1.79,330.00
+BLPC2,BLUE PARK,Thu Jul 17 15:55:00 PDT 2003,4.92,100.00
+BTAC2,BOULDER,Thu Jul 17 15:55:00 PDT 2003,0.00,90.00
+CHRC2,CHEESEMAN,Thu Jul 17 15:53:00 PDT 2003,5.36,130.00
+CUHC2,CUCHARA,Thu Jul 17 15:54:00 PDT 2003,1.79,140.00
+DMMC2,DEMAREE,Thu Jul 17 15:52:00 PDT 2003,1.34,230.00
+DRYC2,DRY LAKE,Thu Jul 17 15:55:00 PDT 2003,0.89,210.00
+ESPC2,ESTES PARK,Thu Jul 17 15:55:00 PDT 2003,0.00,30.00
+FHTC2,FISH HATCHERY,Thu Jul 17 15:55:00 PDT 2003,0.45,250.00
+FCRC2,FT. CARSON,Thu Jul 17 15:54:00 PDT 2003,2.24,150.00
+LKGC2,LAKE GEORGE,Thu Jul 17 15:53:00 PDT 2003,2.68,90.00
+LDRC2,LITTLE DELORES,Thu Jul 17 15:52:00 PDT 2003,3.58,340.00
+LUJC2,LUJAN,Thu Jul 17 15:50:00 PDT 2003,3.13,150.00
+MITC2,MITCHELL CANYON,Thu Jul 17 15:54:00 PDT 2003,2.24,240.00
+NCKC2,NEEDLE CREEK,Thu Jul 17 15:51:00 PDT 2003,2.24,50.00
+CCEC2,PINION CANYON,Thu Jul 17 15:54:00 PDT 2003,2.24,180.00
+PCPC2,PORCUPINE CR.,Thu Jul 17 15:56:00 PDT 2003,2.24,10.00
+TR206,PSF1 SOUTH PLATTE 5,Thu Jul 17 15:46:00 PDT 2003,0.89,100.00
+TR208,PSF3 CANON CITY,Thu Jul 17 15:46:00 PDT 2003,4.02,110.00
+TR563,PSF4 555,Thu Jul 17 15:46:00 PDT 2003,0.45,170.00
+RDKC2,RED DEER,Thu Jul 17 15:53:00 PDT 2003,3.13,140.00
+SAWC2,SALTER,Thu Jul 17 15:56:00 PDT 2003,0.00,310.00
+SDVC2,SAN DOVAL,Thu Jul 17 15:53:00 PDT 2003,0.45,360.00
+STHC2,SOUTH CANYON,Thu Jul 17 15:53:00 PDT 2003,4.92,290.00
+TAPC2,TAYLOR PARK,Thu Jul 17 15:50:00 PDT 2003,2.24,310.00
+WLCC2,WILLIS CREEK,Thu Jul 17 15:52:00 PDT 2003,2.24,120.00
+WICC2,WILLOW CREEK,Thu Jul 17 15:55:00 PDT 2003,1.79,40.00
+F2037,HAKALAU,Thu Jul 17 15:45:00 PDT 2003,4.47,160.00
+F2039,HAKIOAWA,Thu Jul 17 15:52:00 PDT 2003,12.52,110.00
+F2344,HONOKANAI A,Thu Jul 17 15:53:00 PDT 2003,8.05,100.00
+F2042,KANELOA,Thu Jul 17 15:53:00 PDT 2003,10.73,90.00
+F2044,KEALIALALO,Thu Jul 17 15:53:00 PDT 2003,8.49,100.00
+F2046,KII,Thu Jul 17 15:45:00 PDT 2003,8.05,90.00
+F2047,LUA MAKIKA,Thu Jul 17 15:51:00 PDT 2003,11.18,100.00
+F2054,PALI2,Thu Jul 17 15:48:00 PDT 2003,5.81,40.00
+F2056,PTA KIPUKA ALALA,Thu Jul 17 15:55:00 PDT 2003,5.36,330.00
+F2058,PTA WEST,Thu Jul 17 15:56:00 PDT 2003,5.81,320.00
+PCNI1,POLE CANYON,Thu Jul 17 15:49:00 PDT 2003,4.02,230.00
+PBUI1,POTTER BUTTE,Thu Jul 17 15:47:00 PDT 2003,6.26,270.00
+SMYI1,SALMON,Thu Jul 17 15:52:00 PDT 2003,6.26,240.00
+F2075,YELLOW CREEK,Thu Jul 17 15:48:00 PDT 2003,2.68,350.00
+LCFM8,BIG SHEEP MOUNTAIN,Thu Jul 17 15:44:00 PDT 2003,7.60,120.00
+BLUM8,BLUFF CREEK,Thu Jul 17 15:51:00 PDT 2003,6.71,200.00
+CACM8,CANNONBALL CREEK,Thu Jul 17 15:54:00 PDT 2003,7.60,110.00
+DBCM8,DRY BLOOD CREEK,Thu Jul 17 15:45:00 PDT 2003,2.68,90.00
+KIGM8,KING COULEE,Thu Jul 17 15:51:00 PDT 2003,6.71,130.00
+LBHM8,LITTLE BIGHORN,Thu Jul 17 15:55:00 PDT 2003,1.34,270.00
+LBCM8,LITTLE BULLWHACKER,Thu Jul 17 15:45:00 PDT 2003,0.89,280.00
+MCDM8,MANNING CORRAL DOGT,Thu Jul 17 15:45:00 PDT 2003,1.79,50.00
+STKM8,STINKWATER CREEK,Thu Jul 17 15:56:00 PDT 2003,1.34,350.00
+ALDM8,ZORTMAN MINE,Thu Jul 17 15:44:00 PDT 2003,0.45,240.00
+F2124,LAUREL SPRINGS,Thu Jul 17 15:51:00 PDT 2003,2.24,30.00
+HSYN1,BESSEY,Thu Jul 17 15:52:00 PDT 2003,2.24,120.00
+HRSN1,KINGS CANYON,Thu Jul 17 15:52:00 PDT 2003,2.24,300.00
+TR471,SCOTTS BLUFF - FTS,Thu Jul 17 15:49:00 PDT 2003,2.24,240.00
+BATN5,BATDRAW,Thu Jul 17 15:45:00 PDT 2003,5.81,310.00
+ACON5,BRUSHY MOUNTAIN,Thu Jul 17 15:49:00 PDT 2003,3.58,130.00
+TR307,COSMIC,Thu Jul 17 15:54:00 PDT 2003,4.02,70.00
+TMPF9,MESCAL,Thu Jul 17 15:49:00 PDT 2003,4.02,140.00
+COPN5,SMOKEY BEAR,Thu Jul 17 15:54:00 PDT 2003,1.34,110.00
+TR315,TAOS PORTABLE #1,Thu Jul 17 15:48:00 PDT 2003,5.36,40.00
+ALRN2,ANTELOPE LAKE,Thu Jul 17 15:54:00 PDT 2003,4.47,250.00
+CATN2,CATNIP MOUNTAIN,Thu Jul 17 15:44:00 PDT 2003,6.26,280.00
+CCRN2,CURRANT CREEK,Thu Jul 17 15:49:00 PDT 2003,4.47,220.00
+FOXN2,FOX MOUNTAIN,Thu Jul 17 15:48:00 PDT 2003,4.02,240.00
+JSPN2,JUNIPER SPRINGS,Thu Jul 17 15:52:00 PDT 2003,5.36,220.00
+RBTN2,RED BUTTE,Thu Jul 17 15:45:00 PDT 2003,4.02,280.00
+CIFO3,CINNAMON,Thu Jul 17 15:51:00 PDT 2003,2.68,250.00
+FLFO3,FOSTER FLAT,Thu Jul 17 15:46:00 PDT 2003,4.02,210.00
+GDFO3,GRANDAD,Thu Jul 17 15:50:00 PDT 2003,2.24,230.00
+TMP86,HARL BUTTE,Thu Jul 17 15:52:00 PDT 2003,2.24,290.00
+OOFO3,MOON HILL,Thu Jul 17 15:46:00 PDT 2003,5.36,240.00
+MGFO3,MORGAN MOUNTAIN,Thu Jul 17 15:55:00 PDT 2003,1.79,160.00
+ARFO3,PARKER MOUNTAIN,Thu Jul 17 15:47:00 PDT 2003,2.68,100.00
+PAFO3,PATJENS,Thu Jul 17 15:50:00 PDT 2003,2.68,350.00
+RCRO3,ROCK CREEK,Thu Jul 17 15:44:00 PDT 2003,5.36,230.00
+SLTO3,SALT CREEK-PRINVILL,Thu Jul 17 15:44:00 PDT 2003,4.47,10.00
+SAFO3,SPARTA BUTTE,Thu Jul 17 15:52:00 PDT 2003,2.68,260.00
+TOFO3,TOKETEE,Thu Jul 17 15:51:00 PDT 2003,0.00,320.00
+WTFO3,WAGONTIRE,Thu Jul 17 15:47:00 PDT 2003,5.81,220.00
+DOHS2,BAKER PARK,Thu Jul 17 15:46:00 PDT 2003,0.89,250.00
+NMOS2,NEMO,Thu Jul 17 15:49:00 PDT 2003,2.68,70.00
+RDCS2,RED CANYON,Thu Jul 17 15:50:00 PDT 2003,1.34,360.00
+F2157,BIG SOUTH,Thu Jul 17 15:52:00 PDT 2003,1.79,20.00
+F2166,ATHENS,Thu Jul 17 15:51:00 PDT 2003,1.34,230.00
+F2168,BALCONES,Thu Jul 17 15:49:00 PDT 2003,1.34,100.00
+F2170,BIRD,Thu Jul 17 15:55:00 PDT 2003,1.79,130.00
+F2172,CADDO LAKE,Thu Jul 17 15:49:00 PDT 2003,1.79,270.00
+F2173,GEORGE WEST,Thu Jul 17 15:51:00 PDT 2003,4.02,60.00
+F2174,GILMER,Thu Jul 17 15:51:00 PDT 2003,2.68,290.00
+F2175,GREENVILLE,Thu Jul 17 15:51:00 PDT 2003,2.24,190.00
+F2337,MASON,Thu Jul 17 15:56:00 PDT 2003,3.58,300.00
+F2178,PALESTINE,Thu Jul 17 15:55:00 PDT 2003,1.34,220.00
+F2180,SANTA ANA NWR,Thu Jul 17 15:53:00 PDT 2003,2.68,110.00
+F2228,TEXARKANA,Thu Jul 17 15:55:00 PDT 2003,1.34,250.00
+BEZU1,BEAVER DAM,Thu Jul 17 15:52:00 PDT 2003,2.68,270.00
+JSPU1,JENSEN SPRING,Thu Jul 17 15:50:00 PDT 2003,5.36,310.00
+LPRU1,LAVA POINT RAWS,Thu Jul 17 15:54:00 PDT 2003,1.34,360.00
+WHBU1,WILDHORSE BASIN,Thu Jul 17 15:48:00 PDT 2003,3.13,200.00
+BMFW1,BROWN MTN. ORCHARD,Thu Jul 17 15:56:00 PDT 2003,0.00,200.00
+TLFW1,FIRE TRNG. ACADEMY,Thu Jul 17 15:49:00 PDT 2003,2.24,340.00
+GHFW1,GOLD HILL,Thu Jul 17 15:48:00 PDT 2003,0.45,290.00
+GMFW1,GOLD MOUNTAIN,Thu Jul 17 15:46:00 PDT 2003,1.79,230.00
+SKKW1,JOHNSON RIDGE,Thu Jul 17 15:49:00 PDT 2003,0.00,130.00
+KCFW1,KIDNEY CREEK,Thu Jul 17 15:49:00 PDT 2003,0.89,290.00
+LCFW1,LANE CREEK,Thu Jul 17 15:56:00 PDT 2003,0.45,210.00
+LEFW1,LEECHER,Thu Jul 17 15:54:00 PDT 2003,1.79,20.00
+LSFW1,LESTER,Thu Jul 17 15:49:00 PDT 2003,2.68,160.00
+NEFW1,NESPELEM,Thu Jul 17 15:46:00 PDT 2003,2.68,270.00
+ANDW4,ANDERSON RIDGE,Thu Jul 17 15:45:00 PDT 2003,3.13,130.00
+BRLW4,BEAR LODGE,Thu Jul 17 15:50:00 PDT 2003,3.13,50.00
+BUJW4,BURGESS,Thu Jul 17 15:49:00 PDT 2003,3.13,20.00
+DODW4,DODGE CREEK,Thu Jul 17 15:45:00 PDT 2003,7.60,20.00
+ESTW4,ESTERBROOK,Thu Jul 17 15:51:00 PDT 2003,2.68,250.00
+RSNW4,FALES ROCK,Thu Jul 17 15:45:00 PDT 2003,1.79,40.00
+TR384,LEIGH CREEK,Thu Jul 17 15:55:00 PDT 2003,2.24,110.00
+MCRW4,MILL CREEK,Thu Jul 17 15:49:00 PDT 2003,4.02,280.00
+RHKW4,ROCHELLE HILLS,Thu Jul 17 15:51:00 PDT 2003,4.47,10.00
+SAWW4,SAWMILL PARK,Thu Jul 17 15:51:00 PDT 2003,0.45,30.00
+SPKW4,SCHOOL HOUSE,Thu Jul 17 15:49:00 PDT 2003,1.34,80.00
+SHFW4,SHF2 - PORTABLE,Thu Jul 17 15:45:00 PDT 2003,1.79,170.00
+CO039,Wiggins @ Bijou Creek (44),Thu Jul 17 15:34:00 PDT 2003,3.58,45.00
+CO041,Natural Fort (38),Thu Jul 17 15:37:00 PDT 2003,6.71,215.00
+CO042,Wellington (38),Thu Jul 17 15:37:00 PDT 2003,0.89,185.00
+CO043,Briggsdale (42),Thu Jul 17 15:38:00 PDT 2003,2.24,90.00
+CO048,Holyoke (51),Thu Jul 17 15:46:00 PDT 2003,4.02,180.00
+CO051,Greeley (43),Thu Jul 17 15:43:00 PDT 2003,0.89,145.00
+CO052,Del Camino (43),Thu Jul 17 15:43:00 PDT 2003,0.00,0.00
+CO092,Dowd Junction (10),Thu Jul 17 15:48:00 PDT 2003,9.39,65.00
+CO099,Canyon Creek (8),Thu Jul 17 15:55:00 PDT 2003,1.79,245.00
+CO100,Aspen (10),Thu Jul 17 15:50:00 PDT 2003,0.89,0.00
+CO101,Basalt (8*),Thu Jul 17 15:50:00 PDT 2003,0.45,280.00
+CO102,Steamboat Springs (5),Thu Jul 17 15:53:00 PDT 2003,2.24,280.00
+CO103,Snowmass @HWY82 mp26.8 (10*),Thu Jul 17 15:54:00 PDT 2003,0.45,235.00
+CO104,Shale Bluffs (10),Thu Jul 17 15:47:00 PDT 2003,0.89,215.00
+MN001,Twin Lakes I-35 Mile Post 1,Thu Jul 17 15:54:01 PDT 2003,3.89,30.00
+MN003,Little Chicago I-35 Mile Post 70,Thu Jul 17 15:54:00 PDT 2003,2.78,50.00
+MN004,Rush City I-35 Mile Post 157,Thu Jul 17 15:57:03 PDT 2003,3.06,20.00
+MN006,Beaver Creek I-90 Mile Post 4,Thu Jul 17 15:55:04 PDT 2003,5.83,115.00
+MN007,I-90 Mile Post 35,Thu Jul 17 15:51:00 PDT 2003,5.83,85.00
+MN010,Dexter I-90 Mile Post 195,Thu Jul 17 15:55:00 PDT 2003,5.56,40.00
+MN011,Jct CR 7 I-90 Mile Post 226,Thu Jul 17 15:59:00 PDT 2003,3.33,30.00
+MN012,Ridgeway I-90 Mile Post 261,Thu Jul 17 15:55:00 PDT 2003,4.17,45.00
+MN013,Dilworth I-94 Mile Post 5,Thu Jul 17 15:59:30 PDT 2003,2.50,120.00
+MN014,Rothsay I-94 Mile Post 38,Thu Jul 17 15:54:00 PDT 2003,3.33,75.00
+MN016,Sauk Center I-94 Mile Post 128,Thu Jul 17 15:52:02 PDT 2003,3.06,85.00
+MN017,Clearwater I-94 Mile Post 180,Thu Jul 17 15:56:01 PDT 2003,2.22,80.00
+MN018,Shooks MN-1 Mile Post 34,Thu Jul 17 15:59:00 PDT 2003,0.56,10.00
+MN022,Lester Prairie MN-7 Mile Post 161,Thu Jul 17 15:51:00 PDT 2003,5.28,50.00
+MN026,Brichdale MN-11 Mile Post 157,Thu Jul 17 15:59:01 PDT 2003,1.67,60.00
+MN028,Lake Benton US-14 Mile Post 7,Thu Jul 17 15:51:01 PDT 2003,4.17,75.00
+MN029,Byron US-14 Mile Post 200,Thu Jul 17 15:58:01 PDT 2003,3.33,5.00
+MN030,Hendricks MN-19 Mile Post 2,Thu Jul 17 15:51:01 PDT 2003,6.11,30.00
+MN032,Winthrop MN-19 Mile Post 108,Thu Jul 17 15:51:03 PDT 2003,4.17,20.00
+MN033,Hanley Falls MN-23 Mile Post 94,Thu Jul 17 15:56:00 PDT 2003,3.06,0.00
+MN035,Lastrup MN-25 Mile Post 140,Thu Jul 17 15:53:00 PDT 2003,2.50,50.00
+MN036,Graceville MN-28 Mile Post 19,Thu Jul 17 15:53:02 PDT 2003,4.44,90.00
+MN037,Langhei Township MN-29 Mile Post 46,Thu Jul 17 15:53:02 PDT 2003,3.33,70.00
+MN038,Dovray MN-30 Mile Post 49,Thu Jul 17 15:52:00 PDT 2003,4.72,60.00
+MN040,Caledonia MN-44 Mile Post 60,Thu Jul 17 15:55:01 PDT 2003,0.00,0.00
+MN041,Squaw Lake MN-46 Mile Post 25,Thu Jul 17 15:52:02 PDT 2003,0.28,0.00
+MN042,Cannon Falls US-52 Mile Post 90,Thu Jul 17 15:53:01 PDT 2003,3.06,65.00
+MN043,Georgeville MN-55 Mile Post 98,Thu Jul 17 15:52:02 PDT 2003,4.72,90.00
+MN045,Madelia US-60 Mile Post 86,Thu Jul 17 15:52:02 PDT 2003,0.56,115.00
+MN047,Red Wing US-61 Mile Post 101,Thu Jul 17 15:54:01 PDT 2003,1.39,20.00
+MN048,Grand Portage MN-61 Mile Post 146,Thu Jul 17 15:53:03 PDT 2003,2.50,160.00
+MN049,Chamberlain MN-64 Mile Post 42,Thu Jul 17 15:59:01 PDT 2003,1.94,100.00
+MN050,Pliny MN-65 Mile Post 98,Thu Jul 17 15:54:02 PDT 2003,3.89,30.00
+MN051,Ball Bluff MN-65 Mile Post 145,Thu Jul 17 15:55:03 PDT 2003,2.22,115.00
+MN052,Effie MN-1 Mile Post 194,Thu Jul 17 15:58:03 PDT 2003,2.22,55.00
+MN054,Tenney US-75 Mile Post 188,Thu Jul 17 15:56:03 PDT 2003,4.17,60.00
+MN055,Ottertail MN-78 Mile Post 34,Thu Jul 17 15:57:03 PDT 2003,2.50,80.00
+MN056,Gatzke MN-89 Mile Post 96,Thu Jul 17 15:56:03 PDT 2003,2.78,140.00
+MN057,St. Vincent MN-171 Mile Post 2,Thu Jul 17 15:58:03 PDT 2003,3.06,105.00
+MN058,Anthony MN-200 Mile Post 9,Thu Jul 17 15:57:00 PDT 2003,1.94,120.00
+MN059,Mehurin US-212 Mile Post 1,Thu Jul 17 15:59:03 PDT 2003,3.33,130.00
+MN062,Lake Park US-10 Mile Post 32,Thu Jul 17 15:57:01 PDT 2003,3.06,100.00
+MN063,Verndale US-10 Mile Post 94,Thu Jul 17 15:58:02 PDT 2003,3.33,70.00
+MN064,Rice US-10 Mile Post 162,Thu Jul 17 15:56:01 PDT 2003,3.61,85.00
+MN065,Canton US-52 Mile Post 2,Thu Jul 17 15:55:02 PDT 2003,4.44,0.00
+MN066,Cotton US-53 Mile Post 41,Thu Jul 17 15:51:04 PDT 2003,1.39,190.00
+MN067,Ash Lake US-53 Mile Post 129,Thu Jul 17 15:52:03 PDT 2003,0.83,300.00
+MN068,Brooks US-59 Mile Post 331,Thu Jul 17 15:57:02 PDT 2003,1.94,110.00
+MN071,MN-71 Mile Post 43,Thu Jul 17 15:52:02 PDT 2003,1.94,130.00
+MN073,Mankato US-169 Mile Post 52,Thu Jul 17 15:54:25 PDT 2003,4.17,15.00
+MN075,Belle Plaine US-169 Mile Post 86,Thu Jul 17 15:53:03 PDT 2003,3.61,55.00
+MN076,Milaca US-169 Mile Post 200,Thu Jul 17 15:56:03 PDT 2003,3.06,85.00
+MN079,New Prague MN-19 Mile Post 149,Thu Jul 17 15:58:00 PDT 2003,2.22,60.00
+MN044,Mahnomen US-59 Mile Post 296,Thu Jul 17 15:57:01 PDT 2003,3.33,120.00
+MN072,Margie US-71 Mile Post 379,Thu Jul 17 15:58:02 PDT 2003,1.67,45.00
+MN094,I-35W at Mississippi I-35W Mile Post 19,Thu Jul 17 15:58:00 PDT 2003,1.67,30.00
+MN080,Thompson Hill I-35 Mile Post 248,Thu Jul 17 15:30:30 PDT 2003,2.78,80.00
+MN083,Lafayette Tunnel MN-61 Mile Post 32,Thu Jul 17 15:32:30 PDT 2003,0.83,55.00
+MN088,Little Canada I-694 Mile Post 46,Thu Jul 17 15:53:35 PDT 2003,1.94,45.00
+MN089,Cayuga Street Br. I-35E Mile Post 109,Thu Jul 17 15:54:12 PDT 2003,1.39,0.00
+MN090,MN-110 and I-494 MN-10 Mile Post 5,Thu Jul 17 15:54:47 PDT 2003,1.94,70.00
+MN092,Mitchell Bridge MN-169 Mile Post 343,Thu Jul 17 15:55:23 PDT 2003,1.39,135.00
+F2328,ALASKA PORTABLE #4,Thu Jul 17 15:01:00 PDT 2003,0.45,260.00
+F2329,ALASKA PORTABLE #5,Thu Jul 17 15:08:00 PDT 2003,2.68,340.00
+F1959,KAKE,Thu Jul 17 15:56:00 PDT 2003,2.24,320.00
+F1970,LIVENGOOD,Thu Jul 17 15:06:00 PDT 2003,6.71,180.00
+QHVA3,RINCON,Thu Jul 17 15:57:00 PDT 2003,1.79,50.00
+F2018,83 MONUMENT,Thu Jul 17 15:56:00 PDT 2003,1.79,250.00
+BENC1,BEN BOLT,Thu Jul 17 15:59:00 PDT 2003,1.79,290.00
+BNVC1,BOONVILLE,Thu Jul 17 15:56:00 PDT 2003,6.26,350.00
+BKSC1,BROOKS,Thu Jul 17 15:58:00 PDT 2003,2.24,260.00
+BCNC1,BURNS CANYON,Thu Jul 17 15:56:00 PDT 2003,2.68,250.00
+CMAC1,CAMANCHE,Thu Jul 17 15:59:00 PDT 2003,1.79,300.00
+CGVC1,CEDAR GROVE,Thu Jul 17 15:57:00 PDT 2003,3.58,120.00
+CEEC1,CHEESEBORO,Thu Jul 17 15:59:00 PDT 2003,2.24,70.00
+GOSC1,GOOSE VALLEY,Thu Jul 17 15:58:00 PDT 2003,2.24,230.00
+HWKC1,HAWKEYE,Thu Jul 17 15:57:00 PDT 2003,4.02,170.00
+HOAC1,HOOPAH,Thu Jul 17 15:59:00 PDT 2003,4.92,340.00
+TR527,KLAMATH NWR,Thu Jul 17 15:58:00 PDT 2003,3.58,260.00
+KELC1,KONOCTI,Thu Jul 17 15:57:00 PDT 2003,1.79,130.00
+TR522,LOWER KLAMATH - FTS,Thu Jul 17 15:58:00 PDT 2003,2.68,340.00
+TR523,MODOC NWR,Thu Jul 17 15:59:00 PDT 2003,2.24,340.00
+MTZC1,MOUNT ZION,Thu Jul 17 15:59:00 PDT 2003,0.45,140.00
+OORC1,OAK OPENING,Thu Jul 17 15:59:00 PDT 2003,2.24,190.00
+OPLC1,OPAL MOUNTAIN,Thu Jul 17 15:58:00 PDT 2003,8.49,220.00
+PLTC1,PILOT HILL,Thu Jul 17 15:58:00 PDT 2003,2.24,290.00
+RSAC1,SANTA ROSA,Thu Jul 17 15:57:00 PDT 2003,4.92,30.00
+HUMC1,SUGARLOAF,Thu Jul 17 15:56:00 PDT 2003,3.13,160.00
+TMPE3,UHL,Thu Jul 17 15:59:00 PDT 2003,0.89,60.00
+CEKC2,CORRAL CREEK,Thu Jul 17 15:59:00 PDT 2003,2.24,360.00
+DHOC2,DEAD HORSE,Thu Jul 17 15:58:00 PDT 2003,1.34,350.00
+DYKC2,DEVIL MTN.,Thu Jul 17 15:56:00 PDT 2003,1.34,120.00
+DJTC2,DOWD JUNCTION,Thu Jul 17 15:58:00 PDT 2003,8.49,70.00
+MPRC2,MCCLURE PASS,Thu Jul 17 15:58:00 PDT 2003,1.34,30.00
+PKLC2,PICKLE GULCH,Thu Jul 17 15:59:00 PDT 2003,0.00,80.00
+SPKC2,SANBORN PARK,Thu Jul 17 15:57:00 PDT 2003,0.00,40.00
+SODC2,SODA CREEK,Thu Jul 17 15:58:00 PDT 2003,1.34,80.00
+TR562,WATERTON NORTH,Thu Jul 17 15:59:00 PDT 2003,1.79,120.00
+F2041,KAHUKU TRAINING ARE,Thu Jul 17 15:59:00 PDT 2003,8.05,100.00
+F2045,KEAUMO,Thu Jul 17 15:07:00 PDT 2003,3.58,60.00
+F2310,MAKUA PORTABLE,Thu Jul 17 15:58:00 PDT 2003,2.68,280.00
+F2051,MAKUA RANGE,Thu Jul 17 15:58:00 PDT 2003,3.13,270.00
+F2052,MAKUA RIDGE,Thu Jul 17 15:58:00 PDT 2003,1.79,220.00
+F2055,PTA EAST,Thu Jul 17 15:59:00 PDT 2003,8.94,100.00
+F2312,PTA PORTABLE,Thu Jul 17 15:57:00 PDT 2003,3.13,210.00
+F2060,SCHOFIELD BARRACKS,Thu Jul 17 15:57:00 PDT 2003,3.13,100.00
+F2061,SCHOFIELD EAST,Thu Jul 17 15:58:00 PDT 2003,1.79,60.00
+F2315,SCHOFIELD PORTABLE,Thu Jul 17 15:59:00 PDT 2003,1.34,100.00
+BULI1,BULL SPRING,Thu Jul 17 15:59:00 PDT 2003,1.34,310.00
+ROCI1,ROCK LAKE,Thu Jul 17 15:58:00 PDT 2003,3.58,300.00
+CGLK1,CIMARRON,Thu Jul 17 15:59:00 PDT 2003,9.39,180.00
+F2275,COPIAH,Thu Jul 17 15:59:00 PDT 2003,3.13,140.00
+F2231,HANCOCK,Thu Jul 17 15:59:00 PDT 2003,2.24,170.00
+F2232,MARION,Thu Jul 17 15:59:00 PDT 2003,3.13,220.00
+LMRM8,ANTELOPE,Thu Jul 17 15:59:00 PDT 2003,1.79,80.00
+F2126,NATURE CONSERVANCY,Thu Jul 17 15:58:00 PDT 2003,0.45,280.00
+F2132,SUNNY POINT,Thu Jul 17 15:58:00 PDT 2003,1.79,250.00
+BRLN2,BARREL SPRINGS,Thu Jul 17 15:57:00 PDT 2003,6.26,260.00
+CTLN2,CATTLE CAMP,Thu Jul 17 15:59:00 PDT 2003,4.02,300.00
+TR321,BEND WATERSHED,Thu Jul 17 15:57:00 PDT 2003,2.68,110.00
+TR324,DESCHUTES PORTABLE,Thu Jul 17 15:02:00 PDT 2003,3.13,250.00
+TR324,DESCHUTES PORTABLE,Thu Jul 17 15:17:00 PDT 2003,2.68,280.00
+TR324,DESCHUTES PORTABLE,Thu Jul 17 15:32:00 PDT 2003,3.13,330.00
+TR324,DESCHUTES PORTABLE,Thu Jul 17 15:47:00 PDT 2003,3.13,320.00
+RLFO3,RIDDLE MTN.,Thu Jul 17 15:57:00 PDT 2003,4.02,240.00
+BTFO3,ROBERTS BUTTE,Thu Jul 17 15:57:00 PDT 2003,1.34,330.00
+RVFO3,ROVER,Thu Jul 17 15:05:00 PDT 2003,2.68,240.00
+F2158,CHEROKEE - FTS,Thu Jul 17 15:57:00 PDT 2003,0.45,150.00
+F2160,INDIAN GRAVE - FTS,Thu Jul 17 15:57:00 PDT 2003,0.45,320.00
+F2164,ANAHUAC PORTABLE,Thu Jul 17 15:59:00 PDT 2003,2.68,180.00
+F2167,ATTWATER NWR,Thu Jul 17 15:56:00 PDT 2003,1.79,80.00
+F2338,POSSUME KINGDOM,Thu Jul 17 15:56:00 PDT 2003,2.24,200.00
+GDBT2,THE BOWL,Thu Jul 17 15:04:00 PDT 2003,4.47,90.00
+F2294,VICTORIA,Thu Jul 17 15:57:00 PDT 2003,2.68,190.00
+CHPU1,CHEPETA,Thu Jul 17 15:05:00 PDT 2003,4.02,320.00
+TR337,MANTI - PORTABLE #1,Thu Jul 17 15:06:00 PDT 2003,0.00,50.00
+ADFW1,ALDER RIDGE,Thu Jul 17 15:57:00 PDT 2003,2.68,330.00
+DMFW1,DEER MOUNTAIN,Thu Jul 17 15:56:00 PDT 2003,2.24,270.00
+DIFW1,DOUGLAS INGRAM RIDG,Thu Jul 17 15:57:00 PDT 2003,1.34,100.00
+FBFW1,FIRST BUTTE,Thu Jul 17 15:57:00 PDT 2003,0.89,200.00
+LLFW1,LOST LAKE,Thu Jul 17 15:57:00 PDT 2003,0.45,290.00
+NCSW1,NCSB,Thu Jul 17 15:57:00 PDT 2003,2.68,170.00
+OMFW1,OWL MOUNTAIN,Thu Jul 17 15:56:00 PDT 2003,0.89,320.00
+CDAW4,CRANDALL,Thu Jul 17 15:57:00 PDT 2003,5.81,220.00
+EGLW4,EAGLE,Thu Jul 17 15:56:00 PDT 2003,3.13,170.00
+ELKW4,ELKHORN,Thu Jul 17 15:57:00 PDT 2003,4.02,30.00
+TR350,SHF1 - PORTABLE - 5,Thu Jul 17 15:57:00 PDT 2003,5.36,180.00
+MAIF1,Marianna                               FAWN,Thu Jul 17 15:15:00 PDT 2003,9.06,201.40
+H0424,Carson City	        Carson City  NV,Thu Jul 17 15:00:00 PDT 2003,4.92,230.00
+CO037,I-25 @ Berthoud (43),Thu Jul 17 15:57:00 PDT 2003,1.34,355.00
+MN084,MN-53 and 135 - Midway,Thu Jul 17 15:07:25 PDT 2003,0.56,350.00
+F1998,SITE SUMMIT,Thu Jul 17 15:14:00 PDT 2003,4.02,190.00
+QRSA3,ROOSEVELT,Thu Jul 17 15:11:00 PDT 2003,3.58,330.00
+TMP97,TWIN WEST,Thu Jul 17 15:20:00 PDT 2003,4.92,20.00
+BTTC1,BUTTERCUP,Thu Jul 17 15:16:00 PDT 2003,4.02,250.00
+QCAC1,CAHUILLA,Thu Jul 17 15:17:00 PDT 2003,4.47,280.00
+TMEC1,TUOLME,Thu Jul 17 15:21:00 PDT 2003,2.68,170.00
+TR134,BAKER CREEK,Thu Jul 17 15:17:00 PDT 2003,0.89,240.00
+LGFO3,LOG CREEK,Thu Jul 17 15:21:00 PDT 2003,1.79,330.00
+RXFO3,RED BOX,Thu Jul 17 15:20:00 PDT 2003,2.24,300.00
+GRFW1,GREY BACK,Thu Jul 17 15:11:00 PDT 2003,2.24,250.00
+OLFW1,OWL MT,Thu Jul 17 15:17:00 PDT 2003,1.34,250.00
+PIFW1,SEDGE RIDGE,Thu Jul 17 15:21:00 PDT 2003,4.02,100.00
+MAIF1,Marianna                               FAWN,Thu Jul 17 15:30:00 PDT 2003,6.46,193.30
+H0577,Barre	Dog Corner		     MA,Thu Jul 17 15:30:00 PDT 2003,0.00,260.00
+MN083,Lafayette Tunnel MN-61 Mile Post 32,Thu Jul 17 15:47:30 PDT 2003,0.83,65.00
+MN084,MN-53 and 135 - Midway,Thu Jul 17 15:17:26 PDT 2003,0.56,85.00
+TR164,MNF02 PORTABLE,Thu Jul 17 15:29:00 PDT 2003,2.68,230.00
+SNCC1,SANTA CRUZ ISLAND,Thu Jul 17 15:25:00 PDT 2003,1.79,120.00
+SRIC1,SANTA ROSA ISLAND,Thu Jul 17 15:24:00 PDT 2003,1.34,80.00
+BEFO3,BLUE RIDGE,Thu Jul 17 15:27:00 PDT 2003,2.68,360.00
+RNFO3,ROUND MOUNTAIN,Thu Jul 17 15:32:00 PDT 2003,4.02,320.00
+GWFW1,GREENWATER,Thu Jul 17 15:24:00 PDT 2003,0.89,100.00
+PEFW1,PEOH POINT,Thu Jul 17 15:22:00 PDT 2003,1.79,30.00
+QCNW1,QUILCENE,Thu Jul 17 15:30:00 PDT 2003,1.79,10.00
+MN084,MN-53 and 135 - Midway,Thu Jul 17 15:27:26 PDT 2003,0.28,315.00
+MAIF1,Marianna                               FAWN,Thu Jul 17 15:45:00 PDT 2003,3.99,195.90
+CO086,West Tunnel Portal (8),Thu Jul 17 15:50:00 PDT 2003,0.00,0.00
+H0424,Carson City	        Carson City  NV,Thu Jul 17 15:30:00 PDT 2003,3.13,250.00
